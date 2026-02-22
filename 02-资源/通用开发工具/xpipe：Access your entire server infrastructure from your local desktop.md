@@ -59,5 +59,6 @@ Access your entire server infrastructure from your local desktop
 ## 关联主题
 - [[00-元语/tool]]
 - [[00-元语/desktop-client]]
+- [[00-元语/terminal]]
 - [[00-元语/self-hosting]]
 - [[00-元语/github]]

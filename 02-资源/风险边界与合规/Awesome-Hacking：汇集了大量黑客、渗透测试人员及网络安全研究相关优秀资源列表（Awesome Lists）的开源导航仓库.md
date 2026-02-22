@@ -60,5 +60,6 @@ A collection of various awesome lists for hackers, pentesters and security resea
 ## 关联主题
 - [[00-元语/compliance]]
 - [[00-元语/github]]
+- [[00-元语/risk]]
 - [[00-元语/security]]
 - [[00-元语/learning-resource]]

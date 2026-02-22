@@ -66,3 +66,4 @@ RustFS 是一个基于 Rust 构建的高性能、兼容 S3 的开源分布式对
 - [[00-元语/benchmark]]
 - [[00-元语/compliance]]
 - [[00-元语/observability]]
+- [[00-元语/security]]

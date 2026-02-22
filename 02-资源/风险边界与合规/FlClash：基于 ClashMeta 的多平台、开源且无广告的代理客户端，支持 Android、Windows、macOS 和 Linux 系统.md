@@ -63,4 +63,5 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 - [[00-元语/risk]]
 - [[00-元语/security]]
 - [[00-元语/desktop-client]]
+- [[00-元语/windows]]
 - [[00-元语/github]]

@@ -69,3 +69,4 @@ Flowseal/zapret-discord-youtube 是一个基于 Windows 的流量拦截与过滤
 - [[00-元语/github]]
 - [[00-元语/windows]]
 - [[00-元语/dns]]
+- [[00-元语/cli]]

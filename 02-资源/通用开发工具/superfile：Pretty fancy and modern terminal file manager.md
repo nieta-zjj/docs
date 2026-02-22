@@ -62,3 +62,4 @@ Pretty fancy and modern terminal file manager
 - [[00-元语/terminal]]
 - [[00-元语/github]]
 - [[00-元语/productivity]]
+- [[00-元语/workflow]]

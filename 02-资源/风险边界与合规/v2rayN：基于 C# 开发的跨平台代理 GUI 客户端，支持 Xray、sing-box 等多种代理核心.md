@@ -63,6 +63,7 @@ A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 ## 关联主题
 - [[00-元语/compliance]]
 - [[00-元语/risk]]
+- [[00-元语/security]]
 - [[00-元语/github]]
 - [[00-元语/desktop-client]]
 - [[00-元语/protocol]]

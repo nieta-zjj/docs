@@ -65,4 +65,5 @@ auto sign cursor
 - [[00-元语/Cursor]]
 - [[00-元语/compliance]]
 - [[00-元语/risk]]
+- [[00-元语/security]]
 - [[00-元语/github]]

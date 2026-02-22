@@ -59,6 +59,7 @@ Collection of leaked system prompts
 - Releases：https://github.com/jujumilk3/leaked-system-prompts/releases
 
 ## 关联主题
+- [[00-元语/AI]]
 - [[00-元语/compliance]]
 - [[00-元语/github]]
 - [[00-元语/llm]]

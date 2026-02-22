@@ -60,4 +60,5 @@ upscayl 是一个开源项目，归档分类为“通用开发工具”。GitHub
 - [[00-元语/AI]]
 - [[00-元语/image-editing]]
 - [[00-元语/desktop-client]]
+- [[00-元语/windows]]
 - [[00-元语/github]]

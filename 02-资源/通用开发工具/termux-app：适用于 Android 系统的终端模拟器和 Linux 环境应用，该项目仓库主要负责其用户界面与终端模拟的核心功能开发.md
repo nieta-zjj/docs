@@ -66,4 +66,5 @@ Termux - a terminal emulator application for Android OS extendible by variety of
 - [[00-元语/terminal]]
 - [[00-元语/cli]]
 - [[00-元语/security]]
+- [[00-元语/risk]]
 - [[00-元语/github]]

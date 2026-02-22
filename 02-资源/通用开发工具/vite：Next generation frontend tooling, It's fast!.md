@@ -61,4 +61,5 @@ Next generation frontend tooling. It's fast!
 - [[00-元语/cli]]
 - [[00-元语/terminal]]
 - [[00-元语/github]]
+- [[00-元语/workflow]]
 - [[00-元语/软件工程]]

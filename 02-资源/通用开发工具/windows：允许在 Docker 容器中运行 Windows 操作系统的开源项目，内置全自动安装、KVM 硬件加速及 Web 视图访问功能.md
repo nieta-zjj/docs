@@ -62,8 +62,8 @@ Windows inside a Docker container.
 
 ## 关联主题
 - [[00-元语/windows]]
-- [[00-元语/cli]]
 - [[00-元语/self-hosting]]
-- [[00-元语/tool]]
-- [[00-元语/workflow]]
+- [[00-元语/cli]]
+- [[00-元语/hardware-control]]
+- [[00-元语/compliance]]
 - [[00-元语/github]]

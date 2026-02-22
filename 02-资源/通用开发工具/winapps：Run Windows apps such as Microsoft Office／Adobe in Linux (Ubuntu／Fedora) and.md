@@ -55,7 +55,7 @@ Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNO
 - Releases：https://github.com/winapps-org/winapps/releases
 
 ## 关联主题
-- [[00-元语/tool]]
-- [[00-元语/self-hosting]]
-- [[00-元语/github]]
 - [[00-元语/windows]]
+- [[00-元语/desktop-client]]
+- [[00-元语/github]]
+- [[00-元语/tool]]

@@ -61,3 +61,4 @@ Umami is a modern, privacy-focused analytics platform. An open-source alternativ
 - [[00-元语/github]]
 - [[00-元语/observability]]
 - [[00-元语/compliance]]
+- [[00-元语/security]]

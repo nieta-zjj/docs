@@ -60,4 +60,8 @@ macOS system monitor in your menu bar
 - [[00-元语/tool]]
 - [[00-元语/github]]
 - [[00-元语/desktop-client]]
+- [[00-元语/productivity]]
 - [[00-元语/observability]]
+
+## 相关文档
+- [[02-资源/通用开发工具/Ice：Powerful menu bar manager for macOS.md|Ice：Powerful menu bar manager for macOS]]；关联理由：观点一致；说明：两者都服务于 macOS 菜单栏效率增强场景，一个聚焦系统监控，一个聚焦菜单栏管理。

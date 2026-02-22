@@ -61,11 +61,13 @@ Collection of extracted System Prompts from popular chatbots like ChatGPT, Claud
 - Releases：https://github.com/asgeirtj/system_prompts_leaks/releases
 
 ## 关联主题
+- [[00-元语/AI]]
 - [[00-元语/compliance]]
 - [[00-元语/risk]]
 - [[00-元语/security]]
 - [[00-元语/llm]]
 - [[00-元语/prompt]]
+- [[00-元语/OpenAI]]
 - [[00-元语/ChatGPT]]
 - [[00-元语/Claude]]
 - [[00-元语/gemini]]

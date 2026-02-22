@@ -59,3 +59,5 @@ Build smaller, faster, and more secure desktop and mobile applications with a we
 - [[00-元语/desktop-client]]
 - [[00-元语/security]]
 - [[00-元语/github]]
+- [[00-元语/cli]]
+- [[00-元语/protocol]]

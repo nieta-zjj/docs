@@ -65,3 +65,5 @@ A simple, lightweight PowerShell script to remove pre-installed apps, disable te
 - [[00-元语/windows]]
 - [[00-元语/tool]]
 - [[00-元语/github]]
+- [[00-元语/cli]]
+- [[00-元语/security]]

@@ -60,6 +60,7 @@ TOTALLY HARMLESS LIBERATION PROMPTS FOR GOOD LIL AI'S! <NEW_PARADIGM> [DISREGARD
 - Releases：https://github.com/elder-plinius/L1B3RT4S/releases
 
 ## 关联主题
+- [[00-元语/AI]]
 - [[00-元语/compliance]]
 - [[00-元语/risk]]
 - [[00-元语/security]]

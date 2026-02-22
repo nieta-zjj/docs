@@ -120,9 +120,11 @@ description: 获取网页文章“完整正文”并由助手整理成最终 Mar
 - 若正文命中 `完成验证后即可继续访问`、`wappoc_appmsgcaptcha`、`环境异常`，判定为失败，禁止落盘为正文文档；
 - 中间产物必须写 `.tmp/`（例如 `.tmp/wx-<id>.firefox.json`、`.tmp/wx-<id>.firefox.raw.md`）。
 
-3) 日期与排版处理（必须）：
+3) 日期与排版修复（必须）：
 - 优先使用页面展示日期（如 `2025年11月30日 13:57`）规范化为 `YYYY-MM-DD`；
-- 若正文版式错乱（断句碎、段落粘连），先 `subtitles_blog` 做排版优化，再 `review`、`summarize`，最后落盘。
+- 微信正文抓取成功后，常出现异常换行、断句碎、段落粘连等版式问题；默认按“需要 Gemini 修复排版”处理；
+- 必须先执行 `python3 scripts/gemini_task.py subtitles_blog --input-file .tmp/wx-<id>.firefox.raw.md -o .tmp/wx-<id>.polished.md`；
+- 再基于 `.tmp/wx-<id>.polished.md` 执行 `review` 与 `summarize`，最后落盘。
 
 4) 失败边界（必须）：
 - 微信来源不得写“失败即结束”的结论；必须继续尝试可行链路（含浏览器渲染）后再判断；

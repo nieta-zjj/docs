@@ -63,4 +63,5 @@ Pear 🍐 is extension for music player
 - [[00-元语/github]]
 - [[00-元语/desktop-client]]
 - [[00-元语/audio]]
+- [[00-元语/windows]]
 - [[00-元语/tool]]

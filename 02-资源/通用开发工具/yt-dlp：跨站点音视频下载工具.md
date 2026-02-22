@@ -70,6 +70,10 @@ yt-dlp 是一个面向命令行和自动化场景的音视频下载工具项目�
 - 支持站点列表：https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md
 - 编号核验：https://github.com/yt-dlp/yt-dlp/issues/34440
 
+## 相关文档
+
+- [[02-资源/通用开发工具/Seal：基于 yt-dlp 的开源 Android 音视频下载工具，采用纯 Kotlin 编写|Seal：基于 yt-dlp 的开源 Android 音视频下载工具，采用纯 Kotlin 编写]]；关联理由：上下游；说明：Seal 以 yt-dlp 为下载核心，属于上游能力被下游应用封装的直接关系。
+
 ## 关联主题
 
 - [[00-元语/cli]]
@@ -77,3 +81,4 @@ yt-dlp 是一个面向命令行和自动化场景的音视频下载工具项目�
 - [[00-元语/video]]
 - [[00-元语/github]]
 - [[00-元语/compliance]]
+- [[00-元语/workflow]]

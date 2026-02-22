@@ -65,3 +65,4 @@ Comfortably monitor your Internet traffic 🕵️‍♂️
 - [[00-元语/desktop-client]]
 - [[00-元语/dns]]
 - [[00-元语/security]]
+- [[00-元语/github]]

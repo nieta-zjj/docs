@@ -56,6 +56,10 @@ Admin Dashboard UI built with Shadcn and Vite.
 - README：https://raw.githubusercontent.com/satnaing/shadcn-admin/main/README.md
 - Releases：https://github.com/satnaing/shadcn-admin/releases
 
+## 相关文档
+- [[02-资源/通用开发工具/shadcn-ui：可组合的前端组件与样式体系|shadcn-ui：可组合的前端组件与样式体系]]；关联理由：上下游；说明：shadcn-admin 的组件设计与使用方式直接建立在 shadcn-ui 的组件体系之上。
+- [[02-资源/通用开发工具/vite：Next generation frontend tooling, It's fast!|vite：Next generation frontend tooling, It's fast!]]；关联理由：上下游；说明：shadcn-admin 以 Vite 作为构建与开发基础工具，属于直接依赖关系。
+
 ## 关联主题
 - [[00-元语/tool]]
 - [[00-元语/react]]

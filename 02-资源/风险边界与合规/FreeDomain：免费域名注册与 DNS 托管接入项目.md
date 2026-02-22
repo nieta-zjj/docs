@@ -71,6 +71,7 @@ DigitalPlatDev/FreeDomain 是一个面向公众的免费域名项目，目标是
 
 - [[00-元语/domain-name]]
 - [[00-元语/dns]]
+- [[00-元语/cloudflare]]
 - [[00-元语/github]]
 - [[00-元语/risk]]
 - [[00-元语/compliance]]

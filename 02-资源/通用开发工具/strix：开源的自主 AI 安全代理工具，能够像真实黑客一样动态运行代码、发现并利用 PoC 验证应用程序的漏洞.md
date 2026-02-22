@@ -61,8 +61,10 @@ Open-source AI hackers to find and fix your app’s vulnerabilities.
 ## 关联主题
 - [[00-元语/Agent]]
 - [[00-元语/security]]
+- [[00-元语/risk]]
 - [[00-元语/llm]]
 - [[00-元语/browser-automation]]
+- [[00-元语/terminal]]
 - [[00-元语/CI]]
 - [[00-元语/compliance]]
 - [[00-元语/github]]
