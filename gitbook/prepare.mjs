@@ -370,7 +370,7 @@ async function main() {
       {
         title: "wsl-docs 知识库",
         language: "zh-hans",
-        plugins: ["relation-graph"],
+        plugins: ["relation-graph", "mermaid-gb3"],
       },
       null,
       2

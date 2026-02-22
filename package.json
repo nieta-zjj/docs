@@ -10,6 +10,7 @@
     "gitbook:clean": "rm -rf .tmp/gitbook-src .tmp/gitbook-dist"
   },
   "devDependencies": {
+    "gitbook-plugin-mermaid-gb3": "^2.1.0",
     "gitbook-plugin-relation-graph": "file:gitbook/plugins/relation-graph",
     "honkit": "^6.0.0"
   }
