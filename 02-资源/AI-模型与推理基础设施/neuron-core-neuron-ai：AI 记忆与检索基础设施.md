@@ -43,6 +43,7 @@ neuron-core/neuron-ai 是一个专为构建生产级 AI 驱动应用而设计的
 
 ## 关联主题
 
+- [[00-元语/memory]]
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/github]]

@@ -48,6 +48,7 @@ parruda/swarm 是一个用于构建通用 AI Agent 系统的 Ruby gems 集合。
 
 ## 关联主题
 
+- [[00-元语/memory]]
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/github]]

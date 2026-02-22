@@ -44,6 +44,7 @@ MemMachine 是专为 AI 智能体（AI Agents）设计的通用记忆基础设�
 
 ## 关联主题
 
+- [[00-元语/memory]]
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/github]]

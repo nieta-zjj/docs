@@ -61,6 +61,7 @@ Tencent profiler 是一款面向 Android 开发者的内存分析与诊断工具
 
 ## 关联主题
 
+- [[00-元语/memory]]
 - [[00-元语/AI]]
 - [[00-元语/github]]
 - [[00-元语/tool]]

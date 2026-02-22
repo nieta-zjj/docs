@@ -28,6 +28,7 @@ Beads 是一个专为 AI 编程助手（Coding Agent）设计的记忆升级（M
 
 ## 关联主题
 
+- [[00-元语/memory]]
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/github]]

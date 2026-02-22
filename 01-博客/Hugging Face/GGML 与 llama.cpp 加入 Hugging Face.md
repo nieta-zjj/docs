@@ -471,6 +471,7 @@ ggml 的 gguf 格式现在是 executorch（端侧）推理的首选默认格式 
 
 ## 关联主题
 
+- [[00-元语/memory]]
 - [[00-元语/AI]]
 - [[00-元语/learning-resource]]
 - [[00-元语/tool]]

@@ -41,18 +41,25 @@
         "a": 1,
         "rgb": 9062927
       }
+    },
+    {
+      "query": "path:memo",
+      "color": {
+        "a": 1,
+        "rgb": 43775
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 1,
   "nodeSizeMultiplier": 1.04524221453287,
   "lineSizeMultiplier": 0.367041522491349,
   "collapse-forces": false,
   "centerStrength": 0.798442906574394,
-  "repelStrength": 9.11764705882353,
+  "repelStrength": 10.9861591695502,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.6316046762907411,
+  "scale": 0.6316046762907404,
   "close": false
 }

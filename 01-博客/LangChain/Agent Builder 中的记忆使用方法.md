@@ -92,18 +92,9 @@ Agent Builder 构建在 Deep Agents 之上，这是 LangChain 用于自主、长
 
 试用 Agent Builder
 
-### 订阅我们的时事通讯
-
-获取 LangChain 团队和社区的最新动态
-
-正在处理您的申请...
-
-成功！请检查您的收件箱并点击链接以确认您的订阅。
-
-抱歉，出现了一些问题。请重试。
-
 ## 关联主题
 
+- [[00-元语/memory]]
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/learning-resource]]

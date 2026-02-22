@@ -40,6 +40,7 @@ nanoclaw 是一个 AI 编程助手与 Agent 工具，定位为 Clawdbot 和 Open
 
 ## 关联主题
 
+- [[00-元语/memory]]
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/github]]

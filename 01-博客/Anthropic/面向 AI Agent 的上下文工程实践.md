@@ -155,6 +155,7 @@ Claude 玩《宝可梦》（Pokémon）展示了记忆如何改变智能体在�
 
 ## 关联主题
 
+- [[00-元语/memory]]
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/context-optimization]]

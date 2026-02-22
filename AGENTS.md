@@ -207,6 +207,9 @@
   - `Agent` 与 `agents` 必须合并为同一元语：统一使用 `[[00-元语/Agent]]`。
   - 禁止把 `agents` 作为独立元语词条（如 `[[00-元语/agents]]` 或 `00-元语/agents.md`）。
   - 文中出现英文复数“agents”属于自然语言表达，不等于元语命名；关联主题仍必须回写到 `Agent`。
+  - `memory` 与 `memo` 必须合并为同一元语：统一使用 `[[00-元语/memory]]`。
+  - 禁止把 `memo` 作为独立元语词条（如 `[[00-元语/memo]]` 或 `00-元语/memo.md`）。
+  - 文中出现“memo”可作为自然语言表达，但关联主题必须回写到 `memory`。
   - 禁止使用以下泛化元语：`article`、`resource`、`translation`、`open-source`、`rist`、`blog`。
   - 以上禁用元语必须替换为更具体、可复用的概念词（例如 `github`、`learning-resource`、`workflow`、`tool` 等）。
   - `tool`、`workflow` 仅可作为兜底元语；若文档标题或正文已出现清晰领域概念（如 `ocr`、`tts`、`protocol`、`cli`、`virtual-file-system`），必须至少补 1 个对应的具体元语。
@@ -235,6 +238,8 @@
   - 禁用元语检查（应无结果）：`rg -n "\\[\\[00-元语/(article|resource|translation|open-source|rist|blog)\\]\\]" 00-元语 01-博客 02-资源 03-图书`
   - Agent 合并检查（链接与标题，应无结果）：`rg -n "\\[\\[00-元语/agents\\]\\]|^# (agents|Agents)$" 00-元语 01-博客 02-资源 03-图书`
   - Agent 合并检查（词条文件，应无结果）：`find 00-元语 -maxdepth 1 -type f -iname 'agents.md'`
+  - memory 合并检查（链接与标题，应无结果）：`rg -n "\\[\\[00-元语/memo\\]\\]|^# (memo|Memo)$" 00-元语 01-博客 02-资源 03-图书`
+  - memory 合并检查（词条文件，应无结果）：`find 00-元语 -maxdepth 1 -type f -iname 'memo.md'`
   - 泛词兜底检查（命中需人工补具体元语）：`rg -nUPz "(?s)^## (关联主题|标签)\\n(?:- \\[\\[00-元语/(AI|Agent|tool|workflow|github|learning-resource)\\]\\]\\n){2,8}(?=\\n## |\\z)" 01-博客 02-资源 03-图书`
   - 相关文档小节分布（用于抽检）：`rg -n "^## 相关文档$" 00-元语 01-博客 02-资源 03-图书`
   - 相关文档理由缺失检查（命中即修复）：`rg -nP "^- \\[\\[.*\\]\\](?!.*关联理由：)" 00-元语 01-博客 02-资源 03-图书`

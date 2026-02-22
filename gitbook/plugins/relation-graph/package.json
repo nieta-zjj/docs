@@ -1,0 +1,10 @@
+{
+  "name": "gitbook-plugin-relation-graph",
+  "version": "0.1.0",
+  "description": "Home graph, backlinks and right-side TOC for HonKit/GitBook",
+  "main": "index.js",
+  "engines": {
+    "gitbook": ">=3.0.0",
+    "honkit": ">=5.0.0"
+  }
+}

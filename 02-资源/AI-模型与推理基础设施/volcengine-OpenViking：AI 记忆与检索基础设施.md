@@ -40,6 +40,7 @@ OpenViking 是一个由火山引擎（volcengine）开源的 AI 记忆与检索�
 
 ## 关联主题
 
+- [[00-元语/memory]]
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/github]]

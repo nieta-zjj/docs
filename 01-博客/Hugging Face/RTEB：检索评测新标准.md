@@ -166,6 +166,7 @@ RTEB 排行榜今天已在 [Hugging Face](https://huggingface.co/spaces/mteb/lea
 
 ## 关联主题
 
+- [[00-元语/memory]]
 - [[00-元语/AI]]
 - [[00-元语/rag]]
 - [[00-元语/observability]]

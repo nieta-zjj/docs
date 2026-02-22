@@ -45,6 +45,7 @@ doobidoo-mcp-memory-service 是一个广受关注（1356 Stars）的开源持久
 
 ## 关联主题
 
+- [[00-元语/memory]]
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/github]]

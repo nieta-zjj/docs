@@ -34,6 +34,7 @@ rowboat 是一个开源的 AI 助手（AI coworker），同时定位为 AI 应�
 
 ## 关联主题
 
+- [[00-元语/memory]]
 - [[00-元语/AI]]
 - [[00-元语/github]]
 - [[00-元语/tool]]

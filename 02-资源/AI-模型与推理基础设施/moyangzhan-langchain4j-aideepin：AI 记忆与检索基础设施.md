@@ -33,6 +33,7 @@ langchain4j-aideepin 是一款定位为 AI 记忆与检索基础设施的综合�
 
 ## 关联主题
 
+- [[00-元语/memory]]
 - [[00-元语/AI]]
 - [[00-元语/github]]
 - [[00-元语/mcp]]

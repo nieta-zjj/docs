@@ -46,6 +46,7 @@ heurist-agent-framework 是一个灵活的多接口 AI 智能体框架，支持�
 
 ## 关联主题
 
+- [[00-元语/memory]]
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/github]]

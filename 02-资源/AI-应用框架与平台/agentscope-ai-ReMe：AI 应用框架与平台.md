@@ -28,6 +28,7 @@ ReMe 是一个专为智能体（Agents）设计的内存管理套件（Memory Ma
 
 ## 关联主题
 
+- [[00-元语/memory]]
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/github]]

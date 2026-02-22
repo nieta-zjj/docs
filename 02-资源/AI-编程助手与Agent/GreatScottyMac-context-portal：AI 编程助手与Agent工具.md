@@ -40,6 +40,7 @@ Context Portal（简称 ConPort）是一个记忆库 MCP 服务器（Memory Bank
 
 ## 关联主题
 
+- [[00-元语/memory]]
 - [[00-元语/AI]]
 - [[00-元语/github]]
 - [[00-元语/mcp]]

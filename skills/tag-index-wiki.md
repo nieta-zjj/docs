@@ -69,6 +69,8 @@ description: 为文档添加“关联主题”文档链接并维护关系图谱�
 - 优先在 `00-元语/` 新增词条解释差异，用“相关词条”连接。
 - `Agent` 与 `agents` 视为同一元语：统一链接到 `[[00-元语/Agent]]`。
 - 禁止创建 `[[00-元语/agents]]` 或 `00-元语/agents.md`。
+- `memory` 与 `memo` 视为同一元语：统一链接到 `[[00-元语/memory]]`。
+- 禁止创建 `[[00-元语/memo]]` 或 `00-元语/memo.md`。
 
 5) 禁止项
 - 禁止创建或维护“标签索引”单文档（如 `00-元语/标签索引.md`）。
@@ -133,6 +135,8 @@ rg -n "^- \\[\\[(01-博客|02-资源|03-图书)/" 00-元语 01-博客 02-资源 
 rg -n "\\[\\[00-元语/(article|resource|translation|open-source|rist|blog)\\]\\]" 00-元语 01-博客 02-资源 03-图书
 rg -n "\\[\\[00-元语/agents\\]\\]|^# (agents|Agents)$" 00-元语 01-博客 02-资源 03-图书
 find 00-元语 -maxdepth 1 -type f -iname 'agents.md'
+rg -n "\\[\\[00-元语/memo\\]\\]|^# (memo|Memo)$" 00-元语 01-博客 02-资源 03-图书
+find 00-元语 -maxdepth 1 -type f -iname 'memo.md'
 rg -nUPz "(?s)^## (关联主题|标签)\\n(?:- \\[\\[00-元语/(AI|Agent|tool|workflow|github|learning-resource)\\]\\]\\n){2,8}(?=\\n## |\\z)" 01-博客 02-资源 03-图书
 rg -n "^## 相关文档$" 00-元语 01-博客 02-资源 03-图书
 rg -nP "^- \\[\\[.*\\]\\](?!.*关联理由：)" 00-元语 01-博客 02-资源 03-图书
