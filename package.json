@@ -5,7 +5,7 @@
   "description": "GitBook/HonKit site generator for wsl-docs with wiki graph navigation",
   "scripts": {
     "gitbook:prepare": "node gitbook/prepare.mjs",
-    "gitbook:build": "npm run gitbook:prepare && honkit build .tmp/gitbook-src .tmp/gitbook-dist",
+    "gitbook:build": "npm run gitbook:prepare && honkit build .tmp/gitbook-src ../gitbook-dist",
     "gitbook:serve": "npm run gitbook:prepare && honkit serve .tmp/gitbook-src",
     "gitbook:clean": "rm -rf .tmp/gitbook-src .tmp/gitbook-dist"
   },
