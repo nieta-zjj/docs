@@ -261,25 +261,15 @@ LAYOUT_EOF
 cat > "$RUNTIME_DIR/quartz/styles/custom.scss" <<'CUSTOM_STYLE_EOF'
 @use "./base.scss";
 
-:root {
-  --hero-radius: 14px;
-  --hero-control-radius: 10px;
-  --hero-border: color-mix(in srgb, var(--dark) 14%, transparent);
-  --hero-surface: color-mix(in srgb, var(--light) 95%, var(--dark) 5%);
-  --hero-surface-2: color-mix(in srgb, var(--light) 91%, var(--dark) 9%);
-  --hero-shadow: 0 8px 24px color-mix(in srgb, var(--dark) 14%, transparent);
-}
-
 :root[saved-theme="dark"] {
   --light: #0a0a0a;
   --lightgray: #151515;
 }
 
-body[saved-theme="dark"] {
-  --hero-border: color-mix(in srgb, var(--dark) 22%, transparent);
-  --hero-surface: color-mix(in srgb, var(--light) 84%, var(--dark) 16%);
-  --hero-surface-2: color-mix(in srgb, var(--light) 80%, var(--dark) 20%);
-  --hero-shadow: 0 10px 30px color-mix(in srgb, black 58%, transparent);
+:root[saved-theme="dark"] body,
+:root[saved-theme="dark"] #quartz-body,
+:root[saved-theme="dark"] .page {
+  background-color: #0a0a0a !important;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -288,137 +278,11 @@ body[saved-theme="dark"] {
     --lightgray: #151515;
   }
 
-  body[saved-theme="auto"] {
-    --hero-border: color-mix(in srgb, var(--dark) 22%, transparent);
-    --hero-surface: color-mix(in srgb, var(--light) 84%, var(--dark) 16%);
-    --hero-surface-2: color-mix(in srgb, var(--light) 80%, var(--dark) 20%);
-    --hero-shadow: 0 10px 30px color-mix(in srgb, black 58%, transparent);
+  :root[saved-theme="auto"] body,
+  :root[saved-theme="auto"] #quartz-body,
+  :root[saved-theme="auto"] .page {
+    background-color: #0a0a0a !important;
   }
-}
-
-a {
-  text-underline-offset: 0.14em;
-}
-
-.search > input,
-input[type="search"] {
-  border: 1px solid var(--hero-border);
-  border-radius: var(--hero-control-radius);
-  background: var(--hero-surface);
-  box-shadow: inset 0 1px 0 color-mix(in srgb, white 44%, transparent);
-}
-
-.search button,
-button.darkmode,
-button.readermode {
-  border: 1px solid var(--hero-border);
-  border-radius: var(--hero-control-radius);
-  background: var(--hero-surface);
-}
-
-.search button:hover,
-button.darkmode:hover,
-button.readermode:hover {
-  background: var(--hero-surface-2);
-}
-
-.sidebar.left .explorer,
-.sidebar.right .toc,
-.sidebar.right .backlinks,
-.sidebar.right .graph {
-  border: 1px solid var(--hero-border);
-  border-radius: var(--hero-radius);
-  background: var(--hero-surface);
-  box-shadow: var(--hero-shadow);
-}
-
-.sidebar.right .toc,
-.sidebar.right .backlinks {
-  padding: 0.65rem 0.72rem;
-}
-
-/* Desktop: give left explorer a bit more room for long Chinese titles */
-@media all and (min-width: 1200px) {
-  .page > #quartz-body {
-    grid-template-columns: 400px minmax(0, 1fr) 300px;
-  }
-
-  .sidebar.right .toc {
-    flex: 1.55 1 0;
-    min-height: 22rem;
-  }
-
-  .sidebar.right .backlinks {
-    flex: 0.7 1 0;
-    min-height: 10rem;
-  }
-
-  .sidebar.right .backlinks > ul.overflow {
-    max-height: 12rem;
-  }
-}
-
-/* Tablet: keep a readable explorer width */
-@media all and (min-width: 800px) and (max-width: 1199px) {
-  .page > #quartz-body {
-    grid-template-columns: 370px minmax(0, 1fr);
-  }
-}
-
-/* Long titles in explorer: 2-line clamp + safe wrapping */
-.explorer .explorer-content li > a,
-.explorer .folder-container .folder-title,
-.explorer .folder-container .folder-button > span {
-  font-size: 0.86rem;
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  line-height: 1.35;
-  max-height: 2.7em;
-  overflow-wrap: anywhere;
-  word-break: break-word;
-}
-
-.explorer .folder-container > div,
-.explorer .folder-container .folder-button,
-.explorer .folder-container .folder-title {
-  width: 100%;
-}
-
-.explorer .explorer-content li > a,
-.explorer .folder-container .folder-title {
-  padding: 0.1rem 0.12rem 0.26rem;
-}
-
-/* Add spacing + divider between explorer titles for dense directories */
-.explorer .explorer-content li {
-  margin: 0.16rem 0;
-}
-
-.explorer .explorer-content li > a,
-.explorer .folder-container .folder-title,
-.explorer .folder-container .folder-button > span {
-  border-bottom: 1px solid color-mix(in srgb, var(--lightgray) 76%, transparent);
-}
-
-/* Hover shows full title text (de-clamp) with a readable surface */
-.explorer .explorer-content li > a:hover,
-.explorer .folder-container .folder-title:hover,
-.explorer .folder-container .folder-button:hover > span {
-  display: block;
-  -webkit-line-clamp: unset;
-  max-height: none;
-  overflow: visible;
-  white-space: normal;
-  position: relative;
-  z-index: 5;
-  background: var(--hero-surface-2);
-  border-radius: 4px;
-  box-shadow: 0 6px 18px color-mix(in srgb, var(--dark) 22%, transparent);
-  border-bottom-color: transparent;
-  padding: 0.18rem 0.3rem;
 }
 CUSTOM_STYLE_EOF
 
