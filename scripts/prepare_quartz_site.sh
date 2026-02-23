@@ -285,6 +285,19 @@ cat > "$RUNTIME_DIR/quartz/styles/custom.scss" <<'CUSTOM_STYLE_EOF'
   }
 }
 
+/* Sidebar width: widen left explorer column for long Chinese titles. */
+@media all and (min-width: 1200px) {
+  .page > #quartz-body {
+    grid-template-columns: 420px minmax(0, 1fr) 320px;
+  }
+}
+
+@media all and (min-width: 800px) and (max-width: 1199px) {
+  .page > #quartz-body {
+    grid-template-columns: 360px minmax(0, 1fr);
+  }
+}
+
 /* Sidebar explorer: increase title spacing and add subtle separators. */
 .explorer .explorer-content li {
   margin: 0.18rem 0;
@@ -293,6 +306,7 @@ cat > "$RUNTIME_DIR/quartz/styles/custom.scss" <<'CUSTOM_STYLE_EOF'
 .explorer .explorer-content li > a,
 .explorer .folder-container .folder-title,
 .explorer .folder-container .folder-button > span {
+  font-size: 0.82rem;
   line-height: 1.38;
   padding: 0.12rem 0.16rem 0.3rem;
   border-bottom: 1px solid rgba(122, 133, 151, 0.32);
