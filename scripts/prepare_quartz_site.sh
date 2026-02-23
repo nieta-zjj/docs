@@ -21,6 +21,13 @@ if [ ! -d "$TMP_DIR/$TOP_DIR" ]; then
 fi
 mv "$TMP_DIR/$TOP_DIR" "$RUNTIME_DIR"
 
+# Improve explorer hover UX by adding native title tooltip to long items.
+EXPLORER_SCRIPT="$RUNTIME_DIR/quartz/components/scripts/explorer.inline.ts"
+if [ -f "$EXPLORER_SCRIPT" ]; then
+  perl -0pi -e 's/a\.textContent = node\.displayName/a.textContent = node.displayName\n  a.title = node.displayName/g' "$EXPLORER_SCRIPT"
+  perl -0pi -e 's/span\.textContent = node\.displayName/span.textContent = node.displayName\n    span.title = node.displayName/g' "$EXPLORER_SCRIPT"
+fi
+
 CONTENT_DIR="$RUNTIME_DIR/content"
 rm -rf "$CONTENT_DIR"
 mkdir -p "$CONTENT_DIR"
@@ -257,14 +264,28 @@ cat > "$RUNTIME_DIR/quartz/styles/custom.scss" <<'CUSTOM_STYLE_EOF'
 /* Desktop: give left explorer a bit more room for long Chinese titles */
 @media all and (min-width: 1200px) {
   .page > #quartz-body {
-    grid-template-columns: 360px minmax(0, 1fr) 320px;
+    grid-template-columns: 400px minmax(0, 1fr) 300px;
+  }
+
+  .sidebar.right .toc {
+    flex: 1.55 1 0;
+    min-height: 22rem;
+  }
+
+  .sidebar.right .backlinks {
+    flex: 0.7 1 0;
+    min-height: 10rem;
+  }
+
+  .sidebar.right .backlinks > ul.overflow {
+    max-height: 12rem;
   }
 }
 
 /* Tablet: keep a readable explorer width */
 @media all and (min-width: 800px) and (max-width: 1199px) {
   .page > #quartz-body {
-    grid-template-columns: 340px minmax(0, 1fr);
+    grid-template-columns: 370px minmax(0, 1fr);
   }
 }
 
@@ -272,6 +293,7 @@ cat > "$RUNTIME_DIR/quartz/styles/custom.scss" <<'CUSTOM_STYLE_EOF'
 .explorer .explorer-content li > a,
 .explorer .folder-container .folder-title,
 .explorer .folder-container .folder-button > span {
+  font-size: 0.86rem;
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 2;
@@ -283,9 +305,44 @@ cat > "$RUNTIME_DIR/quartz/styles/custom.scss" <<'CUSTOM_STYLE_EOF'
   word-break: break-word;
 }
 
+.explorer .folder-container > div,
+.explorer .folder-container .folder-button,
+.explorer .folder-container .folder-title {
+  width: 100%;
+}
+
 .explorer .explorer-content li > a,
 .explorer .folder-container .folder-title {
-  padding: 0.05rem 0.12rem;
+  padding: 0.1rem 0.12rem 0.26rem;
+}
+
+/* Add spacing + divider between explorer titles for dense directories */
+.explorer .explorer-content li {
+  margin: 0.16rem 0;
+}
+
+.explorer .explorer-content li > a,
+.explorer .folder-container .folder-title,
+.explorer .folder-container .folder-button > span {
+  border-bottom: 1px solid color-mix(in srgb, var(--lightgray) 76%, transparent);
+}
+
+/* Hover shows full title text (de-clamp) with a readable surface */
+.explorer .explorer-content li > a:hover,
+.explorer .folder-container .folder-title:hover,
+.explorer .folder-container .folder-button:hover > span {
+  display: block;
+  -webkit-line-clamp: unset;
+  max-height: none;
+  overflow: visible;
+  white-space: normal;
+  position: relative;
+  z-index: 5;
+  background: var(--light);
+  border-radius: 4px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.14);
+  border-bottom-color: transparent;
+  padding: 0.18rem 0.3rem;
 }
 CUSTOM_STYLE_EOF
 
