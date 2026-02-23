@@ -56,6 +56,9 @@ The universal proxy platform
 - README：https://raw.githubusercontent.com/SagerNet/sing-box/dev-next/README.md
 - Releases：https://github.com/SagerNet/sing-box/releases
 
+## 相关文档
+- [[02-资源/风险边界与合规/v2rayN：基于 C# 开发的跨平台代理 GUI 客户端，支持 Xray、sing-box 等多种代理核心|v2rayN：基于 C# 开发的跨平台代理 GUI 客户端，支持 Xray、sing-box 等多种代理核心]]；关联理由：上下游；说明：v2rayN 可调用 sing-box 作为代理核心，二者在部署形态与风险边界上存在直接依赖关系。
+
 ## 关联主题
 - [[00-元语/risk]]
 - [[00-元语/security]]

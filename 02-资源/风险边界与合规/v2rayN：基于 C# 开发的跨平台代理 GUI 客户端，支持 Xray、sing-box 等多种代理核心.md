@@ -60,6 +60,11 @@ A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 - README：https://raw.githubusercontent.com/2dust/v2rayN/main/README.md
 - Releases：https://github.com/2dust/v2rayN/releases
 
+## 相关文档
+- [[02-资源/风险边界与合规/sing-box：The universal proxy platform|sing-box：The universal proxy platform]]；关联理由：上下游；说明：v2rayN 明确支持 sing-box 核心，二者是客户端与代理核心的配套关系。
+- [[02-资源/风险边界与合规/v2rayNG：基于 Kotlin 开发的 Android 平台 V2Ray 客户端，支持 Xray 和 v2fly 核心|v2rayNG：基于 Kotlin 开发的 Android 平台 V2Ray 客户端，支持 Xray 和 v2fly 核心]]；关联理由：观点一致；说明：两者均由 2dust 维护并服务于 V2Ray/Xray 客户端场景，分别覆盖桌面端与 Android 端。
+- [[02-资源/风险边界与合规/3x-ui：基于 Web 的高级开源 Xray 控制面板（原 X-UI 的增强分支），支持多协议、多用户管理以及到期时间、流量和 IP 限制|3x-ui：基于 Web 的高级开源 Xray 控制面板（原 X-UI 的增强分支），支持多协议、多用户管理以及到期时间、流量和 IP 限制]]；关联理由：上下游；说明：3x-ui 面向 Xray 服务端管理，v2rayN 面向客户端接入，组合后构成典型代理体系上下游。
+
 ## 关联主题
 - [[00-元语/compliance]]
 - [[00-元语/risk]]
