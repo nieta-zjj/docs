@@ -52,36 +52,143 @@ for src_dir in "$ROOT_DIR"/0[0-4]-*; do
 done
 shopt -u nullglob
 
-{
-  cat <<'INDEX_HEAD'
----
-title: 文档首页
----
+RECENT_PAGE_SIZE="${QUARTZ_RECENT_PAGE_SIZE:-200}"
+RECENT_SECTION_DIR="$CONTENT_DIR/最近更新"
+mkdir -p "$RECENT_SECTION_DIR"
 
-# 文档首页
+python3 - "$CONTENT_DIR" "$RECENT_PAGE_SIZE" <<'PY'
+import math
+import pathlib
+import re
+import sys
 
-本页面由 Quartz 自动发布，内容来自仓库文档目录。
+content_dir = pathlib.Path(sys.argv[1])
+page_size = max(1, int(sys.argv[2]))
+blog_root = content_dir / "01-博客"
+recent_dir = content_dir / "最近更新"
+recent_dir.mkdir(parents=True, exist_ok=True)
 
-## 目录
-INDEX_HEAD
+date_patterns = [
+    re.compile(r'(?m)^发布日期[：:]\s*"?(\d{4}-\d{2}-\d{2})"?\s*$'),
+    re.compile(r'(?m)^-\s*发布日期[：:]\s*"?(\d{4}-\d{2}-\d{2})"?\s*$'),
+    re.compile(r'(?m)^date\s*:\s*"?(\d{4}-\d{2}-\d{2})"?\s*$'),
+]
+title_re = re.compile(r"(?m)^#\s+(.+?)\s*$")
 
-  if [ -d "$CONTENT_DIR/00-元语" ]; then
-    echo "- [[00-元语/README|元语词条]]"
-    echo "- [[00-元语/关系图谱|关系图谱]]"
-  fi
-  if [ -d "$CONTENT_DIR/01-博客" ]; then
-    echo "- [[01-博客|博客归档]]"
-  fi
-  if [ -d "$CONTENT_DIR/02-资源" ]; then
-    echo "- [[02-资源|资源档案]]"
-  fi
-  if [ -d "$CONTENT_DIR/03-图书" ]; then
-    echo "- [[03-图书|图书记录]]"
-  fi
-  if [ -d "$CONTENT_DIR/04-聊天" ]; then
-    echo "- [[04-聊天|聊天整理]]"
-  fi
-} > "$CONTENT_DIR/index.md"
+entries = []
+if blog_root.exists():
+    for md in blog_root.rglob("*.md"):
+        rel = md.relative_to(content_dir).as_posix()
+        if rel.endswith("/README.md") or rel == "README.md":
+            continue
+
+        text = md.read_text(encoding="utf-8", errors="ignore")
+        date = None
+        for pattern in date_patterns:
+            match = pattern.search(text)
+            if match:
+                date = match.group(1)
+                break
+        if not date:
+            continue
+
+        title_match = title_re.search(text)
+        title = title_match.group(1).strip() if title_match else md.stem
+        slug = rel[:-3] if rel.endswith(".md") else rel
+        entries.append(
+            {
+                "date": date,
+                "title": title,
+                "slug": slug,
+            }
+        )
+
+entries.sort(key=lambda x: (x["date"], x["title"]), reverse=True)
+page_count = max(1, math.ceil(len(entries) / page_size))
+
+def nav_lines(page_no: int) -> list[str]:
+    line = []
+    if page_no > 1:
+        if page_no == 2:
+            line.append("[[index|上一页]]")
+        else:
+            line.append(f"[[最近更新/第{page_no - 1}页|上一页]]")
+    if page_no < page_count:
+        line.append(f"[[最近更新/第{page_no + 1}页|下一页]]")
+    if not line:
+        return ["- 当前仅 1 页"]
+    return [f"- {' | '.join(line)}"]
+
+def page_links(page_no: int) -> list[str]:
+    start = max(1, page_no - 3)
+    end = min(page_count, page_no + 3)
+    links = []
+    for i in range(start, end + 1):
+        if i == page_no:
+            if i == 1:
+                links.append("**第1页（当前）**")
+            else:
+                links.append(f"**第{i}页（当前）**")
+        else:
+            if i == 1:
+                links.append("[[index|第1页]]")
+            else:
+                links.append(f"[[最近更新/第{i}页|第{i}页]]")
+    return [f"- {' | '.join(links)}"]
+
+def render_page(page_no: int, page_entries: list[dict], include_catalog: bool = False) -> str:
+    lines = [
+        "---",
+        f"title: 最近更新（第{page_no}页）" if page_no > 1 else "title: 文档首页",
+        "---",
+        "",
+        "# 最近更新",
+        "",
+        f"按博客文档中的“发布日期”从新到旧排序；每页 {page_size} 篇。",
+        "",
+        f"共 {len(entries)} 篇，当前第 {page_no}/{page_count} 页。",
+        "",
+        "## 分页",
+    ]
+    lines.extend(nav_lines(page_no))
+    lines.extend(page_links(page_no))
+    lines.extend(["", "## 最新条目"])
+
+    if not page_entries:
+        lines.append("- 暂无可展示的博客条目")
+    else:
+        for idx, item in enumerate(page_entries, start=(page_no - 1) * page_size + 1):
+            lines.append(f"{idx}. [[{item['slug']}|{item['title']}]]")
+            lines.append(f"   - 发布日期：{item['date']}")
+
+    if include_catalog:
+        lines.extend(["", "## 目录"])
+        if (content_dir / "00-元语").exists():
+            lines.append("- [[00-元语/README|元语词条]]")
+            lines.append("- [[00-元语/关系图谱|关系图谱]]")
+        if (content_dir / "01-博客").exists():
+            lines.append("- [[01-博客|博客归档]]")
+        if (content_dir / "02-资源").exists():
+            lines.append("- [[02-资源|资源档案]]")
+        if (content_dir / "03-图书").exists():
+            lines.append("- [[03-图书|图书记录]]")
+        if (content_dir / "04-聊天").exists():
+            lines.append("- [[04-聊天|聊天整理]]")
+
+    lines.append("")
+    return "\n".join(lines)
+
+for i in range(1, page_count + 1):
+    start = (i - 1) * page_size
+    end = start + page_size
+    page_entries = entries[start:end]
+    body = render_page(i, page_entries, include_catalog=(i == 1))
+    if i == 1:
+        target = content_dir / "index.md"
+    else:
+        target = recent_dir / f"第{i}页.md"
+    target.write_text(body, encoding="utf-8")
+PY
 
 BASE_URL="${QUARTZ_BASE_URL:-}"
 if [ -z "$BASE_URL" ] && [ -n "${GITHUB_REPOSITORY:-}" ]; then
