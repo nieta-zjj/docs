@@ -290,6 +290,21 @@ cat > "$RUNTIME_DIR/quartz/styles/custom.scss" <<'CUSTOM_STYLE_EOF'
   .page > #quartz-body {
     grid-template-columns: 420px minmax(0, 1fr) 320px;
   }
+
+  /* Restore right sidebar balance so backlinks stay visible under graph/toc. */
+  .sidebar.right .toc {
+    flex: 1.5 1 0;
+    min-height: 21rem;
+  }
+
+  .sidebar.right .backlinks {
+    flex: 0.75 1 0;
+    min-height: 10rem;
+  }
+
+  .sidebar.right .backlinks > ul.overflow {
+    max-height: 12rem;
+  }
 }
 
 @media all and (min-width: 800px) and (max-width: 1199px) {
@@ -304,13 +319,15 @@ cat > "$RUNTIME_DIR/quartz/styles/custom.scss" <<'CUSTOM_STYLE_EOF'
 }
 
 .explorer .explorer-content li > a,
-.explorer .folder-container .folder-title,
-.explorer .folder-container .folder-button > span {
+.explorer .folder-container div > a,
+.explorer .folder-container div > button > span {
+  display: block;
+  width: 100%;
   font-size: 0.82rem;
   line-height: 1.38;
   padding: 0.12rem 0.16rem 0.3rem;
-  border-bottom: 1px solid rgba(122, 133, 151, 0.32);
-  border-bottom: 1px solid color-mix(in srgb, var(--lightgray) 76%, transparent);
+  border-bottom: 1px solid rgba(122, 133, 151, 0.56);
+  border-bottom: 1px solid color-mix(in srgb, var(--gray) 46%, transparent);
 }
 CUSTOM_STYLE_EOF
 
