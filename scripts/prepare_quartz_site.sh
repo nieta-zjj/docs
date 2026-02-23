@@ -112,26 +112,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#f6f8fb",
-          lightgray: "#e5e7ef",
-          gray: "#9aa4b2",
-          darkgray: "#435066",
-          dark: "#1f2a3d",
-          secondary: "#2f5ea5",
-          tertiary: "#23a084",
-          highlight: "rgba(47, 94, 165, 0.11)",
-          textHighlight: "#fff23688",
+          light: "#ffffff",
+          lightgray: "#f3f3f3",
+          gray: "#71717a",
+          darkgray: "#27272a",
+          dark: "#09090b",
+          secondary: "#18181b",
+          tertiary: "#52525b",
+          highlight: "rgba(17, 17, 17, 0.08)",
+          textHighlight: "#fef08a99",
         },
         darkMode: {
-          light: "#141820",
-          lightgray: "#2f3642",
-          gray: "#646f81",
-          darkgray: "#d8dbe2",
-          dark: "#f3f4f6",
-          secondary: "#7aa2e3",
-          tertiary: "#35c4a2",
-          highlight: "rgba(122, 162, 227, 0.2)",
-          textHighlight: "#b3aa0288",
+          light: "#0a0a0a",
+          lightgray: "#151515",
+          gray: "#a1a1aa",
+          darkgray: "#e4e4e7",
+          dark: "#fafafa",
+          secondary: "#f4f4f5",
+          tertiary: "#a1a1aa",
+          highlight: "rgba(244, 244, 245, 0.14)",
+          textHighlight: "#fde04766",
         },
       },
     },
@@ -261,6 +261,72 @@ LAYOUT_EOF
 cat > "$RUNTIME_DIR/quartz/styles/custom.scss" <<'CUSTOM_STYLE_EOF'
 @use "./base.scss";
 
+:root {
+  --hero-radius: 14px;
+  --hero-control-radius: 10px;
+  --hero-border: color-mix(in srgb, var(--dark) 14%, transparent);
+  --hero-surface: color-mix(in srgb, var(--light) 95%, var(--dark) 5%);
+  --hero-surface-2: color-mix(in srgb, var(--light) 91%, var(--dark) 9%);
+  --hero-shadow: 0 8px 24px color-mix(in srgb, var(--dark) 14%, transparent);
+}
+
+body[saved-theme="dark"] {
+  --hero-border: color-mix(in srgb, var(--dark) 22%, transparent);
+  --hero-surface: color-mix(in srgb, var(--light) 84%, var(--dark) 16%);
+  --hero-surface-2: color-mix(in srgb, var(--light) 80%, var(--dark) 20%);
+  --hero-shadow: 0 10px 30px color-mix(in srgb, black 58%, transparent);
+}
+
+@media (prefers-color-scheme: dark) {
+  body[saved-theme="auto"] {
+    --hero-border: color-mix(in srgb, var(--dark) 22%, transparent);
+    --hero-surface: color-mix(in srgb, var(--light) 84%, var(--dark) 16%);
+    --hero-surface-2: color-mix(in srgb, var(--light) 80%, var(--dark) 20%);
+    --hero-shadow: 0 10px 30px color-mix(in srgb, black 58%, transparent);
+  }
+}
+
+a {
+  text-underline-offset: 0.14em;
+}
+
+.search > input,
+input[type="search"] {
+  border: 1px solid var(--hero-border);
+  border-radius: var(--hero-control-radius);
+  background: var(--hero-surface);
+  box-shadow: inset 0 1px 0 color-mix(in srgb, white 44%, transparent);
+}
+
+.search button,
+button.darkmode,
+button.readermode {
+  border: 1px solid var(--hero-border);
+  border-radius: var(--hero-control-radius);
+  background: var(--hero-surface);
+}
+
+.search button:hover,
+button.darkmode:hover,
+button.readermode:hover {
+  background: var(--hero-surface-2);
+}
+
+.sidebar.left .explorer,
+.sidebar.right .toc,
+.sidebar.right .backlinks,
+.sidebar.right .graph {
+  border: 1px solid var(--hero-border);
+  border-radius: var(--hero-radius);
+  background: var(--hero-surface);
+  box-shadow: var(--hero-shadow);
+}
+
+.sidebar.right .toc,
+.sidebar.right .backlinks {
+  padding: 0.65rem 0.72rem;
+}
+
 /* Desktop: give left explorer a bit more room for long Chinese titles */
 @media all and (min-width: 1200px) {
   .page > #quartz-body {
@@ -338,9 +404,9 @@ cat > "$RUNTIME_DIR/quartz/styles/custom.scss" <<'CUSTOM_STYLE_EOF'
   white-space: normal;
   position: relative;
   z-index: 5;
-  background: var(--light);
+  background: var(--hero-surface-2);
   border-radius: 4px;
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.14);
+  box-shadow: 0 6px 18px color-mix(in srgb, var(--dark) 22%, transparent);
   border-bottom-color: transparent;
   padding: 0.18rem 0.3rem;
 }
