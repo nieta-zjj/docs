@@ -1,16 +1,18 @@
-# gitdiagram：GitHub 仓库代码结构可交互架构图生成工具
+---
+title: "gitdiagram：GitHub 仓库代码结构可交互架构图生成工具"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `ahmedkhaleel2004/gitdiagram`
-- 项目主页：https://github.com/ahmedkhaleel2004/gitdiagram
-- 官方网站：https://gitdiagram.com
-- 开源协议：MIT License
-- 主要语言：TypeScript
-- 统计快照：Stars 15180，Forks 1146，Watchers 51（抓取时间：2026-02-22）
-- 版本快照：暂无正式发布记录
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `ahmedkhaleel2004/gitdiagram`"
+项目主页: "https://github.com/ahmedkhaleel2004/gitdiagram"
+官方网站: "https://gitdiagram.com"
+开源协议: "MIT License"
+主要语言: "TypeScript"
+统计快照: "Stars 15180，Forks 1146，Watchers 51（抓取时间：2026-02-22）"
+版本快照: "暂无正式发布记录"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 GitDiagram 是一个基于 TypeScript 和 OpenAI GPT-5.2 构建的开源工具，能够将任何 GitHub 仓库的代码结构快速转化为可交互的系统架构图。
 
@@ -30,37 +32,45 @@ GitDiagram 是一个基于 TypeScript 和 OpenAI GPT-5.2 构建的开源工具�
 *   尚未实现图表嵌入功能（类似 star-history.com）以及随 commit 提交渐进式更新图表的功能（列为未来计划）。
 
 ## 功能与定位
+
 Free, simple, fast interactive diagrams for any GitHub repository
 
 ## 典型使用场景
+
 - 用于快速搭建 AI 应用、工作流或服务化能力。
 - 作为上层产品的能力底座，统一模型调用与业务集成。
 
 ## 核心功能
+
 - 提供应用框架或平台化能力。
 - 支持模型接入、流程编排或接口服务化。
 - 面向开发与部署提供基础工程支持。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T08:52:14Z。
 - 项目创建于 2024-12-15T10:32:03Z，具备持续迭代与社区沉淀。
 - 以 `TypeScript` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/ahmedkhaleel2004/gitdiagram
 - 官网：https://gitdiagram.com
 - README：https://raw.githubusercontent.com/ahmedkhaleel2004/gitdiagram/main/README.md
 - Releases：https://github.com/ahmedkhaleel2004/gitdiagram/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/github]]
 - [[00-元语/OpenAI]]

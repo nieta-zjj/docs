@@ -1,16 +1,16 @@
-# ninehills/blog 技术 issue 提及文档索引
+---
+title: "ninehills/blog 技术 issue 提及文档索引"
 
-## 文档信息
-- 来源仓库：https://github.com/ninehills/blog
-- 来源页面：https://github.com/ninehills/blog/issues
-- 发布日期：2026-02-22
-- 统计范围：仓库全部 issue（含 open/closed，已排除 PR）
-- 技术筛选规则：排除 `book`/`diary`/`tv`/`Comment` 标签与明显非技术标题；其余按 issue 正文与评论中出现的链接统计
-- 链接清洗规则：移除带凭证或临时签名的私密链接、退订链接、本机回环地址，并清理末尾标点
-- 技术 issue 数：76
-- 文档链接总数：522
-- 文档链接去重数：511
-
+来源仓库: "https://github.com/ninehills/blog"
+来源页面: "https://github.com/ninehills/blog/issues"
+发布日期: "2026-02-22"
+统计范围: "仓库全部 issue（含 open/closed，已排除 PR）"
+技术筛选规则: "排除 `book`/`diary`/`tv`/`Comment` 标签与明显非技术标题；其余按 issue 正文与评论中出现的链接统计"
+链接清洗规则: "移除带凭证或临时签名的私密链接、退订链接、本机回环地址，并清理末尾标点"
+技术 issue 数: "76"
+文档链接总数: "522"
+文档链接去重数: "511"
+---
 
 ## 摘要
 

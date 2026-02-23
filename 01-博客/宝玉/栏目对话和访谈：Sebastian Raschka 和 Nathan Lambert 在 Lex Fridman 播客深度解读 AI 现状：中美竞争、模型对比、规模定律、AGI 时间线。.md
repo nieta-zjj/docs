@@ -1,9 +1,10 @@
-# 栏目对话和访谈：Sebastian Raschka 和 Nathan Lambert 在 Lex Fridman 播客深度解读 AI 现状：中美竞争、模型对比、规模定律、AGI 时间线。
+---
+title: "栏目对话和访谈：Sebastian Raschka 和 Nathan Lambert 在 Lex Fridman 播客深度解读 AI 现状：中美竞争、模型对比、规模定律、AGI 时间线。"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/state-of-ai-in-2026-lex-fridman-podcast
-- 发布日期：2026-02-01
-- 作者：宝玉
+来源: "https://baoyu.io/blog/state-of-ai-in-2026-lex-fridman-podcast"
+发布日期: "2026-02-01"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -28,6 +29,7 @@
 *   **开源工具链滞后**：开源模型在“工具使用”（调用本地计算器、搜索等）的生态支持上严重滞后于闭源模型，主要受制于本地执行权限的信任与沙箱安全问题。
 
 ## 正文
+
 Sebastian Raschka 和 Nathan Lambert 坐在 Lex Fridman 的播客里，聊了整整 4 个小时。
 
 ![Image 1](https://s.baoyu.io/imgs/2026-01-31/state-of-ai-in-2026-lex-fridman-podcast/yt.jpg)

@@ -1,13 +1,15 @@
-# Building Effective Agents 常见工作流最小实现
+---
+title: "Building Effective Agents 常见工作流最小实现"
 
-## 文档信息
-发布日期：2024-12-19
-作者：Anthropic
-来源仓库：anthropics/claude-cookbooks
-原文链接：https://github.com/anthropics/claude-cookbooks/blob/main/patterns/agents/README.md
-译注：原文为英文仓库文档，本稿为中文整理版。
+发布日期: "2024-12-19"
+作者: "Anthropic"
+来源仓库: "anthropics/claude-cookbooks"
+原文链接: "https://github.com/anthropics/claude-cookbooks/blob/main/patterns/agents/README.md"
+译注: "原文为英文仓库文档，本稿为中文整理版。"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 本仓库是 Erik Schluntz 和 Barry Zhang 所著《Building Effective Agents》的参考实现，提供了常见智能体工作流的最小化代码示例。
 
@@ -32,6 +34,7 @@ Erik Schluntz 和 Barry Zhang 撰写的文章 [Building Effective Agents](https:
   - 评估者-优化者
 
 ## 快速入门
+
 详细示例请参阅以下 Jupyter Notebook：
 
 - 基础工作流（`basic_workflows.ipynb`）
@@ -45,6 +48,7 @@ Erik Schluntz 和 Barry Zhang 撰写的文章 [Building Effective Agents](https:
 - [[01-博客/Anthropic/Claude Agent Workflow Notebook 实战|Claude Agent Workflow Notebook 实战]]；关联理由：解说；说明：该文对本篇同一组工作流模式提供了 Notebook 级别的逐项展开与实践说明。
 
 ## 关联主题
+
 - [[00-元语/Agent]]
 - [[00-元语/workflow]]
 - [[00-元语/prompt]]

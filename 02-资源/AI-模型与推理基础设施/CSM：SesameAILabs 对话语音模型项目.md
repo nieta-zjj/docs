@@ -1,15 +1,17 @@
-# CSM：SesameAILabs 对话语音模型项目
+---
+title: "CSM：SesameAILabs 对话语音模型项目"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `SesameAILabs/csm`
-- 项目主页：https://github.com/SesameAILabs/csm
-- 开源协议：Apache License 2.0
-- 主要语言：Python
-- 统计快照：Stars 14501，Forks 1462，Watchers 746（抓取时间：2026-02-22）
-- 版本快照：暂无正式发布记录
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `SesameAILabs/csm`"
+项目主页: "https://github.com/SesameAILabs/csm"
+开源协议: "Apache License 2.0"
+主要语言: "Python"
+统计快照: "Stars 14501，Forks 1462，Watchers 746（抓取时间：2026-02-22）"
+版本快照: "暂无正式发布记录"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 SesameAILabs 开源的 CSM 是一个基于 Llama 骨干网络和 Mimi 音频解码器的对话式语音生成模型，支持通过文本和音频上下文生成高质量语音。
 
@@ -27,36 +29,44 @@ SesameAILabs 开源的 CSM 是一个基于 Llama 骨干网络和 Mimi 音频解�
 * **滥用风险**：官方明确禁止将该模型用于未经同意的个人声音模仿（欺诈）、制造虚假信息（如假新闻或诈骗电话）以及其他非法或恶意的活动。
 
 ## 功能与定位
+
 A Conversational Speech Generation Model
 
 ## 典型使用场景
+
 - 用于模型训练、微调、推理或文档解析等基础能力建设。
 - 作为上层 AI 应用的数据与模型基础设施。
 
 ## 核心功能
+
 - 提供模型/推理相关核心能力。
 - 支持与主流 AI 工具链协同。
 - 兼顾实验验证与工程落地场景。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T08:30:28Z。
 - 项目创建于 2025-02-26T15:38:54Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/SesameAILabs/csm
 - README：https://raw.githubusercontent.com/SesameAILabs/csm/main/README.md
 - Releases：https://github.com/SesameAILabs/csm/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/llm]]
 - [[00-元语/audio]]

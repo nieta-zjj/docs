@@ -1,13 +1,13 @@
-# AiShort：AI 提示词管理与分享工具
+---
+title: "AiShort：AI 提示词管理与分享工具"
 
-## 文档信息
-
-- 对象：网站
-- 来源：
-  - https://www.aishort.top/
-  - https://www.aishort.top/docs/
-  - https://www.aishort.top/docs/guides/getting-started/
-  - https://www.aishort.top/llms.txt
+对象: "网站"
+来源:
+  - "https://www.aishort.top/"
+  - "https://www.aishort.top/docs/"
+  - "https://www.aishort.top/docs/guides/getting-started/"
+  - "https://www.aishort.top/llms.txt"
+---
 
 ## 摘要
 
@@ -33,11 +33,13 @@ AiShort（ChatGPT Shortcut）是一款开源的 AI 提示词管理与分享平�
 AiShort（又名 ChatGPT Shortcut）是一款开源的 AI 提示词（Prompt）管理工具与分享平台。它提供简洁易用的提示词列表，帮助用户在不同场景下快速查找、管理和调用优质提示词，从而最大化提升使用 AI 模型的效率。
 
 ## 典型使用场景
+
 * **快速对话起步**：在与 ChatGPT、DeepSeek、Claude 等国内外主流 AI 模型对话前，快速检索并复制专业提示词。
 * **个人提示词管理**：收藏常用提示词，或创建专属的自定义提示词库以便日后复用。
 * **社区灵感发现**：在社区版块浏览其他用户分享的创意提示词，或分享自己的提示词供他人投票。
 
 ## 核心功能
+
 * **一键复制与智能搜索**：提供精选的专业提示词，支持通过关键词搜索和标签筛选，一键复制即可使用。
 * **多语言支持**：网页端提供 18 种语言翻译并支持母语回复；浏览器扩展支持 13 种主流语言，可根据浏览器环境自动适配。
 * **浏览器扩展**：支持 Chrome、Edge、Firefox 等主流浏览器。提供侧边栏和弹窗两种显示模式，可通过快捷键 `Alt + Shift + S` 快速唤出。
@@ -46,20 +48,24 @@ AiShort（又名 ChatGPT Shortcut）是一款开源的 AI 提示词（Prompt）�
 * **数据导出**：支持将所有提示词一键导出为 JSON 文件。
 
 ## 特色与差异点
+
 * **开箱即用**：无需注册即可直接访问并使用基础的提示词检索与复制功能。
 * **开源与便捷部署**：作为开源项目，支持通过 Vercel 或 Docker 进行一键部署，用户可自由修改网站标题、描述及提示词内容。
 * **多端登录体验**：支持账号密码、Google 账号一键登录以及无密码（邮件链接）登录。
 * **内容来源丰富**：提示词库不仅包含网络精选和社区分享，还整合了知名的 Awesome ChatGPT Prompts 项目内容，并保持定期更新。
 
 ## 使用方式（概览）
+
 1. **网页端调用**：在首页搜索或浏览所需提示词，点击“复制”后，粘贴至任意 AI 对话模型中，并根据指引补充具体问题。
 2. **插件端调用**：安装对应浏览器的扩展程序，固定在工具栏后，通过快捷键或点击图标随时唤出提示词库。
 
 ## 限制与注意事项
+
 * **社区内容的可靠性与合规**：提示词来源包含社区分享内容，实际效果与合规性需要使用者自行判断，并结合你所使用的模型/平台规则进行取舍。
 * **插件安装**：Chrome 浏览器除官方商店外，还支持通过下载 ZIP 或 CRX 文件在开发者模式下进行本地手动安装（解压后的文件夹需永久保留在电脑中）。
 
 ## 链接
+
 * [AiShort 官网](https://www.aishort.top/)
 * [AiShort 官方文档](https://www.aishort.top/docs/)
 * [入门指南](https://www.aishort.top/docs/guides/getting-started/)

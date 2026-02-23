@@ -1,12 +1,12 @@
-# Grace：抱歉，宝贝
+---
+title: "Grace：抱歉，宝贝"
 
-## 文档信息
-
-- 发布日期：2026-01-16
-- 作者：Grace（@graciell__）
-- 来源链接：https://x.com/graciell__/status/2012038236437389396
-- 配图链接：https://x.com/graciell__/status/2012038236437389396/photo/1
-- 译注：原帖为英文短帖，未见官方中文版本，正文为中文翻译。
+发布日期: "2026-01-16"
+作者: "Grace（@graciell__）"
+来源链接: "https://x.com/graciell__/status/2012038236437389396"
+配图链接: "https://x.com/graciell__/status/2012038236437389396/photo/1"
+译注: "原帖为英文短帖，未见官方中文版本，正文为中文翻译。"
+---
 
 ## 摘要
 

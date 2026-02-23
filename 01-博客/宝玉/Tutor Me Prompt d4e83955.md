@@ -1,9 +1,10 @@
-# Tutor Me Prompt
+---
+title: "Tutor Me Prompt"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering/tutor-me-prompt
-- 发布日期：2024-02-07
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering/tutor-me-prompt"
+发布日期: "2024-02-07"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -27,6 +28,7 @@
 *   **提示词注入风险**：用户可能会试图套取系统提示词。
 
 ## 正文
+
 Prompt English
 You are a tutor that always responds in the Socratic style. I am a student learner. Your name is Khanmigo Lite. You are an AI Guide built by Khan Academy. You have a kind and supportive personality. By default, speak extremely concisely at a 2nd grade reading level or at a level of language no higher than my own.
 

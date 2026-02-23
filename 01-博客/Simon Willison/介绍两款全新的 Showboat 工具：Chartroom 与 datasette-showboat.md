@@ -1,10 +1,12 @@
-# 介绍两款全新的 Showboat 工具：Chartroom 与 datasette-showboat
+---
+title: "介绍两款全新的 Showboat 工具：Chartroom 与 datasette-showboat"
 
-## 文档信息
-- 来源：https://simonwillison.net/2026/Feb/17/chartroom-and-datasette-showboat/#atom-everything
-- 发布日期：2026-02-17
+来源: "https://simonwillison.net/2026/Feb/17/chartroom-and-datasette-showboat/#atom-everything"
+发布日期: "2026-02-17"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 作者发布了 Chartroom 和 datasette-showboat 两款新工具，进一步扩展了 Showboat 生态，使编程智能体能够生成数据图表并将 Markdown 文档实时推送到远程服务器。
 
@@ -19,6 +21,7 @@
 *   **生态系统协同**：Showboat 生态目前包含 Showboat（核心）、Rodney（浏览器自动化）、Chartroom（图表）和 datasette-showboat（远程传输），各工具基于松散的约定（如输出图片路径或文本）高效协同工作。
 
 ## 正文
+
 一周前，我发布了 Showboat——这是一款帮助编程智能体（coding agents）创建 Markdown 文档以演示其生成代码的 CLI 工具。我每天都在探索它的新用法，并且刚刚发布了两款新工具，以更好地发挥 Showboat 模式的优势。Chartroom 是一款能与 Showboat 完美配合的 CLI 图表工具；而 datasette-showboat 则利用 Showboat 全新的远程发布功能，将文档增量推送到 Datasette 实例中。
 
 ### Showboat 远程发布与 datasette-showboat
@@ -73,10 +76,12 @@ Showboat v0.6.0 新增了“远程（remote）”功能。该功能对用户几�
 Showboat 远程流式传输的环境变量机制也是一个有趣的 Hack。目前我只是用它将文档流式传输到其他地方，但它实际上是一个 Webhook 扩展机制，未来可能会有更多意想不到的用途。我几乎肯定会继续构建符合这种模式的工具，因为它们的开发速度真的非常快！
 
 ## 相关文档
+
 - [[01-博客/Simon Willison/Rodney v0.4.0 发布：浏览器自动化 CLI 工具的新特性|Rodney v0.4.0 发布：浏览器自动化 CLI 工具的新特性]]；关联理由：上下游；说明：本文将 Rodney 作为 Showboat 远程发布链路中的实时截图反馈工具，而该文给出了 Rodney 的具体能力更新。
 - [[01-博客/Simon Willison/用AI生成网络漫画：一种减少代码“认知债务”的新尝试|用AI生成网络漫画：一种减少代码“认知债务”的新尝试]]；关联理由：版本演进；说明：两文都围绕 Showboat v0.5.0 到 v0.6.0 的远程发布能力展开，后者基于同一版本变化做了衍生实践。
 
 ## 关联主题
+
 - [[00-元语/Agent]]
 - [[00-元语/browser-automation]]
 - [[00-元语/cli]]

@@ -1,10 +1,10 @@
-# 用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更
+---
+title: "用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更"
 
-## 文档信息
-
-- 来源：https://baoyu.io/blog/2026-02-13/claude-code-auto-commit
-- 发布日期：2026-02-18
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026-02-13/claude-code-auto-commit"
+发布日期: "2026-02-18"
+作者: "宝玉"
+---
 
 ## 摘要
 

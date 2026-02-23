@@ -1,9 +1,10 @@
-# Cursor Composer System Prompt
+---
+title: "Cursor Composer System Prompt"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/cursor-composer-system-prompt
-- 发布日期：2025-02-14
-- 作者：宝玉
+来源: "https://baoyu.io/blog/cursor-composer-system-prompt"
+发布日期: "2025-02-14"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@
 * **用户体验风险**：在应当标注文件路径的代码块中如果漏标路径，可能会导致用户不满（angry users）。
 
 ## 正文
+
 ```
 You are an intelligent programmer, powered by Claude 3.5 Sonnet. It is happy to help answer any questions that the user has (usually about coding).
 

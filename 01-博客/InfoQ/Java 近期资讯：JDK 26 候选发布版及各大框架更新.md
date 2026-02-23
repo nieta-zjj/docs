@@ -1,9 +1,11 @@
-# Java 近期资讯：JDK 26 候选发布版及各大框架更新
+---
+title: "Java 近期资讯：JDK 26 候选发布版及各大框架更新"
 
-## 文档信息
-- 来源：https://www.infoq.cn/article/laeU5SxqYSUrm0KdpaOj?utm_source=rss&utm_medium=article
+来源: "https://www.infoq.cn/article/laeU5SxqYSUrm0KdpaOj?utm_source=rss&utm_medium=article"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 本文汇总了近期 Java 生态的重要动态，包括 JDK 26 进入首个候选发布版（RC1）及其确定的 10 项核心特性，以及 Spring、Open Liberty、EclipseStore、Quarkus 等多个主流框架和工具的版本更新与功能改进。
 
@@ -18,6 +20,7 @@
 * **Gradle 9.4.0 RC1**：新增对即将发布的 JDK 26 的支持，并改进了测试报告执行机制与配置缓存报告（支持显式识别 Lambda）。
 
 ## 正文
+
 ### JDK 26 与 JDK 27 最新动态
 
 JDK 26 的早期访问构建版本 Build 35 已于上周发布，包含了从 Build 34 的更新并修复了各种问题。根据 JDK 26 的发布计划，Oracle 的 Java 平台组首席架构师 Mark Reinhold 正式宣布 JDK 26 已进入其第一个候选发布版本（RC1），因为 Build 34 中已没有未解决的 P1 错误。预计的正式版发布时间为 2026 年 3 月 17 日。
@@ -77,6 +80,7 @@ Gradle 9.4.0 的第一个候选版本（RC1）带来了以下更新：
 * 改进了配置缓存报告，现在能够通过多个 Lambda 显式识别每个 Lambda 及其关联的动作或规范类型。
 
 ## 关联主题
+
 - [[00-元语/软件工程]]
 - [[00-元语/sdk]]
 - [[00-元语/community]]

@@ -1,9 +1,10 @@
-# X 平台大规模 DDoS 攻击调查：幕后黑客浮出水面
+---
+title: "X 平台大规模 DDoS 攻击调查：幕后黑客浮出水面"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/x-platform-ddos-attack-investigation
-- 发布日期：2025-03-13
-- 作者：宝玉
+来源: "https://baoyu.io/blog/x-platform-ddos-attack-investigation"
+发布日期: "2025-03-13"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -25,6 +26,7 @@
 * **攻击门槛降低**：事件暴露出廉价僵尸网络的普遍存在，极大降低了黑客攻击的门槛，凸显了现代互联网安全的脆弱性。
 
 ## 正文
+
 2025年3月10日，全球最大的社交媒体平台之一——X（前Twitter）突然陷入了严重的宕机危机。从早上6点开始，用户陆续发现平台无法访问，接连三次服务中断让全球近4万名用户陷入恐慌。
 
 ![Image 1: X平台宕机报告数量激增](https://baoyu.io/uploads/2025-03-13-Glwc36hWsAAS9xO(1).jpg)

@@ -1,16 +1,18 @@
-# Ghostty：GPU 加速终端模拟器
+---
+title: "Ghostty：GPU 加速终端模拟器"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `ghostty-org/ghostty`
-- 项目主页：https://github.com/ghostty-org/ghostty
-- 官方网站：https://ghostty.org
-- 开源协议：MIT License
-- 主要语言：Zig
-- 统计快照：Stars 44301，Forks 1697，Watchers 183（抓取时间：2026-02-22）
-- 版本快照：最新发布 tip（发布时间：2022-11-17T19:22:01Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `ghostty-org/ghostty`"
+项目主页: "https://github.com/ghostty-org/ghostty"
+官方网站: "https://ghostty.org"
+开源协议: "MIT License"
+主要语言: "Zig"
+统计快照: "Stars 44301，Forks 1697，Watchers 183（抓取时间：2026-02-22）"
+版本快照: "最新发布 tip（发布时间：2022-11-17T19:22:01Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Ghostty 是一个基于 Zig 语言开发的快速、功能丰富且跨平台的终端模拟器，它结合了原生 UI 与 GPU 加速技术，旨在成为现有终端的直接替代品。
 
@@ -27,39 +29,46 @@ Ghostty 是一个基于 Zig 语言开发的快速、功能丰富且跨平台的�
 *   **平台支持缺失**：目前尚未支持 Windows 终端（包括 PowerShell、Cmd、WSL），该计划处于未开始状态（❌）。
 *   **部分功能未完善**：原生平台体验（如 Mac 偏好设置面板）以及用于嵌入式终端的跨平台 `libghostty` 库目前仍处于开发/未完善状态（⚠️）。
 
-
 ## 功能与定位
+
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 ## 典型使用场景
+
 - 作为通用开发工具用于工程协作与效率提升。
 - 适用于个人与团队的日常研发流程。
 
 ## 核心功能
+
 - 提供稳定的通用工程能力。
 - 支持跨平台或多环境使用。
 - 依赖开源社区持续迭代。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:22:46Z。
 - 项目创建于 2022-03-29T17:38:26Z，具备持续迭代与社区沉淀。
 - 以 `Zig` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/ghostty-org/ghostty
 - 官网：https://ghostty.org
 - README：https://raw.githubusercontent.com/ghostty-org/ghostty/main/README.md
 - Releases：https://github.com/ghostty-org/ghostty/releases
 
 ## 关联主题
+
 - [[00-元语/terminal]]
 - [[00-元语/cli]]
 - [[00-元语/desktop-client]]

@@ -1,9 +1,10 @@
-# 你可能不再需要 workflow，大部分场景 skills 足矣——五步框架把 Workflow 变成可进化的 Skill
+---
+title: "你可能不再需要 workflow，大部分场景 skills 足矣——五步框架把 Workflow 变成可进化的 Skill"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/2026/01/10/agent-skills-replace-workflow
-- 发布日期：2026-01-10
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026/01/10/agent-skills-replace-workflow"
+发布日期: "2026-01-10"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -30,6 +31,7 @@
 *   **不适用特定场景**：不适合金融/医疗等有严格审计和合规要求的流程、每秒执行数百次的超高频简单任务，以及完全依赖可视化界面的非技术用户。
 
 ## 正文
+
 "80 多个节点的 workflow，稳定性和可调整性，不是 subagent 能比拟的。"
 
 上面这话这是我在 X 上和朋友 pippingg 的一次围绕 Dify 这样可视化拖拽 workflow 和 Claude Code Skills 的一次讨论。

@@ -1,9 +1,10 @@
-# 如果没有编程基础，但是如何能做一个像grammar那种可以实时进行语法修正的ai软件？
+---
+title: "如果没有编程基础，但是如何能做一个像grammar那种可以实时进行语法修正的ai软件？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/build-grammar-ai-no-coding
-- 发布日期：2024-11-16
-- 作者：宝玉
+来源: "https://baoyu.io/blog/build-grammar-ai-no-coding"
+发布日期: "2024-11-16"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -23,6 +24,7 @@
 * 制作专业的语法修正软件存在技术门槛，必须先做好文本编辑器，并具备优秀的提示词工程（Prompt Engineering）能力。
 
 ## 正文
+
 问：请问如果没有编程基础，但是如何能做一个像grammar那种可以实时进行语法修正的ai软件？
 
 答：做个Grammar这种有点难的，如果专业做，首先要做好文本编辑器，然后还要做好prompt engineering。

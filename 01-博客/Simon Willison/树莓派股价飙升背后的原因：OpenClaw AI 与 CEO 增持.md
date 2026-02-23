@@ -1,10 +1,12 @@
-# 树莓派股价飙升背后的原因：OpenClaw AI 与 CEO 增持
+---
+title: "树莓派股价飙升背后的原因：OpenClaw AI 与 CEO 增持"
 
-## 文档信息
-- 来源：https://simonwillison.net/2026/Feb/22/raspberry-pi-openclaw/#atom-everything
-- 发布日期：2026-02-22
+来源: "https://simonwillison.net/2026/Feb/22/raspberry-pi-openclaw/#atom-everything"
+发布日期: "2026-02-22"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 树莓派（Raspberry Pi）股价近期大幅飙升，主要受其设备可运行爆红AI助手OpenClaw的社交媒体热潮，以及公司CEO增持股票的共同推动。
 
@@ -18,6 +20,7 @@
 * **低成本AI预期**：市场传言认为，树莓派的产品未来将从低成本的人工智能项目中持续获益。
 
 ## 正文
+
 伦敦证券交易所的数据显示，英国树莓派控股公司（Raspberry Pi Holdings plc）的股价在周二出现了显著的飙升曲线。针对这一市场表现，多家媒体给出了不同的分析视角。
 
 ### 社交媒体热潮：OpenClaw AI 的推动
@@ -35,6 +38,7 @@ OpenClaw 是一款近期爆红的 AI 个人助手。用户们发现，他们可�
 - **AI 领域的潜力**：路透社同样提到，市场上有越来越多的传言认为，树莓派的产品将从低成本的人工智能项目中获益。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/trading]]

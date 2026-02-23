@@ -1,9 +1,10 @@
-# PC 软件为手机重做了一遍，现在轮到 Agent 了
+---
+title: "PC 软件为手机重做了一遍，现在轮到 Agent 了"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/2026/02/11/ai-agent-software-remake
-- 发布日期：2026-02-11
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026/02/11/ai-agent-software-remake"
+发布日期: "2026-02-11"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -29,6 +30,7 @@
 *   **被动抵制的淘汰风险**：拒绝提供 Agent 接口的软件不仅无法阻止 AI 的“翻窗”调用（且无法获取操作日志），还面临被市场快速淘汰的风险。
 
 ## 正文
+
 2 月 10 日，笔记软件 Obsidian 发布了 1.12 版，核心功能是一个**命令行工具（CLI）**。同一天，画图工具 Draw.io 和 Excalidraw 都发布了 **MCP（Model Context Protocol）接口**。
 
 三个消息单独看都不大，放到一起却指向同一件事：**软件正在为 AI Agent 重做自己的接口。**

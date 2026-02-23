@@ -1,16 +1,17 @@
-# Claude 工程专题 Notebook Extended Thinking Finetuning 与可观测性
+---
+title: "Claude 工程专题 Notebook Extended Thinking Finetuning 与可观测性"
 
-## 文档信息
-发布日期：2026-02-17
-来源仓库：anthropics/claude-cookbooks
-原文链接：https://github.com/anthropics/claude-cookbooks
-覆盖范围：
-- `coding/prompting_for_frontend_aesthetics.ipynb`
-- `extended_thinking/extended_thinking.ipynb`
-- `extended_thinking/extended_thinking_with_tool_use.ipynb`
-- `finetuning/finetuning_on_bedrock.ipynb`
-- `observability/usage_cost_api.ipynb`
-- `tool_evaluation/tool_evaluation.ipynb`
+发布日期: "2026-02-17"
+来源仓库: "anthropics/claude-cookbooks"
+原文链接: "https://github.com/anthropics/claude-cookbooks"
+覆盖范围:
+  - "`coding/prompting_for_frontend_aesthetics.ipynb`"
+  - "`extended_thinking/extended_thinking.ipynb`"
+  - "`extended_thinking/extended_thinking_with_tool_use.ipynb`"
+  - "`finetuning/finetuning_on_bedrock.ipynb`"
+  - "`observability/usage_cost_api.ipynb`"
+  - "`tool_evaluation/tool_evaluation.ipynb`"
+---
 
 ## 摘要
 
@@ -31,6 +32,7 @@
 *   **过早微调风险**：存在未充分验证而过早进入模型训练阶段的风险，明确建议在微调前必须先排查和验证 Prompt 与数据问题。
 
 ## 正文
+
 这组 notebook 关注工程上线最难的几件事：如何给推理过程预算、如何评估工具调用质量、如何观测成本、何时需要微调。它们共同目标是让 Agent 从“能跑”变成“可治理”。
 
 ### 能力主线
@@ -63,10 +65,12 @@ def print_thinking_response(response):
 - 微调前先验证 prompt 与数据问题，避免过早进入训练阶段。
 
 ## 相关文档
+
 - [[01-博客/Anthropic/Claude Tool Use Cookbook 实战清单下篇|Claude Tool Use Cookbook 实战清单下篇]]；关联理由：延伸思考；说明：该文将本文提到的工具治理与可观测诉求延展到工具检索、上下文压缩和记忆管理的生产化实践。
 - [[01-博客/Anthropic/Claude Agent SDK Notebook 实战进阶|Claude Agent SDK Notebook 实战进阶]]；关联理由：上下游；说明：本文给出扩展思考、评估与成本治理框架，该文对应这些能力在 Agent SDK 编排与观测中的实现落地。
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/Agent]]
 - [[00-元语/llm]]

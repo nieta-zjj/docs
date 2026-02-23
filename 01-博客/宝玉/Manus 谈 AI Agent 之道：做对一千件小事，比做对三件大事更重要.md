@@ -1,9 +1,10 @@
-# Manus 谈 AI Agent 之道：做对一千件小事，比做对三件大事更重要
+---
+title: "Manus 谈 AI Agent 之道：做对一千件小事，比做对三件大事更重要"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/manus-ai-agent-small-things-more-important
-- 发布日期：2025-12-31
-- 作者：宝玉
+来源: "https://baoyu.io/blog/manus-ai-agent-small-things-more-important"
+发布日期: "2025-12-31"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@ Manus 团队在 AI Agent 的设计上放弃预设规则，选择“智能主导�
 * **自研模型风险**：自行训练模型需要巨大的资源投入，且存在押错方向的风险（这也是 Manus 选择不自研模型的原因）。
 
 ## 正文
+
 张小珺这期采访Manus联合创始人兼首席科学家季逸超（Peak）的访谈 张小珺Benita的微博音频挺值得听听的。
 
 访谈地址：[https://www.xiaoyuzhoufm.com/episode/695331cb2db086f897b50ea9](https://www.xiaoyuzhoufm.com/episode/695331cb2db086f897b50ea9)

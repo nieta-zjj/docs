@@ -1,9 +1,10 @@
-# “都什么年代了程序员还在手搓代码，连小白都能写 Prompt 生成代码了”
+---
+title: "“都什么年代了程序员还在手搓代码，连小白都能写 Prompt 生成代码了”"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ai-prompt-code-generation-vs-manual-coding
-- 发布日期：2025-08-25
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ai-prompt-code-generation-vs-manual-coding"
+发布日期: "2025-08-25"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -30,6 +31,7 @@
 *   **能力退化风险**：过度依赖 AI 可能会导致开发者忽视对自身基础编程能力的锻炼。
 
 ## 正文
+
 ![Image 1](https://baoyu.io/uploads/2025-08-25-1756141247750-4b8d0a56-a4ec-419e-95f2-59f9407ab1a5.png)
 
 现在社交媒体上有一种风气： 就是都在标榜自己用 AI 写代码多么高效，多爽。用 Prompt 来 AI Coding 就是高端的，代表先进生产力的，不用 AI 写 Prompt 手搓代码就很 Low。

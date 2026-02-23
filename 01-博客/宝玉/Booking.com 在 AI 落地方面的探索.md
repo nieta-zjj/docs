@@ -1,9 +1,10 @@
-# Booking.com 在 AI 落地方面的探索
+---
+title: "Booking.com 在 AI 落地方面的探索"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/booking-com-ai-exploration
-- 发布日期：2025-02-23
-- 作者：宝玉
+来源: "https://baoyu.io/blog/booking-com-ai-exploration"
+发布日期: "2025-02-23"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -27,6 +28,7 @@ Booking.com 联合 Sourcegraph 在企业软件开发生命周期（SDLC）中引
 * **落地与适配挑战**：市面上的现成 AI 工具往往不够灵活，难以完全适应企业内部复杂的自定义规则和合规要求；同时，将 AI 整合进现有工具链（如 Slack、Jira）并改变员工习惯需要克服较大阻力。
 
 ## 正文
+
 [https://www.bilibili.com/video/BV1dcPKe3ENe/#reply256064109568](https://www.bilibili.com/video/BV1dcPKe3ENe/#reply256064109568)
 
 这是 **Booking.com** 和 **Sourcegraph** 的技术负责人在昨天 AI Engineer Summit 2025 上的一场主题为“**在企业 SDLC 中构建真正带来投资回报的 AI 智能体**”的演讲，他们分享了自己如何开发与使用 AI 工具，来替公司里的开发者节约时间、减少重复劳动，还能保证产品质量。在某种程度上，这就和我们在日常生活里寻找各种“捷径”或“自动化工具”有异曲同工之妙。
@@ -356,6 +358,7 @@ _完_
 也谢谢大家的聆听，希望能对你们有所启发。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/软件工程]]

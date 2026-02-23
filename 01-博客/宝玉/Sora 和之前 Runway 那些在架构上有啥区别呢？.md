@@ -1,9 +1,10 @@
-# Sora 和之前 Runway 那些在架构上有啥区别呢？
+---
+title: "Sora 和之前 Runway 那些在架构上有啥区别呢？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ai/sora-vs-runway
-- 发布日期：2024-02-17
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ai/sora-vs-runway"
+发布日期: "2024-02-17"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -20,6 +21,7 @@ Sora 采用了融合扩散模型与 Transformer 的 Diffusion Transformer 架构
 *   **技术理论来源**：Sora 的技术基础与 Google 在 2022 年底至 2023 年中发表的两篇关于 Scalable Diffusion Models 和 NaViT（Vision Transformer）的论文密切相关。
 
 ## 正文
+
 问：Sora 和之前 Runway 那些在架构上有啥区别呢？
 
 答：简单来说 Runway 是基于扩散模型（Diffusion Model）的，而 Sora 是基于 Diffusion Transformer。

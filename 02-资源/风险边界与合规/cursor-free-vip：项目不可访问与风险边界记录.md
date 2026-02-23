@@ -1,16 +1,18 @@
-# cursor-free-vip：项目不可访问与风险边界记录
+---
+title: "cursor-free-vip：项目不可访问与风险边界记录"
 
-## 文档信息
-- 对象：Git 项目
-- 发布日期：2026-02-22
-- 来源：
-  - https://github.com/yeongpin/cursor-free-vip
-  - https://github.com/yeongpin
-  - https://github.com/yeongpin/cursor-free-vip/issues/35668
-  - https://github.com/search?q=cursor-free-vip&type=repositories
-- 输入备注：用户附带数字 `35668`；当前对应 issue 链接返回 404，无法确认其为该仓库的有效 issue 编号。
+对象: "Git 项目"
+发布日期: "2026-02-22"
+来源:
+  - "https://github.com/yeongpin/cursor-free-vip"
+  - "https://github.com/yeongpin"
+  - "https://github.com/yeongpin/cursor-free-vip/issues/35668"
+  - "https://github.com/search?q=cursor-free-vip&type=repositories"
+输入备注: "用户附带数字 `35668`；当前对应 issue 链接返回 404，无法确认其为该仓库的有效 issue 编号。"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 `yeongpin/cursor-free-vip` GitHub 仓库及其作者主页当前均已无法访问（返回 404），且该项目涉及规避商业软件限制的高合规风险，因此仅记录其当前可验证状态与风险边界。
 
@@ -28,27 +30,34 @@
 - 事实获取缺口：由于一手仓库材料完全不可访问，存在无法提取可验证功能清单及确认项目真实边界的信息缺口。
 
 ## 功能与定位
+
 从公开搜索结果的可见描述判断，该项目主题与“绕过产品限制”相关。但由于原仓库与作者主页均不可访问，无法从原始来源核验完整功能边界。
 
 ## 典型使用场景
+
 在可见描述范围内，该类条目通常被用于尝试规避产品既有限制。该方向具有明确的合规和账号风险。
 
 ## 核心功能
+
 当前无法从原始仓库正文中提取可验证的功能清单；仅能确认主题语义与限制规避相关。
 
 ## 特色与差异点
+
 当前无可访问的一手仓库材料，无法确认其与其他同类条目的差异。
 
 ## 使用方式概览
+
 不提供。该主题涉及高风险边界，本仓库不记录可执行用法。
 
 ## 限制与注意事项
+
 - 可访问性限制：原仓库、作者主页与指定 issue 均为 404。
 - 事实限制：README、LICENSE 等原始文件不可获取，无法完成完整功能核验。
 - 合规限制：该主题与规避授权/限制相关，存在违反服务条款与账号处罚风险。
 - 边界说明：本仓库仅保留高层信息与风险提示，不复述可操作细节。
 
 ## 链接
+
 - 项目链接：https://github.com/yeongpin/cursor-free-vip
 - 作者主页：https://github.com/yeongpin
 - 指定 issue：https://github.com/yeongpin/cursor-free-vip/issues/35668

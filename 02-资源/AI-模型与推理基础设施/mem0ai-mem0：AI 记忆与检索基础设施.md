@@ -1,11 +1,11 @@
-# mem0ai-mem0：AI 记忆与检索基础设施
+---
+title: "mem0ai-mem0：AI 记忆与检索基础设施"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/mem0ai/mem0
-- 发现评分：92
-- Stars：47773
+发布日期: "2026-02-22"
+来源: "https://github.com/mem0ai/mem0"
+发现评分: "92"
+Stars: "47773"
+---
 
 ## 摘要
 
@@ -20,11 +20,12 @@ mem0 是一个专为 AI 智能体设计的通用记忆层，作为 AI 记忆与�
 *   **开源地址**：https://github.com/mem0ai/mem0
 
 ## 功能与定位
+
 mem0 是一个专为 AI 智能体（AI Agents）设计的通用记忆层（Universal memory layer），主要作为 AI 记忆与检索的基础设施。
 
 ## 链接
-- https://github.com/mem0ai/mem0
 
+- https://github.com/mem0ai/mem0
 
 ## 关联主题
 

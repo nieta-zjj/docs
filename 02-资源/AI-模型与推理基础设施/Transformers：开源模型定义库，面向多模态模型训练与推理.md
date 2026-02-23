@@ -1,16 +1,18 @@
-# Transformers：开源模型定义库，面向多模态模型训练与推理
+---
+title: "Transformers：开源模型定义库，面向多模态模型训练与推理"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `huggingface/transformers`
-- 项目主页：https://github.com/huggingface/transformers
-- 官方网站：https://huggingface.co/transformers
-- 开源协议：Apache License 2.0
-- 主要语言：Python
-- 统计快照：Stars 156806，Forks 32153，Watchers 1182（抓取时间：2026-02-22）
-- 版本快照：最新发布 v5.2.0（发布时间：2026-02-16T18:55:53Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `huggingface/transformers`"
+项目主页: "https://github.com/huggingface/transformers"
+官方网站: "https://huggingface.co/transformers"
+开源协议: "Apache License 2.0"
+主要语言: "Python"
+统计快照: "Stars 156806，Forks 32153，Watchers 1182（抓取时间：2026-02-22）"
+版本快照: "最新发布 v5.2.0（发布时间：2026-02-16T18:55:53Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Hugging Face Transformers 是一个基于 Python 的开源机器学习模型定义框架，支持文本、视觉、音频及多模态等最先进模型的推理与训练，并作为连接各类训练和推理生态系统的核心枢纽。
 
@@ -27,39 +29,46 @@ Hugging Face Transformers 是一个基于 Python 的开源机器学习模型定�
 **3) 风险/不足**
 *   **版本稳定性风险**：官方文档明确指出，如果选择通过源码安装以获取最新更改，该“最新”版本可能不稳定，用户在遇到错误时需要向官方提交 Issue。
 
-
 ## 功能与定位
+
 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 
 ## 典型使用场景
+
 - 用于模型训练、微调、推理或文档解析等基础能力建设。
 - 作为上层 AI 应用的数据与模型基础设施。
 
 ## 核心功能
+
 - 提供模型/推理相关核心能力。
 - 支持与主流 AI 工具链协同。
 - 兼顾实验验证与工程落地场景。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:32:42Z。
 - 项目创建于 2018-10-29T13:56:00Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/huggingface/transformers
 - 官网：https://huggingface.co/transformers
 - README：https://raw.githubusercontent.com/huggingface/transformers/main/README.md
 - Releases：https://github.com/huggingface/transformers/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/llm]]
 - [[00-元语/multimodal]]

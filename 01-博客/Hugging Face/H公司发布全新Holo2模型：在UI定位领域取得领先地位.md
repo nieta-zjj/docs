@@ -1,9 +1,11 @@
-# H公司发布全新Holo2模型：在UI定位领域取得领先地位
+---
+title: "H公司发布全新Holo2模型：在UI定位领域取得领先地位"
 
-## 文档信息
-- 来源：https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b
+来源: "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b"
+---
 
 ## 摘要
+
 **一句话总结**
 H公司发布了迄今规模最大的UI定位模型Holo2-235B-A22B Preview，通过引入代理式定位技术在多项基准测试中创下全新SOTA纪录，并借助SkyPilot实现了高效的跨云大规模训练。
 
@@ -17,6 +19,7 @@ H公司发布了迄今规模最大的UI定位模型Holo2-235B-A22B Preview，通
 * **研发效率**：SkyPilot抽象了底层基础设施的复杂性，使研究人员无需管理k8s清单或独立部署脚本，从而全心投入模型开发。
 
 ## 正文
+
 距离首批Holo2模型发布已经过去两个月，H公司再次推出了迄今为止规模最大的UI（用户界面）定位模型：**Holo2-235B-A22B Preview**。
 
 该模型目前已在Hugging Face平台上线，这是一个专注于UI元素定位的研究版本。它创下了全新的SOTA（最高水平）纪录：在Screenspot-Pro基准测试中成绩达到78.5%，在OSWorld G中达到79.0%。
@@ -38,3 +41,9 @@ Holo2-235B-A22B Preview在最具挑战性的GUI Grounding基准测试中表现�
 大规模训练Holo2模型需要协调跨多个云服务提供商的工作负载。为了解决这一问题，H公司采用了SkyPilot作为统一接口，在带有Kubernetes (k8s) 的集群上启动训练任务。
 
 通过抽象化底层基础设施的复杂性，SkyPilot让研究人员能够将全部精力集中在模型开发上，而无需耗费时间去管理k8s清单或维护繁杂的独立部署脚本。
+
+## 关联主题
+
+- [[00-元语/AI]]
+- [[00-元语/Agent]]
+- [[00-元语/benchmark]]

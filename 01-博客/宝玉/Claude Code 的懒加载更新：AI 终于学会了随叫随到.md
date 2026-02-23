@@ -1,9 +1,10 @@
-# Claude Code 的"懒加载"更新：AI 终于学会了"随叫随到
+---
+title: "Claude Code 的\"懒加载\"更新：AI 终于学会了\"随叫随到"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/2026/01/14/claude-code-mcp-tool-search
-- 发布日期：2026-01-14
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026/01/14/claude-code-mcp-tool-search"
+发布日期: "2026-01-14"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -20,6 +21,7 @@ Claude Code 推出了基于“懒加载”机制的 Tool Search 功能，通过�
 *   **技术演进趋势**：AI 工具生态正从“堆叠功能”向“精打细算”的效率优化转变；例如 Cloudflare 提出的 "Code Mode" 允许 AI 直接编写脚本连接工具（如从 Google Drive 直传 Salesforce），避免中间数据占用模型上下文。
 
 ## 正文
+
 ![Image 1](https://s.baoyu.io/imgs/2026-01-14/claude-code-mcp-tool-search/cover.png)
 
 想象一下这个场景：你是一个项目经理，手下有 50 个员工，每个人都有不同的专长。每次开会之前，你都要求所有人先到会议室，每个人都要做一遍自我介绍，详细说明自己能干什么。

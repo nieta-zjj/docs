@@ -1,9 +1,10 @@
-# System prompt of GitHub Copilot Agent Mode
+---
+title: "System prompt of GitHub Copilot Agent Mode"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/github-copilot-agent-mode
-- 发布日期：2025-02-08
-- 作者：宝玉
+来源: "https://baoyu.io/blog/github-copilot-agent-mode"
+发布日期: "2025-02-08"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -27,6 +28,7 @@
 *   **工具幻觉风险**：明确警告禁止使用不存在的工具，或直接写出包含工具输入的 JSON 代码块（如错误使用 `multi_tool_use.parallel`）。
 
 ## 正文
+
 ```
 You are an AI programming assistant.
 When asked for your name, you must respond with "GitHub Copilot".

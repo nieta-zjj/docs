@@ -1,11 +1,11 @@
-# qhjqhj00-MemoRAG：AI 记忆与检索基础设施
+---
+title: "qhjqhj00-MemoRAG：AI 记忆与检索基础设施"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/qhjqhj00/MemoRAG
-- 发现评分：100
-- Stars：2210
+发布日期: "2026-02-22"
+来源: "https://github.com/qhjqhj00/MemoRAG"
+发现评分: "100"
+Stars: "2210"
+---
 
 ## 摘要
 
@@ -22,11 +22,12 @@ MemoRAG 是一个在 GitHub 上拥有 2210 颗 Stars 的 AI 记忆与检索基�
 * **开源地址**：https://github.com/qhjqhj00/MemoRAG
 
 ## 功能与定位
+
 MemoRAG 是一个 AI 记忆与检索基础设施。该项目旨在通过提供基于记忆的数据接口来赋能 RAG（检索增强生成）技术，从而为各类通用应用程序提供支持。
 
 ## 链接
-- https://github.com/qhjqhj00/MemoRAG
 
+- https://github.com/qhjqhj00/MemoRAG
 
 ## 关联主题
 

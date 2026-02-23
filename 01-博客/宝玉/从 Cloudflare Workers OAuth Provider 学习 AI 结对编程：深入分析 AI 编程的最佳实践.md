@@ -1,9 +1,10 @@
-# 从 Cloudflare Workers OAuth Provider 学习 AI 结对编程：深入分析 AI 编程的最佳实践
+---
+title: "从 Cloudflare Workers OAuth Provider 学习 AI 结对编程：深入分析 AI 编程的最佳实践"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/cloudflare-workers-ai-pair-programming
-- 发布日期：2025-06-08
-- 作者：宝玉
+来源: "https://baoyu.io/blog/cloudflare-workers-ai-pair-programming"
+发布日期: "2025-06-08"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@
 *   **简单任务效率低**：对于简单的样式修改或代码整理，通过 Prompt 反复纠正的效率反而低于工程师直接手动修改。
 
 ## 正文
+
 最近 Cloudflare 发布了一个开源的针对 Cloudflare Workers 的 OAuth 2.1 Provider Framework[1]，有趣的是这个项目是完全和 Claude 结对编程生成的，最开始负责这个项目的工程师 Kenton Varda 是不相信 AI 是能完成这样的任务的，但是抱着试试看的心态，预计 AI 会生成一个烂代码，然而看上去代码居然很不错！当然也不是真的完美，不过只要指出问题 AI 马上就能修复，很是出人意料。
 
 当然这并不是完全的 Vibe Coding 产物，每一个 PR 都是专业工程师认真审查后才合并的。这个项目把每一次用到的 Prompt 都放到了提交历史里面，如果你有兴趣的话可以阅读一下提交历史，就能知道他们是如何通过一个个 Prompt 从零开始搭建出来的，尤其是其中的 Prompt 有很多学习之处。

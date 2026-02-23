@@ -1,9 +1,10 @@
-# 3D风格的Q版人物APP图标
+---
+title: "3D风格的Q版人物APP图标"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/3d-q-version-character-app-icon
-- 发布日期：2025-04-04
-- 作者：宝玉
+来源: "https://baoyu.io/blog/3d-q-version-character-app-icon"
+发布日期: "2025-04-04"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -19,6 +20,7 @@
 * **提示词要求（构图）**：需特别说明“人物要稍微超出图标背景边框”。
 
 ## 正文
+
 ![Image 1](https://baoyu.io/uploads/2025-04-04/20250403_2219_%E5%8F%AF%E6%84%9BQ%E7%89%88APP%E5%9C%96%E6%A8%99_remix_01jqzcynraee8t1715vtnwraq2.png)
 
 工具：[sora.com](http://sora.com/) 或 GPT-4o

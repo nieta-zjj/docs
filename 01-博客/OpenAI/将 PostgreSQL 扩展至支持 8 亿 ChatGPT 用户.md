@@ -1,10 +1,10 @@
-# 将 PostgreSQL 扩展至支持 8 亿 ChatGPT 用户
+---
+title: "将 PostgreSQL 扩展至支持 8 亿 ChatGPT 用户"
 
-## 文档信息
-
-- 来源：https://openai.com/zh-Hans-CN/index/scaling-postgresql/
-- 英文原文：https://openai.com/index/scaling-postgresql/
-- 发布日期：2026年1月22日
+来源: "https://openai.com/zh-Hans-CN/index/scaling-postgresql/"
+英文原文: "https://openai.com/index/scaling-postgresql/"
+发布日期: "2026年1月22日"
+---
 
 ## 摘要
 

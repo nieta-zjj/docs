@@ -1,9 +1,10 @@
-# Ilya：扩展时代已经结束了，研究的时代已经开始
+---
+title: "Ilya：扩展时代已经结束了，研究的时代已经开始"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ilya-from-scaling-to-research
-- 发布日期：2025-11-26
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ilya-from-scaling-to-research"
+发布日期: "2025-11-26"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -25,6 +26,7 @@ Ilya Sutskever 认为 AI 行业已从单纯堆砌算力和数据的“扩展时�
 *   **认知与想象力脱节**：由于不存在的 AI 很难被想象，人们（甚至包括 AI 研究员）常因当前模型的低级错误而低估未来 AI 的能力与风险，导致安全防范和监管滞后。
 
 ## 正文
+
 **Ilya Sutskever** 大概得有一年多没参加播客访谈了，自从 OpenAI 宫斗离职创办 **SSI（Safe Superintelligence）** 后之后就很少露面了。
 
 最近，他在 **Dwarkesh Patel** 的播客中进行了一场长达一个半小时的深度对谈。[https://www.youtube.com/watch?v=aR20FWCCjAs](https://www.youtube.com/watch?v=aR20FWCCjAs)

@@ -1,9 +1,10 @@
-# Google DeepMind 最新的 FunSearch
+---
+title: "Google DeepMind 最新的 FunSearch"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ai/about-funsearch
-- 发布日期：2023-12-15
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ai/about-funsearch"
+发布日期: "2023-12-15"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -20,6 +21,7 @@ Google DeepMind 推出的 FunSearch 框架通过将数学问题转化为代码�
 * **应用前景**：这种“LLM - 代码 - 验证器”的框架被认为在未来具有广泛的创新应用潜力。
 
 ## 正文
+
 FunSearch 是 Google DeepMind 最近利用大语言模型在数学领域的一个重大成果，甚至于你能从中看出前不久传闻中的 Q* 的影子，因为它本质上是实现了大语言模型自己提出解决数学问题的方案，并自己去验证解决方案。
 
 它有一个前提条件，就是需要将数学问题描述成计算机代码“函数”，这就是 FunSearch 中“Fun”的由来，也就是“Function”。
@@ -55,6 +57,7 @@ Voyager 完整的数据流设计，这个设计能在一个庞大的 3D 世界�
 相关文章：《[FunSearch：利用大语言模型在数学科学领域探索新奇发现 [译]](https://baoyu.io/translations/google/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models)》
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/llm]]

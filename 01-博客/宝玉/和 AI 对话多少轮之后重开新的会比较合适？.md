@@ -1,9 +1,10 @@
-# 和 AI 对话多少轮之后重开新的会比较合适？
+---
+title: "和 AI 对话多少轮之后重开新的会比较合适？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/how-many-rounds-ai-conversation-before-new-session
-- 发布日期：2024-11-12
-- 作者：宝玉
+来源: "https://baoyu.io/blog/how-many-rounds-ai-conversation-before-new-session"
+发布日期: "2024-11-12"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@
 *   由于聊天软件的自动摘要机制，对话轮数过多会导致 AI 忘记早期聊过的历史内容。
 
 ## 正文
+
 我一直建议在使用 AI 聊天时，会话轮数不要太多，因为会话多轮后，消息越滚越多，每次发给 AI 的上下文长度会叠加越来越多，导致幻觉严重。
 
 但新的问题是：

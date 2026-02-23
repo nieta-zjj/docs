@@ -1,9 +1,10 @@
-# CloudFlare 使用 Workers 和 Nextjs 的深度集成
+---
+title: "CloudFlare 使用 Workers 和 Nextjs 的深度集成"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/cloudflare/cloudflare-workers-nextjs-deep-integration
-- 发布日期：2024-10-06
-- 作者：宝玉
+来源: "https://baoyu.io/blog/cloudflare/cloudflare-workers-nextjs-deep-integration"
+发布日期: "2024-10-06"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -21,6 +22,7 @@
 *   **默认配置限制**：使用 OpenNext 创建项目时，默认配置（`main = .worker-next/index.mjs`）会导致无法直接添加其他的 worker handlers，必须通过自定义 Worker 文件来绕过此限制。
 
 ## 正文
+
 以前 CloudFlare 只提供了 [Cloudflare Pages](https://developers.cloudflare.com/pages) 的方式集成 Nextjs，现在有了 OpenNext [https://opennext.js.org/](https://opennext.js.org/)项目后，Nextjs 也可以和 [Cloudflare Workers](https://developers.cloudflare.com/workers)集成，这意味着你创建一个项目，不仅有网站，还有 Workers。
 
 毕竟 CloudFlare 的 Worker，可以有处理 Http/WebSocket 请求的 Fetch Handler [https://developers.cloudflare.com/workers/runtime-apis/handlers/fetch/](https://developers.cloudflare.com/workers/runtime-apis/handlers/fetch/) ，还有接收邮件的 Email Handler [https://developers.cloudflare.com/email-routing/email-workers/runtime-api/](https://developers.cloudflare.com/email-routing/email-workers/runtime-api/)，还有后台定时任务的 Scheduled Handler [https://developers.cloudflare.com/workers/runtime-apis/handlers/scheduled/](https://developers.cloudflare.com/workers/runtime-apis/handlers/scheduled/) 等等强大的功能。
@@ -55,6 +57,7 @@ export default {
 ```
 
 ## 关联主题
+
 - [[00-元语/cloudflare]]
 - [[00-元语/serverless]]
 - [[00-元语/react]]

@@ -1,16 +1,18 @@
-# github-chinese：GitHub 界面中文化用户脚本插件
+---
+title: "github-chinese：GitHub 界面中文化用户脚本插件"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `maboloshi/github-chinese`
-- 项目主页：https://github.com/maboloshi/github-chinese
-- 官方网站：https://maboloshi.github.io/github-chinese/
-- 开源协议：GNU General Public License v3.0
-- 主要语言：JavaScript
-- 统计快照：Stars 20813，Forks 1149，Watchers 84（抓取时间：2026-02-22）
-- 版本快照：暂无正式发布记录
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `maboloshi/github-chinese`"
+项目主页: "https://github.com/maboloshi/github-chinese"
+官方网站: "https://maboloshi.github.io/github-chinese/"
+开源协议: "GNU General Public License v3.0"
+主要语言: "JavaScript"
+统计快照: "Stars 20813，Forks 1149，Watchers 84（抓取时间：2026-02-22）"
+版本快照: "暂无正式发布记录"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 `maboloshi/github-chinese` 是一个广受欢迎的开源 JavaScript 用户脚本插件，旨在通过智能正则匹配、机器翻译和持续更新的词库，将 GitHub 界面全面中文化。
 
@@ -28,37 +30,45 @@
 *   **浏览器限制问题**：由于 Chrome 切换到 Manifest V3，基于 Chrome/Chromium 内核的浏览器用户必须手动开启扩展管理中的“开发者模式”和“允许运行用户脚本”才能正常使用。
 
 ## 功能与定位
+
 GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
 
 ## 典型使用场景
+
 - 作为学习与选型参考入口，快速定位资料与最佳实践。
 - 用于团队知识库沉淀与技术调研。
 
 ## 核心功能
+
 - 汇总课程、示例、清单或社区经验。
 - 强调可检索性与持续更新。
 - 适合学习路径规划与资源导航。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:09:20Z。
 - 项目创建于 2021-09-27T08:47:55Z，具备持续迭代与社区沉淀。
 - 以 `JavaScript` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/maboloshi/github-chinese
 - 官网：https://maboloshi.github.io/github-chinese/
 - README：https://raw.githubusercontent.com/maboloshi/github-chinese/gh-pages/README.md
 - Releases：https://github.com/maboloshi/github-chinese/releases
 
 ## 关联主题
+
 - [[00-元语/github]]
 - [[00-元语/tool]]
 - [[00-元语/community]]

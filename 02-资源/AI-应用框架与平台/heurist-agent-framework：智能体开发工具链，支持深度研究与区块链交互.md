@@ -1,11 +1,11 @@
-# heurist-agent-framework：智能体开发工具链，支持深度研究与区块链交互
+---
+title: "heurist-agent-framework：智能体开发工具链，支持深度研究与区块链交互"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/heurist-network/heurist-agent-framework
-- 发现评分：100
-- Stars：776
+发布日期: "2026-02-22"
+来源: "https://github.com/heurist-network/heurist-agent-framework"
+发现评分: "100"
+Stars: "776"
+---
 
 ## 摘要
 
@@ -23,12 +23,15 @@ heurist-agent-framework 是一个灵活的多接口 AI 智能体框架，支持�
 * **适用场景**：非常适合构建需要执行深度研究或区块链交互的复杂 AI 智能体应用。
 
 ## 功能与定位
+
 这是一个灵活的多接口 AI 智能体（Agent）框架，旨在帮助开发者构建具备多种高级能力的智能体，并支持“智能体即服务”（agents-as-a-service）模式。
 
 ## 典型使用场景
+
 适用于构建需要执行深度研究任务或需要与区块链进行交互的复杂 AI 智能体应用。
 
 ## 核心功能
+
 * **逻辑推理（Reasoning）**：支持智能体进行推理。
 * **工具调用（Tool use）**：允许智能体使用外部工具。
 * **记忆机制（Memory）**：为智能体提供记忆管理能力。
@@ -38,11 +41,12 @@ heurist-agent-framework 是一个灵活的多接口 AI 智能体框架，支持�
 * **智能体即服务（Agents-as-a-service）**：支持将智能体作为服务进行构建和提供。
 
 ## 特色与差异点
+
 * 采用灵活的多接口（multi-interface）设计，适应不同的开发与交互需求。
 
 ## 链接
-* https://github.com/heurist-network/heurist-agent-framework
 
+* https://github.com/heurist-network/heurist-agent-framework
 
 ## 关联主题
 

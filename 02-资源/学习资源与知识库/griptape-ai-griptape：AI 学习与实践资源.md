@@ -1,11 +1,11 @@
-# griptape-ai-griptape：AI 学习与实践资源
+---
+title: "griptape-ai-griptape：AI 学习与实践资源"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/griptape-ai/griptape
-- 发现评分：92
-- Stars：2479
+发布日期: "2026-02-22"
+来源: "https://github.com/griptape-ai/griptape"
+发现评分: "92"
+Stars: "2479"
+---
 
 ## 摘要
 
@@ -22,19 +22,22 @@ Griptape 是一个基于 Python 的开源模块化框架，专为构建具备思
 * **开源获取**：项目代码托管于 GitHub（griptape-ai/griptape）。
 
 ## 功能与定位
+
 Griptape 是一个基于 Python 开发的模块化框架，专为构建 AI 智能体（Agents）和工作流而设计，可作为 AI 学习与实践的资源。
 
 ## 核心功能
+
 - **思维链推理**：支持 AI 进行思维链（chain-of-thought）推理过程。
 - **工具集成**：允许为 AI 智能体配置和调用各类外部工具（tools）。
 - **记忆机制**：内置记忆（memory）功能，使智能体能够在工作流中维持上下文。
 
 ## 特色与差异点
+
 - 采用模块化（Modular）架构设计，便于开发者灵活组装和构建复杂的 AI 应用。
 
 ## 链接
-- GitHub 仓库：https://github.com/griptape-ai/griptape
 
+- GitHub 仓库：https://github.com/griptape-ai/griptape
 
 ## 关联主题
 

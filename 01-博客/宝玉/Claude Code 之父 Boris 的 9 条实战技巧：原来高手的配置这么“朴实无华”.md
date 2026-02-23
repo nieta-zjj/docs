@@ -1,9 +1,10 @@
-# Claude Code  之父 Boris 的 9 条实战技巧：原来高手的配置这么“朴实无华”
+---
+title: "Claude Code  之父 Boris 的 9 条实战技巧：原来高手的配置这么“朴实无华”"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/claude-code-boris-9-practical-tips-simple-config
-- 发布日期：2026-01-02
-- 作者：宝玉
+来源: "https://baoyu.io/blog/claude-code-boris-9-practical-tips-simple-config"
+发布日期: "2026-01-02"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -29,6 +30,7 @@ Claude Code 之父 Boris 分享了其“开箱即用”的极简配置理念，�
 *   **权限安全风险**：`--dangerously-skip-permissions` 属于危险选项，日常应避免使用（改用预授权），仅建议在沙箱环境的长任务中使用以防打断。
 
 ## 正文
+
 Boris Cherny 在 Anthropic 内部有个绰号：Claude Code 之父。他最近在 X 上很活跃，于是很多人问 Boris：你自己到底怎么用 Claude Code？他刚在 X 上分享了 9 条实战技巧。
 
 没有你想象的那么多技巧，每一条都朴实无华。

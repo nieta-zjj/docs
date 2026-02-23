@@ -1,20 +1,12 @@
-# AionUi：开源多 agent 协作桌面应用（Gemini CLI、Claude Code、Codex、OpenCode）
+---
+title: "AionUi：开源多 agent 协作桌面应用（Gemini CLI、Claude Code、Codex、OpenCode）"
 
-## 文档信息
-
-- 对象：GitHub 开源项目
-- 来源：https://github.com/iOfficeAI/AionUi
-- 来源：https://github.com/iOfficeAI/AionUi/blob/main/readme_ch.md
-- 来源：https://github.com/iOfficeAI/AionUi/releases
-- 来源：https://github.com/iOfficeAI/AionUi/blob/main/LICENSE
-- 来源：https://github.com/iOfficeAI/AionUi/wiki/Getting-Started
-- 来源：https://github.com/iOfficeAI/AionUi/wiki/LLM-Configuration
-- 来源：https://github.com/iOfficeAI/AionUi/wiki/ACP-Setup
-- 来源：https://github.com/iOfficeAI/AionUi/wiki/MCP-Configuration-Guide
-- 来源：https://github.com/iOfficeAI/AionUi/wiki/WebUI-Configuration-Guide
-- 开源协议：Apache-2.0
-- 支持平台：macOS、Windows、Linux
-- 版本快照：截至 2026-02-22，发布页显示最新版本为 `v1.8.15`
+对象: "GitHub 开源项目"
+来源: "https://github.com/iOfficeAI/AionUi/wiki/WebUI-Configuration-Guide"
+开源协议: "Apache-2.0"
+支持平台: "macOS、Windows、Linux"
+版本快照: "截至 2026-02-22，发布页显示最新版本为 `v1.8.15`"
+---
 
 ## 摘要
 

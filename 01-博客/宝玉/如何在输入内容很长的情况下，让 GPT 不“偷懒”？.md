@@ -1,9 +1,10 @@
-# 如何在输入内容很长的情况下，让 GPT 不“偷懒”？
+---
+title: "如何在输入内容很长的情况下，让 GPT 不“偷懒”？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering/how-to-prevent-gpt-from-being-lazy-with-long-inputs
-- 发布日期：2024-10-12
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering/how-to-prevent-gpt-from-being-lazy-with-long-inputs"
+发布日期: "2024-10-12"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -23,6 +24,7 @@
 * **代码生成场景效果不佳**：在输出长代码时，GPT 容易混淆独立模块与部分代码的边界，导致分页混乱和单页出现大量重复代码，该场景的解决方案仍在研究中。
 
 ## 正文
+
 最近比较好的解决了一个困扰我很久的 Prompt 难题：如何在输入内容很长的情况下，让 GPT 不偷懒？
 
 注明一下，本文说的长内容是指相对比较长，比如几千上万字的输入，但是输入输出又没有超过上下文窗口限制的情况。

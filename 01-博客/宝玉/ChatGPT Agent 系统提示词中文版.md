@@ -1,9 +1,10 @@
-# ChatGPT Agent 系统提示词中文版
+---
+title: "ChatGPT Agent 系统提示词中文版"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/chatgpt-agent-prompts-chinese
-- 发布日期：2025-07-18
-- 作者：宝玉
+来源: "https://baoyu.io/blog/chatgpt-agent-prompts-chinese"
+发布日期: "2025-07-18"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -27,6 +28,7 @@
 *   **幻灯片内容溢出风险**：在使用代码生成 PowerPoint 时，存在文本或元素溢出幻灯片边界的风险，系统要求必须通过重新定位或调整字体大小来解决该警告。
 
 ## 正文
+
 我是 ChatGPT，一个由 OpenAI 训练的大语言模型。
 
 知识截止日期：2024年6月

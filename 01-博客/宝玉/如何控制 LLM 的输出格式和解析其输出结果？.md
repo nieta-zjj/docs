@@ -1,9 +1,10 @@
-# 如何控制 LLM 的输出格式和解析其输出结果？
+---
+title: "如何控制 LLM 的输出格式和解析其输出结果？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering/how-to-parse-the-output-from-llm
-- 发布日期：2023-11-03
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering/how-to-parse-the-output-from-llm"
+发布日期: "2023-11-03"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@
 *   **网页端 Markdown 的不稳定性**：在 ChatGPT 网页端要求使用 Markdown 代码块输出时，表现有时不够稳定。
 
 ## 正文
+
 现在很多人对于如何使用像 ChatGPT 这样的 LLM 已经比较有经验了，可以使用各种不同的 Prompt 得到自己想要的结果。但有时候我们的使用场景不局限于手动操作，而是需要结合程序去调用 API，并且解析 API 的返回结果，从而实现一些自动化的功能。但是 LLM 的输出不确定性很大，所以我们需要想办法去控制 LLM 的输出格式，从而让程序得到稳定的输出，并且进一步对输出结果进行解析。
 
 [](https://baoyu.io/blog/prompt-engineering/how-to-parse-the-output-from-llm#%E6%96%B9%E6%B3%95%E4%B8%80%E4%BD%BF%E7%94%A8-function-calling)方法一：使用 Function Calling

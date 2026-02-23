@@ -1,9 +1,10 @@
-# 那些 DeepSeek 的聊天截图是真的还是假的？怎么鉴别？
+---
+title: "那些 DeepSeek 的聊天截图是真的还是假的？怎么鉴别？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/deepseek-chat-screenshots-real-fake
-- 发布日期：2025-02-09
-- 作者：宝玉
+来源: "https://baoyu.io/blog/deepseek-chat-screenshots-real-fake"
+发布日期: "2025-02-09"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -19,6 +20,7 @@
 *   **最终建议**：遇到神奇或离奇的 AI 聊天截图，建议手动输入提示词进行验证以辨别真伪。
 
 ## 正文
+
 自从 DeepSeek 火了后，就经常能看到一些神奇的 DeepSeek 截图，比如特别智能的、很会照顾情绪的、说脏话的、点评犀利的。
 
 那么这些截图怎么分辨真假呢？

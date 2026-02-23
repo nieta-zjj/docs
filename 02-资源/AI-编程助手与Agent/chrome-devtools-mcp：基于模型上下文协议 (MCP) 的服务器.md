@@ -1,16 +1,18 @@
-# chrome-devtools-mcp：基于模型上下文协议 (MCP) 的服务器
+---
+title: "chrome-devtools-mcp：基于模型上下文协议 (MCP) 的服务器"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `ChromeDevTools/chrome-devtools-mcp`
-- 项目主页：https://github.com/ChromeDevTools/chrome-devtools-mcp
-- 官方网站：https://npmjs.org/package/chrome-devtools-mcp
-- 开源协议：Apache License 2.0
-- 主要语言：TypeScript
-- 统计快照：Stars 26367，Forks 1546，Watchers 99（抓取时间：2026-02-22）
-- 版本快照：最新发布 chrome-devtools-mcp-v0.17.3（发布时间：2026-02-19T17:01:36Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `ChromeDevTools/chrome-devtools-mcp`"
+项目主页: "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+官方网站: "https://npmjs.org/package/chrome-devtools-mcp"
+开源协议: "Apache License 2.0"
+主要语言: "TypeScript"
+统计快照: "Stars 26367，Forks 1546，Watchers 99（抓取时间：2026-02-22）"
+版本快照: "最新发布 chrome-devtools-mcp-v0.17.3（发布时间：2026-02-19T17:01:36Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 `chrome-devtools-mcp` 是一个基于模型上下文协议 (MCP) 的服务器，允许 AI 编程助手（如 Claude、Cursor、Copilot 等）利用 Chrome DevTools 和 Puppeteer 对实时 Chrome 浏览器进行自动化操作、深度调试和性能分析。
 
@@ -27,37 +29,45 @@
 * **第三方数据共享**：性能分析工具可能会将追踪 URL 发送至 Google CrUX API 以获取真实用户体验数据，需通过 `--no-performance-crux` 参数才能禁用此行为。
 
 ## 功能与定位
+
 Chrome DevTools for coding agents
 
 ## 典型使用场景
+
 - 用于智能体开发、编排与执行链路搭建。
 - 适合 AI 编程助手与自动化协作流程建设。
 
 ## 核心功能
+
 - 支持 Agent 工具调用、任务分解或上下文管理。
 - 提供与开发环境协作的自动化能力。
 - 强调可扩展、可观测与工程集成。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:39:14Z。
 - 项目创建于 2025-09-11T10:39:55Z，具备持续迭代与社区沉淀。
 - 以 `TypeScript` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/ChromeDevTools/chrome-devtools-mcp
 - 官网：https://npmjs.org/package/chrome-devtools-mcp
 - README：https://raw.githubusercontent.com/ChromeDevTools/chrome-devtools-mcp/main/README.md
 - Releases：https://github.com/ChromeDevTools/chrome-devtools-mcp/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/llm]]
 - [[00-元语/Agent]]

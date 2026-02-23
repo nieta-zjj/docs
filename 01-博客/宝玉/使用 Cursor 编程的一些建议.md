@@ -1,9 +1,10 @@
-# 使用 Cursor 编程的一些建议
+---
+title: "使用 Cursor 编程的一些建议"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/cursor-programming-tips
-- 发布日期：2025-01-09
-- 作者：宝玉
+来源: "https://baoyu.io/blog/cursor-programming-tips"
+发布日期: "2025-01-09"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -25,6 +26,7 @@
 *   **上下文敏感风险**：上下文缺失必要信息或上下文过长都会导致 AI 生成结果不佳。
 
 ## 正文
+
 ![Image 1](https://baoyu.io/uploads/2025-01-09/1736393030145.png)
 
 Cursor 既不是牛马，也不是老师，更不是玄学，它是工具

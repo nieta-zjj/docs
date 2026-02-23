@@ -1,11 +1,11 @@
-# CC之父分享：Claude Code内部团队的10大高效使用技巧
+---
+title: "CC之父分享：Claude Code内部团队的10大高效使用技巧"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/uNwSgmjWtalAAkLGoeT6Hg
-- 发布日期：2026-02-02
-- 作者：51CTO技术栈
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/uNwSgmjWtalAAkLGoeT6Hg"
+发布日期: "2026-02-02"
+作者: "51CTO技术栈"
+---
 
 ## 摘要
 
@@ -28,7 +28,6 @@ Claude Code 之父 Boris Cherny 分享了内部团队提升编程效率的 10 �
 * **Token 消耗成本高**：这种开启多个工作树并重度依赖 AI 的并行工作流会导致 Token 消耗惊人，带来较高的资金成本。
 
 ## 正文
-
 
 Claude Code（CC）之父 Boris Cherny 近日分享了来自 Claude Code 内部团队的 10 条使用技巧。他强调，团队成员使用 Claude 的方式与他本人有所不同，不存在唯一正确的使用方法，每个人的设置都各不相同。建议大家亲自试验，找到最适合自己的工作流。
 

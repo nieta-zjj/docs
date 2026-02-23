@@ -1,11 +1,11 @@
-# 推荐 4 个实用、好玩儿的 GitHub 开源项目
+---
+title: "推荐 4 个实用、好玩儿的 GitHub 开源项目"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/oA7uwPK8zhnq61TzKCWFrw
-- 发布日期：2025-10-14
-- 作者：逛逛GitHub
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/oA7uwPK8zhnq61TzKCWFrw"
+发布日期: "2025-10-14"
+作者: "逛逛GitHub"
+---
 
 ## 摘要
 

@@ -1,16 +1,18 @@
-# freqtrade：基于 Python 的免费开源加密货币交易机器人，支持多家主流交易所
+---
+title: "freqtrade：基于 Python 的免费开源加密货币交易机器人，支持多家主流交易所"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `freqtrade/freqtrade`
-- 项目主页：https://github.com/freqtrade/freqtrade
-- 官方网站：https://www.freqtrade.io
-- 开源协议：GNU General Public License v3.0
-- 主要语言：Python
-- 统计快照：Stars 47071，Forks 9825，Watchers 729（抓取时间：2026-02-22）
-- 版本快照：最新发布 2026.1（发布时间：2026-01-31T12:08:07Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `freqtrade/freqtrade`"
+项目主页: "https://github.com/freqtrade/freqtrade"
+官方网站: "https://www.freqtrade.io"
+开源协议: "GNU General Public License v3.0"
+主要语言: "Python"
+统计快照: "Stars 47071，Forks 9825，Watchers 729（抓取时间：2026-02-22）"
+版本快照: "最新发布 2026.1（发布时间：2026-01-31T12:08:07Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Freqtrade 是一款基于 Python 的免费开源加密货币交易机器人，支持多家主流交易所，并提供策略回测、机器学习优化以及通过 Telegram 或 WebUI 进行远程控制的功能。
 
@@ -30,37 +32,45 @@ Freqtrade 是一款基于 Python 的免费开源加密货币交易机器人，�
 *   **系统时间同步要求**：运行设备的系统时钟必须高度准确，并频繁与 NTP 服务器同步，否则会导致与交易所的通信出现问题。
 
 ## 功能与定位
+
 Free, open source crypto trading bot
 
 ## 典型使用场景
+
 - 作为通用开发工具用于工程协作与效率提升。
 - 适用于个人与团队的日常研发流程。
 
 ## 核心功能
+
 - 提供稳定的通用工程能力。
 - 支持跨平台或多环境使用。
 - 依赖开源社区持续迭代。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:35:32Z。
 - 项目创建于 2017-05-17T23:48:53Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/freqtrade/freqtrade
 - 官网：https://www.freqtrade.io
 - README：https://raw.githubusercontent.com/freqtrade/freqtrade/develop/README.md
 - Releases：https://github.com/freqtrade/freqtrade/releases
 
 ## 关联主题
+
 - [[00-元语/trading]]
 - [[00-元语/blockchain]]
 - [[00-元语/github]]

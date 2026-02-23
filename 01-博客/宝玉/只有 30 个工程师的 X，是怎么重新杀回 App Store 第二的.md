@@ -1,10 +1,10 @@
-# 只有 30 个工程师的 X，是怎么重新杀回 App Store 第二的
+---
+title: "只有 30 个工程师的 X，是怎么重新杀回 App Store 第二的"
 
-## 文档信息
-
-- 来源：https://baoyu.io/blog/2026-02-13/nikita-bier-x-growth
-- 发布日期：2026-02-13
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026-02-13/nikita-bier-x-growth"
+发布日期: "2026-02-13"
+作者: "宝玉"
+---
 
 ## 摘要
 

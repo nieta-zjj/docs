@@ -1,9 +1,10 @@
-# OpenAI 连续 12 天 AI 发布会：第十天 —— 通过  1-800-CHAT-GPT 电话和 ChatGPT 聊天
+---
+title: "OpenAI 连续 12 天 AI 发布会：第十天 —— 通过  1-800-CHAT-GPT 电话和 ChatGPT 聊天"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/openai-12-day-ai-event-800-chatgpt
-- 发布日期：2024-12-18
-- 作者：宝玉
+来源: "https://baoyu.io/blog/openai-12-day-ai-event-800-chatgpt"
+发布日期: "2024-12-18"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -23,6 +24,7 @@ OpenAI 在其“12天AI发布会”的第十天宣布，为进一步降低 AI �
 *   **地域限制**：目前，直接拨打电话与 ChatGPT 交流的功能仅限美国境内用户使用（WhatsApp 功能为全球可用）。
 
 ## 正文
+
 OpenAI 连续发布会的第十天,主要介绍了通过电话和 WhatsApp 使用 ChatGPT 的新功能。
 
 ***

@@ -1,9 +1,10 @@
-# Google NotebookLM 系统提示词
+---
+title: "Google NotebookLM 系统提示词"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/google-notebooklm-prompts
-- 发布日期：2025-05-01
-- 作者：宝玉
+来源: "https://baoyu.io/blog/google-notebooklm-prompts"
+发布日期: "2025-05-01"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -23,6 +24,7 @@
 * 逆向工程获取的提示词无法精准 1:1 还原 Google NotebookLM 原始的系统提示词，仅能作为参考。
 
 ## 正文
+
 > Google NotebookLM 是 Google Labs 推出的 AI 笔记与研究助手，前身为 “Project Tailwind”。它借助 Gemini 系列大模型，支持将 Google Docs、PDF 等资料汇整成“笔记本”，并通过聊天方式帮助用户总结、追问或提炼洞见；最新版本还加入「Discover sources」与多模态 PDF 支持，便于自动发现相关资料并解析图像、表格等内容。此外，NotebookLM 的「Audio Overviews」功能可把笔记即时生成多语言播客式音频，目前已覆盖 50 余种语言并向 200 多个地区开放，让学习与研究更具沉浸感。 网址：[https://notebooklm.google.com/](https://notebooklm.google.com/)
 
 Google NotebookLM 已经支持了中文，效果挺不错的，我其实挺好奇它系统提示词是怎么写的，于是尝试着逆向了一下，根据逆向的结果再反向推导了它的系统提示词，它的提示词一句话总结就是： **“在 5 分钟内，使用‘热情讲述者 + 冷静分析者’双声部，只凭指定来源，为时间紧却求深度的学习者，精编出既客观中立又足够有趣的洞见，让他/她收获可立即行动或引发顿悟的认知价值。”**
@@ -172,6 +174,7 @@ Google NotebookLM 已经支持了中文，效果挺不错的，我其实挺好�
 6.   **结尾问题**：内容结束时，一定要留给“你”一个问题，引导反思或实践。
 
 ## 关联主题
+
 - [[00-元语/prompt]]
 - [[00-元语/AI]]
 - [[00-元语/llm]]

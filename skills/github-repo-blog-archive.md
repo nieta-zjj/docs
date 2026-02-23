@@ -52,14 +52,15 @@ description: 从 GitHub 仓库中筛选高价值文档，按博客规范归档�
 4) 人工整理并落盘  
    - 按仓库规范通读并最小必要修订（禁止为改而改）。  
    - 落盘到 `01-博客/{品牌或作者姓名}/{中文标题}.md`。  
-   - 最终结构固定：`# 标题` → `## 文档信息` → `## 摘要` → `## 正文`。
+   - 最终结构固定：`---` + `title: 标题` + `---` + 元信息字段 → `## 摘要` → `## 正文`。
    - 链接约束：禁止在最终 Markdown 中使用“指向脚本/Notebook 的可点击链接”（如 `.ipynb`、`.py`、`.sh`）；相关引用只保留为纯文本路径。
 
 ## 命名与元信息
 
 - 文件名必须中文；`agent`、`review`、模型名等术语保持英文。
-- 文件名禁止带日期时间；日期写入 `发布日期：YYYY-MM-DD`。
-- `## 文档信息` 至少包含：
+- 文件名禁止带日期时间；日期写入 frontmatter `发布日期: YYYY-MM-DD`。
+- 元信息统一放在 frontmatter。
+- frontmatter 至少包含：
   - `发布日期`
   - `来源仓库`
   - `原文链接`
@@ -91,10 +92,19 @@ rg -nP "^\\s*(cat\\s+.*\\|\\s*)?python3\\s+scripts/gemini_task\\.py\\b.*\\s(?:-o
 # 最终文档清洁检查
 rg -n "正文（|站点中文链接（|（中文翻译）|（如识别到）|未识别|（提取）" 01-博客
 
+# frontmatter title 与内置标题检查（应无输出）
+rg --files-without-match -P -U '\\A---\\ntitle:\\s*(\"[^\\n]+\"|[^\\n]+)\\n---\\n' 01-博客 -g '*.md'
+rg --files -0 01-博客 -g '*.md' | xargs -0 awk 'FNR==1 {in_fm=0; checked=0} !checked { if (FNR==1 && $0=="---") {in_fm=1; next} if (in_fm) { if ($0=="---") {in_fm=0; next} next } if ($0 ~ /^[[:space:]]*$/) next; if ($0 ~ /^# /) print FILENAME ":" FNR ":" $0; checked=1 }'
+python3 scripts/normalize_h2_spacing.py --check 01-博客
+
+# `## 文档信息` 残留检查（命中即修复）
+rg -n "^## 文档信息$" 01-博客 -g '*.md'
+
 # 脚本/Notebook 链接检查（命中即修复为纯文本）
 rg -nP "\\[[^\\]]+\\]\\((?:https?://[^)\\s]+/[^)\\s]+\\.(?:ipynb|py|sh|js|ts|ps1)(?:[?#/][^)]*)?|(?:(?!https?://)[^)]*/[^)/?#]+\\.(?:ipynb|py|sh|js|ts|ps1)(?:[?#/][^)]*)?)|[^)]*/scripts/[^)]*)\\)" 00-元语 01-博客 02-资源 03-图书 skills
 ```
 
 ## 关联主题
+
 - [[00-元语/github]]
 - [[00-元语/workflow]]

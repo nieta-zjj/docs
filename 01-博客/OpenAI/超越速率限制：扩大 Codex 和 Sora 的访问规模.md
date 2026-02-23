@@ -1,13 +1,13 @@
-# 超越速率限制：扩大 Codex 和 Sora 的访问规模
+---
+title: "超越速率限制：扩大 Codex 和 Sora 的访问规模"
 
-## 文档信息
-
-- 来源：https://openai.com/zh-Hans-CN/index/beyond-rate-limits/
-- 英文原文：https://openai.com/index/beyond-rate-limits/
-- 发布日期：2026-02-13
-- 分类：[工程](https://openai.com/news/engineering/)
-- 作者：[Jonah Cohen](https://openai.com/news/?author=jonah-cohen#results)（技术团队成员）
-- 标签：[Codex](https://openai.com/news/?tags=codex)、[Sora](https://openai.com/news/?tags=sora)、[2026 年](https://openai.com/news/?tags=2026)
+来源: "https://openai.com/zh-Hans-CN/index/beyond-rate-limits/"
+英文原文: "https://openai.com/index/beyond-rate-limits/"
+发布日期: "2026-02-13"
+分类: "[工程](https://openai.com/news/engineering/)"
+作者: "[Jonah Cohen](https://openai.com/news/?author=jonah-cohen#results)（技术团队成员）"
+标签: "[Codex](https://openai.com/news/?tags=codex)、[Sora](https://openai.com/news/?tags=sora)、[2026 年](https://openai.com/news/?tags=2026)"
+---
 
 ## 摘要
 
@@ -127,7 +127,6 @@
 当用户高度投入时，系统应提供助力，而非制造阻碍。限额与额度退居幕后。
 
 实现这一体验，需要将访问、使用与计费视为一个统一系统重新设计，并将“正确性”作为核心产品能力来构建基础设施。这套基础架构未来可扩展至更多产品 — Codex 和 Sora 只是起点。
-
 
 ## 致谢
 

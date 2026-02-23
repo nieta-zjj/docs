@@ -1,9 +1,10 @@
-# 如果 AI 直译 + 意译后的效果还不理想该怎么办？
+---
+title: "如果 AI 直译 + 意译后的效果还不理想该怎么办？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering/how-to-improve-translation-quality
-- 发布日期：2023-12-13
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering/how-to-improve-translation-quality"
+发布日期: "2023-12-13"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@
 - [[01-博客/宝玉/一句简单的提示词就可以让 LLM 在翻译的时候更好的“意译”|一句简单的提示词就可以让 LLM 在翻译的时候更好的“意译”]]；关联理由：版本演进；说明：该文回顾并简化早期“直译/意译”思路，体现同一问题在模型能力变化下的新解法。
 
 ## 正文
+
 根据我以前分享过的[翻译 Prompt](https://baoyu.io/blog/prompt-engineering/a-prompt-for-better-translation-result)，通过先直译再意译，确实可以大幅提升翻译质量，但也不总是能得到理想的结果。
 
 比如说我今天在翻译一篇文章《[人工智能辅助程序员的三种类型 [译]](https://baoyu.io/translations/ai/three-types-of-ai-assisted-programmers)》的时候，其中第二段原文是：

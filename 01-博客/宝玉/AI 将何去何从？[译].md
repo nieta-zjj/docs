@@ -1,9 +1,10 @@
-# AI 将何去何从？[译]
+---
+title: "AI 将何去何从？[译]"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ai-future-translation
-- 发布日期：2025-01-07
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ai-future-translation"
+发布日期: "2025-01-07"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -27,6 +28,7 @@
 *   **算法导致的社会分裂：** 现有基于“互动量”优化的推荐算法容易榨取用户注意力、损害社会信任，存在放大少数人偏见并加剧群体对立的风险（Audrey Tang）。
 
 ## 正文
+
 六位 AI 领域的领军人物在 The Batch 中分享了他们对来年 AI 的期望：
 
 *   **Hanno Basse：面向艺术家的生成式 AI**

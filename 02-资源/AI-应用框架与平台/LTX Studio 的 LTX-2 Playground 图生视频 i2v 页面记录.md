@@ -1,12 +1,14 @@
-# LTX Studio 的 LTX-2 Playground 图生视频 i2v 页面记录
+---
+title: "LTX Studio 的 LTX-2 Playground 图生视频 i2v 页面记录"
 
-## 文档信息
-- 来源：https://app.ltx.studio/ltx-2-playground/i2v
-- 辅助来源：https://cdn.app.ltx.studio/assets/index-C9XsOAvr.js
-- 品牌：LTX
-- 译注：原页面为 JS 驱动的应用入口，本文基于可验证的页面元信息与前端常量整理。
+来源: "https://app.ltx.studio/ltx-2-playground/i2v"
+辅助来源: "https://cdn.app.ltx.studio/assets/index-C9XsOAvr.js"
+品牌: "LTX"
+译注: "原页面为 JS 驱动的应用入口，本文基于可验证的页面元信息与前端常量整理。"
+---
 
 ## 摘要
+
 **一句话总结**
 LTX Studio 是一个 AI 驱动的视频制作平台，其前端打包文件揭示了包含图生视频（i2v）、文生视频（t2v）等多种生成路由，以及详细的视频时长、帧率和摄像机运动控制参数。
 
@@ -24,6 +26,7 @@ LTX Studio 是一个 AI 驱动的视频制作平台，其前端打包文件揭�
 *   使用 r.jina.ai 抓取时，主要返回 Cookie/隐私面板，无法获取完整的应用内交互内容。
 
 ## 正文
+
 该链接对应 LTX Studio 的 LTX-2 Playground `i2v` 路由入口。页面本身是前端应用入口壳，首屏可验证信息主要来自 HTML 头部元数据与加载的 JS 打包文件。
 
 从页面元信息可确认：
@@ -54,6 +57,7 @@ LTX Studio 是一个 AI 驱动的视频制作平台，其前端打包文件揭�
 当前通过静态抓取工具无法得到该页面完整的应用内交互内容，因此本记录聚焦于可验证的公开元信息与前端常量。
 
 ## 相关文档
+
 - [[02-资源/AI-模型与推理基础设施/LTX-2 的 Direct audio-to-motion mapping 提示词指南|LTX-2 的 Direct audio-to-motion mapping 提示词指南]]；关联理由：解说；说明：同属 LTX-2 体系，该文补充了提示词编写与能力边界，可用于解释 i2v 参数配置的使用语境。
 
 ## 关联主题

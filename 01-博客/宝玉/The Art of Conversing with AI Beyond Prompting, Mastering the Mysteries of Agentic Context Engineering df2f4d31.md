@@ -1,9 +1,10 @@
-# The Art of Conversing with AI: Beyond Prompting, Mastering the Mysteries of Agentic Context Engineering
+---
+title: "The Art of Conversing with AI: Beyond Prompting, Mastering the Mysteries of Agentic Context Engineering"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/the-art-of-conversing-with-ai-master-context-engineering-for-ai-agents
-- 发布日期：2025-10-15
-- 作者：宝玉
+来源: "https://baoyu.io/blog/the-art-of-conversing-with-ai-master-context-engineering-for-ai-agents"
+发布日期: "2025-10-15"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -27,6 +28,7 @@
 *   **工具混乱风险**：一次性为Agent提供数十甚至上百个工具，会导致其陷入“工具混乱（tool confusion）”，无法准确判断该调用哪个工具。
 
 ## 正文
+
 **Source of Inspiration:** Lance (LangChain) & Pete (Manus)
 
 **Original Video:**[https://www.youtube.com/watch?v=6_BcCthVvb8](https://www.youtube.com/watch?v=6_BcCthVvb8)

@@ -1,9 +1,12 @@
-# Claude Code 创始人 YC 访谈：软件工程师头衔或将消失，为六个月后的模型做产品
+---
+title: "Claude Code 创始人 YC 访谈：软件工程师头衔或将消失，为六个月后的模型做产品"
+发布日期: "2026-02-23"
 
-## 文档信息
-- 来源：https://www.infoq.cn/article/Ki4t4mNFY92hisCVaxwB?utm_source=rss&utm_medium=article
+来源: "https://www.infoq.cn/article/Ki4t4mNFY92hisCVaxwB?utm_source=rss&utm_medium=article"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 Claude Code 创始人 Boris Cherny 在 YC 访谈中指出，随着 AI 编程能力的指数级提升，软件工程师的角色将向产品构建者转变，开发者应保持“新手心态”，顺应用户潜在需求，并始终为六个月后的未来模型构建产品。
 
@@ -23,6 +26,7 @@ Claude Code 创始人 Boris Cherny 在 YC 访谈中指出，随着 AI 编程能�
 *   **功能淘汰风险**：随着模型自身规划和执行能力变强，现有的 Plan mode 等过渡性功能未来可能会完全消失。
 
 ## 正文
+
 “我们会开始看到‘软件工程师’这个头衔慢慢消失。可能会变成 builder、product manager，或者头衔还保留，但只是一个遗留符号。因为大家做的工作不再只是写代码：软件工程师还会写 spec、还会跟用户沟通。”
 
 放出这话的，正是 Claude Code 的创始人 Boris Cherny。
@@ -104,9 +108,11 @@ Claude Code 的影响力已经溢出了技术圈。在 Anthropic 内部，设计
 从极简的终端到多 Agent 协作，再到走向非技术用户，Claude Code 正在验证一条沿着指数曲线推演的未来：当编程不再是瓶颈，如何顺应模型的发展与用户的真实需求，才是创造伟大产品的关键。
 
 ## 相关文档
+
 - [[01-博客/InfoQ/Claude Code 创始人 YC 访谈：为六个月后的模型做产品，软件工程师头衔或将消失.md|Claude Code 创始人 YC 访谈：为六个月后的模型做产品，软件工程师头衔或将消失]]；关联理由：同一事件；说明：两文均整理 Boris Cherny 的同一场 YC 访谈，此文可用于交叉核对表述重点。
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/Agent]]
 - [[00-元语/interview]]

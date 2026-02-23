@@ -1,9 +1,10 @@
-# 如何使用 DALL-E 给 PPT 画风格稳定的配图？
+---
+title: "如何使用 DALL-E 给 PPT 画风格稳定的配图？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/dall-e-ppt-image-style-guide
-- 发布日期：2024-11-12
-- 作者：宝玉
+来源: "https://baoyu.io/blog/dall-e-ppt-image-style-guide"
+发布日期: "2024-11-12"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -21,6 +22,7 @@
 *   直接使用 GPT-4o 绘图存在不稳定性，可能会出现拒绝出图或单次仅生成一张图的情况。
 
 ## 正文
+
 我之前在准备《如何写好提示词？》 [https://baoyu.io/blog/how-to-write-good-prompt](https://baoyu.io/blog/how-to-write-good-prompt) 的配图时，都是用 DALL-E 帮我画的，整体效果还是挺满意的。
 
 ![Image 1](https://baoyu.io/uploads/2024-11-12/%E5%A6%82%E4%BD%95%E5%86%99%E5%A5%BD%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9F.076.png)![Image 2](https://baoyu.io/uploads/2024-11-12/%E5%A6%82%E4%BD%95%E5%86%99%E5%A5%BD%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9F.056.png)

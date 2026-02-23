@@ -1,9 +1,10 @@
-# What You Need Is Not an AI Agent, But an AI-Friendly Workflow
+---
+title: "What You Need Is Not an AI Agent, But an AI-Friendly Workflow"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ai-agent/what-you-need-is-ai-friendly-workflow
-- 发布日期：2024-10-09
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ai-agent/what-you-need-is-ai-friendly-workflow"
+发布日期: "2024-10-09"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -25,6 +26,7 @@
 *   **纯LLM的局限性**：仅使用LLM处理复杂任务（如解析PDF）时，会面临上下文长度限制以及视觉内容嵌入困难的问题。
 
 ## 正文
+
 The concept of AI agents is gaining popularity, and some people see them as a silver bullet for solving problems with AI. The hype around AI agents suggests that if you have one, many challenges can be easily tackled. However, there are also those who argue that AI agents are overhyped and lack real, viable applications.
 
 A well-known example often cited is from Andrew Ng, who used multi-agent translation to improve quality. In this scenario, three agents are used: a direct translation agent, a review agent, and a paraphrasing agent, which can significantly boost translation quality. However, it's not necessarily about using three agents to improve translation quality. In fact, I've previously proposed a method that uses prompts to guide large language models (LLMs) through direct translation, reflection, and paraphrasing steps, resulting in high-quality output.
@@ -123,6 +125,7 @@ Conclusion
 To make the most of AI, the key is to design workflows that fit AI's strengths. Whether it involves an AI agent, an LLM, or another model is secondary. The true focus should always be on solving the core problem effectively, using AI as a tool rather than an end in itself.
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/workflow]]

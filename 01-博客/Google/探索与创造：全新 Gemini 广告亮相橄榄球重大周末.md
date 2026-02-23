@@ -1,9 +1,11 @@
-# 探索与创造：全新 Gemini 广告亮相橄榄球重大周末
+---
+title: "探索与创造：全新 Gemini 广告亮相橄榄球重大周末"
 
-## 文档信息
-- 来源：https://blog.google/company-news/inside-google/company-announcements/gemini-ad-new-home/
+来源: "https://blog.google/company-news/inside-google/company-announcements/gemini-ad-new-home/"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 在橄榄球重大赛事周末期间，全新发布的 Gemini 广告展示了其通过 Nano Banana Pro 图像编辑、生态应用联动以及 Gemini Live 实时分享等功能，帮助用户高效完成从家居设计到日常任务的各种需求。
 
@@ -17,6 +19,7 @@
 * Gemini Live 支持实时分享功能，用户可分享当前所见、所做或所看的内容并随时提问，获取关于周围世界的解答。
 
 ## 正文
+
 今天，在重大赛事（Big Game）到来之前，我们推出了一系列全新广告，向大家展示 Gemini 如何以全新的方式为您的大小任务提供即时帮助。
 
 ### 比赛插播广告《新家》：用 AI 构想生活空间
@@ -41,3 +44,10 @@
 去年，Gemini Live 还新增了实时分享功能。您可以向它分享您正在看到的事物、正在处理的工作或正在观看的内容，随时提出问题，并获取有关周围世界的解答。
 
 无论您是在关注圣克拉拉（Santa Clara）的重大比赛，还是在留意意大利的全球赛事，Gemini 都是您更加个性化、更加主动的 AI 助手，随时准备着帮助您探索、学习和创造。
+
+## 关联主题
+
+- [[00-元语/AI]]
+- [[00-元语/gemini]]
+- [[00-元语/image-editing]]
+- [[00-元语/multimodal]]

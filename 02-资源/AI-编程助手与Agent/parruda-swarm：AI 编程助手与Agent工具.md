@@ -1,11 +1,11 @@
-# parruda-swarm：AI 编程助手与Agent工具
+---
+title: "parruda-swarm：AI 编程助手与Agent工具"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/parruda/swarm
-- 发现评分：92
-- Stars：1642
+发布日期: "2026-02-22"
+来源: "https://github.com/parruda/swarm"
+发现评分: "92"
+Stars: "1642"
+---
 
 ## 摘要
 
@@ -22,9 +22,11 @@ parruda/swarm 是一个基于 Ruby 生态的通用 AI Agent 工具链（包含 S
 * **项目数据**：该开源项目在 GitHub 上已获得 1642 个 Stars。
 
 ## 功能与定位
+
 parruda/swarm 是一个用于构建通用 AI Agent 系统的 Ruby gems 集合。它提供了一套完整的工具链（包含 SwarmSDK、SwarmMemory 和 SwarmCLI），旨在帮助开发者搭建具备记忆、工作流编排和自动化能力的 AI 代理。此外，项目还包含专为开发团队设计的 Claude Swarm v1。
 
 ## 典型使用场景
+
 * **自动化**：执行各类自动化工作流程。
 * **研究**：辅助进行信息检索与深度研究。
 * **数据处理**：处理和分析复杂数据。
@@ -32,19 +34,21 @@ parruda/swarm 是一个用于构建通用 AI Agent 系统的 Ruby gems 集合。
 * **内容创作**：辅助生成各类文本内容。
 
 ## 核心功能
+
 * **单进程编排**：通过 SwarmSDK 实现 Agent 的单进程调度与管理。
 * **持久化记忆与语义搜索**：内置带有语义搜索功能的持久化记忆模块。
 * **节点工作流**：支持基于节点（node）的工作流构建与执行。
 * **Hooks 机制**：提供钩子（hooks）功能，便于扩展和自定义 Agent 行为。
 
 ## 特色与差异点
+
 * **基于 Ruby 生态**：以 Ruby gems 的形式提供，专为 Ruby 开发者设计的通用 AI Agent 解决方案。
 * **组件化工具链**：集成了 SDK、记忆模块（SwarmMemory）和命令行工具（SwarmCLI），提供开箱即用的开发体验。
 * **团队协作支持**：内置面向开发团队的特定版本（Claude Swarm v1）。
 
 ## 链接
-* GitHub 仓库：https://github.com/parruda/swarm
 
+* GitHub 仓库：https://github.com/parruda/swarm
 
 ## 关联主题
 

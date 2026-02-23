@@ -1,9 +1,10 @@
-# 一文看懂“提示词” vs “提示词工程” vs “上下文工程”
+---
+title: "一文看懂“提示词” vs “提示词工程” vs “上下文工程”"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering-vs-context-engineering
-- 发布日期：2025-07-02
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering-vs-context-engineering"
+发布日期: "2025-07-02"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@
 *   **上下文窗口限制**：模型的上下文长度有限，填充过少或搭配不当会导致模型信息不足、性能变差；填充过多或无关信息则会增加成本并降低模型表现。
 
 ## 正文
+
 很多人分不清楚什么是“提示词”（Prompt），什么是“提示词工程”（Prompt Engineering），现在还又多了一个概念叫“上下文工程”（Context Engineering），这又和“提示词工程”什么区别？
 
 ![Image 1](https://baoyu.io/uploads/2025-07-02-1751419326719-8e6f02d0-22ef-463d-97e1-3e40b3fbe453.png)

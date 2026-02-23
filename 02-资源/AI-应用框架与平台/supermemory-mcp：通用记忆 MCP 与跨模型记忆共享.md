@@ -1,11 +1,11 @@
-# supermemory-mcp：通用记忆 MCP 与跨模型记忆共享
+---
+title: "supermemory-mcp：通用记忆 MCP 与跨模型记忆共享"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/supermemoryai/supermemory-mcp
-- 发现评分：100
-- Stars：1616
+发布日期: "2026-02-22"
+来源: "https://github.com/supermemoryai/supermemory-mcp"
+发现评分: "100"
+Stars: "1616"
+---
 
 ## 摘要
 
@@ -21,25 +21,30 @@ supermemory-mcp 是一个完全免费的通用大模型记忆 MCP 项目，旨�
 * **开源获取**：项目代码托管于 GitHub（supermemoryai/supermemory-mcp）。
 
 ## 功能与定位
+
 这是一个通用记忆 MCP（Model Context Protocol）项目，旨在打破单一平台（如 ChatGPT）的记忆孤岛，将用户的记忆数据开放并提供给所有大语言模型（LLM）使用。
 
 ## 典型使用场景
+
 在多个不同的大语言模型（LLM）之间无缝共享和调用用户的历史记忆数据。
 
 ## 核心功能
+
 * **跨模型记忆共享**：使原本仅存在于特定应用中的记忆数据，能够被任何大语言模型访问和利用。
 
 ## 特色与差异点
+
 * **完全免费与开放**：无需注册登录，且没有任何付费墙限制。
 * **极简部署**：只需一条命令即可完成全部设置。
 * **通用性**：打破了 ChatGPT 等单一平台的生态壁垒，实现记忆的通用化。
 
 ## 使用方式概览
+
 通过单条命令行指令即可完成环境的安装与配置。
 
 ## 链接
-* GitHub 仓库：https://github.com/supermemoryai/supermemory-mcp
 
+* GitHub 仓库：https://github.com/supermemoryai/supermemory-mcp
 
 ## 关联主题
 

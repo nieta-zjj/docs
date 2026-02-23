@@ -1,9 +1,9 @@
-# vLLM 内存泄漏排查
+---
+title: "vLLM 内存泄漏排查"
 
-## 文档信息
-
-- 发布日期：2026-01-21
-- 原文链接：https://mistral.ai/news/debugging-memory-leak-in-vllm
+发布日期: "2026-01-21"
+原文链接: "https://mistral.ai/news/debugging-memory-leak-in-vllm"
+---
 
 ## 摘要
 

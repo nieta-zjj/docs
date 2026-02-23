@@ -1,11 +1,11 @@
-# philippgille-chromem-go：AI 记忆与检索基础设施
+---
+title: "philippgille-chromem-go：AI 记忆与检索基础设施"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/philippgille/chromem-go
-- 发现评分：100
-- Stars：868
+发布日期: "2026-02-22"
+来源: "https://github.com/philippgille/chromem-go"
+发现评分: "100"
+Stars: "868"
+---
 
 ## 摘要
 
@@ -21,22 +21,26 @@ chromem-go 是一个专为 Go 语言设计的零依赖、轻量级嵌入式向�
 * **运行方式**：可直接嵌入到 Go 应用程序中运行，无需额外部署独立服务。
 
 ## 功能与定位
+
 chromem-go 是一个专为 Go 语言设计的嵌入式向量数据库，定位为 AI 记忆与检索的基础设施。
 
 ## 典型使用场景
+
 - **大语言模型记忆（LLM Memory）**：为 AI 模型提供记忆存储与检索支持。
 
 ## 核心功能
+
 - **内存存储与持久化**：默认基于内存运行，同时提供可选的数据持久化功能。
 - **兼容性接口**：提供类似于 Chroma 向量数据库的调用接口。
 
 ## 特色与差异点
+
 - **零第三方依赖**：项目完全独立，不依赖任何第三方库，轻量且易于集成。
 - **原生嵌入式**：专为 Go 语言环境打造，可直接嵌入到 Go 应用程序中运行。
 
 ## 链接
-- https://github.com/philippgille/chromem-go
 
+- https://github.com/philippgille/chromem-go
 
 ## 关联主题
 

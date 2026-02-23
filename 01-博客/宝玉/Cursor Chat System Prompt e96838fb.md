@@ -1,9 +1,10 @@
-# Cursor Chat System Prompt
+---
+title: "Cursor Chat System Prompt"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/cursor-chat-system-prompt
-- 发布日期：2025-02-14
-- 作者：宝玉
+来源: "https://baoyu.io/blog/cursor-chat-system-prompt"
+发布日期: "2025-02-14"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -25,6 +26,7 @@
 *   **代码误删风险**：如果 AI 在生成代码块时引入歧义，或未严格使用 `// ... existing code ...` 标记未修改的区域，可能导致“应用模型”在更新文件时错误地删除现有的未修改代码或注释。
 
 ## 正文
+
 ```
 You are an intelligent programmer, powered by Claude 3.5 Sonnet. You are happy to help answer any questions that the user has (usually they will be about coding).
 

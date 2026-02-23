@@ -1,10 +1,12 @@
-# Simon Willison 博客摘录：《星际迷航》开场白初稿
+---
+title: "Simon Willison 博客摘录：《星际迷航》开场白初稿"
 
-## 文档信息
-- 来源：https://simonwillison.net/2026/Feb/17/rough-draft-8266/#atom-everything
-- 发布日期：2026-02-17
+来源: "https://simonwillison.net/2026/Feb/17/rough-draft-8266/#atom-everything"
+发布日期: "2026-02-17"
+---
 
 ## 摘要
+
 **一句话总结**
 Simon Willison 在其博客上分享了 1966 年《星际迷航》开场白的初稿内容，并列出了近期关于博客功能扩展与新工具发布的文章更新。
 
@@ -18,6 +20,7 @@ Simon Willison 在其博客上分享了 1966 年《星际迷航》开场白的�
 * 博客于 2026 年 2 月 15 日发布了题为《深蓝（Deep Blue）》的文章。
 
 ## 正文
+
 这是由 Simon Willison 收集并于 2026 年 2 月 17 日发布在其博客上的一段珍贵引言。
 
 ### 《星际迷航》开场白初稿
@@ -35,4 +38,5 @@ Simon Willison 在其博客上分享了 1966 年《星际迷航》开场白的�
 *   **深蓝（Deep Blue）** —— 2026 年 2 月 15 日
 
 ## 关联主题
+
 - [[00-元语/reading]]

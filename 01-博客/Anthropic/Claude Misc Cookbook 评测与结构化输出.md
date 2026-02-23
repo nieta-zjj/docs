@@ -1,18 +1,19 @@
-# Claude Misc Cookbook 评测与结构化输出
+---
+title: "Claude Misc Cookbook 评测与结构化输出"
 
-## 文档信息
-发布日期：2026-02-20
-来源仓库：anthropics/claude-cookbooks
-原文链接：https://github.com/anthropics/claude-cookbooks/tree/main/misc
-覆盖范围：
-- `misc/building_evals.ipynb`
-- `misc/generate_test_cases.ipynb`
-- `misc/building_moderation_filter.ipynb`
-- `misc/how_to_enable_json_mode.ipynb`
-- `misc/how_to_make_sql_queries.ipynb`
-- `misc/using_citations.ipynb`
-- `misc/pdf_upload_summarization.ipynb`
-- `misc/read_web_pages_with_haiku.ipynb`
+发布日期: "2026-02-20"
+来源仓库: "anthropics/claude-cookbooks"
+原文链接: "https://github.com/anthropics/claude-cookbooks/tree/main/misc"
+覆盖范围:
+  - "`misc/building_evals.ipynb`"
+  - "`misc/generate_test_cases.ipynb`"
+  - "`misc/building_moderation_filter.ipynb`"
+  - "`misc/how_to_enable_json_mode.ipynb`"
+  - "`misc/how_to_make_sql_queries.ipynb`"
+  - "`misc/using_citations.ipynb`"
+  - "`misc/pdf_upload_summarization.ipynb`"
+  - "`misc/read_web_pages_with_haiku.ipynb`"
+---
 
 ## 摘要
 
@@ -34,6 +35,7 @@
 *   **数据解析风险**：模型输出存在解析失败与字段漂移的风险（文档建议通过 JSON Mode 来降低此风险）。
 
 ## 正文
+
 这组 notebook 关注“输出质量可验证”与“结果可直接集成”：从评测集构建、JSON 输出约束到 SQL 生成与引用追踪，目标都是把模型输出变成可工程化消费的数据。
 
 ### 能力主线
@@ -63,10 +65,12 @@ def build_input_prompt(animal_statement):
 - 引用场景中要区分“来源可追溯”与“结论正确”两个维度。
 
 ## 相关文档
+
 - [[01-博客/Anthropic/Claude Misc Cookbook 上下文与缓存优化|Claude Misc Cookbook 上下文与缓存优化]]；关联理由：上下游；说明：两文同属 Claude Cookbooks 的 `misc` 实践，前者优化上下文与成本，本文补齐评测与结构化输出的质量控制环节。
 - [[01-博客/Anthropic/Claude Capabilities Notebook 实战补充|Claude Capabilities Notebook 实战补充]]；关联理由：观点一致；说明：两文都要求以评测驱动落地，并在结构化输出与 Text-to-SQL 场景强调可验证的工程约束。
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/evals]]
 - [[00-元语/data-pipeline]]

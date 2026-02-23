@@ -1,9 +1,10 @@
-# GitHub Copilot Agent 模式的系统提示词泄漏
+---
+title: "GitHub Copilot Agent 模式的系统提示词泄漏"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/github-copilot-agent-prompt-leak
-- 发布日期：2025-02-08
-- 作者：宝玉
+来源: "https://baoyu.io/blog/github-copilot-agent-prompt-leak"
+发布日期: "2025-02-08"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -23,6 +24,7 @@
 *   **模型知识截止**：提示词中明确设定该 AI 的训练数据截至 2023 年 10 月。
 
 ## 正文
+
 今天破解了一下 GitHub Copilot Agent 模式下的系统提示词，可以看出来，它内置了一系列工具：
 
 *   search_codebase：进行自然语言搜索，用于在用户当前工作区中查找与其问题相关的代码或文档注释。
@@ -511,6 +513,7 @@ You are trained on data up to October 2023.
 ```
 
 ## 关联主题
+
 - [[00-元语/copilot]]
 - [[00-元语/github]]
 - [[00-元语/Agent]]

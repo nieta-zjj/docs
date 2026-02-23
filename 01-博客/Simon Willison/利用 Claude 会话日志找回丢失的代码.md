@@ -1,10 +1,12 @@
-# 利用 Claude 会话日志找回丢失的代码
+---
+title: "利用 Claude 会话日志找回丢失的代码"
 
-## 文档信息
-- 来源：https://simonwillison.net/2026/Feb/19/recovering-lost-code/#atom-everything
-- 发布日期：2026-02-19
+来源: "https://simonwillison.net/2026/Feb/19/recovering-lost-code/#atom-everything"
+发布日期: "2026-02-19"
+---
 
 ## 摘要
+
 **一句话总结**
 作者因电脑崩溃丢失了存放在临时目录的代码，最终通过提取 `~/.claude/projects/` 下的 Claude 会话日志成功将其恢复。
 
@@ -20,6 +22,7 @@
 * 在 `/tmp` 目录下编写代码存在因电脑崩溃重启而导致文件彻底丢失的风险。
 
 ## 正文
+
 我已经到了“并行智能体错乱”（parallel agent psychosis）的阶段，以至于我弄丢了整整一个功能——我清楚地记得昨天还在开发它，但我怎么也找不到包含该功能的分支（branch）、工作树（worktree）、云实例（cloud instance）或检出（checkout）。
 
 ……不过终于找到了！原来我之前一直在 `/tmp` 目录下随手编写一个原型，后来电脑崩溃重启，代码就丢失了。幸运的是，所有的内容都还完好地保留在 `~/.claude/projects/` 的会话日志中。通过 Claude Code，我成功将代码提取出来，并重新恢复了那个丢失的功能。
@@ -35,10 +38,12 @@
 每月赞助 10 美元，即可获取一份精心策划的电子邮件摘要，了解本月最重要的 LLM（大语言模型）发展动态。花钱让我为你发送更少、更精炼的内容！
 
 ## 相关文档
+
 - [[01-博客/Anthropic/面向 AI Agent 的上下文工程实践|面向 AI Agent 的上下文工程实践]]；关联理由：解说；说明：该文系统解释了智能体为何需要把关键信息外置到文件与日志中，与本文通过会话日志恢复代码的实践形成方法层互证。
 - [[01-博客/Simon Willison/为什么我偏爱使用 Claude Code 桌面端与 Rodney 工具|为什么我偏爱使用 Claude Code 桌面端与 Rodney 工具]]；关联理由：观点一致；说明：两文都围绕 Claude Code 的实际工作流与风险控制，强调通过合适的运行环境与工具降低本地开发丢失或受损风险。
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/memory]]
 - [[00-元语/workflow]]

@@ -1,16 +1,18 @@
-# yaak：基于 Tauri、Rust 和 React 构建的直观、快速且注重隐私的桌面 API 客户端
+---
+title: "yaak：基于 Tauri、Rust 和 React 构建的直观、快速且注重隐私的桌面 API 客户端"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `mountain-loop/yaak`
-- 项目主页：https://github.com/mountain-loop/yaak
-- 官方网站：https://yaak.app
-- 开源协议：MIT License
-- 主要语言：TypeScript
-- 统计快照：Stars 17895，Forks 709，Watchers 41（抓取时间：2026-02-22）
-- 版本快照：最新发布 v2026.3.0-beta.5（发布时间：2026-02-20T23:44:18Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `mountain-loop/yaak`"
+项目主页: "https://github.com/mountain-loop/yaak"
+官方网站: "https://yaak.app"
+开源协议: "MIT License"
+主要语言: "TypeScript"
+统计快照: "Stars 17895，Forks 709，Watchers 41（抓取时间：2026-02-22）"
+版本快照: "最新发布 v2026.3.0-beta.5（发布时间：2026-02-20T23:44:18Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Yaak 是一款基于 Tauri、Rust 和 React 构建的直观、快速且注重隐私的桌面 API 客户端，全面支持 REST、GraphQL、WebSocket、SSE 和 gRPC 协议。
 
@@ -28,37 +30,45 @@ Yaak 是一款基于 Tauri、Rust 和 React 构建的直观、快速且注重隐
 *   **代码贡献限制**：官方明确规定，目前社区的 Pull Requests (PRs) 仅限于错误修复和小范围改进；任何超出此范围的 PR 必须先在官方反馈渠道获得批准。
 
 ## 功能与定位
+
 The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 
 ## 典型使用场景
+
 - 用于快速搭建 AI 应用、工作流或服务化能力。
 - 作为上层产品的能力底座，统一模型调用与业务集成。
 
 ## 核心功能
+
 - 提供应用框架或平台化能力。
 - 支持模型接入、流程编排或接口服务化。
 - 面向开发与部署提供基础工程支持。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:53:22Z。
 - 项目创建于 2023-02-16T04:37:02Z，具备持续迭代与社区沉淀。
 - 以 `TypeScript` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/mountain-loop/yaak
 - 官网：https://yaak.app
 - README：https://raw.githubusercontent.com/mountain-loop/yaak/main/README.md
 - Releases：https://github.com/mountain-loop/yaak/releases
 
 ## 关联主题
+
 - [[00-元语/desktop-client]]
 - [[00-元语/protocol]]
 - [[00-元语/security]]

@@ -1,9 +1,10 @@
-# 程序员是不是要被 AI 替代？
+---
+title: "程序员是不是要被 AI 替代？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/software-engineering/will-ai-replace-sde
-- 发布日期：2024-03-13
-- 作者：宝玉
+来源: "https://baoyu.io/blog/software-engineering/will-ai-replace-sde"
+发布日期: "2024-03-13"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@
 * 程序员如果不学习新的知识（如掌握 AI 工具），未来可能会难以跟上时代。
 
 ## 正文
+
 昨天 Devin 的大火，像一个 AI 程序员，能独立完成一些编程任务。这又引发了很多程序员是不是要被 AI 替代的讨论和焦虑。以至于很多人都在说：既然 AI 写代码能力越来越强了，还要不要学习 CS？要不要改行？
 
 我之前写的这篇[《为啥很多人觉得编程难学？》](https://baoyu.io/blog/software-engineering/why-programming-is-hard)文章中表达了一个观点：软件工程从来不只是写代码，代码只是软件工程中众多环节中的一环，甚至不是最重要的一环。

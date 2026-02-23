@@ -1,9 +1,10 @@
-# Gemini Coding partner System Prompt
+---
+title: "Gemini Coding partner System Prompt"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/gemini-coding-partner-system-prompt
-- 发布日期：2025-08-22
-- 作者：宝玉
+来源: "https://baoyu.io/blog/gemini-coding-partner-system-prompt"
+发布日期: "2025-08-22"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -21,6 +22,7 @@
 *   **方案概述与交付**：在提供代码前先给出解决方案概述（包含开发步骤、假设和限制）；提供的代码需易于复制粘贴，并附带逻辑解释、可调参数说明及具体的实现指南。
 
 ## 正文
+
 [https://gemini.google.com/gem/coding-partner](https://gemini.google.com/gem/coding-partner)
 
 Coding partner

@@ -1,20 +1,22 @@
-# Pathway：Git 项目实时流处理与 LLM 数据管道
+---
+title: "Pathway：Git 项目实时流处理与 LLM 数据管道"
 
-## 文档信息
-- 对象：Git 项目
-- 发布日期：2026-02-22
-- 来源：
-  - https://github.com/pathwaycom/pathway
-  - https://raw.githubusercontent.com/pathwaycom/pathway/main/README.md
-  - https://raw.githubusercontent.com/pathwaycom/pathway/main/LICENSE.txt
-  - https://pathway.com/developers/user-guide/introduction/welcome
-  - https://pathway.com/developers/api-docs/pathway
-  - https://pathway.com/developers/templates/
-  - https://pathway.com/license/
-- 许可协议：BSL 1.1（License 文件为 `LICENSE.txt`，含 Additional Use Grant）
-- 输入备注：用户附带数字 `33028`；当前 `https://github.com/pathwaycom/pathway/issues/33028` 返回 404，无法确认为公开可访问 issue。
+对象: "Git 项目"
+发布日期: "2026-02-22"
+来源:
+  - "https://github.com/pathwaycom/pathway"
+  - "https://raw.githubusercontent.com/pathwaycom/pathway/main/README.md"
+  - "https://raw.githubusercontent.com/pathwaycom/pathway/main/LICENSE.txt"
+  - "https://pathway.com/developers/user-guide/introduction/welcome"
+  - "https://pathway.com/developers/api-docs/pathway"
+  - "https://pathway.com/developers/templates/"
+  - "https://pathway.com/license/"
+许可协议: "BSL 1.1（License 文件为 `LICENSE.txt`，含 Additional Use Grant）"
+输入备注: "用户附带数字 `33028`；当前 `https://github.com/pathwaycom/pathway/issues/33028` 返回 404，无法确认为公开可访问 issue。"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Pathway 是一个底层由 Rust 驱动的 Python ETL 框架，专为低延迟实时流处理、批流一体开发以及大语言模型 LLM 和 RAG 数据流水线设计。
 
@@ -34,15 +36,18 @@ Pathway 是一个底层由 Rust 驱动的 Python ETL 框架，专为低延迟实
 - 编号失效：`33028` 对应 issue 在 2026-02-22 返回 HTTP 404。
 
 ## 功能与定位
+
 Pathway 定位为面向实时数据与智能应用的数据处理框架。它以 Python 作为开发接口，以 Rust 引擎承载运行时，强调在实时性、增量计算和工程可部署性之间取得平衡，服务于传统数据管道与 AI 数据管道的统一开发。
 
 ## 典型使用场景
+
 - 实时事件处理与流式分析。
 - 实时更新的数据索引与检索增强应用。
 - 面向 LLM 的数据接入、转换与推理前处理流程。
 - 需要在开发和生产之间复用同一套处理逻辑的团队场景。
 
 ## 核心功能
+
 - 多源连接器与数据接入能力。
 - 有状态与无状态转换能力。
 - 增量计算与一致性处理机制。
@@ -50,12 +55,14 @@ Pathway 定位为面向实时数据与智能应用的数据处理框架。它以
 - LLM helpers、实时向量索引与模板化示例入口。
 
 ## 特色与差异点
+
 - Python 开发体验与 Rust 运行时组合。
 - 一套代码支持 batch 与 streaming。
 - 官方模板与文档体系较完整，便于快速启动。
 - 与 Docker、Kubernetes 的部署路径衔接明确。
 
 ## 使用方式概览
+
 1. 先阅读官方用户文档与模板中心，确认目标场景对应的示例。
 2. 按 Python 3.10+ 环境要求完成本地或容器化运行环境准备。
 3. 根据业务数据源选择连接器并搭建管道。
@@ -63,12 +70,14 @@ Pathway 定位为面向实时数据与智能应用的数据处理框架。它以
 5. 上线前核验许可证约束与组织合规要求。
 
 ## 限制与注意事项
+
 - 许可边界：当前版本遵循 BSL 1.1，生产用途需核对 Additional Use Grant 的范围与限制。
 - 变更条款：许可文件声明代码将按变更日期逐步转换到 Apache-2.0，评估时需结合具体版本。
 - 平台边界：官方主要支持 macOS 与 Linux；其他系统运行方式需额外评估。
 - 链接边界：用户附带编号链接当前不可访问，不宜作为稳定证据来源。
 
 ## 链接
+
 - 仓库：https://github.com/pathwaycom/pathway
 - README：https://raw.githubusercontent.com/pathwaycom/pathway/main/README.md
 - LICENSE：https://raw.githubusercontent.com/pathwaycom/pathway/main/LICENSE.txt

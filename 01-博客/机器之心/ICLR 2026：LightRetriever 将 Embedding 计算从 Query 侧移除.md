@@ -1,9 +1,9 @@
-# ICLR 2026：LightRetriever 将 Embedding 计算从 Query 侧移除
+---
+title: "ICLR 2026：LightRetriever 将 Embedding 计算从 Query 侧移除"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 原文链接：https://www.jiqizhixin.com/articles/2026-02-22-4
+发布日期: "2026-02-22"
+原文链接: "https://www.jiqizhixin.com/articles/2026-02-22-4"
+---
 
 ## 摘要
 

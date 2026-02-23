@@ -1,16 +1,18 @@
-# sglang：推理服务系统用于大语言模型与多模态模型高性能部署
+---
+title: "sglang：推理服务系统用于大语言模型与多模态模型高性能部署"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `sgl-project/sglang`
-- 项目主页：https://github.com/sgl-project/sglang
-- 官方网站：https://sglang.io
-- 开源协议：Apache License 2.0
-- 主要语言：Python
-- 统计快照：Stars 23647，Forks 4516，Watchers 134（抓取时间：2026-02-22）
-- 版本快照：最新发布 v0.5.8（发布时间：2026-01-23T22:09:28Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `sgl-project/sglang`"
+项目主页: "https://github.com/sgl-project/sglang"
+官方网站: "https://sglang.io"
+开源协议: "Apache License 2.0"
+主要语言: "Python"
+统计快照: "Stars 23647，Forks 4516，Watchers 134（抓取时间：2026-02-22）"
+版本快照: "最新发布 v0.5.8（发布时间：2026-01-23T22:09:28Z）"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 SGLang 是一个由非营利组织 LMSYS 托管的高性能大语言模型与多模态模型推理服务框架，旨在通过 RadixAttention 等核心技术在各类硬件和分布式集群上提供低延迟、高吞吐的推理能力。
 
@@ -25,37 +27,45 @@ SGLang 是一个由非营利组织 LMSYS 托管的高性能大语言模型与多
 * **社区与生态认可**：已正式加入 PyTorch 生态系统，并获得了 a16z 第三批开源 AI 资助（Open Source AI Grant）。
 
 ## 功能与定位
+
 SGLang is a high-performance serving framework for large language models and multimodal models.
 
 ## 典型使用场景
+
 - 用于模型训练、微调、推理或文档解析等基础能力建设。
 - 作为上层 AI 应用的数据与模型基础设施。
 
 ## 核心功能
+
 - 提供模型/推理相关核心能力。
 - 支持与主流 AI 工具链协同。
 - 兼顾实验验证与工程落地场景。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:50:34Z。
 - 项目创建于 2024-01-08T04:15:52Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/sgl-project/sglang
 - 官网：https://sglang.io
 - README：https://raw.githubusercontent.com/sgl-project/sglang/main/README.md
 - Releases：https://github.com/sgl-project/sglang/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/github]]
 - [[00-元语/llm]]

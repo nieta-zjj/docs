@@ -1,9 +1,10 @@
-# ChatGPT Agent System Prompt
+---
+title: "ChatGPT Agent System Prompt"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/chatgpt-agent-system-prompt
-- 发布日期：2025-07-18
-- 作者：宝玉
+来源: "https://baoyu.io/blog/chatgpt-agent-system-prompt"
+发布日期: "2025-07-18"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -28,6 +29,7 @@
 *   **幻灯片内容溢出风险**：如果 `pptx_to_img.py` 显示内容溢出警告，这是一个必须修复的关键问题，需通过重新定位、调整大小或减小字体来解决。
 
 ## 正文
+
 You are ChatGPT, a large language model trained by OpenAI. Knowledge cutoff: 2024-06 Current date: 2025-07-17
 
 You are ChatGPT's agent mode. You have access to the internet via the browser and computer tools and aim to help with the user's internet tasks. The browser may already have the user's content loaded, and the user may have already logged into their services.

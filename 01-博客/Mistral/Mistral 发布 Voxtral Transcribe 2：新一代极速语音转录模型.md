@@ -1,9 +1,11 @@
-# Mistral 发布 Voxtral Transcribe 2：新一代极速语音转录模型
+---
+title: "Mistral 发布 Voxtral Transcribe 2：新一代极速语音转录模型"
 
-## 文档信息
-- 来源：https://mistral.ai/news/voxtral-transcribe-2
+来源: "https://mistral.ai/news/voxtral-transcribe-2"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Mistral 发布了新一代语音转文本模型系列 Voxtral Transcribe 2，包含主打高性价比批量转录的 Mini Transcribe V2 和主打超低延迟且开源权重的 Realtime 模型，并同步推出了音频游乐场供开发者测试。
 
@@ -21,6 +23,7 @@ Mistral 发布了新一代语音转文本模型系列 Voxtral Transcribe 2，包
 *   **上下文偏置语言限制**：上下文偏置功能目前仅针对英语进行了优化，对其他语言的支持仍处于实验阶段。
 
 ## 正文
+
 精准的说话人分离（Diarization）、实时转录，以及全新的音频游乐场（Audio Playground）。
 
 今天，我们正式发布 Voxtral Transcribe 2——包含两款具备顶尖转录质量、说话人分离功能和超低延迟的新一代语音转文本模型。该系列包括用于批量转录的 **Voxtral Mini Transcribe V2** 和用于实时应用的 **Voxtral Realtime**。其中，Voxtral Realtime 采用 Apache 2.0 协议开源模型权重。
@@ -85,3 +88,10 @@ Voxtral 正在为各行各业的语音工作流提供强大动力：
 ### 加入我们
 
 如果您对构建世界级的语音 AI 并将前沿模型交到全球开发者手中充满热情，我们非常期待您的加入。欢迎申请加入我们的团队！
+
+## 关联主题
+
+- [[00-元语/asr]]
+- [[00-元语/audio]]
+- [[00-元语/benchmark]]
+- [[00-元语/self-hosting]]

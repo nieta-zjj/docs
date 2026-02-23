@@ -1,16 +1,18 @@
-# mem0：开源记忆层工具面向 AI Agents
+---
+title: "mem0：开源记忆层工具面向 AI Agents"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `mem0ai/mem0`
-- 项目主页：https://github.com/mem0ai/mem0
-- 官方网站：https://mem0.ai
-- 开源协议：Apache License 2.0
-- 主要语言：Python
-- 统计快照：Stars 47765，Forks 5303，Watchers 221（抓取时间：2026-02-22）
-- 版本快照：最新发布 v1.0.4（发布时间：2026-02-17T22:34:05Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `mem0ai/mem0`"
+项目主页: "https://github.com/mem0ai/mem0"
+官方网站: "https://mem0.ai"
+开源协议: "Apache License 2.0"
+主要语言: "Python"
+统计快照: "Stars 47765，Forks 5303，Watchers 221（抓取时间：2026-02-22）"
+版本快照: "最新发布 v1.0.4（发布时间：2026-02-17T22:34:05Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Mem0 是一个为 AI 智能体（AI Agents）提供通用智能记忆层的开源项目，旨在通过多级记忆和个性化适应能力，实现更高效、低成本的个性化 AI 交互。
 
@@ -23,39 +25,46 @@ Mem0 是一个为 AI 智能体（AI Agents）提供通用智能记忆层的开�
 *   **最新版本更新**：最新大版本（v1.0.0 及以上）引入了 API 现代化、改进的向量存储支持以及增强的 GCP（谷歌云）集成。
 *   **开源与社区状态**：项目采用 Apache License 2.0 协议，主要使用 Python 开发，社区热度极高（拥有超 4.7 万 Stars 和 5300+ Forks）。
 
-
 ## 功能与定位
+
 Universal memory layer for AI Agents
 
 ## 典型使用场景
+
 - 用于快速搭建 AI 应用、工作流或服务化能力。
 - 作为上层产品的能力底座，统一模型调用与业务集成。
 
 ## 核心功能
+
 - 提供应用框架或平台化能力。
 - 支持模型接入、流程编排或接口服务化。
 - 面向开发与部署提供基础工程支持。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:25:49Z。
 - 项目创建于 2023-06-20T08:58:36Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/mem0ai/mem0
 - 官网：https://mem0.ai
 - README：https://raw.githubusercontent.com/mem0ai/mem0/main/README.md
 - Releases：https://github.com/mem0ai/mem0/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/llm]]

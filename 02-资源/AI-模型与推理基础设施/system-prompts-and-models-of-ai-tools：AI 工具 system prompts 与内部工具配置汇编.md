@@ -1,16 +1,16 @@
-# system-prompts-and-models-of-ai-tools：AI 工具 system prompts 与内部工具配置汇编
+---
+title: "system-prompts-and-models-of-ai-tools：AI 工具 system prompts 与内部工具配置汇编"
 
-## 文档信息
-
-- 对象：GitHub 开源项目
-- 项目：`x1xhlol/system-prompts-and-models-of-ai-tools`
-- 来源：https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
-- 开源协议：GPL-3.0
-- 默认分支：`main`
-- 版本状态：Releases 页面显示暂无正式版本
-- 最近提交：`ae37329aea0c7044366694e2f2484ca3fcbd0a60`（2026-02-17）
-- 社区数据快照：页面抓取显示约 `116k stars`、`30k forks`（2026-02-22）
-- 发布日期：2026-02-22
+对象: "GitHub 开源项目"
+项目: "`x1xhlol/system-prompts-and-models-of-ai-tools`"
+来源: "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+开源协议: "GPL-3.0"
+默认分支: "`main`"
+版本状态: "Releases 页面显示暂无正式版本"
+最近提交: "`ae37329aea0c7044366694e2f2484ca3fcbd0a60`（2026-02-17）"
+社区数据快照: "页面抓取显示约 `116k stars`、`30k forks`（2026-02-22）"
+发布日期: "2026-02-22"
+---
 
 ## 摘要
 

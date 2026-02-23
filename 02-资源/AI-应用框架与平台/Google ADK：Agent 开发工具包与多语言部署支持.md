@@ -1,10 +1,10 @@
-# Google ADK：Agent 开发工具包与多语言部署支持
+---
+title: "Google ADK：Agent 开发工具包与多语言部署支持"
 
-## 文档信息
-
-- 对象：文档站点
-- 发布日期：2026-02-22
-- 来源：https://google.github.io/adk-docs/
+对象: "文档站点"
+发布日期: "2026-02-22"
+来源: "https://google.github.io/adk-docs/"
+---
 
 ## 摘要
 
@@ -26,15 +26,18 @@ Agent Development Kit (ADK) 是一个支持多语言、模型无关且高度模�
 - **工具调用限制**：工具调用存在特定的性能和功能限制，开发者需参考官方文档中的工具限制说明，并配置操作确认（Action confirmations）机制。
 
 ## 功能与定位
+
 Google ADK（Agent Development Kit）是一个灵活、模块化的 Agent 开发与部署框架，目标是让 Agent 开发过程更接近传统软件工程。它支持从单一任务到复杂多 Agent 工作流的构建、编排、评估与上线，并强调与具体模型和部署环境解耦。
 
 ## 典型使用场景
+
 - 构建包含顺序、并行、循环步骤的自动化 Agent 工作流。
 - 开发需要动态路由和任务委派的多 Agent 协作系统。
 - 搭建需要工具调用与外部 API 集成的企业应用。
 - 构建涉及音频、图像、视频实时交互的多模态 Agent 应用。
 
 ## 核心功能
+
 - 提供工作流 Agent 编排能力，支持 `Sequential`、`Parallel`、`Loop` 等流程模式。
 - 支持基于 `LlmAgent transfer` 的动态路由能力。
 - 内置搜索、代码执行等工具能力，并支持 MCP 与 OpenAPI 工具接入。
@@ -44,21 +47,25 @@ Google ADK（Agent Development Kit）是一个灵活、模块化的 Agent 开发
 - 支持 A2A Protocol 与 Bidi-streaming（live）相关能力。
 
 ## 特色与差异点
+
 - 多语言 SDK 覆盖 Python、TypeScript、Go、Java。
 - 官方定位强调模型无关、部署无关，并可与其他框架协作。
 - 部署方式覆盖本地、Docker、Cloud Run、GKE 与 Vertex AI Agent Engine 扩展路径。
 
 ## 使用方式概览
+
 - 按语言选择对应快速开始路径（Python、TypeScript、Go、Java）。
 - 通过框架提供的 Agent、Tool、Runtime、Memory、Session 等模块组合业务流程。
 - 在开发阶段接入 Observability 与 Evaluation，形成可观测与可评估的迭代闭环。
 
 ## 限制与注意事项
+
 - 安全与合规策略需要开发者在应用侧自行设计与落实。
 - 工具调用存在边界与限制，落地前应按官方限制说明进行验证。
 - 本文只做框架能力与场景归档，不展开具体可执行实现细节。
 
 ## 链接
+
 - 文档主页：https://google.github.io/adk-docs/
 - Python SDK：https://github.com/google/adk-python
 - TypeScript SDK：https://github.com/google/adk-js

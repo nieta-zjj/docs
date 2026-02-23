@@ -1,9 +1,11 @@
-# Nuxt Studio 发布：面向生产环境的开源自托管 CMS
+---
+title: "Nuxt Studio 发布：面向生产环境的开源自托管 CMS"
 
-## 文档信息
-- 来源：https://www.infoq.cn/article/CxEVz8hseoW4fpSmNaqZ?utm_source=rss&utm_medium=article
+来源: "https://www.infoq.cn/article/CxEVz8hseoW4fpSmNaqZ?utm_source=rss&utm_medium=article"
+---
 
 ## 摘要
+
 **一句话总结**
 Nuxt Studio 现已作为一款免费开源的自托管 CMS 正式发布，为基于 Nuxt Content 的网站提供直接在生产环境中的可视化编辑与 Git 集成能力。
 
@@ -27,6 +29,7 @@ Nuxt Studio 现已作为一款免费开源的自托管 CMS 正式发布，为基
 *   目前所有内容只能运行在主生产分支上，暂不支持分支与 PR 工作流。
 
 ## 正文
+
 Nuxt Studio 现已正式发布！作为 Nuxt Content 网站的免费开源自托管内容管理解决方案，此次发布标志着它从之前的托管平台全面转向自托管模式。开发者现在可以完全控制其内容编辑基础设施，彻底摆脱外部依赖。
 
 ### 核心功能与编辑体验
@@ -65,6 +68,7 @@ Nuxt Studio 引入了一系列旨在弥合开发者与内容创作者之间鸿�
 总而言之，Nuxt Studio 是由 Nuxt 团队开发的开源内容管理模块，在 MIT 许可下发布。它扩展了 Nuxt Content，直接在生产网站上提供可视化编辑能力。该模块专为那些希望完全控制其内容基础设施，同时又想保持基于 Git 的工作流和现代开发者体验的团队而设计。
 
 ## 关联主题
+
 - [[00-元语/self-hosting]]
 - [[00-元语/github]]
 - [[00-元语/workflow]]

@@ -1,11 +1,11 @@
-# 深入解析 Codex 智能体循环
+---
+title: "深入解析 Codex 智能体循环"
 
-## 文档信息
-
-- 来源：https://openai.com/zh-Hans-CN/index/unrolling-the-codex-agent-loop/
-- 英文原文：https://openai.com/index/unrolling-the-codex-agent-loop/
-- 发布日期：2026年1月23日
-- 分类：[工程](https://openai.com/news/engineering/)
+来源: "https://openai.com/zh-Hans-CN/index/unrolling-the-codex-agent-loop/"
+英文原文: "https://openai.com/index/unrolling-the-codex-agent-loop/"
+发布日期: "2026年1月23日"
+分类: "[工程](https://openai.com/news/engineering/)"
+---
 
 ## 摘要
 

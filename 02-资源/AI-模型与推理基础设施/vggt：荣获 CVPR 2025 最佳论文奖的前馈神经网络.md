@@ -1,15 +1,17 @@
-# vggt：荣获 CVPR 2025 最佳论文奖的前馈神经网络
+---
+title: "vggt：荣获 CVPR 2025 最佳论文奖的前馈神经网络"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `facebookresearch/vggt`
-- 项目主页：https://github.com/facebookresearch/vggt
-- 开源协议：Other
-- 主要语言：Python
-- 统计快照：Stars 12459，Forks 1340，Watchers 481（抓取时间：2026-02-22）
-- 版本快照：暂无正式发布记录
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `facebookresearch/vggt`"
+项目主页: "https://github.com/facebookresearch/vggt"
+开源协议: "Other"
+主要语言: "Python"
+统计快照: "Stars 12459，Forks 1340，Watchers 481（抓取时间：2026-02-22）"
+版本快照: "暂无正式发布记录"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 VGGT (Visual Geometry Grounded Transformer) 是一个荣获 CVPR 2025 最佳论文奖的前馈神经网络，能够在几秒钟内从单张或多张图像中直接推断出场景的全部关键 3D 属性（包括相机内外参、点图、深度图和 3D 点轨迹）。
 
@@ -28,36 +30,44 @@ VGGT (Visual Geometry Grounded Transformer) 是一个荣获 CVPR 2025 最佳论�
 * **光束法平差（BA）的权衡**：在导出 COLMAP 格式时，若为了加快处理速度而减少 BA 的参数（如降低最大查询点数和查询帧数），可能会导致在复杂场景下的重建鲁棒性下降。
 
 ## 功能与定位
+
 [CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer
 
 ## 典型使用场景
+
 - 用于模型训练、微调、推理或文档解析等基础能力建设。
 - 作为上层 AI 应用的数据与模型基础设施。
 
 ## 核心功能
+
 - 提供模型/推理相关核心能力。
 - 支持与主流 AI 工具链协同。
 - 兼顾实验验证与工程落地场景。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T08:30:32Z。
 - 项目创建于 2025-02-18T18:32:14Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/facebookresearch/vggt
 - README：https://raw.githubusercontent.com/facebookresearch/vggt/main/README.md
 - Releases：https://github.com/facebookresearch/vggt/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/paper]]
 - [[00-元语/github]]

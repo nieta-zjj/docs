@@ -1,9 +1,10 @@
-# Prompt to build a "Retro Camera Web App" by Gemini 3
+---
+title: "Prompt to build a \"Retro Camera Web App\" by Gemini 3"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/retro-camera-web-app-prompt
-- 发布日期：2025-11-20
-- 作者：宝玉
+来源: "https://baoyu.io/blog/retro-camera-web-app-prompt"
+发布日期: "2025-11-20"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -21,6 +22,7 @@
 *   **照片卡片控制**：悬停在照片墙上的卡片时显示顶部工具栏，提供“删除”功能以及“下载”功能（将包含边框、照片、日期和手写文字的完整拍立得卡片渲染为图片下载）。
 
 ## 正文
+
 ![Image 1](https://baoyu.io/uploads/2025-11-20/1763608541944.png)
 
 Share:

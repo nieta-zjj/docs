@@ -1,15 +1,15 @@
-# Awesome：跨主题精选资源清单导航仓库
+---
+title: "Awesome：跨主题精选资源清单导航仓库"
 
-## 文档信息
-
-- 对象：GitHub 开源项目
-- 项目：`sindresorhus/awesome`
-- 来源：https://github.com/sindresorhus/awesome
-- 开源协议：CC0-1.0
-- 版本状态：Releases 页面显示暂无正式版本
-- 最近提交：`da0892f292cc83968630ff81ea573c0d28358b87`（2026-01-28）
-- 社区数据快照：页面抓取显示约 `440k stars`、`33.3k forks`、`16 issues`、`55 pull requests`（2026-02-22）
-- 发布日期：2026-02-22
+对象: "GitHub 开源项目"
+项目: "`sindresorhus/awesome`"
+来源: "https://github.com/sindresorhus/awesome"
+开源协议: "CC0-1.0"
+版本状态: "Releases 页面显示暂无正式版本"
+最近提交: "`da0892f292cc83968630ff81ea573c0d28358b87`（2026-01-28）"
+社区数据快照: "页面抓取显示约 `440k stars`、`33.3k forks`、`16 issues`、`55 pull requests`（2026-02-22）"
+发布日期: "2026-02-22"
+---
 
 ## 摘要
 

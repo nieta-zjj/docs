@@ -1,9 +1,11 @@
-# Claude 推出非营利组织专属计划 (Claude for Nonprofits)
+---
+title: "Claude 推出非营利组织专属计划 (Claude for Nonprofits)"
 
-## 文档信息
-- 来源：https://www.anthropic.com/news/claude-for-nonprofits
+来源: "https://www.anthropic.com/news/claude-for-nonprofits"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Anthropic 与 GivingTuesday 合作推出 Claude 非营利组织专属计划（Claude for Nonprofits），通过提供高达 75% 的订阅折扣、专属工具集成以及免费的 AI 素养课程，助力全球非营利组织提升工作效率与社会影响力。
 
@@ -17,6 +19,7 @@ Anthropic 与 GivingTuesday 合作推出 Claude 非营利组织专属计划（Cl
 *   **实际应用成效**：该计划已在 60 多家受助组织中进行试点；现有客户如 IDinsight 报告工作效率提升高达 16 倍，癫痫基金会借此为 340 万患者提供全天候支持。
 
 ## 正文
+
 非营利组织往往在资源有限的情况下，致力于解决社会上最棘手的问题。为此，我们与全球慷慨运动 GivingTuesday 合作，正式推出 **Claude for Nonprofits（Claude 非营利组织计划）**，旨在帮助全球各地的组织最大化其社会影响力。
 
 许多非营利组织已经在使用 Claude 来实现他们的目标：
@@ -70,3 +73,10 @@ Claude 支持多种连接器，可将 AI 与团队现有的平台（如 Microsof
 ### 立即开始
 
 如果您想了解有关 Claude for Nonprofits 的更多信息，并访问免费的 AI 素养课程，请前往我们的官方网站开始您的 AI 之旅。
+
+## 关联主题
+
+- [[00-元语/Claude]]
+- [[00-元语/AI]]
+- [[00-元语/workflow]]
+- [[00-元语/compliance]]

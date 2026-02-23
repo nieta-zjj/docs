@@ -1,9 +1,11 @@
-# 使用 Gemini Deep Think 加速数学与科学发现
+---
+title: "使用 Gemini Deep Think 加速数学与科学发现"
 
-## 文档信息
-- 来源：https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/
+来源: "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 基于 Gemini Deep Think 模式的 AI 智能体通过自主推理与人机协作，成功在纯数学、物理和计算机科学领域解决了多项专业研究级难题，成为推动前沿科学发现的强大工具。
 
@@ -25,6 +27,7 @@
 *   **当前能力上限**：根据提出的 AI 辅助数学研究分类法，目前的成果仅达到第 2 级（可发表质量），尚未取得第 3 级（重大进展）或第 4 级（里程碑式突破）的成果。
 
 ## 正文
+
 **作者：** Thang Luong 与 Vahab Mirrokni
 
 在顶尖数学家和科学家的指导下，Gemini Deep Think 正在解决数学、物理和计算机科学领域的专业研究问题。
@@ -84,6 +87,7 @@ Gemini Deep Think 模式在计算机科学和物理学领域也展现出了巨�
 本项目是 Google 内部的一项大规模合作，其成功归功于众多个人和团队的共同努力。Thang Luong 和 Vahab Mirrokni 领导了整体研究方向，Tony Feng 和 David Woodruff 提供了深厚的技术专长。我们感谢参与构建智能体推理的 Google 研究人员、进行验证与合作的学术专家，以及为 Deep Think 构建基础模型的 Gemini 后训练（Post-Training）团队。同时，也感谢数学、物理和计算机科学界的专家们为本项目提供的帮助与建议。
 
 ## 关联主题
+
 - [[00-元语/gemini]]
 - [[00-元语/Agent]]
 - [[00-元语/数学]]

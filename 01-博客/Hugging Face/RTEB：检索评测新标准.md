@@ -1,9 +1,9 @@
-# RTEB：检索评测新标准
+---
+title: "RTEB：检索评测新标准"
 
-## 文档信息
-
-- 发布日期：2025-10-01
-- 原文链接：https://huggingface.co/blog/rteb
+发布日期: "2025-10-01"
+原文链接: "https://huggingface.co/blog/rteb"
+---
 
 ## 摘要
 

@@ -1,9 +1,11 @@
-# 借助 Codex 和 Claude 为所有人打造自定义 CUDA 内核
+---
+title: "借助 Codex 和 Claude 为所有人打造自定义 CUDA 内核"
 
-## 文档信息
-- 来源：https://huggingface.co/blog/custom-cuda-kernels-agent-skills
+来源: "https://huggingface.co/blog/custom-cuda-kernels-agent-skills"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 通过为 Claude 和 Codex 等编程智能体提供专门的领域知识技能，开发者现在可以自动生成、测试并发布生产级别的自定义 CUDA 内核，并无缝集成到 `diffusers` 和 `transformers` 库中。
 
@@ -21,6 +23,7 @@
 *   **覆盖范围限制**：该智能体技能目前可能未涵盖极其复杂的内核开发或某些特定的架构优化（但提供了基础构建块供开发者起步）。
 
 ## 正文
+
 [![Image: oprah custom cuda kernels](https://huggingface.co/blog/assets/custom-cuda-kernels/meme.png)](https://huggingface.co/blog/assets/custom-cuda-kernels/meme.png)
 
 **太长不看（tl;dr）：** 我们构建了一项智能体技能（agent skill），教编程智能体如何编写生产级别的 CUDA 内核。然后，我们让 Claude 和 Codex 针对两个实际目标进行尝试：一个 **diffusers** 管道和一个 **transformers** 模型。智能体为两者都生成了可用的内核，并端到端地包含了正确的 PyTorch 绑定和基准测试。
@@ -284,3 +287,11 @@ rmsnorm = get_kernel("your-org/your-kernel")
 *   [我们让 Claude 微调了开源 LLM](https://huggingface.co/blog/hf-skills-training)
 *   [我们让 Claude 教授开源模型](https://huggingface.co/blog/upskill)
 *   [HuggingFace 内核社区](https://huggingface.co/kernels-community)
+
+## 关联主题
+
+- [[00-元语/Agent]]
+- [[00-元语/Codex]]
+- [[00-元语/Claude]]
+- [[00-元语/benchmark]]
+- [[00-元语/llm]]

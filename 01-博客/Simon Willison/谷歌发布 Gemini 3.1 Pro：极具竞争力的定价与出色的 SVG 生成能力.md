@@ -1,10 +1,12 @@
-# 谷歌发布 Gemini 3.1 Pro：极具竞争力的定价与出色的 SVG 生成能力
+---
+title: "谷歌发布 Gemini 3.1 Pro：极具竞争力的定价与出色的 SVG 生成能力"
 
-## 文档信息
-- 来源：https://simonwillison.net/2026/Feb/19/gemini-31-pro/#atom-everything
-- 发布日期：2026-02-19
+来源: "https://simonwillison.net/2026/Feb/19/gemini-31-pro/#atom-everything"
+发布日期: "2026-02-19"
+---
 
 ## 摘要
+
 **一句话总结**
 谷歌发布了定价极具竞争力且 SVG 动画生成能力显著提升的 Gemini 3.1 Pro 模型，并推出了优化工具调用的自定义版本，但发布初期存在响应缓慢和高并发报错的问题。
 
@@ -21,6 +23,7 @@
 * **高并发报错**：在测试过程中会遇到“模型当前需求量大”或“操作完成前已过截止时间”的错误提示。
 
 ## 正文
+
 Gemini 3.1 Pro 是 Gemini 3.1 系列的首款模型。它的定价与 Gemini 3 Pro 保持一致（在 20 万 Token 以内，输入为 2 美元/百万 Token，输出为 12 美元/百万 Token；20 万至 100 万 Token 之间则为 4 美元/18 美元）。这一价格还不到 Claude Opus 4.6 的一半，但两者的基准测试得分却非常接近。
 
 ### 令人惊艳的 SVG 动画生成能力
@@ -44,6 +47,7 @@ Gemini 3.1 Pro 是 Gemini 3.1 系列的首款模型。它的定价与 Gemini 3 P
 从官方消息来看，上周发布的 Gemini 3 Deep Think 其实是我们首次接触 3.1 系列。正如谷歌所说，上周的 Deep Think 旨在解决科学、研究和工程领域的现代挑战，而今天发布的 Gemini 3.1 Pro 则是实现这些突破的“升级版核心智能”。
 
 ## 关联主题
+
 - [[00-元语/gemini]]
 - [[00-元语/llm]]
 - [[00-元语/multimodal]]

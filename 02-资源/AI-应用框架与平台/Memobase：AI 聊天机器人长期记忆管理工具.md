@@ -1,11 +1,11 @@
-# Memobase：AI 聊天机器人长期记忆管理工具
+---
+title: "Memobase：AI 聊天机器人长期记忆管理工具"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/memodb-io/memobase
-- 发现评分：90
-- Stars：2568
+发布日期: "2026-02-22"
+来源: "https://github.com/memodb-io/memobase"
+发现评分: "90"
+Stars: "2568"
+---
 
 ## 摘要
 
@@ -20,17 +20,20 @@ Memobase 是一个为 AI 聊天机器人提供基于用户画像的长期记忆�
 * **项目来源**：项目代码托管于 GitHub（https://github.com/memodb-io/memobase）。
 
 ## 功能与定位
+
 Memobase 是一个 AI 应用框架与平台，主要定位是为 AI 聊天机器人提供基于用户画像（User Profile-Based）的长期记忆（Long-Term Memory）解决方案。
 
 ## 典型使用场景
+
 *   **AI 聊天机器人应用**：适用于需要维持上下文和用户长期记忆的对话系统。
 
 ## 核心功能
+
 *   **长期记忆管理**：基于用户画像构建和管理 AI 的长期记忆能力。
 
 ## 链接
-*   GitHub 仓库：https://github.com/memodb-io/memobase
 
+*   GitHub 仓库：https://github.com/memodb-io/memobase
 
 ## 关联主题
 

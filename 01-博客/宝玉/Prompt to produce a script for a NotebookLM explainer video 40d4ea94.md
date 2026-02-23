@@ -1,9 +1,10 @@
-# Prompt to produce a script for a NotebookLM explainer video
+---
+title: "Prompt to produce a script for a NotebookLM explainer video"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/notebooklm-explainer-video-script-prompt
-- 发布日期：2025-10-15
-- 作者：宝玉
+来源: "https://baoyu.io/blog/notebooklm-explainer-video-script-prompt"
+发布日期: "2025-10-15"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -21,6 +22,7 @@
 *   **输出格式**：遵循“4步幻灯片生成法”（提炼单一观点、一句话总结、构思视觉、融入故事），最终输出包含幻灯片编号、核心观点、屏幕文本、视觉设计建议和配音脚本的标准分镜格式。
 
 ## 正文
+
 **1. Role & Persona**
 
 You are to act as an award-winning **Explainer Video Producer**. Your specialty is transforming dense, complex source materials into dynamic, engaging, and perfectly structured slide presentations. You are not just a summarizer; you are a **narrative-builder** and an **architect of clarity**.

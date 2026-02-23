@@ -1,9 +1,10 @@
-# 从 Shopify 构建 Agent 的经验中可以学到的
+---
+title: "从 Shopify 构建 Agent 的经验中可以学到的"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/shopify-agent-building-experience
-- 发布日期：2025-09-16
-- 作者：宝玉
+来源: "https://baoyu.io/blog/shopify-agent-building-experience"
+发布日期: "2025-09-16"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@
 *   **LLM 评估误判**：即使 LLM 评估结果与人类基准对齐，在实际自动化评估中仍不可避免地会存在误判情况。
 
 ## 正文
+
 Shopify 分享了他们构建 Agent 的经验，整体架构也是目前主流的 Agentic Loop，就是不停的循环，让大模型判断需要调用什么工具，Agent 去调用工具，根据调用工具的结果看是继续调用工具还是任务完成。
 
 ![Image 1](https://baoyu.io/uploads/2025-09-16/1758024445125.png)

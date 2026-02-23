@@ -1,11 +1,11 @@
-# steveyegge-beads：AI 编程助手与Agent工具
+---
+title: "steveyegge-beads：AI 编程助手与Agent工具"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/steveyegge/beads
-- 发现评分：92
-- Stars：16945
+发布日期: "2026-02-22"
+来源: "https://github.com/steveyegge/beads"
+发现评分: "92"
+Stars: "16945"
+---
 
 ## 摘要
 
@@ -20,11 +20,12 @@ Beads 是一个高关注度的开源项目，专为 AI 编程助手（Coding Age
 * **项目地址**：代码托管于 GitHub（https://github.com/steveyegge/beads）。
 
 ## 功能与定位
+
 Beads 是一个专为 AI 编程助手（Coding Agent）设计的记忆升级（Memory upgrade）工具项目。
 
 ## 链接
-- GitHub 仓库：https://github.com/steveyegge/beads
 
+- GitHub 仓库：https://github.com/steveyegge/beads
 
 ## 关联主题
 

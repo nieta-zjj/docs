@@ -1,9 +1,11 @@
-# OpenAI 开始在 ChatGPT 中测试广告功能
+---
+title: "OpenAI 开始在 ChatGPT 中测试广告功能"
 
-## 文档信息
-- 来源：https://openai.com/index/testing-ads-in-chatgpt
+来源: "https://openai.com/index/testing-ads-in-chatgpt"
+---
 
 ## 摘要
+
 ### 一句话总结
 OpenAI 开始在美国地区的 ChatGPT 免费版（Free）和 Go 订阅版中测试广告功能，旨在通过广告收入支持基础设施建设，同时承诺广告不影响回答的独立性并严格保护用户隐私。
 
@@ -23,6 +25,7 @@ OpenAI 开始在美国地区的 ChatGPT 免费版（Free）和 Go 订阅版中�
 * **隐私与定向风险**：存在狭隘广告定向的风险（官方表示正设置护栏以防止此类情况发生）。
 
 ## 正文
+
 今天，我们开始在美国地区的 ChatGPT 中测试广告功能。此次测试面向 Free（免费版）和 Go 订阅级别的已登录成年用户。Plus、Pro、Business、Enterprise 和 Education 级别的用户将不会看到广告。
 
 广告不会影响 ChatGPT 给出的回答，我们也会对广告商严格保密您的对话内容。我们的目标是通过广告收入来支持更多人使用 ChatGPT 的强大功能，同时保持人们在处理重要和私人事务时对 ChatGPT 的信任。我们将以测试为起点，去学习、倾听，并确保提供良好的用户体验。
@@ -73,6 +76,7 @@ OpenAI 开始在美国地区的 ChatGPT 免费版（Free）和 Go 订阅版中�
 无论未来如何发展，以下几点将始终不变：ChatGPT 的回答将保持独立和客观，对话将保持私密，人们将继续对自己的使用体验拥有有意义的控制权。
 
 ## 关联主题
+
 - [[00-元语/OpenAI]]
 - [[00-元语/ChatGPT]]
 - [[00-元语/security]]

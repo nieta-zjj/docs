@@ -1,16 +1,18 @@
-# deepwiki-open：代码仓库自动分析与交互式 Wiki 生成工具
+---
+title: "deepwiki-open：代码仓库自动分析与交互式 Wiki 生成工具"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `AsyncFuncAI/deepwiki-open`
-- 项目主页：https://github.com/AsyncFuncAI/deepwiki-open
-- 官方网站：https://asyncfunc.mintlify.app/
-- 开源协议：MIT License
-- 主要语言：Python
-- 统计快照：Stars 14395，Forks 1597，Watchers 69（抓取时间：2026-02-22）
-- 版本快照：暂无正式发布记录
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `AsyncFuncAI/deepwiki-open`"
+项目主页: "https://github.com/AsyncFuncAI/deepwiki-open"
+官方网站: "https://asyncfunc.mintlify.app/"
+开源协议: "MIT License"
+主要语言: "Python"
+统计快照: "Stars 14395，Forks 1597，Watchers 69（抓取时间：2026-02-22）"
+版本快照: "暂无正式发布记录"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 DeepWiki-Open 是一个开源的 AI 驱动工具，能够自动分析代码仓库（GitHub/GitLab/Bitbucket）并生成包含可视化图表和 RAG 问答功能的交互式 Wiki，但目前项目的主要开发精力已转移至 AsyncReview。
 
@@ -29,37 +31,45 @@ DeepWiki-Open 是一个开源的 AI 驱动工具，能够自动分析代码仓�
 *   **日志路径安全风险**：在生产环境中，自定义日志文件路径（`LOG_FILE_PATH`）需严格控制文件系统权限，以防止路径遍历（path traversal）或未经授权的写入操作。
 
 ## 功能与定位
+
 Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 
 ## 典型使用场景
+
 - 用于智能体开发、编排与执行链路搭建。
 - 适合 AI 编程助手与自动化协作流程建设。
 
 ## 核心功能
+
 - 支持 Agent 工具调用、任务分解或上下文管理。
 - 提供与开发环境协作的自动化能力。
 - 强调可扩展、可观测与工程集成。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T13:04:17Z。
 - 项目创建于 2025-04-30T06:01:29Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/AsyncFuncAI/deepwiki-open
 - 官网：https://asyncfunc.mintlify.app/
 - README：https://raw.githubusercontent.com/AsyncFuncAI/deepwiki-open/main/README.md
 - Releases：https://github.com/AsyncFuncAI/deepwiki-open/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/rag]]

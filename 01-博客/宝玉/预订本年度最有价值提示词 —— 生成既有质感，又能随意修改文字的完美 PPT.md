@@ -1,9 +1,10 @@
-# 预订本年度最有价值提示词 —— 生成既有质感，又能随意修改文字的完美 PPT
+---
+title: "预订本年度最有价值提示词 —— 生成既有质感，又能随意修改文字的完美 PPT"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/most-valuable-prompts-for-high-quality-editable-ppts
-- 发布日期：2025-12-21
-- 作者：宝玉
+来源: "https://baoyu.io/blog/most-valuable-prompts-for-high-quality-editable-ppts"
+发布日期: "2025-12-21"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -23,6 +24,7 @@
 * **操作成本增加**：相比于一键生成，该工作流相对绕弯，需要额外增加大纲确认和逐页绘制的步骤。
 
 ## 正文
+
 ![Image 1](https://baoyu.io/uploads/2025-12-21/1766288124095.png)
 
 大家都很喜欢 NotebookLM 生成的 Audio Overview，它最近生成的 Slide Deck（幻灯片）风格也很棒。但有一个大问题：**生成的 Slides 是死图，文字不能改，内容不能动。**

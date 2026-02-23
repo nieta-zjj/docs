@@ -1,9 +1,11 @@
-# Mistral AI 平台服务 La Plateforme 开启抢先体验
+---
+title: "Mistral AI 平台服务 La Plateforme 开启抢先体验"
 
-## 文档信息
-- 来源：https://mistral.ai/news/la-plateforme
+来源: "https://mistral.ai/news/la-plateforme"
+---
 
 ## 摘要
+
 **一句话总结**
 Mistral AI 正式开放其平台服务 La Plateforme 的 Beta 测试权限，首批提供三个具备不同性能与价格优势的文本生成端点以及一个嵌入端点。
 
@@ -21,6 +23,7 @@ Mistral AI 正式开放其平台服务 La Plateforme 的 Beta 测试权限，首
 *   平台目前正处于稳定期并向完全自助服务过渡，官方明确表示在此过程中可能会遇到一些不完善之处。
 
 ## 正文
+
 我们的首批 AI 端点现已开放抢先体验。Mistral AI 致力于为开发者提供最强大的开源生成式模型，以及在生产环境中高效部署和定制这些模型的方法。
 
 今天，我们正式开放首批平台服务的 Beta 测试权限。我们从最基础的服务开始：La Plateforme 提供了三个用于根据文本指令生成文本的聊天端点，以及一个嵌入（embedding）端点。每个端点都提供了不同的性能与价格权衡方案。
@@ -51,6 +54,7 @@ Mistral AI 正式开放其平台服务 La Plateforme 的 Beta 测试权限，首
 AI 的下一篇章属于你。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/llm]]
 - [[00-元语/sdk]]

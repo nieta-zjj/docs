@@ -1,14 +1,16 @@
-# DeepSeek-R1：开源推理模型系列
+---
+title: "DeepSeek-R1：开源推理模型系列"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `deepseek-ai/DeepSeek-R1`
-- 项目主页：https://github.com/deepseek-ai/DeepSeek-R1
-- Stars（记录值）：86590（用户记录）
-- 开源协议：MIT License
-- 论文：https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `deepseek-ai/DeepSeek-R1`"
+项目主页: "https://github.com/deepseek-ai/DeepSeek-R1"
+Stars（记录值）: "86590（用户记录）"
+开源协议: "MIT License"
+论文: "https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 DeepSeek-R1 是由 DeepSeek 开源（MIT协议）的具备顶尖推理能力的大模型系列，包含 671B 参数的 MoE 模型及多款打破 SOTA 的蒸馏小模型，在数学、代码和复杂推理任务上性能可媲美 OpenAI-o1。
 
@@ -28,29 +30,35 @@ DeepSeek-R1 是由 DeepSeek 开源（MIT协议）的具备顶尖推理能力的�
 *   **评估偏差风险**：单次测试可能无法准确反映性能，官方建议进行多次测试并取平均值（官方基准测试采用生成 64 个回答来评估 pass@1）。
 
 ## 功能与定位
+
 DeepSeek-R1 是一个围绕“复杂推理能力”的开源模型与配套资料集合：既包含大规模 MoE 推理模型，也包含多尺寸蒸馏模型，目标是在数学、代码与多步推理任务上提供强基线，并便于社区在不同算力条件下复现与部署。
 
 ## 典型使用场景
+
 - 推理能力评测与研究：对比不同推理策略、提示方式与解码参数的影响。
 - 本地推理部署：优先使用蒸馏模型在单机/小集群上运行。
 - 作为推理型模型能力底座：为 RAG、Agent 或工具调用提供更强的推理与规划能力（需结合具体框架与安全边界）。
 
 ## 核心内容
+
 - 模型系列：R1、R1-Zero 及多个蒸馏模型。
 - 论文与复现材料：训练方法、评测结果与使用建议。
 - 部署与调用指引：在线体验、API 兼容性说明与推理框架建议。
 
 ## 限制与注意事项
+
 - 许可证与使用条款需以官方仓库与平台为准，部署前应明确权重与代码的授权边界。
 - 生产使用前应做稳定性与安全评估，尤其是长输出、重复输出与指令注入类风险。
 
 ## 链接
+
 - 仓库：https://github.com/deepseek-ai/DeepSeek-R1
 - 论文：https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf
 - DeepSeek-V3：https://github.com/deepseek-ai/DeepSeek-V3
 - Hugging Face 组织页：https://huggingface.co/deepseek-ai
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/alignment]]
 - [[00-元语/benchmark]]

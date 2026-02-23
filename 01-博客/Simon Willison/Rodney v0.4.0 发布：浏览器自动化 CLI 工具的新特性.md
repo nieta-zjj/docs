@@ -1,10 +1,12 @@
-# Rodney v0.4.0 发布：浏览器自动化 CLI 工具的新特性
+---
+title: "Rodney v0.4.0 发布：浏览器自动化 CLI 工具的新特性"
 
-## 文档信息
-- 来源：https://simonwillison.net/2026/Feb/17/rodney/#atom-everything
-- 发布日期：2026-02-17
+来源: "https://simonwillison.net/2026/Feb/17/rodney/#atom-everything"
+发布日期: "2026-02-17"
+---
 
 ## 摘要
+
 **一句话总结**
 浏览器自动化 CLI 工具 Rodney 发布了 v0.4.0 版本，新增了 `assert` 测试命令、目录作用域会话、跨平台支持等多项新功能与配置选项。
 
@@ -18,6 +20,7 @@
 *   **跨平台支持优化**：修复了 Windows 系统上的 Setsid 兼容性问题，并将自动化测试扩展至 `windows-latest` 和 `macos-latest` 环境。
 
 ## 正文
+
 自上周我宣布推出用于浏览器自动化的 Rodney CLI 工具以来，它吸引了大量的 PR（Pull Requests）。以下是刚刚发布的 Rodney v0.4.0 版本的更新日志。
 
 ### v0.4.0 更新日志
@@ -40,6 +43,7 @@
 其中，`rodney assert` 命令非常巧妙：你现在可以通过编写 Shell 脚本，使用 Rodney 分多个步骤来测试 Web 应用程序（具体用法可参考 README 文件中的改编示例）。
 
 ## 关联主题
+
 - [[00-元语/browser-automation]]
 - [[00-元语/cli]]
 - [[00-元语/tool]]

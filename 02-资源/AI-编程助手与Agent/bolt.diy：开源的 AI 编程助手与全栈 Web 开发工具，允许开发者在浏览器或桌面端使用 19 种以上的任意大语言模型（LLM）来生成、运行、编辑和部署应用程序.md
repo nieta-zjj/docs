@@ -1,16 +1,18 @@
-# bolt.diy：开源的 AI 编程助手与全栈 Web 开发工具，允许开发者在浏览器或桌面端使用 19 种以上的任意大语言模型（LLM）来生成、运行、编辑和部署应用程序
+---
+title: "bolt.diy：开源的 AI 编程助手与全栈 Web 开发工具，允许开发者在浏览器或桌面端使用 19 种以上的任意大语言模型（LLM）来生成、运行、编辑和部署应用程序"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `stackblitz-labs/bolt.diy`
-- 项目主页：https://github.com/stackblitz-labs/bolt.diy
-- 官方网站：https://stackblitz-labs.github.io/bolt.diy/
-- 开源协议：MIT License
-- 主要语言：TypeScript
-- 统计快照：Stars 19026，Forks 10355，Watchers 306（抓取时间：2026-02-22）
-- 版本快照：最新发布 v1.0.0（发布时间：2025-05-12T02:15:57Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `stackblitz-labs/bolt.diy`"
+项目主页: "https://github.com/stackblitz-labs/bolt.diy"
+官方网站: "https://stackblitz-labs.github.io/bolt.diy/"
+开源协议: "MIT License"
+主要语言: "TypeScript"
+统计快照: "Stars 19026，Forks 10355，Watchers 306（抓取时间：2026-02-22）"
+版本快照: "最新发布 v1.0.0（发布时间：2025-05-12T02:15:57Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 bolt.diy 是一个开源的 AI 编程助手与全栈 Web 开发工具，允许开发者在浏览器或桌面端使用 19 种以上的任意大语言模型（LLM）来生成、运行、编辑和部署应用程序。
 
@@ -29,41 +31,50 @@ bolt.diy 是一个开源的 AI 编程助手与全栈 Web 开发工具，允许�
 * **模型表现差异**：当前的系统提示词（System Prompt）无法在所有模型上发挥最佳性能。官方建议新手优先使用如 Anthropic Claude Sonnet 3.x 等高级模型以获取最佳结果（未来计划通过插件库针对不同模型提供专属提示词）。
 
 ## 功能与定位
+
 Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 
 ## 典型使用场景
+
 - 用于智能体开发、编排与执行链路搭建。
 - 适合 AI 编程助手与自动化协作流程建设。
 
 ## 核心功能
+
 - 支持 Agent 工具调用、任务分解或上下文管理。
 - 提供与开发环境协作的自动化能力。
 - 强调可扩展、可观测与工程集成。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T09:26:48Z。
 - 项目创建于 2024-10-13T18:40:54Z，具备持续迭代与社区沉淀。
 - 以 `TypeScript` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/stackblitz-labs/bolt.diy
 - 官网：https://stackblitz-labs.github.io/bolt.diy/
 - README：https://raw.githubusercontent.com/stackblitz-labs/bolt.diy/main/README.md
 - Releases：https://github.com/stackblitz-labs/bolt.diy/releases
 
 ## 相关文档
+
 - [[02-资源/AI-编程助手与Agent/OpenCode：终端优先的 AI 编程助手|OpenCode：终端优先的 AI 编程助手]]；关联理由：观点一致；说明：两者都属于开源 AI 编程助手，并强调多模型接入与工程化开发流程。
 - [[02-资源/AI-编程助手与Agent/Cline：直接运行在 IDE 内的开源自治 coding agent，能够在用户全程授权与监控下|Cline：直接运行在 IDE 内的开源自治 coding agent，能够在用户全程授权与监控下]]；关联理由：解说；说明：Cline 代表 IDE 内自治 agent 路线，可作为 bolt.diy 在产品形态与交互边界上的对照参照。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/llm]]

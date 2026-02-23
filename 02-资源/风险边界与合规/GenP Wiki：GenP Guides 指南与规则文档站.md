@@ -1,13 +1,13 @@
-# GenP Wiki：GenP Guides 指南与规则文档站
+---
+title: "GenP Wiki：GenP Guides 指南与规则文档站"
 
-## 文档信息
-
-- 对象：产品网站（Wiki 文档站）
-- 来源：
-  - https://wiki.dbzer0.com/genp-guides/
-  - https://wiki.dbzer0.com/genp-guides/guide/
-  - https://wiki.dbzer0.com/genp-guides/rules/
-- 记录日期：2026-02-22
+对象: "产品网站（Wiki 文档站）"
+来源:
+  - "https://wiki.dbzer0.com/genp-guides/"
+  - "https://wiki.dbzer0.com/genp-guides/guide/"
+  - "https://wiki.dbzer0.com/genp-guides/rules/"
+记录日期: "2026-02-22"
+---
 
 ## 摘要
 

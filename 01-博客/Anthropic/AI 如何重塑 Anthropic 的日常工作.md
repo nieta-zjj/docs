@@ -1,9 +1,11 @@
-# AI 如何重塑 Anthropic 的日常工作
+---
+title: "AI 如何重塑 Anthropic 的日常工作"
 
-## 文档信息
-- 原文链接：https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic
+原文链接: "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Anthropic 的内部研究表明，AI 工具（如 Claude）正显著提升员工生产力并促使工程师向“全栈”发展，但同时也引发了关于深层技术技能退化、人际协作减少以及长期职业发展不确定性的担忧。
 
@@ -25,6 +27,7 @@ Anthropic 的内部研究表明，AI 工具（如 Claude）正显著提升员工
 *   **普适性限制**：作为一家前沿 AI 公司的内部研究，其员工享有早期接触尖端工具的特权，当前发现可能无法直接推广到其他组织或环境。
 
 ## 正文
+
 AI 正在如何改变我们的工作方式？我们之前关于 AI 经济影响的研究着眼于整个劳动力市场，涵盖了各种不同的工作。但是，如果我们更详细地研究一些最早采用 AI 技术的人——也就是我们自己呢？
 
 将视角转向内部，在 2025 年 8 月，我们调查了 132 名 Anthropic 工程师和研究人员，进行了 53 次深入的定性访谈，并研究了内部 Claude Code 的使用数据，以了解 AI 的使用正在如何改变 Anthropic 的工作。我们发现，AI 的使用正在从根本上改变软件开发人员的工作性质，既带来了希望，也引发了担忧。

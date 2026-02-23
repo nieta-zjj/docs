@@ -1,9 +1,10 @@
-# System prompt of NotebookLM Infographic
+---
+title: "System prompt of NotebookLM Infographic"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/system-prompt-of-notebooklm-infographic
-- 发布日期：2025-11-24
-- 作者：宝玉
+来源: "https://baoyu.io/blog/system-prompt-of-notebooklm-infographic"
+发布日期: "2025-11-24"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -20,6 +21,7 @@
 * **信息与数据限制（关键规则）**：严禁添加源文档中不存在的新信息；源文档中的所有数据必须逐字复制，不得进行总结或改写。
 
 ## 正文
+
 hello 🍌nano banano pro with “Infographic” prompt
 
 ![Image 1](https://baoyu.io/uploads/2025-11-24/1763954154991.png)

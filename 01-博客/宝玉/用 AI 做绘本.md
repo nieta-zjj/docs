@@ -1,9 +1,10 @@
-# 用 AI 做绘本
+---
+title: "用 AI 做绘本"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ai-picture-book-creation
-- 发布日期：2024-12-26
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ai-picture-book-creation"
+发布日期: "2024-12-26"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -21,6 +22,7 @@
 *   **平台内容审查风险**：画图平台存在严格的审查机制，如果提示词中包含直接的暴力细节（如打人），存在触发审查导致图片被拦截或无法正常生成的风险。
 
 ## 正文
+
 尝试了一下用 AI 做个绘本，不过我也不会写画图的提示词，也是让 AI 帮我完成。
 
 步骤：
@@ -181,6 +183,7 @@ Cartoon-style street scene again. The Wolf confronts the Rabbit with an imposing
 ![Image 1](https://baoyu.io/uploads/2024-12-26/1735199915322.png)![Image 2](https://baoyu.io/uploads/2024-12-26/1735199939417.png)![Image 3](https://baoyu.io/uploads/2024-12-26/1735199947438.png)![Image 4](https://baoyu.io/uploads/2024-12-26/1735199956691.png)![Image 5](https://baoyu.io/uploads/2024-12-26/1735199964112.png)![Image 6](https://baoyu.io/uploads/2024-12-26/1735199980888.png)![Image 7](https://baoyu.io/uploads/2024-12-26/1735199990385.png)![Image 8](https://baoyu.io/uploads/2024-12-26/1735199998724.png)![Image 9](https://baoyu.io/uploads/2024-12-26/1735200009612.png)![Image 10](https://baoyu.io/uploads/2024-12-26/1735200019633.png)
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/book]]
 - [[00-元语/image-editing]]

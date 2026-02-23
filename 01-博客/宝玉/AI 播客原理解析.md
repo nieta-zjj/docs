@@ -1,9 +1,10 @@
-# AI 播客原理解析
+---
+title: "AI 播客原理解析"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ai-podcast-explained
-- 发布日期：2025-06-26
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ai-podcast-explained"
+发布日期: "2025-06-26"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@
 *   **语音表现力瓶颈**：尽管 TTS 技术普及，但模拟两人一唱一和的自然对话效果依然困难，部分顶尖 AI 公司的中文生成效果仍然显得生硬。
 
 ## 正文
+
 最近看到一个一篇很好的英文文章：《[The Prompt Engineering Playbook for Programmers](https://addyo.substack.com/p/the-prompt-engineering-playbook-for)，程序员提示工程手册》 ，不过太长了一点，完整看完要不少时间，所以我直接把链接直接发给豆包的 AI 播客，直接就生成了一篇高质量播客，几乎没有等待，当时就可以收听（可点击下面的视频收听）
 
 （生成这条播客的会话：[https://www.doubao.com/thread/wd27f5d2b3a01ab6b）](https://www.doubao.com/thread/wd27f5d2b3a01ab6b%EF%BC%89)

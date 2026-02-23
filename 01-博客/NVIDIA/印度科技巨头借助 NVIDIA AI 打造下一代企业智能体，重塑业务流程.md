@@ -1,9 +1,11 @@
-# 印度科技巨头借助 NVIDIA AI 打造下一代企业智能体，重塑业务流程
+---
+title: "印度科技巨头借助 NVIDIA AI 打造下一代企业智能体，重塑业务流程"
 
-## 文档信息
-- 来源：https://blogs.nvidia.com/blog/india-enterprise-ai-agents/
+来源: "https://blogs.nvidia.com/blog/india-enterprise-ai-agents/"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 印度科技巨头（Wipro、Tech Mahindra、Infosys 和 Persistent）正借助 NVIDIA 的代理型 AI 技术和企业级软件，在呼叫中心、电信网络、软件工程和药物发现等领域重塑业务流程并大幅提升生产力。
 
@@ -21,6 +23,7 @@
 * **呼叫中心业务痛点**：客服运营面临呼叫量不断攀升、数据碎片化以及行政工作繁重等现实缺口。
 
 ## 正文
+
 代理型 AI（Agentic AI）正在重塑印度的科技产业，为全球服务带来飞跃。借助 NVIDIA AI Enterprise 软件和 NVIDIA Nemotron 模型，印度的科技领军企业正在加速呼叫中心、电信和医疗保健等各行业的生产力与效率。
 
 Infosys、Persistent、Tech Mahindra 和 Wipro 正在引领这场业务转型。他们利用基于 NVIDIA AI Enterprise 构建的集成代理型 AI 平台，大幅提升了后台生产力和客户服务水平。在今年的印度 AI 影响力峰会（India AI Impact Summit）上，由代理型和生成式 AI 驱动的下一代商业服务的前沿成果得到了全面展示。
@@ -73,6 +76,7 @@ Persistent Systems 正在与 NVIDIA 合作，将早期药物发现推向速度�
 该平台运行在包含 NVIDIA AI Enterprise 软件和 NIM 微服务的加速计算平台上，支持受监管环境下的高通量模拟和实时科学决策。通过将可扩展的基础设施与生产就绪的代理型 AI 相结合，Persistent 正在为生命科学组织提供一种更快、更具成本效益的方式来探索化合物空间，并提高下游的成功率。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/llm]]

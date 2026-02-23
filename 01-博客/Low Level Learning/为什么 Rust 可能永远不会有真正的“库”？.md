@@ -1,9 +1,11 @@
-# 为什么 Rust 可能永远不会有真正的“库”？
+---
+title: "为什么 Rust 可能永远不会有真正的“库”？"
+发布日期: "2026-02-20"
+原文链接: "https://lowleveldesign.io/News/why-rust-may-never-have-libraries-2026-02-20"
 
-## 文档信息
-
-- 来源：视频字幕转写（Low Level Learning，YouTube）
-- 整理说明：由字幕整理成文，已做断句、纠错与结构化。
+来源: "视频字幕转写（Low Level Learning，YouTube）"
+整理说明: "由字幕整理成文，已做断句、纠错与结构化。"
+---
 
 ## 摘要
 

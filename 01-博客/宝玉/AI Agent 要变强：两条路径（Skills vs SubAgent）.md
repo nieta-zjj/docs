@@ -1,9 +1,10 @@
-# AI Agent 要变强：两条路径（Skills vs SubAgent）
+---
+title: "AI Agent 要变强：两条路径（Skills vs SubAgent）"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ai-agent-stronger-skills-vs-subagent
-- 发布日期：2025-12-24
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ai-agent-stronger-skills-vs-subagent"
+发布日期: "2025-12-24"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -27,6 +28,7 @@
 *   **工程瓶颈限制**：AI 的上下文容量（工作记忆）是固定的物理限制，如果 MCP（Model Context Protocol）等工具将详细文档一股脑塞入上下文，会严重占用资源并限制 Agent 处理复杂任务的能力。
 
 ## 正文
+
 AI Agent 要变强，有两条完全不同的路。
 
 *   一条是 Skill，也就是给自己装技能，把新能力直接塞进脑子里。

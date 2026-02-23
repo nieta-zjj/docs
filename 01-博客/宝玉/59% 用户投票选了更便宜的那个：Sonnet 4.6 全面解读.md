@@ -1,10 +1,10 @@
-# 59% 用户投票选了更便宜的那个：Sonnet 4.6 全面解读
+---
+title: "59% 用户投票选了更便宜的那个：Sonnet 4.6 全面解读"
 
-## 文档信息
-
-- 来源：https://baoyu.io/blog/2026-02-17/claude-sonnet-4-6-release
-- 发布日期：2026-02-17
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026-02-17/claude-sonnet-4-6-release"
+发布日期: "2026-02-17"
+作者: "宝玉"
+---
 
 ## 摘要
 

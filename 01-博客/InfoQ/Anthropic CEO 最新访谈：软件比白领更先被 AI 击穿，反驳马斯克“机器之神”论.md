@@ -1,9 +1,11 @@
-# Anthropic CEO 最新访谈：软件比白领更先被 AI 击穿，反驳马斯克“机器之神”论
+---
+title: "Anthropic CEO 最新访谈：软件比白领更先被 AI 击穿，反驳马斯克“机器之神”论"
 
-## 文档信息
-- 来源：https://www.infoq.cn/article/auecWVTgm3Eh8lo5PK8U?utm_source=rss&utm_medium=article
+来源: "https://www.infoq.cn/article/auecWVTgm3Eh8lo5PK8U?utm_source=rss&utm_medium=article"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Anthropic CEO Dario Amodei 在最新访谈中反驳了马斯克的“机器之神”论，强调 AI 发展的核心是实现人类巅峰智能的规模化与人机共生，并预测软件工程师将比传统白领更快被 AI 替代。
 
@@ -24,6 +26,7 @@ Anthropic CEO Dario Amodei 在最新访谈中反驳了马斯克的“机器之�
 *   **持续学习的安全隐患：** 为了保证模型安全，未来可能需要限制 AI 进行“持续学习（Continual Learning）”。
 
 ## 正文
+
 大佬们的“商战”有时也挺朴实无华，就是随时开怼。
 
 近日，Anthropic 宣布在 G 轮融资中筹集到 300 亿美元，估值达到 3800 亿美元。官方表示，资金将用于前沿研究、产品发展和基础设施扩建，致力于成为企业人工智能和编码市场的领导者。
@@ -88,9 +91,11 @@ Amodei 再次反驳了马斯克的终局论：“如果 AI 根本不需要顾及
 在访谈最后，Amodei 描绘了他理想中的人机共生关系：AI 像是一个温柔的守护者，它极其强大且乐于助人，但绝不剥夺人类的自由意志和能动性。他借用诗歌《被充满爱的机器温柔地看护》提醒世人：在 AI 时代，乌托邦与微妙的反乌托邦之间，往往只差几个极其微小的选择。
 
 ## 相关文档
+
 - [[01-博客/InfoQ/Anthropic CEO 反驳马斯克：不造“机器之神”，软件岗位将比白领更早被 AI 击穿.md|Anthropic CEO 反驳马斯克：不造“机器之神”，软件岗位将比白领更早被 AI 击穿]]；关联理由：同一事件；说明：两文均基于同一篇 InfoQ 访谈报道整理，可用于交叉核对核心观点与措辞差异。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/llm]]
 - [[00-元语/alignment]]

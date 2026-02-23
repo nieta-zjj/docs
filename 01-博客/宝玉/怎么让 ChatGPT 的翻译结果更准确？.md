@@ -1,9 +1,10 @@
-# 怎么让 ChatGPT 的翻译结果更准确？
+---
+title: "怎么让 ChatGPT 的翻译结果更准确？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering/three-ai-agents-and-four-steps-flow-prompt
-- 发布日期：2023-10-09
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering/three-ai-agents-and-four-steps-flow-prompt"
+发布日期: "2023-10-09"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@
 *   **首稿依赖风险**：整个工作流的最终翻译质量受第一稿（直译稿）影响极大；如果第一稿质量不佳，后续所有环节的翻译质量都会受到负面连带影响。
 
 ## 正文
+
 在《[一个简单的 Prompt 大幅提升 ChatGPT 翻译质量，告别“机翻感”](https://baoyu.io/blog/prompt-engineering/a-prompt-for-better-translation-result)》中，借助直译 + 意译，我们让翻译的质量大幅提升，但是也有朋友反馈，意译的时候，可能会偏离原意，那么有没有办法，让 ChatGPT 意译的结果更准确呢？
 
 在《[简单通俗的解释《一个简单的 Prompt 大幅提升 ChatGPT 翻译质量，告别“机翻感”》](https://baoyu.io/blog/prompt-engineering/two-ai-agents-in-one-prompt)》中，我曾打了个比方：

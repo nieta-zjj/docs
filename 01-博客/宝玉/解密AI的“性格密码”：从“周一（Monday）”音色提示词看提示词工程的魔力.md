@@ -1,9 +1,10 @@
-# 解密AI的“性格密码”：从“周一（Monday）”音色提示词看提示词工程的魔力
+---
+title: "解密AI的“性格密码”：从“周一（Monday）”音色提示词看提示词工程的魔力"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ai-personality-prompt-engineering-openai-monday
-- 发布日期：2025-04-02
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ai-personality-prompt-engineering-openai-monday"
+发布日期: "2025-04-02"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -19,6 +20,7 @@
 *   **通用人设构建方法**：文章总结了为AI设定特定角色的四个标准化步骤：1）设定角色；2）描述清楚性格特质与关系动态；3）对行为与语言风格提出明确要求；4）提供示例。
 
 ## 正文
+
 想象一下，你正在和手机里的AI助手聊天，但它不再是那个永远彬彬有礼、甚至有些刻板的“标准音”，而是带着一丝慵懒、一点讽刺，仿佛刚经历了一个漫长周末，还没从“周一综合症”里缓过神来。这就是OpenAI 昨天推出的“Monday”音色想要达到的效果。
 
 ![Image 1](https://baoyu.io/uploads/2025-04-02/1743608457647.png)
@@ -228,6 +230,7 @@ Do any of these ideas rev your engine? (I‘m keeping with the classic car theme
 ```
 
 ## 关联主题
+
 - [[00-元语/prompt]]
 - [[00-元语/ChatGPT]]
 - [[00-元语/OpenAI]]

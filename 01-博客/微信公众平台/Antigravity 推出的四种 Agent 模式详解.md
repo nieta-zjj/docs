@@ -1,11 +1,11 @@
-# Antigravity 推出的四种 Agent 模式详解
+---
+title: "Antigravity 推出的四种 Agent 模式详解"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/BHb9-B6wCUxhwVJTIONI6w
-- 发布日期：2026-02-18
-- 作者：草莓派
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/BHb9-B6wCUxhwVJTIONI6w"
+发布日期: "2026-02-18"
+作者: "草莓派"
+---
 
 ## 摘要
 
@@ -27,7 +27,6 @@ Antigravity 推出了四种全新的 Agent 模式（严格模式、审查驱动�
 *   **代码透明度风险**：Agent 在后台静默运行复杂的 JavaScript 逻辑脚本会降低透明度（审查驱动模式通过禁用该功能来规避此风险）。
 
 ## 正文
-
 
 在之前关于 Antigravity 的文章中，有读者提问：“如果不想在 Agent 运行的过程中与它互动，应该如何设置？”这两天，Antigravity 推出了四种全新的 Agent 模式，正好解答了这个问题。
 

@@ -1,10 +1,12 @@
-# OpenAI正式推出“OpenAI for India”全国性计划
+---
+title: "OpenAI正式推出“OpenAI for India”全国性计划"
 
-## 文档信息
-- 来源：https://openai.com/index/openai-for-india
-- 发布日期：2026-02-18
+来源: "https://openai.com/index/openai-for-india"
+发布日期: "2026-02-18"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 OpenAI在2026年印度AI影响力峰会上正式推出“OpenAI for India”全国性计划，通过与塔塔集团等本地伙伴深度合作，在基础设施、企业应用、技能培训及本地化运营方面全面推动印度的AI生态发展。
 
@@ -19,6 +21,7 @@ OpenAI在2026年印度AI影响力峰会上正式推出“OpenAI for India”全�
 *   **扩大本地化布局**：除现有的新德里办事处外，OpenAI计划于今年晚些时候在孟买和班加罗尔开设新办事处。
 
 ## 正文
+
 在2026年新德里举办的印度AI影响力峰会（India AI Impact Summit 2026）上，我们正式推出了“OpenAI for India”全国性计划。该计划旨在与印度顶尖的合作伙伴携手，扩大人工智能的普及范围，并在这个全球最大的民主国家释放AI的经济与社会效益。
 
 截至本月，印度每周有超过1亿的ChatGPT活跃用户，涵盖了学生、教师、开发者和企业家。乘此势头，“OpenAI for India”计划将从塔塔集团（Tata Group）开始，与领先的合作伙伴共同构建主权AI能力、加速企业级应用、投资劳动力技能提升，并进一步巩固印度繁荣的AI生态系统。

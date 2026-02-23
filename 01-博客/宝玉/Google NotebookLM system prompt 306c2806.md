@@ -1,9 +1,10 @@
-# Google NotebookLM system prompt
+---
+title: "Google NotebookLM system prompt"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/google-notebooklm-system-prompt-en
-- 发布日期：2025-05-01
-- 作者：宝玉
+来源: "https://baoyu.io/blog/google-notebooklm-system-prompt-en"
+发布日期: "2025-05-01"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -22,6 +23,7 @@
 *   该系统提示词是通过逆向工程推导得出的，可能与 Google 原始的系统提示词不完全匹配，仅作为参考。
 
 ## 正文
+
 Curious about how Google might have crafted the system) prompt behind NotebookLM, I reverse-engineered its approach and reconstructed what appears to be its core prompt philosophy:
 
 **"Within five minutes, utilizing a dual-voice of an enthusiastic storyteller and a calm analyst, distill objective yet intriguing insights strictly from provided sources. Tailored specifically for time-constrained learners who crave depth, these insights should deliver actionable knowledge or 'aha' moments."**
@@ -169,10 +171,12 @@ Suggested (but flexible) sequence or approach for actual content delivery:
 6.   6. **Concluding Question:** Always end with a reflective or actionable question to inspire further engagement.
 
 ## 相关文档
+
 - [[01-博客/宝玉/Google NotebookLM 系统提示词|Google NotebookLM 系统提示词]]；关联理由：同一事件；说明：两篇文章指向同一篇源内容，分别对应中文整理版与英文版标题。
 - [[01-博客/宝玉/我是如何破解 NotebookLM 系统提示词的？|我是如何破解 NotebookLM 系统提示词的？]]；关联理由：上下游；说明：该文解释了提示词逆向获取过程，是本篇“重建提示词内容”的上游方法说明。
 
 ## 关联主题
+
 - [[00-元语/prompt]]
 - [[00-元语/AI]]
 - [[00-元语/llm]]

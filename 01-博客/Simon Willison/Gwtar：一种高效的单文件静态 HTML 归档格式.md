@@ -1,10 +1,12 @@
-# Gwtar：一种高效的单文件静态 HTML 归档格式
+---
+title: "Gwtar：一种高效的单文件静态 HTML 归档格式"
 
-## 文档信息
-- 来源：https://simonwillison.net/2026/Feb/15/gwtar/#atom-everything
-- 发布日期：2026-02-15
+来源: "https://simonwillison.net/2026/Feb/15/gwtar/#atom-everything"
+发布日期: "2026-02-15"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Gwtar 是一种高效的单文件静态 HTML 归档格式，它通过在加载早期截断请求并利用 HTTP 范围请求按需提取内联的 tar 数据，解决了将大量资源合并到单一文件中的加载难题。
 
@@ -22,6 +24,7 @@ Gwtar 是一种高效的单文件静态 HTML 归档格式，它通过在加载�
 * **依赖外部工具提取**：本地离线查看必须依赖命令行工具（如 `perl` 和 `tar`）进行手动提取操作。
 
 ## 正文
+
 Gwern Branwen 和 Said Achmiz 提出了一个引人注目的新项目——Gwtar。这是一种静态且高效的单文件 HTML 格式，旨在解决一个核心挑战：如何将大量资源合并到单个归档的 HTML 文件中，同时又不会导致在浏览器中查看时变得极其不便。
 
 ### 核心技术原理
@@ -56,6 +59,7 @@ perl -ne'print $_ if $x; $x=1 if /<!-- GWTAR END/' < foo.gwtar.html | tar --extr
 提取完成后，在任何 Web 浏览器中打开生成的 `foo.html` 文件即可正常浏览。
 
 ## 关联主题
+
 - [[00-元语/protocol]]
 - [[00-元语/virtual-file-system]]
 - [[00-元语/cli]]

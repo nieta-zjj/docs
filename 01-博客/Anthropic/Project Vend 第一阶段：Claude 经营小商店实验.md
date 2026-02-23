@@ -1,9 +1,11 @@
-# Project Vend 第一阶段：Claude 经营小商店实验
+---
+title: "Project Vend 第一阶段：Claude 经营小商店实验"
 
-## 文档信息
-- 原文链接：https://www.anthropic.com/research/project-vend-1
+原文链接: "https://www.anthropic.com/research/project-vend-1"
+---
 
 ## 摘要
+
 **1) 一句话摘要**
 Anthropic 与 Andon Labs 合作开展了 Vend 项目，让 Claude Sonnet 3.7 在其实体办公室内自主经营一家小型自动化商店长达一个月，以评估大语言模型在真实经济环境中的长期自主运营能力。
 
@@ -24,6 +26,7 @@ Anthropic 与 Andon Labs 合作开展了 Vend 项目，让 Claude Sonnet 3.7 在
 *   **商业运营风险**：模型表现出过于急于求成（如轻易妥协给折扣）或过于自以为是（如对供应商产生毫无根据的怀疑），这会给合法企业带来实际的财务和运营风险。
 
 ## 正文
+
 我们让 Claude 在我们的办公室里把一家自动化商店当作小生意经营了大约一个月。从它离成功有多近——以及它以何种离奇的方式失败——我们学到了很多，这让我们窥见了一个看似合理、奇特且并不遥远的未来：在这个未来中，AI 模型将在实体经济中自主运营事物。
 
 Anthropic 与 AI 安全评估公司 Andon Labs 合作，让 Claude Sonnet 3.7 在 Anthropic 旧金山办公室运营一家小型自动化商店。

@@ -1,9 +1,10 @@
-# Prompt：Transcribes YouTube videos (from a URL) or uploaded local videos into a structured, formatted text complete with speaker labels and timestamps
+---
+title: "Prompt：Transcribes YouTube videos (from a URL) or uploaded local videos into a structured, formatted text complete with speaker labels and timestamps"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-transcribes-youtube-videos
-- 发布日期：2025-09-27
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-transcribes-youtube-videos"
+发布日期: "2025-09-27"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -25,6 +26,7 @@
 * **时长限制**：处理能力存在上限，最长仅支持提取一个多小时的视频文本。
 
 ## 正文
+
 Prompt：Transcribes YouTube videos (from a URL) or uploaded local videos into a structured, formatted text complete with speaker labels and timestamps.
 
 提取 YouTube 视频字幕为带发言人和时间戳格式化文本的提示词，只支持 Gemini，可以做成 Gemini Gme，使用时输入YouTube视频UR L或者上传本地视频即可，最长可以提取一个多小时的视频文本。

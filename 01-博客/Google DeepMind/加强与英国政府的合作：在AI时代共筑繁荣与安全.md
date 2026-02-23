@@ -1,9 +1,11 @@
-# 加强与英国政府的合作：在AI时代共筑繁荣与安全
+---
+title: "加强与英国政府的合作：在AI时代共筑繁荣与安全"
 
-## 文档信息
-- 来源：https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/
+来源: "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/"
+---
 
 ## 摘要
+
 **1) 一句话摘要**
 Google深化与英国政府的合作，致力于在科学发现、教育、公共服务及国家安全等关键领域应用前沿AI技术，以推动创新与社会繁荣。
 
@@ -22,6 +24,7 @@ Google深化与英国政府的合作，致力于在科学发现、教育、公�
 * **网络安全威胁**：提及国家网络韧性面临安全风险与代码漏洞，需借助AI工具作为防线进行识别与自动修复。
 
 ## 正文
+
 人工智能（AI）为构建一个更加繁荣和安全的世界带来了宝贵的机遇。
 
 英国已经为抓住这一历史性机遇奠定了坚实的基础，并在将AI创新转化为公共利益方面具备得天独厚的优势。因此，我们非常高兴能与英国政府深化合作，加速推进这项工作，并为其他国家提供可借鉴的蓝图。
@@ -74,6 +77,7 @@ AI在构建更高效、更优质的公共服务方面同样具有巨大潜力。
 我们相信，AI将成为人类历史上最具变革性的技术。我们致力于与全球各国政府建立合作伙伴关系，将其潜力转化为造福全人类的切实进步。通过深化与英国政府的合作，并以“美英技术繁荣协议（US-UK Tech Prosperity Deal）”等重要倡议为基础，我们旨在为所有人推动创新、科学发现与安全保障。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/gemini]]
 - [[00-元语/security]]

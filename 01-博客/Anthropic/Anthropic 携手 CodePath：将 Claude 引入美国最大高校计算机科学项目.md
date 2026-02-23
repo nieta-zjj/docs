@@ -1,9 +1,11 @@
-# Anthropic 携手 CodePath：将 Claude 引入美国最大高校计算机科学项目
+---
+title: "Anthropic 携手 CodePath：将 Claude 引入美国最大高校计算机科学项目"
 
-## 文档信息
-- 来源：https://www.anthropic.com/news/anthropic-codepath-partnership
+来源: "https://www.anthropic.com/news/anthropic-codepath-partnership"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Anthropic 宣布与美国最大的高校计算机科学教育机构 CodePath 达成合作，将 Claude 和 Claude Code 深度整合到其课程中，旨在为超过两万名来自不同背景的学生提供前沿的 AI 编程教育与实践机会。
 
@@ -23,6 +25,7 @@ Anthropic 宣布与美国最大的高校计算机科学教育机构 CodePath 达
 *   **传统安全审查的漏洞**：传统的代码审查方法经常会遗漏安全问题（Anthropic 正通过推出 Claude Code Security 来辅助发现和修复这些遗漏）。
 
 ## 正文
+
 随着人工智能正在重塑软件开发领域，Anthropic 宣布与美国最大的高校计算机科学教育机构 CodePath 达成合作，共同重新设计编程课程。CodePath 将把 Claude 和 Claude Code 作为其课程和职业项目的核心，为社区大学、州立学校以及传统黑人大学（HBCUs）的超过两万名学生提供在教育中使用前沿 AI 工具的机会。
 
 CodePath 超过 40% 的学生来自年收入低于 5 万美元的家庭。该机构致力于为这些学生提供经过行业验证的课程，以及通常只有富裕学府学生才能接触到的职业网络。
@@ -54,3 +57,10 @@ CodePath 联合创始人兼首席执行官 Michael Ellison 表示：“我们现
 *   **为防御者提供前沿的网络安全能力：** Claude Code Security 是内置于网页版 Claude Code 中的一项新功能，目前已进入有限的研究预览阶段。它能够扫描代码库中的安全漏洞，并提出针对性的软件补丁供人工审查，帮助团队发现和修复传统方法经常遗漏的安全问题。
 *   **Anthropic 与卢旺达政府签署医疗与教育 AI 合作谅解备忘录。**
 *   **推出 Claude Sonnet 4.6：** Sonnet 4.6 在编程、智能体以及大规模专业工作方面提供了前沿的性能。
+
+## 关联主题
+
+- [[00-元语/AI]]
+- [[00-元语/Claude]]
+- [[00-元语/软件工程]]
+- [[00-元语/career]]

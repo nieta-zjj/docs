@@ -1,9 +1,10 @@
-# Claude Code 5亿美元背后的AI工程革命
+---
+title: "Claude Code 5亿美元背后的AI工程革命"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/claude-code-500m-ai-engineering-revolution
-- 发布日期：2025-12-30
-- 作者：宝玉
+来源: "https://baoyu.io/blog/claude-code-500m-ai-engineering-revolution"
+发布日期: "2025-12-30"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -28,6 +29,7 @@ Claude Code 从一个简单的命令行玩具演变为年化收入5亿美元的A
 *   **复杂多Agent拓扑的有效性存疑**：Anthropic研究团队和工程团队均发现，复杂的Agent间通信模式对普通开发者难以理解，且其真实有效性目前尚无定论。
 
 ## 正文
+
 ![Image 1](https://baoyu.io/uploads/2025-12-30-1767075277854-501a1af2-39af-49da-b552-184d5310ea35.png)
 
 来整理一下 Claude Code 诞生的故事，主要来源是科技博主 Gergely Orosz 采访 Claude Code 核心成员的文章。

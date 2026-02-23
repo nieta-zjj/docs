@@ -1,15 +1,17 @@
-# fhevm：面向以太坊生态的同态加密执行环境
+---
+title: "fhevm：面向以太坊生态的同态加密执行环境"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `zama-ai/fhevm`
-- 项目主页：https://github.com/zama-ai/fhevm
-- 开源协议：Other
-- 主要语言：Rust
-- 统计快照：Stars 25758，Forks 2240，Watchers 120（抓取时间：2026-02-22）
-- 版本快照：最新发布 v0.11.1-0（发布时间：2026-02-13T20:23:26Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `zama-ai/fhevm`"
+项目主页: "https://github.com/zama-ai/fhevm"
+开源协议: "Other"
+主要语言: "Rust"
+统计快照: "Stars 25758，Forks 2240，Watchers 120（抓取时间：2026-02-22）"
+版本快照: "最新发布 v0.11.1-0（发布时间：2026-02-13T20:23:26Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 FHEVM 是一个集成完全同态加密（FHE）与区块链应用的全栈框架，允许开发者使用 Solidity 在兼容 EVM 的区块链上构建和运行端到端加密的机密智能合约。
 
@@ -23,38 +25,45 @@ FHEVM 是一个集成完全同态加密（FHE）与区块链应用的全栈框�
 *   **丰富的应用场景**：无需密码学背景即可开发，适用于机密转账（无需混币器）、代币化与 RWA、盲拍、链上隐藏状态游戏、机密投票以及加密 DID 等场景。
 *   **高社区关注度**：该项目在 GitHub 上拥有极高的热度，获得了超过 25,700 个 Stars 和 2,200 个 Forks。
 
-
 ## 功能与定位
+
 FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
 
 ## 典型使用场景
+
 - 用于区块链协议、链上应用与加密计算场景的工程验证。
 - 作为 Web3 基础设施或应用模块进行集成。
 
 ## 核心功能
+
 - 提供链上交互、执行环境或加密能力支持。
 - 面向开发者提供 SDK、工具链或节点化能力。
 - 适配 Web3 场景下的性能与安全需求。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T09:18:47Z。
 - 项目创建于 2025-05-02T10:48:20Z，具备持续迭代与社区沉淀。
 - 以 `Rust` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/zama-ai/fhevm
 - README：https://raw.githubusercontent.com/zama-ai/fhevm/main/README.md
 - Releases：https://github.com/zama-ai/fhevm/releases
 
 ## 关联主题
+
 - [[00-元语/blockchain]]
 - [[00-元语/protocol]]
 - [[00-元语/security]]

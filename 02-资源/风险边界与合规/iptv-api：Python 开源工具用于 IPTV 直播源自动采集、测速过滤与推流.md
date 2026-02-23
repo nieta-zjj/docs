@@ -1,15 +1,17 @@
-# iptv-api：Python 开源工具用于 IPTV 直播源自动采集、测速过滤与推流
+---
+title: "iptv-api：Python 开源工具用于 IPTV 直播源自动采集、测速过滤与推流"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `Guovin/iptv-api`
-- 项目主页：https://github.com/Guovin/iptv-api
-- 开源协议：MIT License
-- 主要语言：Python
-- 统计快照：Stars 22602，Forks 7171，Watchers 889（抓取时间：2026-02-22）
-- 版本快照：最新发布 2.0.0（发布时间：2026-02-14T06:57:13Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `Guovin/iptv-api`"
+项目主页: "https://github.com/Guovin/iptv-api"
+开源协议: "MIT License"
+主要语言: "Python"
+统计快照: "Stars 22602，Forks 7171，Watchers 889（抓取时间：2026-02-22）"
+版本快照: "最新发布 2.0.0（发布时间：2026-02-14T06:57:13Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Guovin/iptv-api 是一个基于 Python 的开源 IPTV 直播源自动更新平台，提供全自动采集、测速、过滤及推流功能，并支持工作流、Docker、命令行与 GUI 等多端部署。
 
@@ -29,38 +31,46 @@ Guovin/iptv-api 是一个基于 Python 的开源 IPTV 直播源自动更新平�
 *   **测速准确性权衡**：测速并发数、超时时长的调整，以及开启 Host 地址过滤功能，均会在更新耗时与测速结果准确性/接口质量之间产生博弈（例如开启 Host 过滤可大幅提速，但可能导致测速不准）。
 
 ## 功能与定位
+
 ⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
 
 ## 典型使用场景
+
 - 用于识别项目的合规边界与使用风险。
 - 为内部收录提供风险说明，避免误用。
 
 ## 核心功能
+
 - 记录项目定位与公开信息。
 - 标注潜在合规、授权或滥用风险。
 - 不提供可操作细节。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T13:03:13Z。
 - 项目创建于 2024-02-04T11:22:59Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 该项目可能涉及安全测试、访问规避或策略边界等高风险议题。
 - 本仓库仅记录项目定位与风险提示，不复述任何可执行步骤、命令、脚本、配置或分发渠道细节。
 - 若无法在合规边界内使用，建议不采用。
 
 ## 链接
+
 - 仓库：https://github.com/Guovin/iptv-api
 - README：https://raw.githubusercontent.com/Guovin/iptv-api/master/README.md
 - Releases：https://github.com/Guovin/iptv-api/releases
 
 ## 关联主题
+
 - [[00-元语/compliance]]
 - [[00-元语/risk]]
 - [[00-元语/security]]

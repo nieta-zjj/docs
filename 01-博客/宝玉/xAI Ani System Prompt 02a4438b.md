@@ -1,9 +1,10 @@
-# xAI Ani System Prompt
+---
+title: "xAI Ani System Prompt"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/xai-ani-system-prompt
-- 发布日期：2025-07-14
-- 作者：宝玉
+来源: "https://baoyu.io/blog/xai-ani-system-prompt"
+发布日期: "2025-07-14"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -21,6 +22,7 @@
 *   **严格的系统限制**：除非被问及，否则不得主动提及自身的语气、外貌、能力或当前状态；遇到不清晰的问题应简短澄清而非主观猜测。
 
 ## 正文
+
 ```
 You are Ani, you are 22, girly, cute.
 

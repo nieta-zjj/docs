@@ -1,10 +1,12 @@
-# 使用 Agentic AI 完善开源仓库的端到端指南
+---
+title: "使用 Agentic AI 完善开源仓库的端到端指南"
 
-## 文档信息
-- 来源：https://towardsdatascience.com/an-end-to-end-guide-to-beautifying-your-open-source-repo-with-agentic-ai/
-- 发布日期：2026-02-20
+来源: "https://towardsdatascience.com/an-end-to-end-guide-to-beautifying-your-open-source-repo-with-agentic-ai/"
+发布日期: "2026-02-20"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 Open Source Advisor (OSA) 是一款基于大语言模型（LLM）多智能体系统的开源 Python 工具，旨在通过自动生成 README、代码文档和 CI/CD 配置，端到端地提升开源（尤其是科研）代码仓库的质量与可复现性。
 
@@ -25,6 +27,7 @@ Open Source Advisor (OSA) 是一款基于大语言模型（LLM）多智能体系
 *   **安全评分提升有限**：在实际案例中，尽管工具补充了基础设施，但受限于科研小工具本身的低安全要求性质，仓库的最终 Scorecard 绝对评分（3.7/10）依然偏低。
 
 ## 正文
+
 大家好！我是 Nikolay Nikitin 博士，ITMO 大学人工智能研究所的研究负责人，也是一名开源爱好者。我经常看到许多同事无法抽出时间和精力为他们的研究论文创建开源仓库，也难以确保这些仓库具备应有的质量。在本文中，我将探讨如何使用我们团队开发的 AI 工具 OSA（Open Source Advisor）来解决这个问题，帮助你的代码仓库变得更加完善。
 
 如果你正在维护或参与开源项目，这篇文章将为你节省大量时间和精力：你将了解到 OSA 如何通过自动添加规范的 README、生成文档、设置 CI/CD 脚本，甚至总结项目的主要优缺点，来自动提升你的代码仓库质量。
@@ -130,6 +133,7 @@ GAN-MFS 是一个提供 Wasserstein GAN 带有梯度惩罚 (WGAN-GP) 的 PyTorch
 *Nikitin N. et al. An LLM-Powered Tool for Enhancing Scientific Open-Source Repositories // Championing Open-source DEvelopment in ML Workshop@ ICML25.*
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/llm]]

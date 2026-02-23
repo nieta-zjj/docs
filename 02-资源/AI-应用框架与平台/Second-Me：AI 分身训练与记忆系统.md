@@ -1,16 +1,18 @@
-# Second-Me：AI 分身训练与记忆系统
+---
+title: "Second-Me：AI 分身训练与记忆系统"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `mindverse/Second-Me`
-- 项目主页：https://github.com/mindverse/Second-Me
-- 官方网站：https://home.second.me/
-- 开源协议：Apache License 2.0
-- 主要语言：Python
-- 统计快照：Stars 15125，Forks 1168，Watchers 122（抓取时间：2026-02-22）
-- 版本快照：最新发布 v1.0.1（发布时间：2025-05-13T06:12:21Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `mindverse/Second-Me`"
+项目主页: "https://github.com/mindverse/Second-Me"
+官方网站: "https://home.second.me/"
+开源协议: "Apache License 2.0"
+主要语言: "Python"
+统计快照: "Stars 15125，Forks 1168，Watchers 122（抓取时间：2026-02-22）"
+版本快照: "最新发布 v1.0.1（发布时间：2025-05-13T06:12:21Z）"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 Second-Me 是一个开源的 AI 应用框架，允许用户通过本地训练和 AI 原生记忆技术，打造完全受控、保护隐私且能代表个人身份的专属“AI 分身”。
 
@@ -29,37 +31,45 @@ Second-Me 是一个开源的 AI 应用框架，允许用户通过本地训练和
 * **系统成熟度**：官方承认当前整个技术流水线（pipeline）仍存在显著的优化空间，需要持续迭代改进。
 
 ## 功能与定位
+
 Train your AI self, amplify you, bridge the world
 
 ## 典型使用场景
+
 - 用于快速搭建 AI 应用、工作流或服务化能力。
 - 作为上层产品的能力底座，统一模型调用与业务集成。
 
 ## 核心功能
+
 - 提供应用框架或平台化能力。
 - 支持模型接入、流程编排或接口服务化。
 - 面向开发与部署提供基础工程支持。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T11:24:41Z。
 - 项目创建于 2025-03-16T04:06:05Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/mindverse/Second-Me
 - 官网：https://home.second.me/
 - README：https://raw.githubusercontent.com/mindverse/Second-Me/master/README.md
 - Releases：https://github.com/mindverse/Second-Me/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/github]]

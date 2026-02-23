@@ -1,16 +1,18 @@
-# LibreChat：AI 聊天系统，支持私有化部署与多模型 Agent 集成
+---
+title: "LibreChat：AI 聊天系统，支持私有化部署与多模型 Agent 集成"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `danny-avila/LibreChat`
-- 项目主页：https://github.com/danny-avila/LibreChat
-- 官方网站：https://librechat.ai/
-- 开源协议：MIT License
-- 主要语言：TypeScript
-- 统计快照：Stars 34025，Forks 6851，Watchers 190（抓取时间：2026-02-22）
-- 版本快照：最新发布 chart-1.9.8（发布时间：2026-02-19T02:45:27Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `danny-avila/LibreChat`"
+项目主页: "https://github.com/danny-avila/LibreChat"
+官方网站: "https://librechat.ai/"
+开源协议: "MIT License"
+主要语言: "TypeScript"
+统计快照: "Stars 34025，Forks 6851，Watchers 190（抓取时间：2026-02-22）"
+版本快照: "最新发布 chart-1.9.8（发布时间：2026-02-19T02:45:27Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 LibreChat 是一款开源且支持私有化部署的增强版 AI 聊天平台，统一集成了全球主流大模型、AI 代理、代码解释器、多模态交互及企业级多用户权限管理功能。
 
@@ -28,37 +30,45 @@ LibreChat 是一款开源且支持私有化部署的增强版 AI 聊天平台，
 *   **版本更新风险**：官方明确警告，在进行版本更新前必须查阅更新日志（Changelog），以防范破坏性变更（Breaking changes）导致系统不可用。
 
 ## 功能与定位
+
 Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.
 
 ## 典型使用场景
+
 - 用于智能体开发、编排与执行链路搭建。
 - 适合 AI 编程助手与自动化协作流程建设。
 
 ## 核心功能
+
 - 支持 Agent 工具调用、任务分解或上下文管理。
 - 提供与开发环境协作的自动化能力。
 - 强调可扩展、可观测与工程集成。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T13:04:51Z。
 - 项目创建于 2023-02-12T01:06:52Z，具备持续迭代与社区沉淀。
 - 以 `TypeScript` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/danny-avila/LibreChat
 - 官网：https://librechat.ai/
 - README：https://raw.githubusercontent.com/danny-avila/LibreChat/main/README.md
 - Releases：https://github.com/danny-avila/LibreChat/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/llm]]

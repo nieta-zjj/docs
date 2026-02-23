@@ -1,9 +1,9 @@
-# Speech-to-Retrieval：语音检索新方法
+---
+title: "Speech-to-Retrieval：语音检索新方法"
 
-## 文档信息
-
-- 发布日期：2025-10-07
-- 原文链接：https://research.google/blog/speech-to-retrieval-s2r-a-new-approach-to-voice-search/
+发布日期: "2025-10-07"
+原文链接: "https://research.google/blog/speech-to-retrieval-s2r-a-new-approach-to-voice-search/"
+---
 
 ## 摘要
 

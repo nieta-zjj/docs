@@ -1,9 +1,10 @@
-# 新手 Cursor 用户 vs 专业 Cursor 用户
+---
+title: "新手 Cursor 用户 vs 专业 Cursor 用户"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/beginner-vs-pro-cursor-users
-- 发布日期：2025-01-06
-- 作者：宝玉
+来源: "https://baoyu.io/blog/beginner-vs-pro-cursor-users"
+发布日期: "2025-01-06"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -19,6 +20,7 @@
 *   **清晰的微调指令**：专业用户会使用条理清晰的列表形式给出微调指令（如修改分页路由格式为 `/posts/page/$page`、仅保留上一页/下一页链接），以高效完善最终代码。
 
 ## 正文
+
 新手 Cursor 用户：给我写一个博客系统 Cursor：一个简陋博客首页 用户：太烂了，没卵用，再也不用了
 
 专业 Cursor 用户：这是博客日志列表的截图，请参考截图的样式使用Tailwind+ShadcnUI做一个UI组件显示日志列表，数据访问参考 @/app/posts.ts 里面的方法

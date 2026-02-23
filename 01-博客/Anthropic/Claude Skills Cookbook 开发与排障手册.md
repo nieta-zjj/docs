@@ -1,13 +1,15 @@
-# Claude Skills Cookbook 开发与排障手册
+---
+title: "Claude Skills Cookbook 开发与排障手册"
 
-## 文档信息
-发布日期：2025-10-24
-作者：Anthropic
-来源仓库：anthropics/claude-cookbooks
-原文链接：https://github.com/anthropics/claude-cookbooks/blob/main/skills/CLAUDE.md
-译注：原文为英文仓库文档，本稿为中文整理版。
+发布日期: "2025-10-24"
+作者: "Anthropic"
+来源仓库: "anthropics/claude-cookbooks"
+原文链接: "https://github.com/anthropics/claude-cookbooks/blob/main/skills/CLAUDE.md"
+译注: "原文为英文仓库文档，本稿为中文整理版。"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 这是一个面向开发者的 Jupyter Notebook 综合指南，旨在演示如何通过集成 Claude 的 Beta 版 Skills 和 Files API 来自动化生成 Excel、PowerPoint、PDF 和 Word 等业务文档。
 
@@ -29,6 +31,7 @@
 * **环境隔离失效风险**：在 VSCode 或 Jupyter 中若未手动切换至 `venv` 内核，会导致依赖项错误；且修改辅助模块（如 `file_utils.py`）后若不重启内核或重新加载模块，更改将不会生效。
 
 ## 正文
+
 # Skills Cookbook - Claude 代码指南
 
 ## 项目概述
@@ -273,6 +276,7 @@ ANTHROPIC_BASE_URL=https://api.anthropic.com  # 如果使用代理
 - [[01-博客/Anthropic/Cookbook Notebook 审核规范与评分清单|Cookbook Notebook 审核规范与评分清单]]；关联理由：上下游；说明：该文提供 Notebook 审核与评分标准，可作为本篇示例与产出的下游验收准则。
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/skills]]
 - [[00-元语/sdk]]

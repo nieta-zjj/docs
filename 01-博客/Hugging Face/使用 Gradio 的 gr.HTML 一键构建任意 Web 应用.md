@@ -1,9 +1,11 @@
-# 使用 Gradio 的 gr.HTML 一键构建任意 Web 应用
+---
+title: "使用 Gradio 的 gr.HTML 一键构建任意 Web 应用"
 
-## 文档信息
-- 来源：https://huggingface.co/blog/gradio-html-one-shot-apps
+来源: "https://huggingface.co/blog/gradio-html-one-shot-apps"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Gradio 6 推出的 `gr.HTML` 功能允许开发者在单个 Python 文件中通过自定义 HTML、作用域 CSS 和 JavaScript 构建任意交互式 Web 组件，极大地简化了 AI 辅助编程（Vibe Coding）和应用的快速部署。
 
@@ -17,6 +19,7 @@ Gradio 6 推出的 `gr.HTML` 功能允许开发者在单个 Python 文件中通�
 *   **极速部署**：开发完成的单文件应用可通过 `gradio deploy` 在几秒钟内一键部署到 Hugging Face Spaces，或使用 `share=True` 生成临时链接。
 
 ## 正文
+
 Gradio 6 悄然发布了一项非常强大的功能：`gr.HTML` 现在支持自定义模板、作用域 CSS 和 JavaScript 交互。这意味着你可以构建几乎任何 Web 组件，并且可以通过 Claude（或其他前沿大语言模型）一次性生成所有内容：前端、后端和状态管理全部集中在一个 Python 文件中。
 
 我们通过构建不同类型的应用对此进行了测试。每个应用都只有一个 Python 文件，无需构建步骤，几秒钟内即可部署到 Hugging Face Spaces。
@@ -101,6 +104,7 @@ Gradio 内置了 32 个交互式组件，但有时你完美的 AI Web 应用需�
 *   API 文档：[gr.HTML](https://www.gradio.app/docs/gradio/html)
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/llm]]
 - [[00-元语/vibe-coding]]

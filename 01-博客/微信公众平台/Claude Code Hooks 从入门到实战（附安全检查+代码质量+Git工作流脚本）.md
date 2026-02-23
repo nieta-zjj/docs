@@ -1,11 +1,11 @@
-# Claude Code Hooks 从入门到实战（附安全检查+代码质量+Git工作流脚本）
+---
+title: "Claude Code Hooks 从入门到实战（附安全检查+代码质量+Git工作流脚本）"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/4_-kul76I_I5_fSmViyz7Q
-- 发布日期：2025-11-04
-- 作者：韦东东
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/4_-kul76I_I5_fSmViyz7Q"
+发布日期: "2025-11-04"
+作者: "韦东东"
+---
 
 ## 摘要
 

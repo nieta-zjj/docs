@@ -1,11 +1,11 @@
-# 对话 Elys 创始人：他的 10 个产品洞察，和他想创造的下一代社交网络
+---
+title: "对话 Elys 创始人：他的 10 个产品洞察，和他想创造的下一代社交网络"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/MDPdDbOWe7RK-mxVvFoKeQ
-- 发布日期：2026-02-15
-- 作者：Founder Park
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/MDPdDbOWe7RK-mxVvFoKeQ"
+发布日期: "2026-02-15"
+作者: "Founder Park"
+---
 
 ## 摘要
 

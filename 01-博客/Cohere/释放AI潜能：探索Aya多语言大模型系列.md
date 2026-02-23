@@ -1,9 +1,11 @@
-# 释放AI潜能：探索Aya多语言大模型系列
+---
+title: "释放AI潜能：探索Aya多语言大模型系列"
 
-## 文档信息
-- 来源：https://cohere.com/research/aya
+来源: "https://cohere.com/research/aya"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Cohere Labs 发起的 Aya 全球开放科学计划通过推出 Tiny Aya、Aya Vision、Aya Expanse 等系列模型与数据集，致力于推动多语言及多模态 AI 技术的普及与前沿发展。
 
@@ -18,6 +20,7 @@ Cohere Labs 发起的 Aya 全球开放科学计划通过推出 Tiny Aya、Aya Vi
 * **学术荣誉**：Aya Model 荣获 ACL 2024 最佳论文奖，Aya Dataset 入选斯坦福大学 HAI 2024 年度精选发布。
 
 ## 正文
+
 Aya 是由 Cohere Labs 发起的一项全球性开放科学计划。它汇聚了全球的研究人员，致力于推动多语言 AI 的前沿发展，弥合世界各地人与文化之间的鸿沟。
 
 作为机器学习领域迄今为止最大规模的开放科学协作项目，Aya 将来自世界各地的独立研究人员社区聚集在一起，为未来的创新奠定了强大的基础。这一初步的努力为后续的研究计划和更多模型的开发铺平了道路，不断拓宽 AI 所能触及的世界边界。
@@ -66,6 +69,7 @@ Aya 项目在多语言 AI 领域不断取得突破，其重要发布历程如下
 *   **斯坦福大学 HAI 2024 年度精选发布**：授予《Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning》。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/llm]]
 - [[00-元语/multimodal]]

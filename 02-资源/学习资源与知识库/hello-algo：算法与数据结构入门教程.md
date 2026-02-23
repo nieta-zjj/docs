@@ -1,16 +1,18 @@
-# hello-algo：算法与数据结构入门教程
+---
+title: "hello-algo：算法与数据结构入门教程"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `krahets/hello-algo`
-- 项目主页：https://github.com/krahets/hello-algo
-- 官方网站：https://www.hello-algo.com
-- 开源协议：Other
-- 主要语言：Java
-- 统计快照：Stars 122382，Forks 14836，Watchers 594（抓取时间：2026-02-22）
-- 版本快照：最新发布 1.3.0（发布时间：2026-01-01T20:48:29Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `krahets/hello-algo`"
+项目主页: "https://github.com/krahets/hello-algo"
+官方网站: "https://www.hello-algo.com"
+开源协议: "Other"
+主要语言: "Java"
+统计快照: "Stars 122382，Forks 14836，Watchers 594（抓取时间：2026-02-22）"
+版本快照: "最新发布 1.3.0（发布时间：2026-01-01T20:48:29Z）"
+---
 
 ## 摘要
+
 1) 一句话总结
 《Hello 算法》是一个开源免费、新手友好的数据结构与算法入门教程，通过动画图解和多语言一键运行的代码帮助初学者轻松掌握算法知识。
 
@@ -23,37 +25,45 @@
 - **开源协议**：仓库内的文本、代码、图片和视频等内容均采用 CC BY-NC-SA 4.0 协议授权。
 
 ## 功能与定位
+
 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 
 ## 典型使用场景
+
 - 作为学习与选型参考入口，快速定位资料与最佳实践。
 - 用于团队知识库沉淀与技术调研。
 
 ## 核心功能
+
 - 汇总课程、示例、清单或社区经验。
 - 强调可检索性与持续更新。
 - 适合学习路径规划与资源导航。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:18:30Z。
 - 项目创建于 2022-11-04T11:08:34Z，具备持续迭代与社区沉淀。
 - 以 `Java` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/krahets/hello-algo
 - 官网：https://www.hello-algo.com
 - README：https://raw.githubusercontent.com/krahets/hello-algo/main/README.md
 - Releases：https://github.com/krahets/hello-algo/releases
 
 ## 关联主题
+
 - [[00-元语/learning-resource]]
 - [[00-元语/github]]
 - [[00-元语/数学]]

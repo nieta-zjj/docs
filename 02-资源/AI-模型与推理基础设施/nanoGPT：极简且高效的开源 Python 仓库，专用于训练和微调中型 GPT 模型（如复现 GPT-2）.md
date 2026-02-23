@@ -1,15 +1,17 @@
-# nanoGPT：极简且高效的开源 Python 仓库，专用于训练和微调中型 GPT 模型（如复现 GPT-2）
+---
+title: "nanoGPT：极简且高效的开源 Python 仓库，专用于训练和微调中型 GPT 模型（如复现 GPT-2）"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `karpathy/nanoGPT`
-- 项目主页：https://github.com/karpathy/nanoGPT
-- 开源协议：MIT License
-- 主要语言：Python
-- 统计快照：Stars 53596，Forks 9073，Watchers 481（抓取时间：2026-02-22）
-- 版本快照：暂无正式发布记录
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `karpathy/nanoGPT`"
+项目主页: "https://github.com/karpathy/nanoGPT"
+开源协议: "MIT License"
+主要语言: "Python"
+统计快照: "Stars 53596，Forks 9073，Watchers 481（抓取时间：2026-02-22）"
+版本快照: "暂无正式发布记录"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 nanoGPT 是一个极简且高效的开源 Python 仓库，专用于训练和微调中型 GPT 模型（如复现 GPT-2），目前已停止维护并推荐使用其衍生项目 nanochat。
 
@@ -29,36 +31,44 @@ nanoGPT 是一个极简且高效的开源 Python 仓库，专用于训练和微�
 * **功能缺失（待办事项）**：根据项目的 Todos 列表，当前版本尚未实现 FSDP（仅支持 DDP）、标准零样本评估（如 LAMBADA/HELM）、线性批次大小调度以及其他位置编码（如 rotary, alibi）等高级特性。
 
 ## 功能与定位
+
 The simplest, fastest repository for training/finetuning medium-sized GPTs.
 
 ## 典型使用场景
+
 - 用于模型训练、微调、推理或文档解析等基础能力建设。
 - 作为上层 AI 应用的数据与模型基础设施。
 
 ## 核心功能
+
 - 提供模型/推理相关核心能力。
 - 支持与主流 AI 工具链协同。
 - 兼顾实验验证与工程落地场景。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:57:32Z。
 - 项目创建于 2022-12-28T00:51:12Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/karpathy/nanoGPT
 - README：https://raw.githubusercontent.com/karpathy/nanoGPT/master/README.md
 - Releases：https://github.com/karpathy/nanoGPT/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/llm]]
 - [[00-元语/llmops]]

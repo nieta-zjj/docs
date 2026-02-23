@@ -1,15 +1,15 @@
-# Fan Control：Windows 风扇控制软件
+---
+title: "Fan Control：Windows 风扇控制软件"
 
-## 文档信息
-
-- 对象：产品网站
-- 来源：
-  - https://getfancontrol.com/
-  - https://getfancontrol.com/docs/
-  - https://getfancontrol.com/about/
-  - https://github.com/Rem0o/FanControl.Releases
-  - https://github.com/Rem0o/FanControl.Releases/wiki/Plugins
-- 记录日期：2026-02-22
+对象: "产品网站"
+来源:
+  - "https://getfancontrol.com/"
+  - "https://getfancontrol.com/docs/"
+  - "https://getfancontrol.com/about/"
+  - "https://github.com/Rem0o/FanControl.Releases"
+  - "https://github.com/Rem0o/FanControl.Releases/wiki/Plugins"
+记录日期: "2026-02-22"
+---
 
 ## 摘要
 

@@ -1,9 +1,10 @@
-# Claude Code 最佳实践视频文稿
+---
+title: "Claude Code 最佳实践视频文稿"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/claude-code-best-practices-video-transcription
-- 发布日期：2025-08-01
-- 作者：宝玉
+来源: "https://baoyu.io/blog/claude-code-best-practices-video-transcription"
+发布日期: "2025-08-01"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -27,6 +28,7 @@ Claude Code 是一款基于终端的纯粹 AI 智能体，通过独特的智能�
 *   **旧模型指令遵循度不足**：在旧版模型中，存在不严格遵守 `claude.md` 指令（如要求不留注释但模型仍会生成）的行为问题，需升级至新一代模型（如 Opus）以改善。
 
 ## 正文
+
 Claude Code best practices：[https://www.youtube.com/watch?v=gv0WHhKelSE](https://www.youtube.com/watch?v=gv0WHhKelSE)
 
 双语字幕版：[https://www.bilibili.com/video/BV1EqhJzmEqE/](https://www.bilibili.com/video/BV1EqhJzmEqE/)

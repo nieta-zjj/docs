@@ -1,13 +1,15 @@
-# 使用 Claude Agent SDK 构建强大智能体教程
+---
+title: "使用 Claude Agent SDK 构建强大智能体教程"
 
-## 文档信息
-发布日期：2025-12-04
-作者：Anthropic
-来源仓库：anthropics/claude-cookbooks
-原文链接：https://github.com/anthropics/claude-cookbooks/blob/main/claude_agent_sdk/README.md
-译注：原文为英文仓库文档，本稿为中文整理版。
+发布日期: "2025-12-04"
+作者: "Anthropic"
+来源仓库: "anthropics/claude-cookbooks"
+原文链接: "https://github.com/anthropics/claude-cookbooks/blob/main/claude_agent_sdk/README.md"
+译注: "原文为英文仓库文档，本稿为中文整理版。"
+---
 
 ## 摘要
+
 **一句话总结**
 本教程系列详细演示了如何使用 Claude Agent SDK 构建从基础研究智能体到通过模型上下文协议（MCP）集成外部系统的复杂多智能体编排系统。
 
@@ -129,6 +131,7 @@ uv pip install -e .
 ```
 
 ## 背景
+
 ### Claude Agent SDK 的演进
 
 Claude Code 已成为 Anthropic 最成功的产品之一，但这不仅仅是因为其 SOTA（业界领先）的编码能力。它真正的突破在于更基础的层面：**Claude 在智能体工作方面表现得异常出色**。
@@ -166,6 +169,7 @@ Claude Code 已成为 Anthropic 最成功的产品之一，但这不仅仅是因
 - [[01-博客/Anthropic/在 Claude 开发者平台引入高级工具使用功能|在 Claude 开发者平台引入高级工具使用功能]]；关联理由：延伸思考；说明：本教程讲解工具与 MCP 集成，该文进一步延伸到高级工具能力的边界与接入策略。
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/Agent]]
 - [[00-元语/sdk]]

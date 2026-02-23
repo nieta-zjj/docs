@@ -1,15 +1,17 @@
-# BitNet：1-bit 大语言模型推理引擎，支持 CPU 与 GPU 快速无损推理
+---
+title: "BitNet：1-bit 大语言模型推理引擎，支持 CPU 与 GPU 快速无损推理"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `microsoft/BitNet`
-- 项目主页：https://github.com/microsoft/BitNet
-- 开源协议：MIT License
-- 主要语言：Python
-- 统计快照：Stars 28548，Forks 2341，Watchers 253（抓取时间：2026-02-22）
-- 版本快照：暂无正式发布记录
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `microsoft/BitNet`"
+项目主页: "https://github.com/microsoft/BitNet"
+开源协议: "MIT License"
+主要语言: "Python"
+统计快照: "Stars 28548，Forks 2341，Watchers 253（抓取时间：2026-02-22）"
+版本快照: "暂无正式发布记录"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 微软开源的 `bitnet.cpp` 是专为 1-bit 大语言模型（如 BitNet b1.58）设计的官方推理框架，旨在 CPU 和 GPU 上实现快速、无损的推理，并大幅降低能耗。
 
@@ -29,39 +31,48 @@
 * **通用性限制**：本项目专为 1-bit（如三值）模型设计，官方明确指出，对于超出三值模型范畴的通用低比特 LLM 推理，建议使用 `T-MAC` 框架。
 
 ## 功能与定位
+
 Official inference framework for 1-bit LLMs
 
 ## 典型使用场景
+
 - 用于模型训练、微调、推理或文档解析等基础能力建设。
 - 作为上层 AI 应用的数据与模型基础设施。
 
 ## 核心功能
+
 - 提供模型/推理相关核心能力。
 - 支持与主流 AI 工具链协同。
 - 兼顾实验验证与工程落地场景。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:32:22Z。
 - 项目创建于 2024-08-05T09:07:38Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/microsoft/BitNet
 - README：https://raw.githubusercontent.com/microsoft/BitNet/main/README.md
 - Releases：https://github.com/microsoft/BitNet/releases
 
 ## 相关文档
+
 - [[02-资源/AI-模型与推理基础设施/llama.cpp：轻量级本地大模型推理引擎|llama.cpp：轻量级本地大模型推理引擎]]；关联理由：上下游；说明：BitNet 的推理实现基于 llama.cpp，且文档提到上游变更会直接影响 BitNet 的编译与运行。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/llm]]
 - [[00-元语/benchmark]]

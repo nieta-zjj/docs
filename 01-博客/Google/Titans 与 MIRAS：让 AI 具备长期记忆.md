@@ -1,9 +1,9 @@
-# Titans 与 MIRAS：让 AI 具备长期记忆
+---
+title: "Titans 与 MIRAS：让 AI 具备长期记忆"
 
-## 文档信息
-
-- 发布日期：2025-12-04
-- 原文链接：https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/
+发布日期: "2025-12-04"
+原文链接: "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/"
+---
 
 ## 摘要
 

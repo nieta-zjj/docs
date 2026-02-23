@@ -1,9 +1,9 @@
-# durable-objects
+---
+title: "durable-objects"
 
-## 文档信息
-
-- 类型：主题词条
-- 更新日期：2026-02-23
+类型: "主题词条"
+更新日期: "2026-02-23"
+---
 
 ## 定义
 
@@ -35,6 +35,7 @@
 - [[02-资源/AI-应用框架与平台/Cloudflare Agents：无服务器 AI Agent 平台|Cloudflare Agents：无服务器 AI Agent 平台]]；关联理由：上下游；说明：该平台以 Durable Objects 作为有状态 Agent 的运行基础，体现了该能力的实际落地场景。
 
 ## 关联主题
+
 - [[00-元语/cloudflare]]
 - [[00-元语/serverless]]
 - [[00-元语/stream-processing]]

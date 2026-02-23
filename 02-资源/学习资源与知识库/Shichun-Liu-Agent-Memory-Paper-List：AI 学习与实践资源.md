@@ -1,11 +1,11 @@
-# Shichun-Liu-Agent-Memory-Paper-List：AI 学习与实践资源
+---
+title: "Shichun-Liu-Agent-Memory-Paper-List：AI 学习与实践资源"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/Shichun-Liu/Agent-Memory-Paper-List
-- 发现评分：92
-- Stars：1258
+发布日期: "2026-02-22"
+来源: "https://github.com/Shichun-Liu/Agent-Memory-Paper-List"
+发现评分: "92"
+Stars: "1258"
+---
 
 ## 摘要
 
@@ -20,14 +20,16 @@
 * **访问渠道**：项目开源托管于 GitHub 平台（https://github.com/Shichun-Liu/Agent-Memory-Paper-List）。
 
 ## 功能与定位
+
 该项目是一个学术资源库，主要收录并整理了综述论文《Memory in the Age of AI Agents: A Survey》（AI Agent 时代的记忆：综述）中所涉及的论文列表。
 
 ## 核心功能
+
 * 提供与 AI Agent 记忆（Memory）主题相关的学术论文清单。
 
 ## 链接
-* GitHub 仓库：https://github.com/Shichun-Liu/Agent-Memory-Paper-List
 
+* GitHub 仓库：https://github.com/Shichun-Liu/Agent-Memory-Paper-List
 
 ## 关联主题
 

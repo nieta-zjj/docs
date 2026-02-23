@@ -1,10 +1,12 @@
-# 提示词缓存：Claude Code 降低延迟与成本的关键
+---
+title: "提示词缓存：Claude Code 降低延迟与成本的关键"
 
-## 文档信息
-- 来源：https://simonwillison.net/2026/Feb/20/thariq-shihipar/#atom-everything
-- 发布日期：2026-02-20
+来源: "https://simonwillison.net/2026/Feb/20/thariq-shihipar/#atom-everything"
+发布日期: "2026-02-20"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 提示词缓存技术是 Claude Code 等代理型产品的核心基石，通过复用计算结果显著降低了系统延迟与成本，并决定了其整体架构与运营策略。
 
@@ -20,6 +22,7 @@
 * 提示词缓存命中率过低会触发严格的监控警报，并被定性为严重事件（SEVs）进行处理。
 
 ## 正文
+
 这是 Simon Willison 在 2026 年 2 月 20 日收集并发布的一段来自 Thariq Shihipar 的引言，深入探讨了提示词缓存（Prompt Caching）在 AI 代理产品中的核心地位。
 
 ### 提示词缓存的核心作用
@@ -44,10 +47,12 @@
 - 深蓝（Deep Blue）（2026年2月15日）
 
 ## 相关文档
+
 - [[01-博客/Thariq/构建 Claude Code 的经验教训：提示词缓存决定一切|构建 Claude Code 的经验教训：提示词缓存决定一切]]；关联理由：引用；说明：本文核心观点来自 Thariq 的引言，该文提供了同一命题的完整工程展开。
 - [[01-博客/Anthropic/Claude Misc Cookbook 上下文与缓存优化|Claude Misc Cookbook 上下文与缓存优化]]；关联理由：解说；说明：该文系统解释了提示词缓存在成本与延迟优化中的工程做法，可作为本文结论的实践补充。
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/prompt]]
 - [[00-元语/context-optimization]]

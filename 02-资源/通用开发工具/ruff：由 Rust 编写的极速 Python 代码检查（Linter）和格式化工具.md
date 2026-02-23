@@ -1,16 +1,18 @@
-# ruff：由 Rust 编写的极速 Python 代码检查（Linter）和格式化工具
+---
+title: "ruff：由 Rust 编写的极速 Python 代码检查（Linter）和格式化工具"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `astral-sh/ruff`
-- 项目主页：https://github.com/astral-sh/ruff
-- 官方网站：https://docs.astral.sh/ruff
-- 开源协议：MIT License
-- 主要语言：Rust
-- 统计快照：Stars 45885，Forks 1786，Watchers 96（抓取时间：2026-02-22）
-- 版本快照：最新发布 0.15.2（发布时间：2026-02-19T22:33:41Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `astral-sh/ruff`"
+项目主页: "https://github.com/astral-sh/ruff"
+官方网站: "https://docs.astral.sh/ruff"
+开源协议: "MIT License"
+主要语言: "Rust"
+统计快照: "Stars 45885，Forks 1786，Watchers 96（抓取时间：2026-02-22）"
+版本快照: "最新发布 0.15.2（发布时间：2026-02-19T22:33:41Z）"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 Ruff 是一个由 Rust 编写的极速 Python 代码检查（Linter）和格式化工具，旨在以数十至上百倍的性能优势替代 Flake8、Black 和 isort 等传统工具。
 
@@ -28,37 +30,45 @@ Ruff 是一个由 Rust 编写的极速 Python 代码检查（Linter）和格式�
 *   **预览模式不稳定性**：若用户通过配置或命令行开启预览模式（Preview mode），会启用一系列不稳定的新功能，这些功能在正式稳定前可能会发生变更。
 
 ## 功能与定位
+
 An extremely fast Python linter and code formatter, written in Rust.
 
 ## 典型使用场景
+
 - 作为通用开发工具用于工程协作与效率提升。
 - 适用于个人与团队的日常研发流程。
 
 ## 核心功能
+
 - 提供稳定的通用工程能力。
 - 支持跨平台或多环境使用。
 - 依赖开源社区持续迭代。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:30:35Z。
 - 项目创建于 2022-08-09T17:17:44Z，具备持续迭代与社区沉淀。
 - 以 `Rust` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/astral-sh/ruff
 - 官网：https://docs.astral.sh/ruff
 - README：https://raw.githubusercontent.com/astral-sh/ruff/main/README.md
 - Releases：https://github.com/astral-sh/ruff/releases
 
 ## 关联主题
+
 - [[00-元语/tool]]
 - [[00-元语/cli]]
 - [[00-元语/CI]]

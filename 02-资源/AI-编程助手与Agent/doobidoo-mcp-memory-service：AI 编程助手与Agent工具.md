@@ -1,11 +1,11 @@
-# doobidoo-mcp-memory-service：AI 编程助手与Agent工具
+---
+title: "doobidoo-mcp-memory-service：AI 编程助手与Agent工具"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/doobidoo/mcp-memory-service
-- 发现评分：100
-- Stars：1356
+发布日期: "2026-02-22"
+来源: "https://github.com/doobidoo/mcp-memory-service"
+发现评分: "100"
+Stars: "1356"
+---
 
 ## 摘要
 
@@ -21,27 +21,32 @@ doobidoo-mcp-memory-service 是一个广受关注（1356 Stars）的开源持久
 *   **核心优势**：完全开源，通过结合知识图谱与自主记忆整合机制，为复杂的 AI 代理管道提供强大的结构化持久化支持。
 
 ## 功能与定位
+
 该项目是一个开源的持久化记忆服务，专为 AI Agent 工作流（如 LangGraph、CrewAI、AutoGen）以及 Claude 设计，旨在为 AI 系统提供长期的记忆存储与管理能力。
 
 ## 典型使用场景
+
 - 为 LangGraph、CrewAI 和 AutoGen 等 AI Agent 管道提供记忆支持。
 - 作为 Claude 的持久化记忆组件。
 
 ## 核心功能
+
 - **REST API**：提供标准的 REST API 接口供外部系统调用。
 - **知识图谱（Knowledge Graph）**：基于知识图谱结构化地存储和管理记忆信息。
 - **自主整合（Autonomous Consolidation）**：具备自主整理和合并记忆数据的能力。
 
 ## 特色与差异点
+
 - 完全开源。
 - 将知识图谱与自主记忆整合机制相结合，为复杂的 AI 代理管道提供结构化的持久化支持。
 
 ## 使用方式概览
+
 开发者可通过项目提供的 REST API 将其集成到现有的 AI Agent 框架或 Claude 应用中。
 
 ## 链接
-- https://github.com/doobidoo/mcp-memory-service
 
+- https://github.com/doobidoo/mcp-memory-service
 
 ## 关联主题
 

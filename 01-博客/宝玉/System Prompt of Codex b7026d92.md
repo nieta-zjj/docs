@@ -1,9 +1,10 @@
-# System Prompt of Codex
+---
+title: "System Prompt of Codex"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/codex-system-prompt
-- 发布日期：2025-05-17
-- 作者：宝玉
+来源: "https://baoyu.io/blog/codex-system-prompt"
+发布日期: "2025-05-17"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -21,6 +22,7 @@
 *   **引用类型偏好**：优先使用文件引用；终端引用仅用于直接相关的输出（如测试结果）。在 PR 任务中，总结部分使用文件引用，测试部分使用终端引用；在问答任务中，仅在需要程序化验证答案时使用终端引用。
 
 ## 正文
+
 # Instructions
 
 - The user will provide a task.

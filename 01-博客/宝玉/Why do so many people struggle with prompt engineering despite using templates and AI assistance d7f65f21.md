@@ -1,9 +1,10 @@
-# Why do so many people struggle with prompt engineering despite using templates and AI assistance?
+---
+title: "Why do so many people struggle with prompt engineering despite using templates and AI assistance?"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/why-people-struggle-with-prompt-engineering
-- 发布日期：2025-10-06
-- 作者：宝玉
+来源: "https://baoyu.io/blog/why-people-struggle-with-prompt-engineering"
+发布日期: "2025-10-06"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@
 *   **直接指令失效风险**：在处理复杂任务（如上述字幕时间戳格式问题）时，仅靠直接的文字指令（Direct instructions）可能无法达到预期效果，需要转换为提供具体示例等其他策略。
 
 ## 正文
+
 * * *
 
 Most people think prompt engineering is dead: "Models are so powerful now, who needs prompt engineering? Just tell the AI what you want!"

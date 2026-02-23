@@ -1,11 +1,11 @@
-# SuperDesign：输入自然语言即可生成UI界面的开源设计Agent
+---
+title: "SuperDesign：输入自然语言即可生成UI界面的开源设计Agent"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/F4G9jjFc_QOBIk-gUbU1vw
-- 发布日期：2025-08-21
-- 作者：AIGitHub
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/F4G9jjFc_QOBIk-gUbU1vw"
+发布日期: "2025-08-21"
+作者: "AIGitHub"
+---
 
 ## 摘要
 

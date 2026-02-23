@@ -1,16 +1,18 @@
-# Pake：网页转桌面应用的开源打包工具
+---
+title: "Pake：网页转桌面应用的开源打包工具"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `tw93/Pake`
-- 项目主页：https://github.com/tw93/Pake
-- 官方网站：https://x.com/twitter/status/2025197688422339010
-- 开源协议：MIT License
-- 主要语言：Rust
-- 统计快照：Stars 45928，Forks 9021，Watchers 228（抓取时间：2026-02-22）
-- 版本快照：最新发布 V3.9.1（发布时间：2026-02-21T12:48:42Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `tw93/Pake`"
+项目主页: "https://github.com/tw93/Pake"
+官方网站: "https://x.com/twitter/status/2025197688422339010"
+开源协议: "MIT License"
+主要语言: "Rust"
+统计快照: "Stars 45928，Forks 9021，Watchers 228（抓取时间：2026-02-22）"
+版本快照: "最新发布 V3.9.1（发布时间：2026-02-21T12:48:42Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Pake 是一个基于 Rust Tauri 的开源工具，支持通过一条命令将任何网页快速打包成轻量级的跨平台（macOS/Windows/Linux）桌面应用。
 
@@ -24,37 +26,45 @@ Pake 是一个基于 Rust Tauri 的开源工具，支持通过一条命令将任
 *   **项目热度与协议**：采用 MIT 开源协议，社区活跃度极高（超 4.5 万 Stars），目前最新发布版本为 V3.9.1。
 
 ## 功能与定位
+
 🤱🏻 Turn any webpage into a desktop app with one command.
 
 ## 典型使用场景
+
 - 作为通用开发工具用于工程协作与效率提升。
 - 适用于个人与团队的日常研发流程。
 
 ## 核心功能
+
 - 提供稳定的通用工程能力。
 - 支持跨平台或多环境使用。
 - 依赖开源社区持续迭代。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:18:46Z。
 - 项目创建于 2022-10-14T09:32:57Z，具备持续迭代与社区沉淀。
 - 以 `Rust` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/tw93/Pake
 - 官网：https://x.com/twitter/status/2025197688422339010
 - README：https://raw.githubusercontent.com/tw93/Pake/main/README.md
 - Releases：https://github.com/tw93/Pake/releases
 
 ## 关联主题
+
 - [[00-元语/cli]]
 - [[00-元语/desktop-client]]
 - [[00-元语/productivity]]

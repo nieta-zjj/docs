@@ -1,9 +1,9 @@
-# virtual-file-system
+---
+title: "virtual-file-system"
 
-## 文档信息
-
-- 类型：元语词条
-- 更新日期：2026-02-23
+类型: "元语词条"
+更新日期: "2026-02-23"
+---
 
 ## 定义
 
@@ -33,6 +33,7 @@ virtual-file-system（VFS）是将底层数据库、对象存储或本地磁盘�
 - [[02-资源/AI-应用框架与平台/AgentFS：将 SQLite 映射为 agent 可挂载虚拟文件系统|AgentFS：将 SQLite 映射为 agent 可挂载虚拟文件系统]]；关联理由：上下游；说明：该项目提供了将数据库映射为可挂载 VFS 的实现，可视为该概念的工程化落地。
 
 ## 关联主题
+
 - [[00-元语/Agent]]
 - [[00-元语/context-database]]
 - [[00-元语/memory]]

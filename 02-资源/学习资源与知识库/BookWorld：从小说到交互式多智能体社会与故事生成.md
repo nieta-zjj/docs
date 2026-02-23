@@ -1,15 +1,15 @@
-# BookWorld：从小说到交互式多智能体社会与故事生成
+---
+title: "BookWorld：从小说到交互式多智能体社会与故事生成"
 
-## 文档信息
-
-- 来源：
-  - https://bookworld2025.github.io/
-  - https://arxiv.org/abs/2504.14538
-  - https://huggingface.co/spaces/alienet/BookWorld
-  - https://github.com/alienet1109/BookWorld
-- 论文状态：项目主页标注已被 ACL 2025 接收
-- 网站页脚许可：CC BY-NC-ND 4.0
-- 代码仓库许可：Apache License 2.0
+来源:
+  - "https://bookworld2025.github.io/"
+  - "https://arxiv.org/abs/2504.14538"
+  - "https://huggingface.co/spaces/alienet/BookWorld"
+  - "https://github.com/alienet1109/BookWorld"
+论文状态: "项目主页标注已被 ACL 2025 接收"
+网站页脚许可: "CC BY-NC-ND 4.0"
+代码仓库许可: "Apache License 2.0"
+---
 
 ## 摘要
 

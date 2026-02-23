@@ -1,15 +1,17 @@
-# vaultwarden：使用 Rust 编写的非官方 Bitwarden 兼容服务器，专为替代资源密集型的官方服务而设计
+---
+title: "vaultwarden：使用 Rust 编写的非官方 Bitwarden 兼容服务器，专为替代资源密集型的官方服务而设计"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `dani-garcia/vaultwarden`
-- 项目主页：https://github.com/dani-garcia/vaultwarden
-- 开源协议：GNU Affero General Public License v3.0
-- 主要语言：Rust
-- 统计快照：Stars 55316，Forks 2565，Watchers 275（抓取时间：2026-02-22）
-- 版本快照：最新发布 1.35.3（发布时间：2026-02-10T20:37:03Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `dani-garcia/vaultwarden`"
+项目主页: "https://github.com/dani-garcia/vaultwarden"
+开源协议: "GNU Affero General Public License v3.0"
+主要语言: "Rust"
+统计快照: "Stars 55316，Forks 2565，Watchers 275（抓取时间：2026-02-22）"
+版本快照: "最新发布 1.35.3（发布时间：2026-02-10T20:37:03Z）"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 Vaultwarden（原 bitwarden_rs）是一个使用 Rust 编写的非官方 Bitwarden 兼容服务器，专为替代资源密集型的官方服务而设计，非常适合个人和小型组织的轻量级自托管部署。
 
@@ -30,36 +32,44 @@ Vaultwarden（原 bitwarden_rs）是一个使用 Rust 编写的非官方 Bitward
 *   **支持渠道限制**：由于是非官方项目，遇到任何 Bug 或崩溃问题时，**绝对不能**使用官方 Bitwarden 的支持渠道，只能通过 Vaultwarden 的社区（Matrix、GitHub、Discourse）寻求帮助。
 
 ## 功能与定位
+
 Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 
 ## 典型使用场景
+
 - 作为通用开发工具用于工程协作与效率提升。
 - 适用于个人与团队的日常研发流程。
 
 ## 核心功能
+
 - 提供稳定的通用工程能力。
 - 支持跨平台或多环境使用。
 - 依赖开源社区持续迭代。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:57:54Z。
 - 项目创建于 2018-02-17T22:40:20Z，具备持续迭代与社区沉淀。
 - 以 `Rust` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/dani-garcia/vaultwarden
 - README：https://raw.githubusercontent.com/dani-garcia/vaultwarden/main/README.md
 - Releases：https://github.com/dani-garcia/vaultwarden/releases
 
 ## 关联主题
+
 - [[00-元语/tool]]
 - [[00-元语/github]]
 - [[00-元语/self-hosting]]

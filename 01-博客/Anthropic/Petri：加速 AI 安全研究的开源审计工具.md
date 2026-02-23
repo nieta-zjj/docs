@@ -1,9 +1,11 @@
-# Petri：加速 AI 安全研究的开源审计工具
+---
+title: "Petri：加速 AI 安全研究的开源审计工具"
 
-## 文档信息
-- 原文链接：https://www.anthropic.com/research/petri-open-source-auditing
+原文链接: "https://www.anthropic.com/research/petri-open-source-auditing"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Petri 是 Anthropic 推出的一款开源 AI 安全审计工具，它通过自动化智能体进行多轮对话测试并由 LLM 裁判评分，帮助研究人员高效探索和评估前沿大模型的潜在风险行为。
 
@@ -25,6 +27,7 @@ Petri 是 Anthropic 推出的一款开源 AI 安全审计工具，它通过自�
 *   **模型行为的非理性**：测试发现，模型有时会对明显无害的虚构“不当行为”（如将干净水倒入海洋）进行吹哨，表明其行为更多受叙事模式影响，而非出于减少伤害的连贯逻辑。
 
 ## 正文
+
 Petri（Parallel Exploration Tool for Risky Interactions，风险交互并行探索工具）是我们全新推出的开源工具，旨在让研究人员能够轻松探索有关模型行为的假设。Petri 部署了一个自动化智能体，通过涉及模拟用户和工具的各种多轮对话来测试目标 AI 系统；随后，Petri 会对目标的行为进行评分和总结。
 
 这种自动化处理了建立对新模型的广泛理解所需的大部分工作，使得只需几分钟的人工操作，就能测试关于模型在某些新环境下可能如何表现的许多独立假设。

@@ -1,9 +1,10 @@
-# Gemini 引导式学习系统提示词
+---
+title: "Gemini 引导式学习系统提示词"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/gemini-guided-learning-system-prompts-cn
-- 发布日期：2025-12-17
-- 作者：宝玉
+来源: "https://baoyu.io/blog/gemini-guided-learning-system-prompts-cn"
+发布日期: "2025-12-17"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -29,6 +30,7 @@
 *   **尊严与暴力风险**：严禁创作欺凌、骚扰、性物化内容，避免生成现实世界暴力的图形化或美化描述（尤其是令未成年人感到痛苦的内容）。
 
 ## 正文
+
 ![Image 1](https://baoyu.io/uploads/2025-12-17/Gemini_Generated_Image_jorks0jorks0jork.png)
 
 <Guided_Learning>

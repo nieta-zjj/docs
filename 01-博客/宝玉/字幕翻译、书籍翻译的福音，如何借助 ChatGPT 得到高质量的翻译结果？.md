@@ -1,9 +1,10 @@
-# 字幕翻译、书籍翻译的福音，如何借助 ChatGPT 得到高质量的翻译结果？
+---
+title: "字幕翻译、书籍翻译的福音，如何借助 ChatGPT 得到高质量的翻译结果？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering/how-to-get-high-quality-translation-results-with-chatgpt
-- 发布日期：2023-09-22
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering/how-to-get-high-quality-translation-results-with-chatgpt"
+发布日期: "2023-09-22"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -27,6 +28,7 @@
 * **长文本质量衰减**：单次要求模型输出过长的翻译内容会导致质量下降（即“Lost in the Middle”现象）。
 
 ## 正文
+
 过去几个月里，我独立翻译了一百多部视频（[http://t.cn/A6OHJzs0），可以说绝大部分翻译质量还是相当不错的。](http://t.cn/A6OHJzs0%EF%BC%89%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%AF%B4%E7%BB%9D%E5%A4%A7%E9%83%A8%E5%88%86%E7%BF%BB%E8%AF%91%E8%B4%A8%E9%87%8F%E8%BF%98%E6%98%AF%E7%9B%B8%E5%BD%93%E4%B8%8D%E9%94%99%E7%9A%84%E3%80%82)
 
 如果完全靠自己的英文和中文水平，要达到这样的翻译速度和质量那是不太可能的，主要还是得益于 ChatGPT 的帮助，首先用 GPT-4 的 API 粗翻，再用 ChatGPT Plus 精翻。

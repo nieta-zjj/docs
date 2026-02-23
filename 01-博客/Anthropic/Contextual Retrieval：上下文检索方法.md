@@ -1,9 +1,9 @@
-# Contextual Retrieval：上下文检索方法
+---
+title: "Contextual Retrieval：上下文检索方法"
 
-## 文档信息
-
-- 发布日期：2026-01-07
-- 原文链接：https://www.anthropic.com/engineering/contextual-retrieval
+发布日期: "2026-01-07"
+原文链接: "https://www.anthropic.com/engineering/contextual-retrieval"
+---
 
 ## 摘要
 

@@ -1,10 +1,12 @@
-# OpenAI 宣布将 ChatGPT 引入 GenAI.mil 平台
+---
+title: "OpenAI 宣布将 ChatGPT 引入 GenAI.mil 平台"
 
-## 文档信息
-- 来源：https://openai.com/index/bringing-chatgpt-to-genaimil
-- 发布日期：2026-02-09
+来源: "https://openai.com/index/bringing-chatgpt-to-genaimil"
+发布日期: "2026-02-09"
+---
 
 ## 摘要
+
 **一句话总结**
 OpenAI 宣布将定制版 ChatGPT 引入美国战争部的 GenAI.mil 平台，为 300 万军民人员提供安全、隔离的生成式 AI 能力，以支持日常行政与任务工作。
 
@@ -18,6 +20,7 @@ OpenAI 宣布将定制版 ChatGPT 引入美国战争部的 GenAI.mil 平台，�
 *   **数据隔离**：在 GenAI.mil 上处理的数据完全隔离在政府环境中，明确不会用于训练或改进 OpenAI 的公共或商业模型。
 
 ## 正文
+
 今天，OpenAI for Government 宣布了我们国家安全工作的下一阶段：将 ChatGPT 引入 GenAI.mil。这是美国战争部（Department of War）的安全企业级 AI 平台，供 300 万文职和军事人员使用。
 
 通过与其他前沿 AI 实验室一同加入 GenAI.mil，我们正在深化与五角大楼的现有合作。这包括我们与 DARPA 合作协助网络防御者的项目，以及今年早些时候与该部首席数字和人工智能办公室（CDAO）宣布的试点项目，旨在探索前沿 AI 如何改变五角大楼的运营。
@@ -47,10 +50,12 @@ ChatGPT 旨在支持日常任务，以增强美国军人的战备状态和任务
 这一举措反映了我们开展政府合作的更广泛理念：专注、务实、安全优先，并立足于现实世界的实际应用。
 
 ## 相关文档
+
 - [[01-博客/OpenAI/让 AI 惠及全球每一个人：我们的本地化方法|让 AI 惠及全球每一个人：我们的本地化方法]]；关联理由：解说；说明：该文补充了 OpenAI 在各国政府场景部署 AI 时的本地化原则与安全红线，可用于理解 GenAI.mil 的治理边界。
 - [[01-博客/OpenAI/OpenAI正式推出“OpenAI for India”全国性计划|OpenAI正式推出“OpenAI for India”全国性计划]]；关联理由：观点一致；说明：两文都强调在政府或关键任务场景中通过数据驻留与合规控制来部署 ChatGPT 能力。
 
 ## 关联主题
+
 - [[00-元语/OpenAI]]
 - [[00-元语/ChatGPT]]
 - [[00-元语/AI]]

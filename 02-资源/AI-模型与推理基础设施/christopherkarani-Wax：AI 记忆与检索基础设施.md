@@ -1,11 +1,11 @@
-# christopherkarani-Wax：AI 记忆与检索基础设施
+---
+title: "christopherkarani-Wax：AI 记忆与检索基础设施"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/christopherkarani/Wax
-- 发现评分：100
-- Stars：568
+发布日期: "2026-02-22"
+来源: "https://github.com/christopherkarani/Wax"
+发现评分: "100"
+Stars: "568"
+---
 
 ## 摘要
 
@@ -22,20 +22,23 @@ Wax 是一个专为端侧 AI 智能体设计的无服务器、单文件记忆层
 *   **开源地址**：项目托管于 GitHub（christopherkarani/Wax）。
 
 ## 功能与定位
+
 Wax 是一个专为端侧 AI 智能体（on-device AI Agents）设计的记忆层基础设施。它的核心定位是通过提供一个无服务器（serverless）、单文件（single-file）的记忆解决方案，来替代传统且复杂的 RAG（检索增强生成）流水线。
 
 ## 典型使用场景
+
 - 为端侧运行的 AI 智能体提供本地化的记忆与检索支持。
 - 简化 AI 应用的开发架构，免去搭建复杂 RAG 系统的繁琐流程。
 
 ## 特色与差异点
+
 - **极简设计**：采用单文件（single-file）结构，大幅降低集成复杂度。
 - **无服务器架构**：Serverless 形态，无需额外部署和维护复杂的后端数据库或检索服务。
 - **端侧专属**：专门针对端侧设备与本地 AI 智能体的运行环境进行优化。
 
 ## 链接
-- https://github.com/christopherkarani/Wax
 
+- https://github.com/christopherkarani/Wax
 
 ## 关联主题
 

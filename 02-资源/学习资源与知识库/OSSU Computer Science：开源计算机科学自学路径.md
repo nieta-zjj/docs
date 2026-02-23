@@ -1,15 +1,17 @@
-# OSSU Computer Science：开源计算机科学自学路径
+---
+title: "OSSU Computer Science：开源计算机科学自学路径"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `ossu/computer-science`
-- 项目主页：https://github.com/ossu/computer-science
-- 开源协议：MIT License
-- 主要语言：HTML
-- 统计快照：Stars 201565，Forks 25034，Watchers 5959（抓取时间：2026-02-22）
-- 版本快照：暂无正式发布记录
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `ossu/computer-science`"
+项目主页: "https://github.com/ossu/computer-science"
+开源协议: "MIT License"
+主要语言: "HTML"
+统计快照: "Stars 201565，Forks 25034，Watchers 5959（抓取时间：2026-02-22）"
+版本快照: "暂无正式发布记录"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 OSSU/computer-science 是一个极具人气的开源项目，它整合了全球顶尖大学的免费在线资源，为学习者提供了一套对标计算机科学本科学位要求的完整自学课程体系。
 
@@ -27,38 +29,45 @@ OSSU/computer-science 是一个极具人气的开源项目，它整合了全球�
 * **第三方/废弃资料误导**：网络上存在已废弃或第三方的 OSSU 资料（如停止维护的 Firebase App、Trello 看板、第三方的 Notion 模板），官方明确警告应忽略这些内容。
 * **学术诚信风险**：学习者在公开展示课程作业时，必须严格遵守各课程签署的行为准则（Code of conduct），仅分享被允许公开的文件。
 
-
 ## 功能与定位
+
 🎓 Path to a free self-taught education in Computer Science!
 
 ## 典型使用场景
+
 - 作为学习与选型参考入口，快速定位资料与最佳实践。
 - 用于团队知识库沉淀与技术调研。
 
 ## 核心功能
+
 - 汇总课程、示例、清单或社区经验。
 - 强调可检索性与持续更新。
 - 适合学习路径规划与资源导航。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:13:38Z。
 - 项目创建于 2014-05-04T00:18:39Z，具备持续迭代与社区沉淀。
 - 以 `HTML` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/ossu/computer-science
 - README：https://raw.githubusercontent.com/ossu/computer-science/main/README.md
 - Releases：https://github.com/ossu/computer-science/releases
 
 ## 关联主题
+
 - [[00-元语/learning-resource]]
 - [[00-元语/roadmap]]
 - [[00-元语/community]]

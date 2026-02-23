@@ -1,9 +1,10 @@
-# OpenAI 在 Reddit 上的 Ask Me Anything 的一些回复
+---
+title: "OpenAI 在 Reddit 上的 Ask Me Anything 的一些回复"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/openai-reddit-ama-responses
-- 发布日期：2024-10-31
-- 作者：宝玉
+来源: "https://baoyu.io/blog/openai-reddit-ama-responses"
+发布日期: "2024-10-31"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@ OpenAI 高管团队在 Reddit 问答中透露了关于模型演进、产品规�
 *   **合规与区域限制**：明确表示必须遵守欧盟政策，这意味着欧盟用户在获取新功能时仍需受制于当地监管框架；医疗领域的 HIPAA 合规仍在逐步推进中。
 
 ## 正文
+
 [https://www.reddit.com/r/ChatGPT/comments/1ggixzy/am _with_ openai _sam_ altma _kevin_ weil_srinivas/](https://www.reddit.com/r/ChatGPT/comments/1ggixzy/ama_with_openais_sam_altman_kevin_weil_srinivas/)
 
 * * *

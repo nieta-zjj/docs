@@ -1,18 +1,18 @@
-# Ollama：本地大模型运行与集成工具
+---
+title: "Ollama：本地大模型运行与集成工具"
 
-## 文档信息
-
-- 对象：GitHub 开源仓库与官网
-- 仓库：ollama/ollama
-- 来源：
-  - https://github.com/ollama/ollama
-  - https://raw.githubusercontent.com/ollama/ollama/main/README.md
-  - https://api.github.com/repos/ollama/ollama
-  - https://ollama.com
-- 开源协议：MIT
-- 创建时间：2023-06-26
-- 统计时间：2026-02-22
-- 仓库数据（抓取时）：Stars 163,109；Forks 14,640；Subscribers 899
+对象: "GitHub 开源仓库与官网"
+仓库: "ollama/ollama"
+来源:
+  - "https://github.com/ollama/ollama"
+  - "https://raw.githubusercontent.com/ollama/ollama/main/README.md"
+  - "https://api.github.com/repos/ollama/ollama"
+  - "https://ollama.com"
+开源协议: "MIT"
+创建时间: "2023-06-26"
+统计时间: "2026-02-22"
+仓库数据（抓取时）: "Stars 163,109；Forks 14,640；Subscribers 899"
+---
 
 ## 摘要
 

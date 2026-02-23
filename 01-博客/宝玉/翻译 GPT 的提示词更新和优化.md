@@ -1,9 +1,10 @@
-# 翻译 GPT 的提示词更新和优化
+---
+title: "翻译 GPT 的提示词更新和优化"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2-1-improvement
-- 发布日期：2024-07-31
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2-1-improvement"
+发布日期: "2024-07-31"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@
 *   **术语表定制限制**：受限于当前 GPT 的功能限制，翻译术语表目前无法实现用户动态定制，只能在提示词中硬编码预置常见的专业术语。
 
 ## 正文
+
 最近有朋友反映[科技文章翻译 GPT](https://chat.openai.com/g/g-uBhKUJJTl-ke-ji-wen-zhang-fan-yi) 经常不能正常抓取 URL，另外有时候会不执行翻译，而输出的是英文结果。这可能是由于 GPT-4o 的模型微调，导致一些原本正常的 Prompt 无法正常执行。
 
 [](https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2-1-improvement#%E4%B8%BB%E8%A6%81%E4%BC%98%E5%8C%96)主要优化
@@ -162,6 +164,7 @@ For each step of the translation process, output your results within the appropr
 Remember to consistently use the provided glossary for technical terms throughout your translation. Ensure that your final translation in step 3 accurately reflects the original meaning while sounding natural in Chinese.
 
 ## 关联主题
+
 - [[00-元语/llm]]
 - [[00-元语/prompt]]
 - [[00-元语/OpenAI]]

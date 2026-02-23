@@ -1,9 +1,10 @@
-# SubAgent 与 Skills：AI Agent 的两种扩展方式
+---
+title: "SubAgent 与 Skills：AI Agent 的两种扩展方式"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/2026/01/19/skills-vs-subagent
-- 发布日期：2026-01-19
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026/01/19/skills-vs-subagent"
+发布日期: "2026-01-19"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@ AI Agent 的两种扩展方式中，Skills 类似于按需加载的应用程序�
 * **执行效率瓶颈**：仅依赖 Skills 处理多个独立任务时，只能串行执行（一个接一个处理），导致整体速度慢。
 
 ## 正文
+
 ![Image 1](https://baoyu.io/blog/2026/01/19/imgs/cover.png)
 
 一句话解释 SubAgent 和 Skills 的区别：**AI Agent 就像操作系统，Skills 就像应用程序，SubAgent 也是操作系统，不过预装了应用，并且像虚拟机一样运行，独立上下文。**

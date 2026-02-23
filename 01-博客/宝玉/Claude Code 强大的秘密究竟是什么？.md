@@ -1,9 +1,10 @@
-# Claude Code 强大的秘密究竟是什么？
+---
+title: "Claude Code 强大的秘密究竟是什么？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/claude-code-secrets
-- 发布日期：2025-06-22
-- 作者：宝玉
+来源: "https://baoyu.io/blog/claude-code-secrets"
+发布日期: "2025-06-22"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@ Claude Code 凭借强大的 Claude 4 模型基础、18 个内置工具、无损�
 *   **OpenAI 的研发方向偏差**：Codex 团队花费大量精力用 Rust 重写 CLI，偏离了用户只关心“最终产品能否有效解决实际问题”的核心痛点。
 
 ## 正文
+
 ![Image 1](https://baoyu.io/uploads/2025-06-22/1750556031247.png)
 
 Claude Code 的强大，首先来自其强大的模型基础。无论是 Claude 4 的 Sonnet 还是 Opus，这些模型在编程与 Agent 能力方面都有突出的表现，这是它获得成功的根本前提。

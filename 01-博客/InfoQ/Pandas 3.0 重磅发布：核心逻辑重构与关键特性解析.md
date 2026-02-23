@@ -1,9 +1,11 @@
-# Pandas 3.0 重磅发布：核心逻辑重构与关键特性解析
+---
+title: "Pandas 3.0 重磅发布：核心逻辑重构与关键特性解析"
 
-## 文档信息
-- 来源：https://www.infoq.cn/article/qGFw1RVvOJJCW7jGTNZW?utm_source=rss&utm_medium=article
+来源: "https://www.infoq.cn/article/qGFw1RVvOJJCW7jGTNZW?utm_source=rss&utm_medium=article"
+---
 
 ## 摘要
+
 **一句话总结**
 Pandas 3.0.0 正式发布，通过引入专用字符串类型、默认启用写时复制（CoW）、新增声明式表达式语法以及提升底层依赖要求，对库的核心逻辑进行了重大重构。
 
@@ -23,6 +25,7 @@ Pandas 3.0.0 正式发布，通过引入专用字符串类型、默认启用写�
 * **API 与性能差距**：社区反馈及核心开发者承认，尽管进行了重大更新，Pandas 在 API 设计和性能方面依然不及替代库 Polars。
 
 ## 正文
+
 Pandas 团队正式发布了 pandas 3.0.0 版本。作为一次重大更新，该版本重构了字符串处理、内存语义以及日期时间精度的核心逻辑，移除了大量已废弃的功能，并对库的 API 核心行为做出了多项关键调整。
 
 以下是本次更新的核心亮点与变更细节：
@@ -61,6 +64,7 @@ Pandas 团队正式发布了 pandas 3.0.0 版本。作为一次重大更新，�
 目前，Pandas 3.0.0 已经在 PyPI 和 conda 上发布，官方同时附带了迁移指南，详细概述了破坏性更改和推荐的升级步骤。
 
 ## 关联主题
+
 - [[00-元语/ETL]]
 - [[00-元语/data-pipeline]]
 - [[00-元语/benchmark]]

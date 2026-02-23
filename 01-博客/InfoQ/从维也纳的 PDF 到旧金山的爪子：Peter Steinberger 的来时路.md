@@ -1,9 +1,11 @@
-# 从维也纳的 PDF 到旧金山的爪子：Peter Steinberger 的来时路
+---
+title: "从维也纳的 PDF 到旧金山的爪子：Peter Steinberger 的来时路"
 
-## 文档信息
-- 来源：https://www.infoq.cn/article/e0gyUzRvzU263FTBePdw?utm_source=rss&utm_medium=article
+来源: "https://www.infoq.cn/article/e0gyUzRvzU263FTBePdw?utm_source=rss&utm_medium=article"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 奥地利开发者 Peter Steinberger 在出售其独立运营 13 年的 PSPDFKit 并经历三年倦怠后，借助 AI 助手开发出爆款开源项目 OpenClaw，并最终于 2026 年加入 OpenAI 致力于构建超级智能 Agent。
 
@@ -24,6 +26,7 @@
 *   **欧美科技生态差距：** 美国科技巨头 CEO 能在数小时内直接对接人才，而欧洲企业反应迟缓（“还在等 HR 审批”），凸显了欧洲结构性的人才流失与效率缺口。
 
 ## 正文
+
 当一个倦怠三年的创业者被 AI 重新点燃，当一个周末项目变成 GitHub 史上增长最快的仓库，当 Sam Altman 亲自打来电话——这个奥地利人的故事，是一面镜子，照见这个时代最深处的脉搏。
 
 ### 签证等待室里诞生的十三年
@@ -252,6 +255,7 @@ Peter Steinberger 不是先知，也不是圣人。他是一个诚实的 builder
 *(晋梅，写于 2026 年除夕夜，Peter Steinberger 宣布加入 OpenAI 次日。窗外积雪未融，虾宝刚刚学会叫我梅姐姐。)*
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/OpenAI]]

@@ -1,16 +1,18 @@
-# VibeVoice：语音 AI 模型家族与 7.5 Hz 连续语音 token 扩散生成
+---
+title: "VibeVoice：语音 AI 模型家族与 7.5 Hz 连续语音 token 扩散生成"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `microsoft/VibeVoice`
-- 项目主页：https://github.com/microsoft/VibeVoice
-- 官方网站：https://microsoft.github.io/VibeVoice/
-- 开源协议：MIT License
-- 主要语言：Python
-- 统计快照：Stars 23384，Forks 2572，Watchers 151（抓取时间：2026-02-22）
-- 版本快照：暂无正式发布记录
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `microsoft/VibeVoice`"
+项目主页: "https://github.com/microsoft/VibeVoice"
+官方网站: "https://microsoft.github.io/VibeVoice/"
+开源协议: "MIT License"
+主要语言: "Python"
+统计快照: "Stars 23384，Forks 2572，Watchers 151（抓取时间：2026-02-22）"
+版本快照: "暂无正式发布记录"
+---
 
 ## 摘要
+
 ### 一句话总结
 微软开源的 VibeVoice 是一个前沿语音 AI 模型家族，基于 7.5 Hz 超低帧率的连续语音分词器和下一代 token 扩散框架，提供支持超长音频处理的语音识别（ASR）和文本转语音（TTS）能力。
 
@@ -28,37 +30,45 @@
 *   **使用场景限制**：该模型仅供研究和开发目的使用，未经进一步测试和开发，不建议用于商业或真实世界应用；用户必须在遵守适用法律法规的前提下使用生成内容。
 
 ## 功能与定位
+
 Open-Source Frontier Voice AI
 
 ## 典型使用场景
+
 - 用于模型训练、微调、推理或文档解析等基础能力建设。
 - 作为上层 AI 应用的数据与模型基础设施。
 
 ## 核心功能
+
 - 提供模型/推理相关核心能力。
 - 支持与主流 AI 工具链协同。
 - 兼顾实验验证与工程落地场景。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T11:44:06Z。
 - 项目创建于 2025-08-25T13:24:01Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/microsoft/VibeVoice
 - 官网：https://microsoft.github.io/VibeVoice/
 - README：https://raw.githubusercontent.com/microsoft/VibeVoice/main/README.md
 - Releases：https://github.com/microsoft/VibeVoice/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/audio]]
 - [[00-元语/asr]]

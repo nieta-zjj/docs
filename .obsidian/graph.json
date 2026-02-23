@@ -11,42 +11,84 @@
       "query": "path:claude",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14251863
       }
     },
     {
       "query": "path:openai",
       "color": {
         "a": 1,
-        "rgb": 5404128
+        "rgb": 0
       }
     },
     {
       "query": "path:gemini",
       "color": {
         "a": 1,
-        "rgb": 14725970
+        "rgb": 10641876
       }
     },
     {
       "query": "path:agent",
       "color": {
         "a": 1,
-        "rgb": 12669664
+        "rgb": 14701138
       }
     },
     {
       "query": "path:ai",
       "color": {
         "a": 1,
-        "rgb": 9062927
+        "rgb": 8568050
       }
     },
     {
       "query": "path:memo",
       "color": {
         "a": 1,
-        "rgb": 43775
+        "rgb": 65471
+      }
+    },
+    {
+      "query": "path:codex",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:chatgpt",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:chat-gpt",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:deepseek",
+      "color": {
+        "a": 1,
+        "rgb": 29393
+      }
+    },
+    {
+      "query": "path:coding",
+      "color": {
+        "a": 1,
+        "rgb": 14663287
+      }
+    },
+    {
+      "query": "file:开发",
+      "color": {
+        "a": 1,
+        "rgb": 14663287
       }
     }
   ],
@@ -60,6 +102,6 @@
   "repelStrength": 10.9861591695502,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.4505081176757739,
+  "scale": 0.32133638605035264,
   "close": false
 }

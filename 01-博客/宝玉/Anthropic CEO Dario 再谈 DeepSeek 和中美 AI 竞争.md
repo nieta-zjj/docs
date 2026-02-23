@@ -1,9 +1,10 @@
-# Anthropic CEO Dario 再谈 DeepSeek 和中美 AI 竞争
+---
+title: "Anthropic CEO Dario 再谈 DeepSeek 和中美 AI 竞争"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/anthropic-ceo-deepseek-us-china-ai
-- 发布日期：2025-02-06
-- 作者：宝玉
+来源: "https://baoyu.io/blog/anthropic-ceo-deepseek-us-china-ai"
+发布日期: "2025-02-06"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@ Anthropic CEO Dario Amodei 认为 DeepSeek 的发布标志着中国已正式加�
 *   **现有出口管制的漏洞**：目前的出口管制无法完全阻止几万颗芯片量级的走私，DeepSeek 成功绕过管制获取了约 5 万颗先进芯片用于模型训练。
 
 ## 正文
+
 在上一次 Anthropic 的 CEO Dario Amodei 发表了那篇《[**Anthropic CEO Dario Amodei 最新对于 DeepSeek 的回应：关于 DeepSeek 与出口管制**](https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247483985&idx=1&sn=ce6f49de520d48715565f1de298e1b00&scene=21#wechat_redirect)》博客之后，遭到了中美很多网友的批评，之后他又参与了一期播客访谈，更多的讨论了 DeepSeek 和中美之间的 AI 竞争。
 
 他的观点并没有什么变化，还是认为 DeepSeek 取得这样的成绩并没有什么，但同时也承认：
@@ -245,6 +247,7 @@ _图片来自_[_Latent Space_](https://x.com/nlpguy_/status/1883776497858883669)
 **Jordan Schneider：** 如果你将来不搞 AI 了，我看你很适合写 Substack……非常感谢你做客 ChinaTalk！
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/llm]]
 - [[00-元语/alignment]]

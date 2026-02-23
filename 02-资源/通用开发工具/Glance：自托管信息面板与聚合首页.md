@@ -1,15 +1,17 @@
-# Glance：自托管信息面板与聚合首页
+---
+title: "Glance：自托管信息面板与聚合首页"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `glanceapp/glance`
-- 项目主页：https://github.com/glanceapp/glance
-- 开源协议：GNU Affero General Public License v3.0
-- 主要语言：Go
-- 统计快照：Stars 32078，Forks 1210，Watchers 71（抓取时间：2026-02-22）
-- 版本快照：最新发布 v0.8.4（发布时间：2025-06-10T07:57:14Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `glanceapp/glance`"
+项目主页: "https://github.com/glanceapp/glance"
+开源协议: "GNU Affero General Public License v3.0"
+主要语言: "Go"
+统计快照: "Stars 32078，Forks 1210，Watchers 71（抓取时间：2026-02-22）"
+版本快照: "最新发布 v0.8.4（发布时间：2025-06-10T07:57:14Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Glance 是一个基于 Go 语言开发的轻量级、高可定制的自托管信息流聚合仪表板，旨在将各类订阅源和监控数据集中展示在一个页面中。
 
@@ -21,38 +23,45 @@ Glance 是一个基于 Go 语言开发的轻量级、高可定制的自托管信
 * **配置方式**：完全通过 YAML 文件进行声明式配置。
 * **多端适配**：界面经过专门优化，提供良好的移动端设备访问体验。
 
-
 ## 功能与定位
+
 A self-hosted dashboard that puts all your feeds in one place
 
 ## 典型使用场景
+
 - 作为通用开发工具用于工程协作与效率提升。
 - 适用于个人与团队的日常研发流程。
 
 ## 核心功能
+
 - 提供稳定的通用工程能力。
 - 支持跨平台或多环境使用。
 - 依赖开源社区持续迭代。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:19:05Z。
 - 项目创建于 2024-04-27T18:55:38Z，具备持续迭代与社区沉淀。
 - 以 `Go` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/glanceapp/glance
 - README：https://raw.githubusercontent.com/glanceapp/glance/main/README.md
 - Releases：https://github.com/glanceapp/glance/releases
 
 ## 关联主题
+
 - [[00-元语/self-hosting]]
 - [[00-元语/productivity]]
 - [[00-元语/github]]

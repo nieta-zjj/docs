@@ -1,13 +1,15 @@
-# ElevenLabs 与 Claude 低延迟语音助手实践
+---
+title: "ElevenLabs 与 Claude 低延迟语音助手实践"
 
-## 文档信息
-发布日期：2025-11-01
-作者：Anthropic
-来源仓库：anthropics/claude-cookbooks
-原文链接：https://github.com/anthropics/claude-cookbooks/blob/main/third_party/ElevenLabs/README.md
-译注：原文为英文仓库文档，本稿为中文整理版。
+发布日期: "2025-11-01"
+作者: "Anthropic"
+来源仓库: "anthropics/claude-cookbooks"
+原文链接: "https://github.com/anthropics/claude-cookbooks/blob/main/third_party/ElevenLabs/README.md"
+译注: "原文为英文仓库文档，本稿为中文整理版。"
+---
 
 ## 摘要
+
 **1) 一句话摘要**
 本指南演示了如何结合 ElevenLabs 的语音处理（STT/TTS）与 Claude 的智能回复，通过 WebSocket 流式传输技术构建并优化一个低延迟的实时语音助手。
 
@@ -25,6 +27,7 @@
 * **网络与连接中断**：WebSocket 流式传输可能会因防火墙拦截（443 端口）、VPN 干扰或超出 API 速率限制而导致连接失败或超时。
 
 ## 正文
+
 # ElevenLabs <> Claude Cookbooks
 
 [ElevenLabs](https://elevenlabs.io/) 提供由 AI 驱动的语音转文本 (speech-to-text) 和文本转语音 (text-to-speech) API，用于创建声音自然的语音应用程序，并具备语音克隆和流式合成等高级功能。
@@ -236,6 +239,7 @@ python -c "import sounddevice as sd; print(sd.query_devices())"
 - [Python SDK](https://github.com/elevenlabs/elevenlabs-python) - 官方 Python SDK
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/llm]]
 - [[00-元语/Agent]]

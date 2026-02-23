@@ -1,11 +1,11 @@
-# Claude 的新宪章
+---
+title: "Claude 的新宪章"
 
-## 文档信息
-
-- 站点：Anthropic News
-- 原文链接：https://www.anthropic.com/news/claude-new-constitution
-- 发布日期：2026-01-22
-- 译注：未找到官方中文版本，本文基于英文原文翻译整理。
+站点: "Anthropic News"
+原文链接: "https://www.anthropic.com/news/claude-new-constitution"
+发布日期: "2026-01-22"
+译注: "未找到官方中文版本，本文基于英文原文翻译整理。"
+---
 
 ## 摘要
 

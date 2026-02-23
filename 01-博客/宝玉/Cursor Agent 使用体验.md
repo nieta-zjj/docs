@@ -1,9 +1,10 @@
-# Cursor Agent 使用体验
+---
+title: "Cursor Agent 使用体验"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/cursor-agent-experience
-- 发布日期：2025-01-03
-- 作者：宝玉
+来源: "https://baoyu.io/blog/cursor-agent-experience"
+发布日期: "2025-01-03"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -23,6 +24,7 @@
 * **存在使用门槛**：对使用者有技术要求，需要使用者自身懂技术和代码，才能在 Agent 出错时进行有效的引导和纠正。
 
 ## 正文
+
 今天测试了一下 Cursor 的 Agent 功能，Agent 功能和普通提示词的差别在于 Agent 像一个机器人，你只要给一个模糊的指令，不需要把上下文交代清楚，它会自动帮你去规划、去解决问题。
 
 我测试的案例是让它帮我给 Electron 应用添加一个 ipc（进程间通信）方法，保存文件后能打开文件夹选中文件。不过我降低了难度，直接明确让它在 shell ipc 中添加一个 showItemInFolder方法，然后替换 UI 部分的相关代码。

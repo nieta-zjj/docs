@@ -1,9 +1,10 @@
-# 项目一再跳票？试试这一招：用 Deadline 倒逼生产力
+---
+title: "项目一再跳票？试试这一招：用 Deadline 倒逼生产力"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/project-management/deadline-is-the-first-productivity
-- 发布日期：2020-06-29
-- 作者：宝玉
+来源: "https://baoyu.io/blog/project-management/deadline-is-the-first-productivity"
+发布日期: "2020-06-29"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@
 *   **交付物模糊引发浪费**：若在 Deadline 到达时交付的是模棱两可的结果（如模糊的需求文档），会导致后续环节边做边改，产生大量不必要的浪费。
 
 ## 正文
+
 我想也许你早就听说过“Deadline 是第一生产力”这句话，哪怕以前没听说过，我相信看完本文后，再也不会忘记这句话，甚至时不时还要感慨一句：“Deadline 是第一生产力！”。 ![Image 1](https://baoyu.io/images/project-management/deadline-is-the-first-productivity/cover.jpeg)
 
 在日常生活中，Deadline 倒逼生产力的例子比比皆是，比如说：

@@ -1,10 +1,12 @@
-# AI 智能体的新演进：“Claw” 系统的兴起
+---
+title: "AI 智能体的新演进：“Claw” 系统的兴起"
 
-## 文档信息
-- 来源：https://simonwillison.net/2026/Feb/21/claws/#atom-everything
-- 发布日期：2026-02-21
+来源: "https://simonwillison.net/2026/Feb/21/claws/#atom-everything"
+发布日期: "2026-02-21"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Andrej Karpathy 指出，“Claw” 是构建在 LLM 智能体之上的全新技术层级，该词正逐渐成为具备本地运行、消息通信与任务调度等特征的新一代 AI 智能体系统的行业术语。
 
@@ -17,6 +19,7 @@ Andrej Karpathy 指出，“Claw” 是构建在 LLM 智能体之上的全新技
 *   Claw 系统的四大核心特征包括：在个人硬件设备上运行、通过消息协议进行通信、能够执行直接指令、具备任务调度能力。
 
 ## 正文
+
 Andrej Karpathy 最近发布了一篇关于购买 Mac Mini 的短文（据苹果店员说，Mac Mini 销量极好，让大家都感到惊讶），他购买这台设备正是为了探索和研究 “Claws”。
 
 ### 什么是 Claws？
@@ -45,6 +48,7 @@ Andrej Karpathy 对新鲜的专业术语一直有着敏锐的直觉（例如他�
 顺便一提，这个概念甚至已经有了一个专属的标志性 Emoji：🦞。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/llm]]

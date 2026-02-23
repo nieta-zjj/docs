@@ -1,11 +1,11 @@
-# LocalRecall：AI 智能体本地记忆与知识库工具
+---
+title: "LocalRecall：AI 智能体本地记忆与知识库工具"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/mudler/LocalRecall
-- 发现评分：90
-- Stars：757
+发布日期: "2026-02-22"
+来源: "https://github.com/mudler/LocalRecall"
+发现评分: "90"
+Stars: "757"
+---
 
 ## 摘要
 
@@ -21,19 +21,22 @@ mudler/LocalRecall 是一个专为 AI 智能体（Agents）设计的开源框架
 *   **100% 本地化**：核心特色为完全本地运行，无需依赖任何云端服务，保障数据隐私与独立性。
 
 ## 功能与定位
+
 mudler/LocalRecall 是一个 AI 应用框架与平台，主要定位为专供智能体（Agents）使用的 100% 本地化记忆层（Memory layer）与知识库（Knowledge base）。
 
 ## 核心功能
+
 - **本地记忆层**：为 AI 智能体提供完全本地化的记忆存储能力。
 - **知识库**：支持作为智能体的本地知识库运行。
 - **WebUI**：配备 Web 用户界面，便于进行可视化交互与管理。
 
 ## 特色与差异点
+
 - **完全本地化**：主打 100% 本地运行（100% Local），无需依赖云端服务。
 
 ## 链接
-- https://github.com/mudler/LocalRecall
 
+- https://github.com/mudler/LocalRecall
 
 ## 关联主题
 

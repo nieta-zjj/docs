@@ -1,11 +1,11 @@
-# OSU-NLP-Group-HippoRAG：AI 记忆与检索基础设施
+---
+title: "OSU-NLP-Group-HippoRAG：AI 记忆与检索基础设施"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/OSU-NLP-Group/HippoRAG
-- 发现评分：100
-- Stars：3227
+发布日期: "2026-02-22"
+来源: "https://github.com/OSU-NLP-Group/HippoRAG"
+发现评分: "100"
+Stars: "3227"
+---
 
 ## 摘要
 
@@ -21,19 +21,22 @@ HippoRAG 是一个受人类长期记忆启发的开源 RAG 框架，通过融合
 * **学术认可**：该项目的相关研究成果已被顶级人工智能学术会议 NeurIPS'24 正式接收。
 
 ## 功能与定位
+
 HippoRAG 是一个新颖的检索增强生成（RAG）框架，定位为 AI 记忆与检索基础设施。该项目旨在赋予大语言模型（LLM）持续整合跨外部文档知识的能力。
 
 ## 核心功能
+
 * **跨文档知识整合**：支持大语言模型在外部文档中持续不断地进行知识的吸收与整合。
 * **多技术融合**：底层结合了检索增强生成（RAG）、知识图谱（Knowledge Graphs）以及个性化 PageRank（Personalized PageRank）算法。
 
 ## 特色与差异点
+
 * **仿生学设计**：框架的设计灵感直接来源于人类的长期记忆机制。
 * **学术认可**：该项目的相关研究成果已被顶级学术会议 NeurIPS'24 接收。
 
 ## 链接
-* GitHub 仓库：https://github.com/OSU-NLP-Group/HippoRAG
 
+* GitHub 仓库：https://github.com/OSU-NLP-Group/HippoRAG
 
 ## 关联主题
 

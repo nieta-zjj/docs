@@ -1,15 +1,17 @@
-# go-cursor-help：Cursor 相关工具风险提示
+---
+title: "go-cursor-help：Cursor 相关工具风险提示"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `yuaotian/go-cursor-help`
-- 项目主页：https://github.com/yuaotian/go-cursor-help
-- 开源协议：MIT License
-- 主要语言：Shell
-- 统计快照：Stars 25977，Forks 3150，Watchers 130（抓取时间：2026-02-22）
-- 版本快照：最新发布 v0.0.31（发布时间：2024-12-30T11:48:54Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `yuaotian/go-cursor-help`"
+项目主页: "https://github.com/yuaotian/go-cursor-help"
+开源协议: "MIT License"
+主要语言: "Shell"
+统计快照: "Stars 25977，Forks 3150，Watchers 130（抓取时间：2026-02-22）"
+版本快照: "最新发布 v0.0.31（发布时间：2024-12-30T11:48:54Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 该项目名义上是提供解除 Cursor 免费试用设备限制的工具，但其仓库主页主要用于商业变现，违规出售打折的 Cursor Pro 账号、企业额度通行证及其他 AI 服务账号。
 
@@ -26,40 +28,47 @@
 *   **数据丢失风险**：官方明确提示，7 天企业通行证在到期后“账号将自动删除（Account auto-deleted upon expiration）”，用户存在代码或配置丢失风险。
 *   **极短的售后保障**：Cursor 试用账号仅提供收货后 1 小时内的质保，超时后不提供任何支持；Gemini 账号也仅提供 3 天质保。
 
-
 ## 功能与定位
+
 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
 
 ## 典型使用场景
+
 - 用于识别项目的合规边界与使用风险。
 - 为内部收录提供风险说明，避免误用。
 
 ## 核心功能
+
 - 记录项目定位与公开信息。
 - 标注潜在合规、授权或滥用风险。
 - 不提供可操作细节。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:06:16Z。
 - 项目创建于 2024-12-09T07:07:09Z，具备持续迭代与社区沉淀。
 - 以 `Shell` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 该项目内容涉及账号限制规避与脚本化修改等高风险场景。
 - 本仓库仅记录项目定位与风险提示，不复述任何可执行步骤、命令、脚本或分发渠道细节。
 - 若评估后无法在合规边界内使用，建议不采用。
 
 ## 链接
+
 - 仓库：https://github.com/yuaotian/go-cursor-help
 - README：https://raw.githubusercontent.com/yuaotian/go-cursor-help/main/README.md
 - Releases：https://github.com/yuaotian/go-cursor-help/releases
 
 ## 关联主题
+
 - [[00-元语/Cursor]]
 - [[00-元语/compliance]]
 - [[00-元语/risk]]

@@ -1,9 +1,9 @@
-# GGML 与 llama.cpp 加入 Hugging Face
+---
+title: "GGML 与 llama.cpp 加入 Hugging Face"
 
-## 文档信息
-
-- 发布日期：2026-02-20
-- 原文链接：https://huggingface.co/blog/ggml-joins-hf
+发布日期: "2026-02-20"
+原文链接: "https://huggingface.co/blog/ggml-joins-hf"
+---
 
 ## 摘要
 
@@ -438,8 +438,6 @@ ggml 的 gguf 格式现在是 executorch（端侧）推理的首选默认格式 
 通过拖拽到文本输入框、粘贴或点击此处来上传图片、音频和视频。
 
 点击或粘贴到此处以上传图片
-
-
 
  评论
 ·[注册](https://huggingface.co/join?next=%2Fblog%2Fggml-joins-hf) 或 [登录](https://huggingface.co/login?next=%2Fblog%2Fggml-joins-hf) 以发表评论

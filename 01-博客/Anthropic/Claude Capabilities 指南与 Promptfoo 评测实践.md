@@ -1,23 +1,25 @@
-# Claude Capabilities 指南与 Promptfoo 评测实践
+---
+title: "Claude Capabilities 指南与 Promptfoo 评测实践"
 
-## 文档信息
-发布日期：2026-01-27
-作者：Anthropic
-来源仓库：anthropics/claude-cookbooks
-原文链接：
-- https://github.com/anthropics/claude-cookbooks/blob/main/capabilities/README.md
-- https://github.com/anthropics/claude-cookbooks/blob/main/capabilities/classification/README.md
-- https://github.com/anthropics/claude-cookbooks/blob/main/capabilities/contextual-embeddings/README.md
-- https://github.com/anthropics/claude-cookbooks/blob/main/capabilities/retrieval_augmented_generation/README.md
-- https://github.com/anthropics/claude-cookbooks/blob/main/capabilities/summarization/README.md
-- https://github.com/anthropics/claude-cookbooks/blob/main/capabilities/text_to_sql/README.md
-- https://github.com/anthropics/claude-cookbooks/blob/main/capabilities/classification/evaluation/README.md
-- https://github.com/anthropics/claude-cookbooks/blob/main/capabilities/retrieval_augmented_generation/evaluation/README.md
-- https://github.com/anthropics/claude-cookbooks/blob/main/capabilities/summarization/evaluation/README.md
-- https://github.com/anthropics/claude-cookbooks/blob/main/capabilities/text_to_sql/evaluation/README.md
-译注：原文为英文仓库文档，本稿为中文整理版。
+发布日期: "2026-01-27"
+作者: "Anthropic"
+来源仓库: "anthropics/claude-cookbooks"
+原文链接:
+  - "https://github.com/anthropics/claude-cookbooks/blob/main/capabilities/README.md"
+  - "https://github.com/anthropics/claude-cookbooks/blob/main/capabilities/classification/README.md"
+  - "https://github.com/anthropics/claude-cookbooks/blob/main/capabilities/contextual-embeddings/README.md"
+  - "https://github.com/anthropics/claude-cookbooks/blob/main/capabilities/retrieval_augmented_generation/README.md"
+  - "https://github.com/anthropics/claude-cookbooks/blob/main/capabilities/summarization/README.md"
+  - "https://github.com/anthropics/claude-cookbooks/blob/main/capabilities/text_to_sql/README.md"
+  - "https://github.com/anthropics/claude-cookbooks/blob/main/capabilities/classification/evaluation/README.md"
+  - "https://github.com/anthropics/claude-cookbooks/blob/main/capabilities/retrieval_augmented_generation/evaluation/README.md"
+  - "https://github.com/anthropics/claude-cookbooks/blob/main/capabilities/summarization/evaluation/README.md"
+  - "https://github.com/anthropics/claude-cookbooks/blob/main/capabilities/text_to_sql/evaluation/README.md"
+译注: "原文为英文仓库文档，本稿为中文整理版。"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 本文档汇集了 Claude 在分类、检索增强生成（RAG）、总结和 Text-to-SQL 等核心能力上的实践指南，并详细说明了如何使用 Promptfoo 框架对这些能力进行自动化测试与评估。
 
@@ -37,6 +39,7 @@
 *   **Python 环境冲突**：Promptfoo 默认在 shell 中运行 Python，如果系统找不到 Python 二进制文件会报错（"python: command not found"），需通过设置 `PROMPTFOO_PYTHON` 环境变量来手动指定可执行文件路径。
 
 ## 正文
+
 ### 来源文档：`capabilities/README.md`
 
 # Claude 能力 (Capabilities)
@@ -389,6 +392,7 @@
 - [[01-博客/Anthropic/Voyage AI Embeddings 接入与检索实践|Voyage AI Embeddings 接入与检索实践]]；关联理由：解说；说明：本篇在评测前置条件中要求 `VOYAGE_API_KEY`，关联文补充了 Voyage Embeddings 的接入方式与检索参数边界。
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/llm]]
 - [[00-元语/rag]]

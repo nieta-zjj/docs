@@ -1,9 +1,10 @@
-# NotebookLM Slide Deck System Prompt
+---
+title: "NotebookLM Slide Deck System Prompt"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/notebooklm-slide-deck-system-prompt
-- 发布日期：2025-11-20
-- 作者：宝玉
+来源: "https://baoyu.io/blog/notebooklm-slide-deck-system-prompt"
+发布日期: "2025-11-20"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -21,6 +22,7 @@
 *   **定制化输入**：支持通过变量输入特定指令（如受众群体、设计风格、内容重点）以及“制作人笔记（producer notes）”来引导整体结构和叙事方向。
 
 ## 正文
+
 ![Image 1](https://baoyu.io/uploads/2025-11-20/1763676352243.png)
 
 ```

@@ -11,10 +11,14 @@
             "id": "f8952b3405eee351",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "00-元语/wasm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "wasm"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rust",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-元语/wasm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "wasm 的反向链接列表"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00-元语/wasm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "wasm 的出链列表"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00-元语/wasm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "wasm 的大纲"
             }
           }
         ],
@@ -178,42 +185,42 @@
   },
   "active": "f8952b3405eee351",
   "lastOpenFiles": [
-    "01-博客/Google/动画师与AI研究员如何携手打造《亲爱的楼上邻居》.md",
-    "01-博客/Hugging Face/Alyah：评估阿拉伯语大语言模型阿联酋方言能力的基准测试.md",
-    "01-博客/Anthropic/现实世界中 AI 削弱人类自主性的模式分析.md",
-    "01-博客/Anthropic/Anthropic 经济指数：理解 AI 使用的新基石.md",
-    "02-资源/AI-应用框架与平台/dyad：本地开源 AI 应用构建工具，支持跨端运行与自带 API 密钥.md",
-    "01-博客/Anthropic/Claude Code 核心功能与使用概览.md",
-    "02-资源/风险边界与合规/v2rayN：桌面端图形界面客户端，支持 Xray、sing-box 等代理核心.md",
-    "02-资源/风险边界与合规/v2rayNG：Android V2Ray 客户端，支持 Xray 和 v2fly 核心.md",
-    "02-资源/风险边界与合规/new-pac：GitHub 仓库不可访问状态记录.md",
-    "02-资源/风险边界与合规/MoonTV：GitHub 仓库新地址指引.md",
-    "02-资源/风险边界与合规/iptv-api：Python 开源工具用于 IPTV 直播源自动采集、测速过滤与推流.md",
-    "02-资源/通用开发工具/sedVBLun6",
-    "02-资源/通用开发工具/sedifPP39",
-    "02-资源/风险边界与合规/MediaCrawler：Python 自媒体公开信息采集工具，面向七个站点的帖子与评论抓取.md",
-    "02-资源/通用开发工具/Syncthing：开源持续文件同步工具，强调数据安全与防数据丢失.md",
-    "02-资源/通用开发工具/sedlK2TRV",
-    "02-资源/风险边界与合规/FlClash：代理客户端，基于 ClashMeta 且开源无广告.md",
-    "02-资源/风险边界与合规/ClashMetaForAndroid：Android 规则化隧道图形界面客户端.md",
-    "02-资源/通用开发工具/vnpy：Python开源量化交易开发工具.md",
-    "02-资源/通用开发工具/Spotube：开源音乐流媒体客户端，支持插件集成多种音乐服务.md",
-    "02-资源/通用开发工具/Sniffnet：网络流量监控工具与可视化实时协议分析.md",
-    "02-资源/通用开发工具/Tauri：桌面与移动应用开发工具，使用 Rust 与 Web 前端技术构建小体积高性能且更安全的应用.md",
-    "02-资源/通用开发工具/sedwf1uIO",
-    "02-资源/通用开发工具/parlant：Python 开源 LLM 智能体开发工具，支持行为准则与上下文匹配引擎.md",
-    "02-资源/通用开发工具/readest：开源电子书阅读器，支持多格式兼容与多端同步 TTS 朗读.md",
-    "02-资源/风险边界与合规/ChinaTextbook：GitHub 教材 PDF 资源收录仓库.md",
-    "02-资源/通用开发工具/Playwright：跨浏览器 Web 自动化测试工具.md",
-    "02-资源/通用开发工具/open_deep_research：开源工具用于工程协作与效率提升.md",
-    "02-资源/通用开发工具/Payload：Headless CMS 与 Next.js 全栈开发工具.md",
-    "02-资源/通用开发工具/crush：终端 AI 编程助手，支持多模型切换、LSP 增强与 MCP 扩展.md",
-    "02-资源/通用开发工具/sedSDAdhY",
-    "02-资源/通用开发工具/sedXCZtj6",
-    "02-资源/通用开发工具/sedwgkT2I",
-    "02-资源/学习资源与知识库/sedVDd85A",
-    "02-资源/学习资源与知识库/sedzmNJqC",
-    "02-资源/AI-编程助手与Agent/sedURoKZ0",
+    "scripts/normalize_h2_spacing.py",
+    "00-元语/virtual-file-system.md",
+    "00-元语/tool.md",
+    "00-元语/slideredit.md",
+    "00-元语/security.md",
+    "00-元语/rate-limiting.md",
+    "00-元语/lora.md",
+    "00-元语/deepfake.md",
+    "00-元语/context-database.md",
+    "00-元语/bug-fix.md",
+    "00-元语/audio.md",
+    "00-元语/后视镜思维.md",
+    "00-元语/软件工程.md",
+    "00-元语/知识图谱.md",
+    "00-元语/design.md",
+    "00-元语/Cursor.md",
+    "00-元语/CRPG.md",
+    "00-元语/copilot.md",
+    "00-元语/context-optimization.md",
+    "00-元语/community.md",
+    "00-元语/cloudflare.md",
+    "00-元语/Claude.md",
+    "00-元语/ChatGPT.md",
+    "00-元语/career.md",
+    "00-元语/browser-automation.md",
+    "00-元语/blockchain.md",
+    "02-资源/AI-应用框架与平台/XXucDPPt",
+    "skills/文档关联性.md.tmp.1955720",
+    "skills/web-full-archive.md.tmp.1955720",
+    "skills/tag-index-wiki.md.tmp.1955720",
+    "skills/site-project-profile.md.tmp.1955720",
+    "skills/new-content-discovery.md.tmp.1955720",
+    "skills/github-repo-blog-archive.md.tmp.1955720",
+    "skills/gemini-task-usage.md.tmp.1955720",
+    "skills/book-record.md.tmp.1955720",
+    "03-图书/马丁·海德格尔/存在与时间：修订译本.md.tmp.1955720",
     "node_modules/cpr/cpr.jpg",
     "node_modules/@honkit/honkit-plugin-theme-default/_assets/website/fonts/fontawesome/fontawesome-webfont.svg",
     "node_modules/@honkit/honkit-plugin-theme-default/_assets/website/images/apple-touch-icon-precomposed-152.png",

@@ -1,15 +1,17 @@
-# Coze Studio：开源可视化 AI Agent 开发工具，支持工作流、RAG 与插件
+---
+title: "Coze Studio：开源可视化 AI Agent 开发工具，支持工作流、RAG 与插件"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `coze-dev/coze-studio`
-- 项目主页：https://github.com/coze-dev/coze-studio
-- 开源协议：Apache License 2.0
-- 主要语言：TypeScript
-- 统计快照：Stars 19900，Forks 2836，Watchers 115（抓取时间：2026-02-22）
-- 版本快照：最新发布 v0.5.1（发布时间：2026-02-05T06:04:16Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `coze-dev/coze-studio`"
+项目主页: "https://github.com/coze-dev/coze-studio"
+开源协议: "Apache License 2.0"
+主要语言: "TypeScript"
+统计快照: "Stars 19900，Forks 2836，Watchers 115（抓取时间：2026-02-22）"
+版本快照: "最新发布 v0.5.1（发布时间：2026-02-05T06:04:16Z）"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 Coze Studio 是一款开源的一站式可视化 AI Agent 开发平台，提供工作流、RAG、插件等核心技术，支持以低代码/无代码方式快速构建、调试和部署 AI 应用。
 
@@ -26,36 +28,44 @@ Coze Studio 是一款开源的一站式可视化 AI Agent 开发平台，提供�
 * **开源版功能限制**：开源版本与商业版本存在功能差异，部分特定功能（如音色定制）仅限商业版本使用。
 
 ## 功能与定位
+
 An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 
 ## 典型使用场景
+
 - 用于智能体开发、编排与执行链路搭建。
 - 适合 AI 编程助手与自动化协作流程建设。
 
 ## 核心功能
+
 - 支持 Agent 工具调用、任务分解或上下文管理。
 - 提供与开发环境协作的自动化能力。
 - 强调可扩展、可观测与工程集成。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T03:47:49Z。
 - 项目创建于 2025-06-26T02:19:21Z，具备持续迭代与社区沉淀。
 - 以 `TypeScript` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/coze-dev/coze-studio
 - README：https://raw.githubusercontent.com/coze-dev/coze-studio/main/README.md
 - Releases：https://github.com/coze-dev/coze-studio/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/llm]]

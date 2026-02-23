@@ -1,9 +1,10 @@
-# GPT-4o 生成复杂四格漫画提示词
+---
+title: "GPT-4o 生成复杂四格漫画提示词"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/gpt-4-complex-comic-prompts
-- 发布日期：2025-04-02
-- 作者：宝玉
+来源: "https://baoyu.io/blog/gpt-4-complex-comic-prompts"
+发布日期: "2025-04-02"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -23,6 +24,7 @@
 *   **门槛限制**：指定的 AI 生成工具均需要付费订阅才能使用。
 
 ## 正文
+
 ![Image 1](https://baoyu.io/uploads/2025-04-02/1743636916419.png)![Image 2](https://baoyu.io/uploads/2025-04-02/1743636788021.png)
 
 工具（需付费订阅）：ChatGPT GPT-4o 或 [sora.com](http://sora.com/)（推荐）
@@ -78,6 +80,7 @@
 *   对话气泡：中文文字，字体清晰、大小适中且统一，采用黑色文字、白色背景的标准漫画气泡。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/OpenAI]]
 - [[00-元语/ChatGPT]]

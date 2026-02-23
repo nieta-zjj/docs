@@ -1,11 +1,11 @@
-# 拆解 OpenClaw 的系统提示词，设计的太妙了
+---
+title: "拆解 OpenClaw 的系统提示词，设计的太妙了"
 
-## 文档信息
-
-- 作者：liruifengv
-- 发布日期：2026-02-04
-- 来源：https://liruifengv.com/posts/openclaw-prompts/
-- 原文信息：6326 字，预计阅读 32 分钟
+作者: "liruifengv"
+发布日期: "2026-02-04"
+来源: "https://liruifengv.com/posts/openclaw-prompts/"
+原文信息: "6326 字，预计阅读 32 分钟"
+---
 
 ## 摘要
 

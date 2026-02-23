@@ -1,12 +1,12 @@
-# ACE-Step 1.5 终极指南
+---
+title: "ACE-Step 1.5 终极指南"
 
-## 文档信息
-
-- 发布日期：2026-02-16
-- 作者：龚俊民
-- 来源：
-  - https://github.com/ace-step/ACE-Step-1.5/blob/main/docs/zh/Tutorial.md
-  - https://raw.githubusercontent.com/ace-step/ACE-Step-1.5/main/docs/zh/Tutorial.md
+发布日期: "2026-02-16"
+作者: "龚俊民"
+来源:
+  - "https://github.com/ace-step/ACE-Step-1.5/blob/main/docs/zh/Tutorial.md"
+  - "https://raw.githubusercontent.com/ace-step/ACE-Step-1.5/main/docs/zh/Tutorial.md"
+---
 
 ## 摘要
 
@@ -26,6 +26,7 @@ ACE-Step 1.5 是一款开源且支持本地运行的 AI 音乐生成模型，采
 - 随机性导致单次结果难复现，筛选成本较高。
 
 ## 正文
+
 大家好，我是ACE-Step 的开发者，龚俊民。我将通过这篇教程，带你了解 ACE-Step 1.5 的设计哲学与使用方法。
 
 ### 心智模型

@@ -1,11 +1,11 @@
-# 解锁 Codex 运行框架：我们如何构建 App Server
+---
+title: "解锁 Codex 运行框架：我们如何构建 App Server"
 
-## 文档信息
-
-- 来源：https://openai.com/zh-Hans-CN/index/unlocking-the-codex-harness/
-- 英文原文：https://openai.com/index/unlocking-the-codex-harness/
-- 发布日期：2026年2月4日
-- 分类：[工程](https://openai.com/news/engineering/)
+来源: "https://openai.com/zh-Hans-CN/index/unlocking-the-codex-harness/"
+英文原文: "https://openai.com/index/unlocking-the-codex-harness/"
+发布日期: "2026年2月4日"
+分类: "[工程](https://openai.com/news/engineering/)"
+---
 
 ## 摘要
 

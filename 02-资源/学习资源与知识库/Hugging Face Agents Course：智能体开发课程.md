@@ -1,15 +1,17 @@
-# Hugging Face Agents Course：智能体开发课程
+---
+title: "Hugging Face Agents Course：智能体开发课程"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `huggingface/agents-course`
-- 项目主页：https://github.com/huggingface/agents-course
-- 开源协议：Apache License 2.0
-- 主要语言：MDX
-- 统计快照：Stars 25479，Forks 1790，Watchers 199（抓取时间：2026-02-22）
-- 版本快照：暂无正式发布记录
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `huggingface/agents-course`"
+项目主页: "https://github.com/huggingface/agents-course"
+开源协议: "Apache License 2.0"
+主要语言: "MDX"
+统计快照: "Stars 25479，Forks 1790，Watchers 199（抓取时间：2026-02-22）"
+版本快照: "暂无正式发布记录"
+---
 
 ## 摘要
+
 **一句话总结**
 Hugging Face Agents Course 是一个开源且免费的 AI 智能体（Agents）教程项目，涵盖从基础理论、主流框架应用到最终基准测试评估的完整学习路径。
 
@@ -23,38 +25,45 @@ Hugging Face Agents Course 是一个开源且免费的 AI 智能体（Agents）�
 * **前置要求**：学习该课程需要具备 Python 和 LLM 的基础知识。
 * **贡献指南**：欢迎社区贡献，简单的拼写或语法错误可直接提交 PR；若计划新增课程单元，需先提交 Issue 描述内容并进行讨论。
 
-
 ## 功能与定位
+
 This repository contains the Hugging Face Agents Course. 
 
 ## 典型使用场景
+
 - 作为学习与选型参考入口，快速定位资料与最佳实践。
 - 用于团队知识库沉淀与技术调研。
 
 ## 核心功能
+
 - 汇总课程、示例、清单或社区经验。
 - 强调可检索性与持续更新。
 - 适合学习路径规划与资源导航。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T08:54:42Z。
 - 项目创建于 2025-01-16T19:50:22Z，具备持续迭代与社区沉淀。
 - 以 `MDX` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/huggingface/agents-course
 - README：https://raw.githubusercontent.com/huggingface/agents-course/main/README.md
 - Releases：https://github.com/huggingface/agents-course/releases
 
 ## 关联主题
+
 - [[00-元语/Agent]]
 - [[00-元语/llm]]
 - [[00-元语/rag]]

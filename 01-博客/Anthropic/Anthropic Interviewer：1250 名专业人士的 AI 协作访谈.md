@@ -1,9 +1,11 @@
-# Anthropic Interviewer：1250 名专业人士的 AI 协作访谈
+---
+title: "Anthropic Interviewer：1250 名专业人士的 AI 协作访谈"
 
-## 文档信息
-- 原文链接：https://www.anthropic.com/research/anthropic-interviewer
+原文链接: "https://www.anthropic.com/research/anthropic-interviewer"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Anthropic 推出了基于 Claude 的自动化定性研究工具 Anthropic Interviewer，并通过对 1250 名专业人士的大规模访谈，揭示了普通职场人士、创意工作者和科学家在实际工作中使用 AI 的模式、态度及未来预期。
 
@@ -23,6 +25,7 @@ Anthropic 推出了基于 Claude 的自动化定性研究工具 Anthropic Interv
 *   **全球普遍性受限**：样本主要反映了西方工作者的情况，可能无法代表全球不同文化背景和职场动态下对 AI 的态度。
 
 ## 正文
+
 我们即将推出一款新工具——Anthropic Interviewer，旨在帮助了解人们对 AI 的看法。在这篇研究文章中，我们将介绍该工具，描述我们在专业人士样本上进行的测试，并探讨我们的初步发现。我们还将讨论随着该工具的开发以及通过与创意工作者、科学家和教师的合作，我们目前可以在这一方向上探索的未来工作。
 
 ## 引言

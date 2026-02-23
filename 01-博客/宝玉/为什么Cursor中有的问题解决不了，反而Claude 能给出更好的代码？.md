@@ -1,9 +1,10 @@
-# 为什么Cursor中有的问题解决不了，反而Claude 能给出更好的代码？
+---
+title: "为什么Cursor中有的问题解决不了，反而Claude 能给出更好的代码？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/claude-better-code-than-cursor-sometimes
-- 发布日期：2025-01-04
-- 作者：宝玉
+来源: "https://baoyu.io/blog/claude-better-code-than-cursor-sometimes"
+发布日期: "2025-01-04"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@ Cursor和v0等编程辅助工具因自动附加大量系统提示词和上下文
 *   **手动操作成本**：脱离Cursor/v0直接使用Claude修改代码时，存在难以准确描述局部修改需求，以及需要大量手动复制、粘贴的效率瓶颈。
 
 ## 正文
+
 网友 Leo 说：“写代码的时候我会Cursor 和 Claude App混着用，Cursor中有的问题解决不了，反而Claude 能给出更好的代码，不确定Claude App中加入了什么样的魔法。”
 
 ![Image 1](https://baoyu.io/uploads/2025-01-04/1736013369723.png)

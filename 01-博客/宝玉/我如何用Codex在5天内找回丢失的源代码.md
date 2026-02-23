@@ -1,9 +1,10 @@
-# How I Used Codex to \"Recover\" Lost Source Code in 5 Days
+---
+title: "How I Used Codex to \\\"Recover\\\" Lost Source Code in 5 Days"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/2026/01/31/codex-recover-source-code
-- 发布日期：2026-01-31
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026/01/31/codex-recover-source-code"
+发布日期: "2026-01-31"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -25,6 +26,7 @@
 *   **恢复结果并非100%完美**：虽然核心功能和代码结构得以恢复且可再次修改，但最终版本仍存在一些运行时Bug，部分边缘用例的表现与原版存在微小差异。
 
 ## 正文
+
 Ever lost your source code? It's a terrible feeling. Years ago, I built an Electron drawing app. Then I lost the source code. All I had left was the compiled version.
 
 I thought about rewriting it from scratch, but the idea of recreating all those little details felt overwhelming. Then I read OpenAI's blog post about building the Sora Android app in 28 days with Codex, and I had an idea: the compiled code was still there. **Could I get Codex to reverse-engineer it back into source code?**

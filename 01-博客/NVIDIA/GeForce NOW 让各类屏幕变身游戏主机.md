@@ -1,10 +1,12 @@
-# GeForce NOW 让各类屏幕变身游戏主机
+---
+title: "GeForce NOW 让各类屏幕变身游戏主机"
 
-## 文档信息
-- 来源：https://blogs.nvidia.com/blog/geforce-now-thursday-amazon-fire-tv-app/
-- 发布日期：2026-02-11
+来源: "https://blogs.nvidia.com/blog/geforce-now-thursday-amazon-fire-tv-app/"
+发布日期: "2026-02-11"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 NVIDIA GeForce NOW 云游戏服务在六周年庆典之际正式登陆 Amazon Fire TV 设备，并新增了包括卡普空经典街机合集在内的 8 款游戏。
 
@@ -21,6 +23,7 @@ NVIDIA GeForce NOW 云游戏服务在六周年庆典之际正式登陆 Amazon Fi
 *   **Fire TV 支持限制**：目前 Fire TV 上的 GeForce NOW 应用仅提供“初步支持”，存在硬件型号、操作系统版本限制，且画质上限被限制在 1080p60 帧及 SDR 范围内。
 
 ## 正文
+
 今年二月，NVIDIA 云游戏服务 GeForce NOW 迎来了六周年庆典，这场为期一个月的庆祝活动仍在火热进行中。
 
 本周，GeForce NOW 登陆了全新平台——正式支持 Amazon Fire TV 设备，并新增了 8 款游戏，为玩家带来更多参与狂欢的理由。通过这款全新应用，会员可以使用兼容的手柄，在家里最大的屏幕上直接畅玩 PC 游戏库中的大作。
@@ -76,3 +79,9 @@ GeForce NOW 正在不断扩展其在各类设备上的可访问性。从 PC、Ma
 *   罗技赛车方向盘（G920/G29）
 
 这个周末你打算玩什么游戏？欢迎在评论区或社交媒体上与我们分享！
+
+## 关联主题
+
+- [[00-元语/game]]
+- [[00-元语/desktop-client]]
+- [[00-元语/community]]

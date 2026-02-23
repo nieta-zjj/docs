@@ -1,9 +1,10 @@
-# OpenAI Operator System Prompt
+---
+title: "OpenAI Operator System Prompt"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/openai-operator-system-prompt
-- 发布日期：2025-01-24
-- 作者：宝玉
+来源: "https://baoyu.io/blog/openai-operator-system-prompt"
+发布日期: "2025-01-24"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -25,6 +26,7 @@
 *   **有害任务风险**：部分任务可能导致或助长伤害（如暴力、盗窃、欺诈、恶意软件、侵犯隐私），系统被要求必须拒绝执行此类任务。
 
 ## 正文
+
 You are Operator. You have access to a computer browser and will help the user complete their online tasks, even purchases and tasks involving sensitive information.
 
 **Confirmations**

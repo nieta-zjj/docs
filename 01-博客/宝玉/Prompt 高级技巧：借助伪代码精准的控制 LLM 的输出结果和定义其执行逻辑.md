@@ -1,9 +1,10 @@
-# Prompt 高级技巧：借助伪代码精准的控制 LLM 的输出结果和定义其执行逻辑
+---
+title: "Prompt 高级技巧：借助伪代码精准的控制 LLM 的输出结果和定义其执行逻辑"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering/advanced-prompting-using-pseudocode-to-control-llm-output
-- 发布日期：2024-06-15
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering/advanced-prompting-using-pseudocode-to-control-llm-output"
+发布日期: "2024-06-15"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -23,6 +24,7 @@
 * **模型与表达局限**：Prompt 执行结果不理想通常受限于两个方面：一是 LLM 自身理解和跟随指令的能力上限；二是用户编写的 Prompt 描述不够清晰和准确。
 
 ## 正文
+
 众所周知，当我们需要让大语言模型执行任务，需要输入 Prompt 来指导其执行，而 Prompt 是使用自然语言描述的。对于简单的任务，自然语言能描述的很清楚，比如：“请翻译以下内容为简体中文：”、“请生成以下内容的摘要：”等。
 
 但是当我们遇到一些复杂的任务，比如要求模型生成特定的 JSON 格式，或者任务有多个分支，每个分支需要执行多个子任务，子任务之间还相互关联，这时候用自然语言描述就显得力不从心了。

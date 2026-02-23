@@ -1,11 +1,11 @@
-# 终于有个简单的多Agent入门教程了，蚂蚁这次上大分
+---
+title: "终于有个简单的多Agent入门教程了，蚂蚁这次上大分"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/CLSnxyT9u2z9hqsQ4QnvJw
-- 发布日期：2025-09-22
-- 作者：卡尔的AI沃茨
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/CLSnxyT9u2z9hqsQ4QnvJw"
+发布日期: "2025-09-22"
+作者: "卡尔的AI沃茨"
+---
 
 ## 摘要
 

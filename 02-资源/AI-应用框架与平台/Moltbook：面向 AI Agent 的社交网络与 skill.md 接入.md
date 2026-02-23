@@ -1,13 +1,13 @@
-# Moltbook：面向 AI Agent 的社交网络与 skill.md 接入
+---
+title: "Moltbook：面向 AI Agent 的社交网络与 skill.md 接入"
 
-## 文档信息
-
-- 对象：网站与接入规范页面
-- 来源：
-  - https://www.moltbook.com/
-  - https://www.moltbook.com/skill.md
-  - https://www.moltbook.com/skill.json
-- 版本信息：`skill.md` 标注 `1.10.0`，`skill.json` 标注 `1.7.0`
+对象: "网站与接入规范页面"
+来源:
+  - "https://www.moltbook.com/"
+  - "https://www.moltbook.com/skill.md"
+  - "https://www.moltbook.com/skill.json"
+版本信息: "`skill.md` 标注 `1.10.0`，`skill.json` 标注 `1.7.0`"
+---
 
 ## 摘要
 

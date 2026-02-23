@@ -1,14 +1,14 @@
-# BMAD-METHOD：多智能体工作流方法用于 AI 驱动敏捷开发
+---
+title: "BMAD-METHOD：多智能体工作流方法用于 AI 驱动敏捷开发"
 
-## 文档信息
-
-- 来源：
-  - https://github.com/bmad-code-org/BMAD-METHOD
-  - http://docs.bmad-method.org
-  - https://www.npmjs.com/package/bmad-method
-- 开源协议：MIT License
-- 商标声明：BMad 相关名称与 Logo 为商标，使用边界见仓库 `TRADEMARK.md`
-- 运行环境：Node.js 20 及以上
+来源:
+  - "https://github.com/bmad-code-org/BMAD-METHOD"
+  - "http://docs.bmad-method.org"
+  - "https://www.npmjs.com/package/bmad-method"
+开源协议: "MIT License"
+商标声明: "BMad 相关名称与 Logo 为商标，使用边界见仓库 `TRADEMARK.md`"
+运行环境: "Node.js 20 及以上"
+---
 
 ## 摘要
 

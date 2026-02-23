@@ -1,9 +1,11 @@
-# NVIDIA携手全球工业软件巨头与印度头部制造商，共推工业AI热潮
+---
+title: "NVIDIA携手全球工业软件巨头与印度头部制造商，共推工业AI热潮"
 
-## 文档信息
-- 来源：https://blogs.nvidia.com/blog/india-global-industrial-software-leaders-manufacturers-ai/
+来源: "https://blogs.nvidia.com/blog/india-global-industrial-software-leaders-manufacturers-ai/"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 NVIDIA正携手西门子、新思科技、Cadence等全球工业软件巨头以及印度头部制造商和IT领军企业，通过CUDA-X、Omniverse等技术全面推动印度在制造、设计和自动化领域的工业AI变革。
 
@@ -19,6 +21,7 @@ NVIDIA正携手西门子、新思科技、Cadence等全球工业软件巨头以�
 *   **Wipro PARI与塔塔咨询工程师**：Wipro PARI利用NVIDIA Isaac等平台进行机器人工作流的实时模拟与虚拟压力测试；塔塔咨询工程师则推出基于Omniverse的Cognitive Twin平台，并已在印度国家高速铁路公司等企业开展试点。
 
 ## 正文
+
 印度正迈入工业化的新纪元，AI正在彻底改变全球设计、制造和运行物理产品与系统的方式。目前，印度在建筑、汽车、可再生能源和机器人等领域投资了1340亿美元用于新增制造产能。这既是一项巨大的挑战，也为从零开始打造“软件定义工厂”提供了绝佳机遇。
 
 这场变革的核心是NVIDIA CUDA-X和NVIDIA Omniverse库加速的应用程序。它们将数据从设计端无缝连接到运营端，并将物理AI引入工厂、仓库和基础设施中。
@@ -51,5 +54,6 @@ NVIDIA正携手西门子、新思科技、Cadence等全球工业软件巨头以�
 如需了解更多未来趋势，请关注NVIDIA GTC大会上的工业AI和制造相关会议。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/hardware-control]]

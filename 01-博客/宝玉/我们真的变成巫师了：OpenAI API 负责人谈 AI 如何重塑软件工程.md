@@ -1,10 +1,10 @@
-# 我们真的变成巫师了：OpenAI API 负责人谈 AI 如何重塑软件工程
+---
+title: "我们真的变成巫师了：OpenAI API 负责人谈 AI 如何重塑软件工程"
 
-## 文档信息
-
-- 来源：https://baoyu.io/blog/2026-02-12/sherwin-wu-ai-software-engineering
-- 发布日期：2026-02-12
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026-02-12/sherwin-wu-ai-software-engineering"
+发布日期: "2026-02-12"
+作者: "宝玉"
+---
 
 ## 摘要
 

@@ -1,16 +1,18 @@
-# Wan2.1：视频生成大模型项目
+---
+title: "Wan2.1：视频生成大模型项目"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `Wan-Video/Wan2.1`
-- 项目主页：https://github.com/Wan-Video/Wan2.1
-- 官方网站：https://wan.video
-- 开源协议：Apache License 2.0
-- 主要语言：Python
-- 统计快照：Stars 15365，Forks 2403，Watchers 147（抓取时间：2026-02-22）
-- 版本快照：暂无正式发布记录
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `Wan-Video/Wan2.1`"
+项目主页: "https://github.com/Wan-Video/Wan2.1"
+官方网站: "https://wan.video"
+开源协议: "Apache License 2.0"
+主要语言: "Python"
+统计快照: "Stars 15365，Forks 2403，Watchers 147（抓取时间：2026-02-22）"
+版本快照: "暂无正式发布记录"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Wan2.1 是一个开源且先进的大规模视频生成基础模型套件，支持文本到视频、图像到视频等多种任务，并能在消费级显卡上高效运行。
 
@@ -30,37 +32,45 @@ Wan2.1 是一个开源且先进的大规模视频生成基础模型套件，支�
 * **功能缺失**：根据官方 Todo List，目前所有模型（T2V, I2V, FLF2V, VACE）在 Diffusers 框架下的多卡推理 (Multi-GPU Inference) 功能均尚未实现。
 
 ## 功能与定位
+
 Wan: Open and Advanced Large-Scale Video Generative Models
 
 ## 典型使用场景
+
 - 用于模型训练、微调、推理或文档解析等基础能力建设。
 - 作为上层 AI 应用的数据与模型基础设施。
 
 ## 核心功能
+
 - 提供模型/推理相关核心能力。
 - 支持与主流 AI 工具链协同。
 - 兼顾实验验证与工程落地场景。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T11:22:34Z。
 - 项目创建于 2025-02-25T11:49:33Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/Wan-Video/Wan2.1
 - 官网：https://wan.video
 - README：https://raw.githubusercontent.com/Wan-Video/Wan2.1/main/README.md
 - Releases：https://github.com/Wan-Video/Wan2.1/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/video]]
 - [[00-元语/multimodal]]

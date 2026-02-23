@@ -1,11 +1,11 @@
-# Agent sandbox 可能的选型以及 unikernel 的机会
+---
+title: "Agent sandbox 可能的选型以及 unikernel 的机会"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/atwxv9t568Z-heftnTkLhA
-- 发布日期：2026-02-17
-- 作者：gaocegege
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/atwxv9t568Z-heftnTkLhA"
+发布日期: "2026-02-17"
+作者: "gaocegege"
+---
 
 ## 摘要
 

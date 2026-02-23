@@ -1,9 +1,10 @@
-# 大厂与其山寨 Cursor，不如做个好用的 AI 邮件客户端
+---
+title: "大厂与其山寨 Cursor，不如做个好用的 AI 邮件客户端"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ai/big-companies-instead-of-copying-cursor-should-make-ai-email-client
-- 发布日期：2024-08-25
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ai/big-companies-instead-of-copying-cursor-should-make-ai-email-client"
+发布日期: "2024-08-25"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -28,6 +29,7 @@
 * **RAG 与上下文检索技术门槛：** 根据用户当前输入，精准搜索历史记录或外网资料并提供贴切的上下文，在技术实现上具有极高难度。
 
 ## 正文
+
 今天看到有人说大厂开始立项抄 AI 编程软件 Cursor 了，但这样追在别人屁股后面跑是没有前途的，AI 代码编辑器已经是红海了，就算大厂又如何，微软比 Cursor 大多少？结果 GitHub Copilot 也没打过 Cursor，大厂还不如多投资几家像 Cursor 这样的公司，为什么非要抄他们呢！
 
 程序员这个群体大家都知道，又不愿意花钱又没忠诚度，Cursor 好用马上都退订 Copilot，能白嫖绝对不花那$20 的订阅费，大厂不如多看看普通用户的需求。

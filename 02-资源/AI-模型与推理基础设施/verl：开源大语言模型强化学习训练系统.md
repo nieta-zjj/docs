@@ -1,16 +1,18 @@
-# verl：开源大语言模型强化学习训练系统
+---
+title: "verl：开源大语言模型强化学习训练系统"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `volcengine/verl`
-- 项目主页：https://github.com/verl-project/verl
-- 官方网站：https://verl.readthedocs.io/en/latest/index.html
-- 开源协议：Apache License 2.0
-- 主要语言：Python
-- 统计快照：Stars 19301，Forks 3272，Watchers 87（抓取时间：2026-02-22）
-- 版本快照：最新发布 v0.7.0（发布时间：2026-01-05T10:17:48Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `volcengine/verl`"
+项目主页: "https://github.com/verl-project/verl"
+官方网站: "https://verl.readthedocs.io/en/latest/index.html"
+开源协议: "Apache License 2.0"
+主要语言: "Python"
+统计快照: "Stars 19301，Forks 3272，Watchers 87（抓取时间：2026-02-22）"
+版本快照: "最新发布 v0.7.0（发布时间：2026-01-05T10:17:48Z）"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 verl 是由字节跳动 Seed 团队发起、基于 HybridFlow 架构的开源大语言模型强化学习（RL）训练框架，具备高灵活性、极致吞吐量并支持生产级大规模部署。
 
@@ -29,37 +31,45 @@ verl 是由字节跳动 Seed 团队发起、基于 HybridFlow 架构的开源大
 * **部分功能处于实验/规划阶段**：异步与离策略（off-policy）架构、Agent 集成等功能目前仍存放在 `experimental` 目录下或列于未来路线图中，尚未完全并入主库。
 
 ## 功能与定位
+
 verl: Volcano Engine Reinforcement Learning for LLMs
 
 ## 典型使用场景
+
 - 用于模型训练、微调、推理或文档解析等基础能力建设。
 - 作为上层 AI 应用的数据与模型基础设施。
 
 ## 核心功能
+
 - 提供模型/推理相关核心能力。
 - 支持与主流 AI 工具链协同。
 - 兼顾实验验证与工程落地场景。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T10:26:12Z。
 - 项目创建于 2024-10-31T06:11:15Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/volcengine/verl
 - 官网：https://verl.readthedocs.io/en/latest/index.html
 - README：https://raw.githubusercontent.com/volcengine/verl/main/README.md
 - Releases：https://github.com/volcengine/verl/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/llm]]
 - [[00-元语/alignment]]

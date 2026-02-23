@@ -1,12 +1,12 @@
-# Socket.IO：事件通信库用于实时双向通信
+---
+title: "Socket.IO：事件通信库用于实时双向通信"
 
-## 文档信息
-
-- 来源：
-  - https://socket.io/
-  - https://socket.io/docs/v4/
-  - https://github.com/socketio/socket.io
-- 开源协议：MIT
+来源:
+  - "https://socket.io/"
+  - "https://socket.io/docs/v4/"
+  - "https://github.com/socketio/socket.io"
+开源协议: "MIT"
+---
 
 ## 摘要
 

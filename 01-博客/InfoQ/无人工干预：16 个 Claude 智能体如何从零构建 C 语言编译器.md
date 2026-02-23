@@ -1,9 +1,11 @@
-# 无人工干预：16 个 Claude 智能体如何从零构建 C 语言编译器
+---
+title: "无人工干预：16 个 Claude 智能体如何从零构建 C 语言编译器"
 
-## 文档信息
-- 来源：https://www.infoq.cn/article/YSdbKmoPyzFgxvPA3TZl?utm_source=rss&utm_medium=article
+来源: "https://www.infoq.cn/article/YSdbKmoPyzFgxvPA3TZl?utm_source=rss&utm_medium=article"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Anthropic 研究员利用 16 个 Claude 智能体，在无人工干预的情况下耗时两周、花费约 2 万美元，成功从零构建出一个包含 10 万行代码且能编译 Linux 内核的 C 语言编译器。
 
@@ -24,6 +26,7 @@ Anthropic 研究员利用 16 个 Claude 智能体，在无人工干预的情况�
 *   **开源生态反噬风险**：若 AI 仅消耗开源代码而不回馈源头，未来可能面临无专业代码可供参考的生态断层。
 
 ## 正文
+
 为探索自主软件开发的极限，Anthropic 研究员 Nicholas Carlini 进行了一项极具前瞻性的实验：使用 16 个 Claude Opus 4.6 AI 智能体，从零开始构建了一个基于 Rust 的 C 语言编译器。
 
 在为期两周的时间里，这些智能体在没有人工干预的情况下进行了大约 2000 次会话，消耗了约 20000 美元的 API 费用。最终的产出令人瞩目——一个包含 10 万行代码的编译器。该编译器不仅通过了 99% 的 GCC 折磨测试（torture test），支持 x86、ARM 和 RISC-V 架构，还成功编译了 Linux 6.9 内核，以及 FFmpeg、Redis、PostgreSQL、QEMU 等大量开源项目，甚至可以运行经典游戏《毁灭战士》（Doom）。
@@ -74,6 +77,7 @@ X 平台用户 @chatgpt21 认为这确实是了不起的成就，但也指出其
 最后，项目主导者 Carlini 本人也发出了警示：如此轻松地生成代码可能会带来潜在风险，未来的世界需要“新的策略来安全应对”这一技术变革。
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/Agent]]
 - [[00-元语/CI]]

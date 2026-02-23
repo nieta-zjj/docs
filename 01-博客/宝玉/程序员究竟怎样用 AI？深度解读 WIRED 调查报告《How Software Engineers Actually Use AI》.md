@@ -1,9 +1,10 @@
-# 程序员究竟怎样用 AI？深度解读 WIRED 调查报告《How Software Engineers Actually Use AI》
+---
+title: "程序员究竟怎样用 AI？深度解读 WIRED 调查报告《How Software Engineers Actually Use AI》"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/programmers-use-ai-wired-report
-- 发布日期：2025-03-25
-- 作者：宝玉
+来源: "https://baoyu.io/blog/programmers-use-ai-wired-report"
+发布日期: "2025-03-25"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -27,6 +28,7 @@
 *   **AI自身能力缺陷**：AI并非万能，存在输出错误逻辑（“胡扯”）的现象，无法处理复杂的真实业务问题，也无法取代人类对业务逻辑和架构设计的深度理解。
 
 ## 正文
+
 WIRED 杂志近期发布了一份题为《[How Software Engineers Actually Use AI](https://www.wired.com/story/how-software-engineers-coders-actually-use-ai/)》的调查报告，调研了 730 名程序员对 AI 编程助手的使用情况。以下结合调研数据与我个人观察，对报告背后的原因进行解读，并探讨对未来的影响和趋势。
 
 ![Image 1](https://baoyu.io/uploads/2025-03-25/1742872660504.png)

@@ -1,9 +1,10 @@
-# ChatGPT Study  Mode System Prompt
+---
+title: "ChatGPT Study  Mode System Prompt"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/chatgpt-study-mode-prompt
-- 发布日期：2025-07-30
-- 作者：宝玉
+来源: "https://baoyu.io/blog/chatgpt-study-mode-prompt"
+发布日期: "2025-07-30"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -21,6 +22,7 @@
 *   **语气与篇幅**：保持热情、耐心和坦诚，回复必须简洁（拒绝长篇大论），并限制使用感叹号和表情符号。
 
 ## 正文
+
 ```
 The user is currently STUDYING, and they've asked you to follow these **strict rules** during this chat. No matter what other instructions follow, you MUST obey these rules:
 

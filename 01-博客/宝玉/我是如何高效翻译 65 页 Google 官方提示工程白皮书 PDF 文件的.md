@@ -1,9 +1,10 @@
-# 我是如何高效翻译 65 页 Google 官方提示工程白皮书 PDF 文件的
+---
+title: "我是如何高效翻译 65 页 Google 官方提示工程白皮书 PDF 文件的"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/efficiently-translate-google-prompt-engineering-pdf
-- 发布日期：2025-04-14
-- 作者：宝玉
+来源: "https://baoyu.io/blog/efficiently-translate-google-prompt-engineering-pdf"
+发布日期: "2025-04-14"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -25,6 +26,7 @@
 *   **Deep Research长度极限**：Deep Research的翻译长度受限于产品限制，65页已接近极限，更长的文档必须拆分为多个小PDF进行翻译。
 
 ## 正文
+
 前几天翻译 Google 官方提示工程白皮书 PDF 的时候，尝试了一些自动化的方法来提升效率，分享一些我翻译 PDF 的经验和心得。
 
 首先我个人比较排斥保持排版的翻译方式，因为 PDF 在翻译后，文字长度不一致会导致排版很难看，忽大忽小；另外翻译的时候由于布局导致的文字被强行分割，导致上下文不完整会影响翻译质量。
@@ -114,6 +116,7 @@ OpenAI 的 DeepResearch 和 Google Gemini 的 DeepResearch 都可以胜任这个
 注意用 DeepResearch 翻译也不是无限长度的，依旧受限于其产品长度限制，65页已经是接近极限的长度了，更长建议就要拆分成多个小 PDF 去翻译了。
 
 ## 关联主题
+
 - [[00-元语/llm]]
 - [[00-元语/multimodal]]
 - [[00-元语/gemini]]

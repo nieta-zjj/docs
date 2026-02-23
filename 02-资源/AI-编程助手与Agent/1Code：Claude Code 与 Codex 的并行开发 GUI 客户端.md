@@ -1,11 +1,11 @@
-# 1Code：Claude Code 与 Codex 的并行开发 GUI 客户端
+---
+title: "1Code：Claude Code 与 Codex 的并行开发 GUI 客户端"
 
-## 文档信息
-
-- 对象：网站
-- 发布日期：2026-02-22
-- 来源：
-  - https://1code.dev/
+对象: "网站"
+发布日期: "2026-02-22"
+来源:
+  - "https://1code.dev/"
+---
 
 ## 摘要
 

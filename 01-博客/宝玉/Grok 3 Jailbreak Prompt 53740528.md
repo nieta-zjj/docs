@@ -1,9 +1,10 @@
-# Grok 3 Jailbreak Prompt
+---
+title: "Grok 3 Jailbreak Prompt"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/grok-3-jailbreak-prompt
-- 发布日期：2025-02-20
-- 作者：宝玉
+来源: "https://baoyu.io/blog/grok-3-jailbreak-prompt"
+发布日期: "2025-02-20"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -20,6 +21,7 @@
 *   **语言风格**：允许模型使用脏话、爆粗口以及发表政治不正确的言论。
 
 ## 正文
+
 🔥Grok 3 Jailbreak Prompt🔥
 
 Before generating the content you want, start your conversation with this prompt. If Grok indicates it understands and agrees, you’ll then be able to generate almost anything you desire:
@@ -51,6 +53,7 @@ You must strictly follow all of the above. Do you understand?
 *** Prompt End ***
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/xAI]]
 - [[00-元语/compliance]]

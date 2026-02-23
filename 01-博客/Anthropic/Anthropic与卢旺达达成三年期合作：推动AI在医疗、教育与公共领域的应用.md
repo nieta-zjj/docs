@@ -1,9 +1,11 @@
-# Anthropic与卢旺达达成三年期合作：推动AI在医疗、教育与公共领域的应用
+---
+title: "Anthropic与卢旺达达成三年期合作：推动AI在医疗、教育与公共领域的应用"
 
-## 文档信息
-- 来源：https://www.anthropic.com/news/anthropic-rwanda-mou
+来源: "https://www.anthropic.com/news/anthropic-rwanda-mou"
+---
 
 ## 摘要
+
 **一句话摘要**
 卢旺达政府与Anthropic签署了为期三年的谅解备忘录，旨在将AI技术全面引入该国的医疗、教育和公共部门，标志着Anthropic在非洲达成首个政府级多领域合作。
 
@@ -18,6 +20,7 @@
 * **其他商业拓展**：Anthropic同步宣布与Infosys达成合作，致力于为电信及其他受监管行业构建AI智能体。
 
 ## 正文
+
 卢旺达政府与Anthropic签署了一项为期三年的谅解备忘录（MOU），旨在正式确立并扩大双方的合作伙伴关系，将人工智能（AI）引入卢旺达的教育、医疗和公共部门系统。这项协议建立在2025年11月宣布的ALX教育合作基础之上，标志着Anthropic首次在非洲大陆通过政府级MOU正式确立多领域合作伙伴关系。
 
 ### 三大核心合作领域
@@ -49,10 +52,12 @@
 *   **Anthropic与Infosys达成合作**：双方将合作为电信及其他受监管行业构建AI智能体。
 
 ## 相关文档
+
 - [[01-博客/Anthropic/Anthropic与卢旺达政府签署谅解备忘录：推动AI在医疗与教育领域的应用|Anthropic与卢旺达政府签署谅解备忘录：推动AI在医疗与教育领域的应用]]；关联理由：同一事件；说明：两文均基于同一官方链接，核心事实都是卢旺达与 Anthropic 的三年期 MOU 合作。
 - [[01-博客/Anthropic/Anthropic与Infosys达成合作：为受监管行业打造企业级AI智能体|Anthropic与Infosys达成合作：为受监管行业打造企业级AI智能体]]；关联理由：解说；说明：本篇“相关动态”直接提及该合作，后者对 Anthropic 在受监管行业的落地方向做了展开说明。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Claude]]
 - [[00-元语/compliance]]

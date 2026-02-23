@@ -1,9 +1,11 @@
-# IBM与加州大学伯克利分校：使用IT-Bench和MAST诊断企业级智能体失败原因
+---
+title: "IBM与加州大学伯克利分校：使用IT-Bench和MAST诊断企业级智能体失败原因"
 
-## 文档信息
-- 来源：https://huggingface.co/blog/ibm-research/itbenchandmast
+来源: "https://huggingface.co/blog/ibm-research/itbenchandmast"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 IBM与加州大学伯克利分校利用MAST故障分类法分析了ITBench基准测试，揭示了不同大语言模型在企业IT自动化智能体中失败的具体原因（如错误验证、终止失败等），并提出了从架构层面解决这些致命缺陷的工程策略。
 
@@ -24,6 +26,7 @@ IBM与加州大学伯克利分校利用MAST故障分类法分析了ITBench基准
 *   **上下文污染风险：** 在较弱或开源模型中，运行早期出现的微小推理偏差极易污染上下文，引发不断复合的幻觉，最终导致任务完全脱轨。
 
 ## 正文
+
 IBM Research 与加州大学伯克利分校合作，研究了在真实的 IT 自动化场景中（如事件排查、日志/指标查询以及长周期工具循环中的 Kubernetes 操作），智能体大语言模型（LLM）系统是如何失效的。
 
 通常，基准测试会将性能简化为一个单一的数字，只告诉你智能体是否失败，却从不说明原因。为了解决这个“黑盒”问题，我们应用了 MAST（多智能体系统故障分类法），这是一种用于诊断智能体可靠性的新兴方法。通过利用 MAST 分析 ITBench（针对 SRE、安全和 FinOps 自动化的行业基准），我们将原始执行轨迹转化为结构化的故障特征，揭示了究竟是什么出了问题以及如何修复。我们标注了 310 个 ITBench SRE 轨迹，涵盖三种不同的模型类别：Gemini-3-Flash、Kimi-K2 和 GPT-OSS-120B。
@@ -160,6 +163,7 @@ MAST 是一种检查智能体系统轨迹以识别细粒度故障类型的工具
 *   **MAST 数据集：** https://huggingface.co/datasets/mcemri/MAST-Data
 
 ## 关联主题
+
 - [[00-元语/Agent]]
 - [[00-元语/benchmark]]
 - [[00-元语/evals]]

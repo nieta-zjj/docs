@@ -1,10 +1,12 @@
-# AlpamayoR1：用于自动驾驶的大型因果推理模型
+---
+title: "AlpamayoR1：用于自动驾驶的大型因果推理模型"
 
-## 文档信息
-- 来源：https://towardsdatascience.com/alpamayor1-large-causal-reasoning-models-for-autonomous-driving/
-- 发布日期：2026-02-19
+来源: "https://towardsdatascience.com/alpamayor1-large-causal-reasoning-models-for-autonomous-driving/"
+发布日期: "2026-02-19"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 英伟达推出的 AlpamayoR1 是一种端到端自动驾驶架构，它以大型视觉语言模型（VLM）为因果推理主干，结合离散-连续双重轨迹表示与强化学习后训练，实现了低延迟的轨迹预测。
 
@@ -23,6 +25,7 @@
 *   **可重复性受限**：构建支持因果链推理的数据集需要巨大的投资和标注成本，在这些数据集正式公开之前，该方法的复现难度极高。
 
 ## 正文
+
 近期，英伟达（Nvidia）推出了全新的 AlpamayoR1 架构，将大型视觉语言模型（VLM）作为基于因果关系的推理主干网络，在自动驾驶领域引起了轰动。此次发布还伴随了一个新的大规模数据集和一个逼真的驾驶模拟器，使该公司在2026年成为该领域的主要参与者之一。
 
 本文将深入解析 AlpamayoR1 架构、因果链（Chain of Causation）推理机制，以及用于训练该模型的复杂流程。
@@ -100,6 +103,7 @@ Cosmos-Reason 处理视觉和文本 token 以及近期的自车历史状态（�
 *   [4] DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models (GRPO loss)
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/llm]]
 - [[00-元语/multimodal]]

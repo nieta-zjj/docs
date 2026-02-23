@@ -1,9 +1,10 @@
-# 直译、反思、意译：提升 GPT 翻译质量的一种新策略
+---
+title: "直译、反思、意译：提升 GPT 翻译质量的一种新策略"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2
-- 发布日期：2023-12-20
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2"
+发布日期: "2023-12-20"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -22,6 +23,7 @@
 *   **成本增加**：该三步翻译策略会消耗更多的 Token（但作者指出这可以减少人工校对的时间）。
 
 ## 正文
+
 我最近对我的[翻译 GPT](https://chat.openai.com/g/g-uBhKUJJTl-ke-ji-wen-zhang-fan-yi) 做了一点优化，将原来的直译->意译两步拆成了三步：
 
 1.   直译

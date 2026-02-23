@@ -1,16 +1,18 @@
-# LocalSend：跨设备局域网文件传输工具
+---
+title: "LocalSend：跨设备局域网文件传输工具"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `localsend/localsend`
-- 项目主页：https://github.com/localsend/localsend
-- 官方网站：https://localsend.org
-- 开源协议：Apache License 2.0
-- 主要语言：Dart
-- 统计快照：Stars 75355，Forks 4013，Watchers 298（抓取时间：2026-02-22）
-- 版本快照：最新发布 v1.17.0（发布时间：2025-02-20T01:23:55Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `localsend/localsend`"
+项目主页: "https://github.com/localsend/localsend"
+官方网站: "https://localsend.org"
+开源协议: "Apache License 2.0"
+主要语言: "Dart"
+统计快照: "Stars 75355，Forks 4013，Watchers 298（抓取时间：2026-02-22）"
+版本快照: "最新发布 v1.17.0（发布时间：2025-02-20T01:23:55Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 LocalSend 是一款基于 Dart 开发的开源跨平台局域网文件与消息传输工具（AirDrop 的替代方案），无需互联网连接即可通过 REST API 和动态 HTTPS 加密实现设备间的安全通信。
 
@@ -31,37 +33,45 @@ LocalSend 是一款基于 Dart 开发的开源跨平台局域网文件与消息�
 *   **预览版稳定性风险**：官方提供的非官方 MSIX 预览版（Unofficial MSIX preview）不保证运行稳定性。
 
 ## 功能与定位
+
 An open-source cross-platform alternative to AirDrop
 
 ## 典型使用场景
+
 - 作为通用开发工具用于工程协作与效率提升。
 - 适用于个人与团队的日常研发流程。
 
 ## 核心功能
+
 - 提供稳定的通用工程能力。
 - 支持跨平台或多环境使用。
 - 依赖开源社区持续迭代。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:45:38Z。
 - 项目创建于 2022-12-16T00:46:07Z，具备持续迭代与社区沉淀。
 - 以 `Dart` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/localsend/localsend
 - 官网：https://localsend.org
 - README：https://raw.githubusercontent.com/localsend/localsend/main/README.md
 - Releases：https://github.com/localsend/localsend/releases
 
 ## 关联主题
+
 - [[00-元语/github]]
 - [[00-元语/desktop-client]]
 - [[00-元语/protocol]]

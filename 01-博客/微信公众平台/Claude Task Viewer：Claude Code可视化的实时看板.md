@@ -1,11 +1,11 @@
-# Claude Task Viewer：Claude Code可视化的实时看板
+---
+title: "Claude Task Viewer：Claude Code可视化的实时看板"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/8Qppw8VkilnjkIYIaU1tqg
-- 发布日期：2026-02-19
-- 作者：AI工程化
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/8Qppw8VkilnjkIYIaU1tqg"
+发布日期: "2026-02-19"
+作者: "AI工程化"
+---
 
 ## 摘要
 

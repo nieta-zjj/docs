@@ -1,9 +1,10 @@
-# 【访谈对话】造过 Codex 的人，为什么每天用 Claude Code
+---
+title: "【访谈对话】造过 Codex 的人，为什么每天用 Claude Code"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/2026/02/07/segment-creator-interview
-- 发布日期：2026-02-07
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026/02/07/segment-creator-interview"
+发布日期: "2026-02-07"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -27,6 +28,7 @@
 *   **代码冗余风险**：LLM 具有“超级持久”特性，在缺乏明确引导时，倾向于复制现有的代码风格或重新实现已有的功能，而非判断并生成最优代码。
 
 ## 正文
+
 Calvin French-Owen 联合创办了 Segment，2020 年被 Twilio 以 32 亿美元收购。之后加入 OpenAI，带队用 7 周时间从零构建了编程 Agent Codex。2025 年中他离开 OpenAI 回归创业，日常主力编程工具却是竞品 Claude Code。
 
 他最近在 YC 播客 Lightcone 上，和 YC CEO Garry Tan 做了一场对话。Garry 刚用上 Claude Code 九天，Calvin 则是造过 Codex 的人。两人聊了编程 Agent 的产品哲学差异、怎么成为 top 1% 用户、上下文中毒的应对、LLM 如何改变开发者工具的分发逻辑，以及如果今天重新创办 Segment 会做什么不同。

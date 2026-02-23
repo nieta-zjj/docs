@@ -1,16 +1,18 @@
-# ui-ux-pro-max-skill：基于 Python 的开源 AI 技能库，通过内置的推理引擎和海量预设资源
+---
+title: "ui-ux-pro-max-skill：基于 Python 的开源 AI 技能库，通过内置的推理引擎和海量预设资源"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `nextlevelbuilder/ui-ux-pro-max-skill`
-- 项目主页：https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
-- 官方网站：https://www.uupm.cc/
-- 开源协议：MIT License
-- 主要语言：Python
-- 统计快照：Stars 33410，Forks 3310，Watchers 187（抓取时间：2026-02-22）
-- 版本快照：最新发布 v2.2.1（发布时间：2026-01-26T01:53:08Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `nextlevelbuilder/ui-ux-pro-max-skill`"
+项目主页: "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
+官方网站: "https://www.uupm.cc/"
+开源协议: "MIT License"
+主要语言: "Python"
+统计快照: "Stars 33410，Forks 3310，Watchers 187（抓取时间：2026-02-22）"
+版本快照: "最新发布 v2.2.1（发布时间：2026-01-26T01:53:08Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 `ui-ux-pro-max-skill` 是一个基于 Python 的开源 AI 技能库，通过内置的推理引擎和海量预设资源，为多平台和框架自动生成专业的 UI/UX 设计系统及代码实现。
 
@@ -25,37 +27,45 @@
 *   **项目热度**：采用 MIT 开源协议，社区关注度极高（超 33,400 Stars，3,300+ Forks），当前最新版本为 v2.2.1。
 
 ## 功能与定位
+
 An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
 ## 典型使用场景
+
 - 作为通用开发工具用于工程协作与效率提升。
 - 适用于个人与团队的日常研发流程。
 
 ## 核心功能
+
 - 提供稳定的通用工程能力。
 - 支持跨平台或多环境使用。
 - 依赖开源社区持续迭代。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:49:27Z。
 - 项目创建于 2025-11-30T11:36:31Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
 - 官网：https://www.uupm.cc/
 - README：https://raw.githubusercontent.com/nextlevelbuilder/ui-ux-pro-max-skill/main/README.md
 - Releases：https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/skills]]

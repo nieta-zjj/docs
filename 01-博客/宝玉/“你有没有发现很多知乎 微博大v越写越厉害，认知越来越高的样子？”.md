@@ -1,9 +1,10 @@
-# “你有没有发现很多知乎/微博大v越写越厉害，认知越来越高的样子？”
+---
+title: "“你有没有发现很多知乎/微博大v越写越厉害，认知越来越高的样子？”"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/zhihu-weibo-influencers-growing-expertise
-- 发布日期：2025-01-03
-- 作者：宝玉
+来源: "https://baoyu.io/blog/zhihu-weibo-influencers-growing-expertise"
+发布日期: "2025-01-03"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@
 * **碎片化写作的局限性**：碎片化写作缺乏系统的反思，无法替代深度写作在提升认知方面的作用。
 
 ## 正文
+
 > 你有没有发现很多知乎/微博大v越写越厉害，认知越来越高的样子。提高认知最便宜，最直接，最快能入手的一项“教育”不是自学，而是**反思性写作Reflective Writing**。
 
 ![Image 1](https://baoyu.io/uploads/2025-01-03/1735927978833.png)

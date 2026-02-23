@@ -1,13 +1,14 @@
-# Claude 第三方集成 Cookbook 语音与多模态应用
+---
+title: "Claude 第三方集成 Cookbook 语音与多模态应用"
 
-## 文档信息
-发布日期：2025-11-27
-来源仓库：anthropics/claude-cookbooks
-原文链接：https://github.com/anthropics/claude-cookbooks/tree/main/third_party
-覆盖范围：
-- `third_party/Deepgram/prerecorded_audio.ipynb`
-- `third_party/ElevenLabs/low_latency_stt_claude_tts.ipynb`
-- `third_party/LlamaIndex/Multi_Modal.ipynb`
+发布日期: "2025-11-27"
+来源仓库: "anthropics/claude-cookbooks"
+原文链接: "https://github.com/anthropics/claude-cookbooks/tree/main/third_party"
+覆盖范围:
+  - "`third_party/Deepgram/prerecorded_audio.ipynb`"
+  - "`third_party/ElevenLabs/low_latency_stt_claude_tts.ipynb`"
+  - "`third_party/LlamaIndex/Multi_Modal.ipynb`"
+---
 
 ## 摘要
 
@@ -27,6 +28,7 @@
 *   **幻觉风险**：在进行多模态检索前若未做数据清洗，图文错配会导致模型产生幻觉。
 
 ## 正文
+
 该分组聚焦语音与多模态链路：语音转文本、文本推理、语音合成，以及图文联合检索。核心价值是把 Claude 集成进实时交互流程，而不是停留在离线文本问答。
 
 ### 能力主线
@@ -59,11 +61,13 @@ message = anthropic_client.messages.create(
 - 多模态检索前先做数据清洗，避免图文错配导致幻觉。
 
 ## 相关文档
+
 - [[01-博客/Anthropic/ElevenLabs 与 Claude 低延迟语音助手实践|ElevenLabs 与 Claude 低延迟语音助手实践]]；关联理由：引用；说明：本篇明确覆盖 ElevenLabs notebook，这篇文档是对应语音链路实现与排障细节的直接来源。
 - [[01-博客/Anthropic/Deepgram 与 LlamaIndex 集成入口|Deepgram 与 LlamaIndex 集成入口]]；关联理由：引用；说明：本篇涉及 Deepgram 与 LlamaIndex 集成，这篇文档提供对应入口与能力边界说明。
 - [[01-博客/Anthropic/Claude Multimodal Cookbook 实战手册|Claude Multimodal Cookbook 实战手册]]；关联理由：延伸思考；说明：本篇覆盖语音与第三方多模态集成链路，该文补充 Claude 原生视觉工作流，可用于对比两类落地路径。
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/llm]]
 - [[00-元语/multimodal]]

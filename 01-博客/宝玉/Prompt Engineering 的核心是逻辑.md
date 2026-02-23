@@ -1,9 +1,10 @@
-# Prompt Engineering 的核心是逻辑
+---
+title: "Prompt Engineering 的核心是逻辑"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering/the-core-of-prompt-engineering
-- 发布日期：2024-03-20
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering/the-core-of-prompt-engineering"
+发布日期: "2024-03-20"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@
 * **单步执行风险**：直接让大模型单步执行复杂任务（如直接总结），容易导致其“偷懒”并遗漏大量关键要点。
 
 ## 正文
+
 如果你看过我以前写的[多步翻译 Prompt](https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2)，或者这个[总结的 Prompt](https://baoyu.io/blog/prompt-engineering/how-to-get-a-better-summary-result)，你就会发现：
 
 > “所谓提示词工程，核心不是你套个什么模板用什么格式，而是逻辑！！”
@@ -41,6 +43,7 @@
 顺便说一下：**即使你在 Prompt 里面指明了步骤，但是如果没有将步骤打印出来，那么也是没有效果的。**因为 LLM 需要基于前面的输出结果去预测后面的结果，如果没有前面步骤的输出，就无法影响后面的预测结果。
 
 ## 关联主题
+
 - [[00-元语/prompt]]
 - [[00-元语/llm]]
 - [[00-元语/workflow]]

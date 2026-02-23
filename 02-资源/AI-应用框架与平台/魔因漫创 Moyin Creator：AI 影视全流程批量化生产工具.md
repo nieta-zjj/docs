@@ -1,15 +1,17 @@
-# 魔因漫创 Moyin Creator：AI 影视全流程批量化生产工具
+---
+title: "魔因漫创 Moyin Creator：AI 影视全流程批量化生产工具"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `MemeCalculate/moyin-creator`
-- 项目主页：https://github.com/MemeCalculate/moyin-creator
-- 开源协议：AGPL-3.0（仓库提供商业双重许可，见 `COMMERCIAL_LICENSE.md`）
-- 统计快照：Stars 583，Forks 159（抓取时间：2026-02-22）
-- 版本快照：最新发布 `v0.1.7`（发布时间：2026-02-21T16:03:42Z）
-- 视频教程：https://www.bilibili.com/video/BV1FsZDBHExJ
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `MemeCalculate/moyin-creator`"
+项目主页: "https://github.com/MemeCalculate/moyin-creator"
+开源协议: "AGPL-3.0（仓库提供商业双重许可，见 `COMMERCIAL_LICENSE.md`）"
+统计快照: "Stars 583，Forks 159（抓取时间：2026-02-22）"
+版本快照: "最新发布 `v0.1.7`（发布时间：2026-02-21T16:03:42Z）"
+视频教程: "https://www.bilibili.com/video/BV1FsZDBHExJ"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 魔因漫创（Moyin Creator）是一款基于 AGPL-3.0 协议开源的桌面端 AI 影视全流程批量化生产工具，通过自动化工作流无缝衔接剧本解析、角色场景构建与视频生成。
 
@@ -29,14 +31,17 @@
 * **本地环境要求**：若通过源码本地运行，必须确保安装 Node.js >= 18 及 npm >= 9。
 
 ## 功能与定位
+
 魔因漫创面向“剧本到成片”的批量化生产流程：把剧本解析、提示词深化、角色一致性、分镜参数化与视频生成串成一个可复用工作流，适合在同一项目下重复产出多镜头、多集内容。
 
 ## 典型使用场景
+
 - 短剧/动漫番剧的批量化生产：需要多镜头叙事、风格一致与角色一致性约束的创作流程。
 - 预告片与片段快速生成：用导演/分镜参数做镜头语言控制，快速迭代不同风格版本。
 - 多供应商并行生产：通过多 Key 轮询与队列重试，提高并发与稳定性。
 
 ## 核心功能
+
 - 剧本解析：将剧本拆解为场景、分镜、对白，并识别角色、情绪与镜头语言要素。
 - AI 二次校准：对场景、分镜、角色进行校准，生成更细颗粒度提示词作为后续生成输入。
 - 角色一致性系统：角色圣经管理、身份锚点与参考图绑定，用于跨分镜外观一致性。
@@ -44,16 +49,19 @@
 - S级板块（Seedance 2.0）：面向多镜头合并叙事的视频生成工作流，支持图/视频/音频多模态引用与参数约束校验。
 
 ## 使用方式概览
+
 1. 先在设置中配置 API 服务商、服务映射与图床等必要项，并按需准备多个 Key 以提升并发能力。
 2. 导入或创作剧本，执行剧本解析得到结构化分镜与元素。
 3. 依次进行场景、分镜、角色校准，随后进入导演板块或 S级板块加载分镜并微调参数。
 4. 生成图片并分配到分镜后批量生成视频；如需要连贯叙事可在 S级板块按分组生成。
 
 ## 限制与注意事项
+
 - 许可证为 AGPL-3.0 且提供商业许可：涉及闭源集成、对外提供网络服务等场景时，需先明确合规边界。
 - 生成质量、速度与成本取决于你接入的外部模型与服务商，建议先用小规模样例跑通端到端流程再批量化。
 
 ## 链接
+
 - 仓库：https://github.com/MemeCalculate/moyin-creator
 - 工作流教程：https://github.com/MemeCalculate/moyin-creator/blob/main/docs/WORKFLOW_GUIDE.md
 - Releases：https://github.com/MemeCalculate/moyin-creator/releases
@@ -61,6 +69,7 @@
 - 商业许可说明：https://github.com/MemeCalculate/moyin-creator/blob/main/COMMERCIAL_LICENSE.md
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/video]]
 - [[00-元语/multimodal]]

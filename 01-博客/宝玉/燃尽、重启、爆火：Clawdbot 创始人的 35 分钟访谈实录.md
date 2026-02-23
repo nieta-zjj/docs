@@ -1,9 +1,10 @@
-# 燃尽、重启、爆火：Clawdbot 创始人的 35 分钟访谈实录
+---
+title: "燃尽、重启、爆火：Clawdbot 创始人的 35 分钟访谈实录"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/2026/01/28/clawdbot-peter-steinberger-interview
-- 发布日期：2026-01-28
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026/01/28/clawdbot-peter-steinberger-interview"
+发布日期: "2026-01-28"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@ PSPDFKit 创始人 Peter Steinberger 在经历三年职业倦怠后，仅用 10 
 *   **项目维护者极限**：由于项目增长过快且涌入大量安全报告，作者个人精力已达极限，目前急需有经验的开源维护者和安全研究人员介入以防止项目停滞。
 
 ## 正文
+
 ![Image 1](https://s.baoyu.io/imgs/2026-01-28/clawdbot-peter-steinberger-interview/cover.webp)
 
 Clawdbot（刚改名 Moltbot）最近大火，作者 Peter Steinberger 是奥地利开发者，也是 PSPDFKit 的创始人。公司 2021 年被 Insight Partners 以超过 1 亿欧元投资，随后他彻底燃尽（burnout），消失了三年。2024 年 11 月，他用 10 天“凭感觉搓出”（vibe-coded）了 Clawdbot。几周后，GitHub 星标数（Stars）将近 9 万，增长曲线是“前所未见的一条直线”。Cloudflare 股价因为开发者用它部署 Clawdbot 而盘前暴涨 14%。Instagram 上那些从不关注科技的人开始晒自己去苹果店买 Mac Mini。

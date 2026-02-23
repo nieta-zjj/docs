@@ -1,9 +1,10 @@
-# o1 之后，AI 已经从我的实习生变成了结对编程伙伴
+---
+title: "o1 之后，AI 已经从我的实习生变成了结对编程伙伴"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ai-pair-programming-partner
-- 发布日期：2024-12-26
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ai-pair-programming-partner"
+发布日期: "2024-12-26"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@
 * 在同一会话中持续追问时，AI 生成的内容容易受前面历史会话的影响和局限，不易产生新思路。
 
 ## 正文
+
 o1 之前我是把 AI 当实习生的（《像用实习生一样用 AI 辅助你编程》 [https://baoyu.io/blog/ai/use-ai-to-assist-programming-like-an-intern](https://baoyu.io/blog/ai/use-ai-to-assist-programming-like-an-intern) ），因为它的智力和经验绝大部分时候是不如我的，所以我就需要给明确的指令，让它按照我的指令去一步步完成。但是到了 o1 的时候，智力是有明显提升的，有时候能给出比我更好的方案。
 
 所以我现在会把 o1 当成一个结对编程的伙伴，有时候只是提供上下文和我需要做的事情，并不自己提供方案，让它提供方案，看有没有比我自己想的更好的方案，或者给予它的方案提出后续改进的要求。

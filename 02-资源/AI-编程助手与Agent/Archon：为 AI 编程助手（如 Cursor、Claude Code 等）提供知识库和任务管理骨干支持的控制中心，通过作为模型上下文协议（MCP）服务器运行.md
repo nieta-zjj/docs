@@ -1,15 +1,17 @@
-# Archon：为 AI 编程助手（如 Cursor、Claude Code 等）提供知识库和任务管理骨干支持的控制中心，通过作为模型上下文协议（MCP）服务器运行
+---
+title: "Archon：为 AI 编程助手（如 Cursor、Claude Code 等）提供知识库和任务管理骨干支持的控制中心，通过作为模型上下文协议（MCP）服务器运行"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `coleam00/Archon`
-- 项目主页：https://github.com/coleam00/Archon
-- 开源协议：Other
-- 主要语言：Python
-- 统计快照：Stars 13728，Forks 2372，Watchers 180（抓取时间：2026-02-22）
-- 版本快照：最新发布 v0.1.0（发布时间：2025-10-11T12:57:48Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `coleam00/Archon`"
+项目主页: "https://github.com/coleam00/Archon"
+开源协议: "Other"
+主要语言: "Python"
+统计快照: "Stars 13728，Forks 2372，Watchers 180（抓取时间：2026-02-22）"
+版本快照: "最新发布 v0.1.0（发布时间：2025-10-11T12:57:48Z）"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 Archon 是一个为 AI 编程助手（如 Cursor、Claude Code 等）提供知识库和任务管理骨干支持的控制中心，通过作为模型上下文协议（MCP）服务器运行，实现文档检索、高级 RAG 搜索与项目协作。
 
@@ -27,40 +29,49 @@ Archon 是一个为 AI 编程助手（如 Cursor、Claude Code 等）提供知�
 * **数据丢失风险**：执行数据库重置脚本（`RESET_DB.sql`）会不可逆地删除所有 Archon 相关的表和数据，操作需极度谨慎。
 
 ## 功能与定位
+
 Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
 
 ## 典型使用场景
+
 - 用于智能体开发、编排与执行链路搭建。
 - 适合 AI 编程助手与自动化协作流程建设。
 
 ## 核心功能
+
 - 支持 Agent 工具调用、任务分解或上下文管理。
 - 提供与开发环境协作的自动化能力。
 - 强调可扩展、可观测与工程集成。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T08:33:47Z。
 - 项目创建于 2025-02-07T21:04:12Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/coleam00/Archon
 - README：https://raw.githubusercontent.com/coleam00/Archon/main/README.md
 - Releases：https://github.com/coleam00/Archon/releases
 
 ## 相关文档
+
 - [[02-资源/AI-编程助手与Agent/GreatScottyMac-context-portal：AI 编程助手与Agent工具|GreatScottyMac-context-portal：AI 编程助手与Agent工具]]；关联理由：观点一致；说明：两者都以 MCP + RAG 的项目级知识库为核心，目标都是补齐 AI 编程助手的上下文能力。
 - [[02-资源/AI-编程助手与Agent/Claude Task Master：任务拆解与执行编排工具|Claude Task Master：任务拆解与执行编排工具]]；关联理由：上下游；说明：Task Master 聚焦任务拆解执行，而 Archon 同时提供知识库与任务骨干，二者可在同一 AI 开发流程中组合使用。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/Cursor]]

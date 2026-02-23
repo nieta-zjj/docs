@@ -1,9 +1,10 @@
-# Coinbase 使用 AI 编程工具提升开发效率，同时正在欺诈预防、客户支持、风险评分、设计等多个业务领域积极应用 AI 技术
+---
+title: "Coinbase 使用 AI 编程工具提升开发效率，同时正在欺诈预防、客户支持、风险评分、设计等多个业务领域积极应用 AI 技术"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/coinbase-ai-improves-development-efficiency
-- 发布日期：2025-02-21
-- 作者：宝玉
+来源: "https://baoyu.io/blog/coinbase-ai-improves-development-efficiency"
+发布日期: "2025-02-21"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@ Coinbase 正在全面整合 AI 技术以提升业务效率与安全性，涵盖�
 *   **AI 生成代码的安全性隐患：** 完全由 AI 生成的代码（如自动 PR）无法保证绝对的正确性和安全性，当前流程中必须强制保留人类工程师的代码评审（Code Review）和测试环节。
 
 ## 正文
+
 **根据 Coinbase 首席执行官布莱恩·阿姆斯特朗（Brian Armstrong）的消息**，Coinbase 正在多个业务领域积极应用人工智能（AI）技术，包括欺诈预防、客户支持、风险评分、设计等。目前 **100% 的工程师** 已开始使用名为 Cursor 的 AI 编程工具提升开发效率 ([Coinbase CEO: Coinbase is using artificial intelligence in many ways - PANews](https://www.panewslab.com/en/articledetails/8w7gd6k1.html#:~:text=PANews%20reported%20on%20February%2019,all%20tickets%20in%20the%20future))。**下一步**，Coinbase 计划为每个 Jira 或 Linear 工单自动生成一份 AI 草拟的拉取请求（PR）供工程师参考，实现从需求到代码的初步自动化 ([Coinbase CEO: Coinbase is using artificial intelligence in multiple ways - ChainCatcher](https://www.chaincatcher.com/en/article/2168318#:~:text=have%20started%20using%20Cursor))。下面将分领域介绍这些 AI 应用案例、采用的技术方案，以及它们为 Coinbase 带来的商业价值和影响。
 
 ![Image 1](https://baoyu.io/uploads/2025-02-21/1740178274141.png)
@@ -153,6 +155,7 @@ Coinbase 正在全面整合 AI 技术以提升业务效率与安全性，涵盖�
 7.   **Coinbase 文档** - _使用 AI 驱动的 IDE（Cursor）_. 说明了 Cursor AI 编辑器是 VS Code 的分支，具备 AI 代码补全、自然语言编辑和代码理解等功能，可以提升编程体验 ([Using AI-powered IDEs with our docs - Coinbase Docs](https://docs.cdp.coinbase.com/get-started/docs/use-ai-tooling#:~:text=Built%20as%20a%20fork%20of,language%20editing%2C%20and%20codebase%20understanding))。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Cursor]]
 - [[00-元语/Claude]]

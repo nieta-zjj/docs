@@ -1,10 +1,10 @@
-# GPT-5.2 在理论物理中推导出新结果
+---
+title: "GPT-5.2 在理论物理中推导出新结果"
 
-## 文档信息
-
-- 来源：https://www.openai.com/index/new-result-theoretical-physics/
-- 发布日期：2026-02-13
-- 译注：未找到官方中文版本，本文基于英文原文翻译整理。
+来源: "https://www.openai.com/index/new-result-theoretical-physics/"
+发布日期: "2026-02-13"
+译注: "未找到官方中文版本，本文基于英文原文翻译整理。"
+---
 
 ## 摘要
 

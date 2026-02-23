@@ -1,15 +1,17 @@
-# zapret-discord-youtube：基于 Windows 的流量拦截与过滤脚本工具，作为 zapret 的替代方案
+---
+title: "zapret-discord-youtube：基于 Windows 的流量拦截与过滤脚本工具，作为 zapret 的替代方案"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `Flowseal/zapret-discord-youtube`
-- 项目主页：https://github.com/Flowseal/zapret-discord-youtube
-- 开源协议：Other
-- 主要语言：Batchfile
-- 统计快照：Stars 22936，Forks 1891，Watchers 248（抓取时间：2026-02-22）
-- 版本快照：最新发布 1.9.6（发布时间：2026-02-13T13:42:19Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `Flowseal/zapret-discord-youtube`"
+项目主页: "https://github.com/Flowseal/zapret-discord-youtube"
+开源协议: "Other"
+主要语言: "Batchfile"
+统计快照: "Stars 22936，Forks 1891，Watchers 248（抓取时间：2026-02-22）"
+版本快照: "最新发布 1.9.6（发布时间：2026-02-13T13:42:19Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Flowseal/zapret-discord-youtube 是一个基于 Windows 的流量拦截与过滤脚本工具，作为 zapret 的替代方案，主要通过配置 WinDivert 和不同的网络策略帮助用户绕过限制以访问 Discord、YouTube 等服务。
 
@@ -30,38 +32,46 @@ Flowseal/zapret-discord-youtube 是一个基于 Windows 的流量拦截与过滤
 *   **二进制文件安全风险**：官方强烈建议用户在运行从互联网下载的构建版本时，务必检查并核对二进制文件的哈希/校验和。
 
 ## 功能与定位
+
 项目聚焦工程能力建设。
 
 ## 典型使用场景
+
 - 用于识别项目的合规边界与使用风险。
 - 为内部收录提供风险说明，避免误用。
 
 ## 核心功能
+
 - 记录项目定位与公开信息。
 - 标注潜在合规、授权或滥用风险。
 - 不提供可操作细节。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:54:55Z。
 - 项目创建于 2024-10-08T20:02:28Z，具备持续迭代与社区沉淀。
 - 以 `Batchfile` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 该项目可能涉及安全测试、访问规避或策略边界等高风险议题。
 - 本仓库仅记录项目定位与风险提示，不复述任何可执行步骤、命令、脚本、配置或分发渠道细节。
 - 若无法在合规边界内使用，建议不采用。
 
 ## 链接
+
 - 仓库：https://github.com/Flowseal/zapret-discord-youtube
 - README：https://raw.githubusercontent.com/Flowseal/zapret-discord-youtube/main/README.md
 - Releases：https://github.com/Flowseal/zapret-discord-youtube/releases
 
 ## 关联主题
+
 - [[00-元语/compliance]]
 - [[00-元语/risk]]
 - [[00-元语/security]]

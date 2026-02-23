@@ -1,9 +1,11 @@
-# 隆重介绍 SyGra Studio
+---
+title: "隆重介绍 SyGra Studio"
 
-## 文档信息
-- 来源：https://huggingface.co/blog/ServiceNow-AI/sygra-studio
+来源: "https://huggingface.co/blog/ServiceNow-AI/sygra-studio"
+---
 
 ## 摘要
+
 ### 一句话摘要
 SyGra 2.0.0 推出了交互式可视化环境 SyGra Studio，允许用户通过拖拽节点、配置数据源和模型来构建合成数据生成工作流，并提供实时预览、调试与执行监控功能，同时自动生成底层配置代码。
 
@@ -19,6 +21,7 @@ SyGra 2.0.0 推出了交互式可视化环境 SyGra Studio，允许用户通过�
 * **快速启动**：通过克隆仓库并执行 `make studio` 命令即可快速部署和启动该环境。
 
 ## 正文
+
 SyGra 2.0.0 正式推出了 **Studio**，这是一个交互式环境，将合成数据生成转化为透明且可视化的工作流程。您无需再在 YAML 文件和终端之间来回切换，而是可以直接在画布上编排流程、在提交前预览数据集、利用内联变量提示微调提示词（Prompts），并在同一个界面中实时观察执行情况。在底层，它使用的是与之前相同的平台，因此您在可视化界面上的所有操作，都会自动生成相应的、兼容 SyGra 的图配置（Graph Config）和任务执行脚本。
 
 ### Studio 的核心功能
@@ -90,3 +93,11 @@ cd SyGra && make studio
 * **示例配置**：`tasks/examples/glaive_code_assistant/graph_config.yaml`
 
 SyGra Studio 将合成数据工作流转化为直观、用户友好的体验。一次配置，自信构建，在具备全面可观测性的情况下运行，无需离开画布即可轻松生成数据。
+
+## 关联主题
+
+- [[00-元语/llm]]
+- [[00-元语/workflow]]
+- [[00-元语/observability]]
+- [[00-元语/prompt]]
+- [[00-元语/data-pipeline]]

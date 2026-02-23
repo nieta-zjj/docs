@@ -1,13 +1,13 @@
-# Superset：面向 AI agent 的并行工作区与编排工具
+---
+title: "Superset：面向 AI agent 的并行工作区与编排工具"
 
-## 文档信息
-
-- 对象：网站与开源项目
-- 发布日期：2026-02-22
-- 来源：
-  - https://superset.sh/
-  - https://docs.superset.sh/
-  - https://github.com/superset-sh/superset
+对象: "网站与开源项目"
+发布日期: "2026-02-22"
+来源:
+  - "https://superset.sh/"
+  - "https://docs.superset.sh/"
+  - "https://github.com/superset-sh/superset"
+---
 
 ## 摘要
 

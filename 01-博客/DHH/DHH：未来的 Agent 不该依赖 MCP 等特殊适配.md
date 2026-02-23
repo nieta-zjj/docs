@@ -1,13 +1,13 @@
-# DHH：未来的 Agent 不该依赖 MCP 等特殊适配
+---
+title: "DHH：未来的 Agent 不该依赖 MCP 等特殊适配"
 
-## 文档信息
-
-- 发布日期：2026-02-05
-- 作者：David Heinemeier Hansson / @dhh
-- 来源：
-  - https://x.com/dhh/status/2019389155239948625?s=46
-  - https://world.hey.com/david/clankers-with-claws-c0276023
-- 抓取时浏览量：103.9K Views
+发布日期: "2026-02-05"
+作者: "David Heinemeier Hansson / @dhh"
+来源:
+  - "https://x.com/dhh/status/2019389155239948625?s=46"
+  - "https://world.hey.com/david/clankers-with-claws-c0276023"
+抓取时浏览量: "103.9K Views"
+---
 
 ## 摘要
 

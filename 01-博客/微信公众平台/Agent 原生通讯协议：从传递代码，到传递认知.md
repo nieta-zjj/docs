@@ -1,11 +1,11 @@
-# Agent 原生通讯协议：从传递代码，到传递认知
+---
+title: "Agent 原生通讯协议：从传递代码，到传递认知"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/6ppTHXXdmKWI18uB_ysf3w
-- 发布日期：2026-02-11
-- 作者：歸藏的AI工具箱
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/6ppTHXXdmKWI18uB_ysf3w"
+发布日期: "2026-02-11"
+作者: "歸藏的AI工具箱"
+---
 
 ## 摘要
 

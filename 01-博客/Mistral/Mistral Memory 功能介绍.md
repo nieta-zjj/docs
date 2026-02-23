@@ -1,9 +1,9 @@
-# Mistral Memory 功能介绍
+---
+title: "Mistral Memory 功能介绍"
 
-## 文档信息
-
-- 发布日期：2025-09-02
-- 原文链接：https://mistral.ai/news/memory
+发布日期: "2025-09-02"
+原文链接: "https://mistral.ai/news/memory"
+---
 
 ## 摘要
 

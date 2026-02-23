@@ -1,9 +1,10 @@
-# YouTube Video -> Blog Post Prompt (Gemini Only)
+---
+title: "YouTube Video -> Blog Post Prompt (Gemini Only)"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/gemini-youtube-blog-prompt
-- 发布日期：2025-09-24
-- 作者：宝玉
+来源: "https://baoyu.io/blog/gemini-youtube-blog-prompt"
+发布日期: "2025-09-24"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -21,6 +22,7 @@
 * **内容重组与专有名词**：允许在不增加新事实的前提下优化重组原视频的论述顺序；保留原文专有名词并在首次出现时提供中文翻译；最终仅输出纯净的文章内容。
 
 ## 正文
+
 ![Image 1](https://baoyu.io/uploads/2025-09-24/1758733689889.png)
 
 ```

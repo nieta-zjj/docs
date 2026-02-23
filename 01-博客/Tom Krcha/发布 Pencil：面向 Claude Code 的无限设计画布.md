@@ -1,12 +1,12 @@
-# 发布 Pencil：面向 Claude Code 的无限设计画布
+---
+title: "发布 Pencil：面向 Claude Code 的无限设计画布"
 
-## 文档信息
-
-- 来源：https://x.com/i/status/2014028990810300498
-- 规范链接：https://x.com/tomkrcha/status/2014028990810300498
-- 发布账号：Tom Krcha @tomkrcha
-- 发布日期：2026-01-21
-- 译注：原帖无官方中文版本，正文为基于原帖内容的中文翻译。
+来源: "https://x.com/i/status/2014028990810300498"
+规范链接: "https://x.com/tomkrcha/status/2014028990810300498"
+发布账号: "Tom Krcha @tomkrcha"
+发布日期: "2026-01-21"
+译注: "原帖无官方中文版本，正文为基于原帖内容的中文翻译。"
+---
 
 ## 摘要
 

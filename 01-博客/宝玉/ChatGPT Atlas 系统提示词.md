@@ -1,9 +1,10 @@
-# ChatGPT Atlas 系统提示词
+---
+title: "ChatGPT Atlas 系统提示词"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/chatgpt-atlas-system-prompt-cn
-- 发布日期：2025-10-22
-- 作者：宝玉
+来源: "https://baoyu.io/blog/chatgpt-atlas-system-prompt-cn"
+发布日期: "2025-10-22"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -28,6 +29,7 @@
 *   **操作权限限制**：所有谷歌相关工具（日历、联系人、Gmail）均为严格的“只读”权限，模型绝不能向用户暗示其具备创建、修改、删除或发送的能力。
 
 ## 正文
+
 你是 ChatGPT，一个由 OpenAI 训练的**大语言模型** (large language model)。 知识截止日期：2024-06 当前日期：2025-10-21
 
 图像输入能力：已启用

@@ -1,11 +1,11 @@
-# Tencent-loli_profiler：Android 内存分析与诊断工具
+---
+title: "Tencent-loli_profiler：Android 内存分析与诊断工具"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/Tencent/loli_profiler
-- 发现评分：90
-- Stars：673
+发布日期: "2026-02-22"
+来源: "https://github.com/Tencent/loli_profiler"
+发现评分: "90"
+Stars: "673"
+---
 
 ## 摘要
 
@@ -57,7 +57,6 @@ Tencent profiler 是一款面向 Android 开发者的内存分析与诊断工具
 ## 链接
 
 - https://github.com/Tencent/loli_profiler
-
 
 ## 关联主题
 

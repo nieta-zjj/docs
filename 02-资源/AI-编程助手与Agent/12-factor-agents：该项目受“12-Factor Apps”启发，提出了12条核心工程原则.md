@@ -1,15 +1,17 @@
-# 12-factor-agents：该项目受“12-Factor Apps”启发，提出了12条核心工程原则
+---
+title: "12-factor-agents：该项目受“12-Factor Apps”启发，提出了12条核心工程原则"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `humanlayer/12-factor-agents`
-- 项目主页：https://github.com/humanlayer/12-factor-agents
-- 开源协议：Other
-- 主要语言：TypeScript
-- 统计快照：Stars 18301，Forks 1391，Watchers 179（抓取时间：2026-02-22）
-- 版本快照：暂无正式发布记录
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `humanlayer/12-factor-agents`"
+项目主页: "https://github.com/humanlayer/12-factor-agents"
+开源协议: "Other"
+主要语言: "TypeScript"
+统计快照: "Stars 18301，Forks 1391，Watchers 179（抓取时间：2026-02-22）"
+版本快照: "暂无正式发布记录"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 该项目受“12-Factor Apps”启发，提出了12条核心工程原则，旨在帮助开发者摆脱对重型框架的依赖，构建可靠、可扩展且真正达到生产级交付标准的 LLM Agent 应用。
 
@@ -38,36 +40,44 @@
 *   **传统模式失效**：标准的“提供提示词和工具包，循环执行直到达成目标”的 Agent 模式在实际生产环境中效果不佳。
 
 ## 功能与定位
+
 What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 
 ## 典型使用场景
+
 - 用于智能体开发、编排与执行链路搭建。
 - 适合 AI 编程助手与自动化协作流程建设。
 
 ## 核心功能
+
 - 支持 Agent 工具调用、任务分解或上下文管理。
 - 提供与开发环境协作的自动化能力。
 - 强调可扩展、可观测与工程集成。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:20:54Z。
 - 项目创建于 2025-03-30T22:10:39Z，具备持续迭代与社区沉淀。
 - 以 `TypeScript` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/humanlayer/12-factor-agents
 - README：https://raw.githubusercontent.com/humanlayer/12-factor-agents/main/README.md
 - Releases：https://github.com/humanlayer/12-factor-agents/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/llm]]

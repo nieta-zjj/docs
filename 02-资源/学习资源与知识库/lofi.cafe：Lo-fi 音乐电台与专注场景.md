@@ -1,8 +1,9 @@
-# lofi.cafe：Lo-fi 音乐电台与专注场景
+---
+title: "lofi.cafe：Lo-fi 音乐电台与专注场景"
 
-## 文档信息
-- 来源：https://www.lofi.cafe/
-- 记录日期：2026-02-22
+来源: "https://www.lofi.cafe/"
+记录日期: "2026-02-22"
+---
 
 ## 摘要
 
@@ -20,6 +21,7 @@ lofi.cafe 是一个专为学习、工作和放松场景设计的 lo-fi 音乐流
 *   **数据统计**：网站首页 HTML 中嵌入了 plausible.io 的数据统计脚本。
 
 ## 正文
+
 lofi.cafe 是一个提供 lo-fi 音乐流媒体播放的网页应用，主打“学习、工作、放松”场景下的背景音乐体验。
 
 页面在禁用 JavaScript 时会提示需要启用 JavaScript 才能运行，并引导用户选择一个房间后开始收听。

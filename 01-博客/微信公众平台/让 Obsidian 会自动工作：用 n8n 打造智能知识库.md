@@ -1,11 +1,11 @@
-# 让 Obsidian 会自动工作：用 n8n 打造智能知识库
+---
+title: "让 Obsidian 会自动工作：用 n8n 打造智能知识库"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/SuxLo0Qb-TKFGO0Yo3a3cA
-- 发布日期：2025-10-05
-- 作者：林月半子的AI笔记
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/SuxLo0Qb-TKFGO0Yo3a3cA"
+发布日期: "2025-10-05"
+作者: "林月半子的AI笔记"
+---
 
 ## 摘要
 

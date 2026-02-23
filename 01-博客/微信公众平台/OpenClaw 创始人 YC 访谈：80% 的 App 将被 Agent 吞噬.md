@@ -1,11 +1,11 @@
-# OpenClaw 创始人 YC 访谈：80% 的 App 将被 Agent 吞噬
+---
+title: "OpenClaw 创始人 YC 访谈：80% 的 App 将被 Agent 吞噬"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/dwAyRRFKGAy4Mpz2YWCcaA
-- 发布日期：2026-02-22
-- 作者：激波之影
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/dwAyRRFKGAy4Mpz2YWCcaA"
+发布日期: "2026-02-22"
+作者: "激波之影"
+---
 
 ## 摘要
 
@@ -29,7 +29,6 @@ OpenClaw 创始人 Peter Steinberger 在 YC 访谈中分享了该本地开源 AI
 *   **云端数据孤岛风险**：主流云端 AI 助手（如 ChatGPT）将用户记忆锁定在封闭生态内，存在用户无法导出、迁移或跨平台使用个人数据的风险。
 
 ## 正文
-
 
 硅谷知名孵化器 YC 最近请 OpenClaw 创始人 Peter Steinberger 做了一期深度访谈。他几乎毫无保留地分享了 OpenClaw 是怎么诞生的、为什么能爆火，以及他对 AI Agent 未来的判断。
 

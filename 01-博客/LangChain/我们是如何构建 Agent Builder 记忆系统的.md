@@ -1,10 +1,12 @@
-# 我们是如何构建 Agent Builder 记忆系统的
+---
+title: "我们是如何构建 Agent Builder 记忆系统的"
 
-## 文档信息
-- 来源：https://blog.langchain.com/how-we-built-agent-builders-memory-system/
-- 发布日期：2026-02-21
+来源: "https://blog.langchain.com/how-we-built-agent-builders-memory-system/"
+发布日期: "2026-02-21"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 LangSmith Agent Builder 构建了一个基于虚拟文件系统（如 Markdown 和 JSON）的记忆系统，使无代码 Agent 能够通过与用户的持续交互自动迭代指令，从而优化特定任务的工作流。
 
@@ -26,6 +28,7 @@ LangSmith Agent Builder 构建了一个基于虚拟文件系统（如 Markdown �
 *   **格式遗忘问题**：LLM 在生成记忆文件时，有时会忘记遵循特定的 Schema（模式），导致生成无效文件。
 
 ## 正文
+
 上个月，我们推出了 LangSmith Agent Builder，这是一种无代码构建 Agent（智能体）的方式。Agent Builder 的一个核心部分是它的记忆系统。在本文中，我们将探讨优先开发记忆系统的原因、构建该系统的技术细节、开发过程中的经验教训、记忆系统所带来的功能，并讨论未来的工作方向。
 
 ### 什么是 LangSmith Agent Builder

@@ -1,9 +1,10 @@
-# Redis 之父 Salvatore Sanfilippo 的年终 AI 反思
+---
+title: "Redis 之父 Salvatore Sanfilippo 的年终 AI 反思"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/redis-creator-salvatore-sanfilippos-year-end-ai-reflections
-- 发布日期：2025-12-20
-- 作者：宝玉
+来源: "https://baoyu.io/blog/redis-creator-salvatore-sanfilippos-year-end-ai-reflections"
+发布日期: "2025-12-20"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@ Redis 创始人 Salvatore Sanfilippo 在 2025 年终反思中指出，大语言�
 *   **认知不足**：尽管模型能力在加速提升，但人类目前对这些 AI 系统的内部机制和理解还远远不够。
 
 ## 正文
+
 Redis 之父 Salvatore Sanfilippo 最近发了一篇年终 AI 反思，一共 8 条观点。
 
 ![Image 1](https://baoyu.io/uploads/2025-12-20/Gemini_Generated_Image_v8tc1zv8tc1zv8tc.png)

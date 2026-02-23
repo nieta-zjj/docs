@@ -1,11 +1,11 @@
-# File System as Meta Tool：AI Agent 基础设施新思路
+---
+title: "File System as Meta Tool：AI Agent 基础设施新思路"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/seaRW3uKwNfX0pnis8g0Rw
-- 发布日期：2025-11-23
-- 作者：thinkingloop
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/seaRW3uKwNfX0pnis8g0Rw"
+发布日期: "2025-11-23"
+作者: "thinkingloop"
+---
 
 ## 摘要
 

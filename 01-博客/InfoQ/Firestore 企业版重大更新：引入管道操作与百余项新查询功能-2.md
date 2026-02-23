@@ -1,9 +1,11 @@
-# Firestore 企业版重大更新：引入管道操作与百余项新查询功能
+---
+title: "Firestore 企业版重大更新：引入管道操作与百余项新查询功能"
 
-## 文档信息
-- 来源：https://www.infoq.cn/article/t9ORmgH3AUBsYygo04pd?utm_source=rss&utm_medium=article
+来源: "https://www.infoq.cn/article/t9ORmgH3AUBsYygo04pd?utm_source=rss&utm_medium=article"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 谷歌对 Firestore 企业版进行了重大升级，引入了支持百余项新特性的管道（Pipeline）操作，将索引改为可选配置，并优化了计费模式与性能监控工具。
 
@@ -23,6 +25,7 @@
 *   **版本混用报错**：若在标准版数据库上错误地运行管道操作，系统会直接抛出服务器错误。
 
 ## 正文
+
 谷歌对 Firestore 企业版的查询引擎进行了彻底改革，正式新增了管道（Pipeline）操作。这一更新允许开发者将多个查询阶段串联起来，用于处理复杂的聚合、数组操作和正则表达式匹配。此次升级不仅消除了 Firestore 长期以来的查询限制，还使得索引成为可选配置，令其在功能上与其他主流 NoSQL 平台（如 MongoDB）齐平。
 
 ### 管道操作的强大能力
@@ -72,3 +75,10 @@ Olmedo 将核心问题总结为：“将逻辑推向更接近数据的地方，�
 **标准版不会消失。** 谷歌确认将继续支持两个版本，熟悉的查询方法也不会被弃用。需要注意的是，如果在标准数据库上运行流水线操作，系统会抛出服务器错误。
 
 目前，新的查询引擎已作为 Firestore 企业版的一部分在原生模式下发布，开发者可在 Firebase 的开发文档中获取完整的文档和代码示例。
+
+## 关联主题
+
+- [[00-元语/serverless]]
+- [[00-元语/data-pipeline]]
+- [[00-元语/observability]]
+- [[00-元语/sdk]]

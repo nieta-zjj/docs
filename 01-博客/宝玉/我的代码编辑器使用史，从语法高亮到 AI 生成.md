@@ -1,9 +1,10 @@
-# 我的代码编辑器使用史，从语法高亮到 AI 生成
+---
+title: "我的代码编辑器使用史，从语法高亮到 AI 生成"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/coding/my-experience-with-code-editor-evolution
-- 发布日期：2024-08-24
-- 作者：宝玉
+来源: "https://baoyu.io/blog/coding/my-experience-with-code-editor-evolution"
+发布日期: "2024-08-24"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@
 *   **工具依赖风险**：习惯使用高级AI编辑器后，一旦无法使用AI，可能会出现“大脑短路”而不知道如何编写代码的情况。
 
 ## 正文
+
 在 1999 年我刚上大一的时候，有一门必修课叫计算机基础，讲计算机常识，其中就有讲 HTML，至今印象深刻，老师用 windows 自带的记事本软件，写了一段当时看起来像天书的 HTML，保存成扩展名为 .html 的文件，就变成了一个可以 IE 打开看到的网页，我觉得 HTML 很神奇，唯独这代码看着像天书。 ![Image 1](https://www1.udel.edu/CIS/103/pconrad/05F/images/activity01/step3.01.HTML.tag.png)
 
 2000 年开始学做网页，用 Frontpage 98/2000做网页，发现可以可见即所得做网页，太神奇了，不过稍微复杂一点的Table之类的就不能在可视化编辑中编辑，需要切换到HTML视图，看到有语法高亮的HTML代码，再也不觉得像天书了。当然后来还有Dreamweaver，比Frontpage更强大一点，但更多是网页编辑部分，代码编辑似乎没有太大增强。 ![Image 2](https://www.webdesignmuseum.org/uploaded/old-software/html-editors/microsoft-frontpage/microsoft-frontpage-98-04.png)

@@ -1,11 +1,11 @@
-# 面试官问：Function Call 的训练数据怎么构建？
+---
+title: "面试官问：Function Call 的训练数据怎么构建？"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/NBVeglMyhMiYnphwaE2mJA
-- 发布日期：2025-11-15
-- 作者：吴师兄学大模型
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/NBVeglMyhMiYnphwaE2mJA"
+发布日期: "2025-11-15"
+作者: "吴师兄学大模型"
+---
 
 ## 摘要
 

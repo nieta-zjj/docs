@@ -1,13 +1,13 @@
-# Code2Video：代码驱动教学视频生成系统
+---
+title: "Code2Video：代码驱动教学视频生成系统"
 
-## 文档信息
-
-- 对象：Git 项目
-- 发布日期：2026-02-22
-- 来源：
-  - https://github.com/showlab/Code2Video
-  - https://showlab.github.io/Code2Video/
-  - https://arxiv.org/abs/2510.01174
+对象: "Git 项目"
+发布日期: "2026-02-22"
+来源:
+  - "https://github.com/showlab/Code2Video"
+  - "https://showlab.github.io/Code2Video/"
+  - "https://arxiv.org/abs/2510.01174"
+---
 
 ## 摘要
 
@@ -27,13 +27,16 @@ Code2Video 是由新加坡国立大学 Show Lab 提出的一个基于智能体�
 *   **外部 API 限制**：视觉素材的获取依赖 IconFinder 平台，由于平台账户应用限制，目前只能使用 MMMC 数据集中预先收集的图标作为临时替代方案。
 
 ## 功能与定位
+
 Code2Video 是由新加坡国立大学 Show Lab 提出的一个基于智能体（Agentic）和代码中心范式的教学视频生成框架。与传统的基于像素的文生视频模型不同，该框架通过生成可执行的 Manim 代码来制作高质量的教学视频，以确保视频内容的清晰度、连贯性和可复现性。
 
 ## 典型使用场景
+
 - **教学内容创作**：输入特定的知识点（如“汉诺塔问题”、“大语言模型”、“傅里叶级数”等），自动生成结构化的教学演示视频。
 - **模型能力评估**：利用配套的 MMMC 基准测试，评估大模型在代码驱动视频生成、知识传递和美学排版方面的能力。
 
 ## 核心功能
+
 - **模块化三智能体协同**：
   - **Planner（规划者）**：负责视频分镜（Storyboard）的扩展与设计。
   - **Coder（编码者）**：负责合成可调试的 Manim 动画代码。
@@ -44,10 +47,12 @@ Code2Video 是由新加坡国立大学 Show Lab 提出的一个基于智能体�
 - **多维度评估系统**：提供配套脚本，支持从知识传递（TeachQuiz）、美学与结构质量（AES）以及生成效率（Token 消耗与执行时间）三个维度对视频进行评估。
 
 ## 特色与差异点
+
 - **代码驱动范式**：将可执行代码作为统一媒介，同时控制教学视频的时间顺序和空间布局，突破了传统视频生成模型在逻辑表达上的局限。
 - **MMMC 基准测试**：项目发布了首个用于代码驱动视频生成的基准测试（MMMC），包含 117 个精选学习主题，灵感来源于知名科普频道 3Blue1Brown，涵盖多个学科领域。
 
 ## 使用方式概览
+
 1. **环境配置**：安装依赖，需配置 Manim Community v0.19.0 环境。
 2. **配置 API 密钥**：
    - **LLM API**：用于 Planner 和 Coder 模块（官方推荐使用 Claude-4-Opus 以获得最佳代码质量）。
@@ -58,10 +63,12 @@ Code2Video 是由新加坡国立大学 Show Lab 提出的一个基于智能体�
    - 运行 `run_agent.sh` 执行完整的主题列表批量生成。
 
 ## 限制与注意事项
+
 - 框架的生成质量高度依赖于所调用的 LLM 和 VLM 的能力（如 Claude 和 Gemini）。
 - 视觉素材的获取依赖外部平台（IconFinder），由于平台账户应用限制，官方目前在 MMMC 数据集中提供了预先收集的图标作为临时替代方案。
 
 ## 链接
+
 - GitHub 仓库: https://github.com/showlab/Code2Video
 - 论文 (arXiv): https://arxiv.org/abs/2510.01174
 - 项目主页: https://showlab.github.io/Code2Video/

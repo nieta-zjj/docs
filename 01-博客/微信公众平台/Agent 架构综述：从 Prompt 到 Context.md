@@ -1,11 +1,11 @@
-# Agent 架构综述：从 Prompt 到 Context
+---
+title: "Agent 架构综述：从 Prompt 到 Context"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/pIcZPDqYzXrE3i6Zh4sr-Q
-- 发布日期：2025-08-21
-- 作者：火山引擎开发者社区
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/pIcZPDqYzXrE3i6Zh4sr-Q"
+发布日期: "2025-08-21"
+作者: "火山引擎开发者社区"
+---
 
 ## 摘要
 

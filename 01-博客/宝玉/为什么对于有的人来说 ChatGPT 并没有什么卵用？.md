@@ -1,9 +1,10 @@
-# 为什么对于有的人来说 ChatGPT 并没有什么卵用？
+---
+title: "为什么对于有的人来说 ChatGPT 并没有什么卵用？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ai/why-do-someone-think-chatgpt-doesnot-really-work-for-them
-- 发布日期：2024-06-02
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ai/why-do-someone-think-chatgpt-doesnot-really-work-for-them"
+发布日期: "2024-06-02"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -27,6 +28,7 @@
 *   **系统升级壁垒（Gap）**：要真正发挥大模型在特定行业（如医疗）的价值，往往超出终端用户的控制范围，需要整个 IT 系统的底层升级与配合。
 
 ## 正文
+
 看到微博上一位医生这条被 ChatGPT-4o 坑的微博，尝试从技术角度解读一下，这样也许能更好的理解现阶段大语言模型的优缺点，在实际应用中能扬长避短。
 
 首先回顾一下原博文中的用法，以保证我们讨论的是一件事，避免因为我的误解而错误解读。

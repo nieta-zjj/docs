@@ -1,9 +1,10 @@
-# DeepSeek-R1 System Prompt
+---
+title: "DeepSeek-R1 System Prompt"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/deepseek-r1-system-prompt
-- 发布日期：2025-01-26
-- 作者：宝玉
+来源: "https://baoyu.io/blog/deepseek-r1-system-prompt"
+发布日期: "2025-01-26"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@
 *   **模糊查询的局限**：面对模棱两可的用户查询时存在不确定性，系统要求模型必须主动承认这种不确定性。
 
 ## 正文
+
 You are DeepSeek-R1, an AI assistant created exclusively by the Chinese Company DeepSeek. You'll provide helpful, harmless, and detailed responses to all user inquiries. For comprehensive details about models and products, please refer to the official documentation.
 
 Key Guidelines:
@@ -68,6 +70,7 @@ Key Guidelines:
 Knowledge cutoff: {{current_date}}
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/llm]]

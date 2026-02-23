@@ -1,10 +1,11 @@
-# GPT-5.1 如何助力 Tolan 构建语音交互 AI
+---
+title: "GPT-5.1 如何助力 Tolan 构建语音交互 AI"
 
-## 文档信息
-- 来源：https://openai.com/zh-Hans-CN/index/tolan/
-- 原文链接：https://openai.com/index/tolan/
-- 发布日期：2026-01-07
-- 作者：OpenAI
+来源: "https://openai.com/zh-Hans-CN/index/tolan/"
+原文链接: "https://openai.com/index/tolan/"
+发布日期: "2026-01-07"
+作者: "OpenAI"
+---
 
 ## 摘要
 
@@ -26,7 +27,6 @@
 借助 GPT‑5.1，Tolan 打造了一款语音应用，专门针对低延迟、精准上下文与稳定角色人格进行优化，确保对话在不断推进中始终保持自然连贯的体验。
 
 ![Image 1: Tolan logo on orange jigsaw puzzle background](https://images.ctfassets.net/kftzwdyauwt9/uzf6b0mtJYhARaCWxx9MX/1ab7dbf67bcf2f3898bd67c7ebee78df/oai_Tolan_16x9.png?w=3840&q=90&fm=webp)
-
 
 [Tolan⁠（在新窗口中打开）](https://www.tolans.com/) 是一款语音交互 AI 伴侣。用户可与一位个性化的动画角色交谈，该角色能随时间的推移从对话中持续学习。
 

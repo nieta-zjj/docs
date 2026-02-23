@@ -1,12 +1,12 @@
-# Conductor：Mac 端多 agent 编排与工作树协作工具
+---
+title: "Conductor：Mac 端多 agent 编排与工作树协作工具"
 
-## 文档信息
-
-- 对象：网站
-- 发布日期：2026-02-22
-- 来源：
-  - https://www.conductor.build/
-  - https://docs.conductor.build/
+对象: "网站"
+发布日期: "2026-02-22"
+来源:
+  - "https://www.conductor.build/"
+  - "https://docs.conductor.build/"
+---
 
 ## 摘要
 

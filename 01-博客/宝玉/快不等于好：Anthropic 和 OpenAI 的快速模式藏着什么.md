@@ -1,10 +1,10 @@
-# 快不等于好：Anthropic 和 OpenAI 的快速模式藏着什么
+---
+title: "快不等于好：Anthropic 和 OpenAI 的快速模式藏着什么"
 
-## 文档信息
-
-- 来源：https://baoyu.io/blog/2026-02-15/fast-mode-vs-codex-spark
-- 发布日期：2026-02-15
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026-02-15/fast-mode-vs-codex-spark"
+发布日期: "2026-02-15"
+作者: "宝玉"
+---
 
 ## 摘要
 

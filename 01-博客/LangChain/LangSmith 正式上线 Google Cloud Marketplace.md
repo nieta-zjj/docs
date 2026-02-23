@@ -1,10 +1,12 @@
-# LangSmith 正式上线 Google Cloud Marketplace
+---
+title: "LangSmith 正式上线 Google Cloud Marketplace"
 
-## 文档信息
-- 来源：https://blog.langchain.com/langsmith-is-now-available-in-google-cloud-marketplace/
-- 发布日期：2026-02-09
+来源: "https://blog.langchain.com/langsmith-is-now-available-in-google-cloud-marketplace/"
+发布日期: "2026-02-09"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 LangChain 旗下的智能体工程平台 LangSmith 已正式上线 Google Cloud Marketplace，为企业客户提供简化的采购流程、统一计费服务以及与 Google Cloud 生态系统的深度集成。
 
@@ -17,6 +19,7 @@ LangChain 旗下的智能体工程平台 LangSmith 已正式上线 Google Cloud 
 *   **深化战略合作**：此次上线是双方长期合作的延伸，此前双方已在 Gemini 模型集成、Agent2Agent (A2A) 协议及数据库 MCP 工具箱等项目上展开密切合作。
 
 ## 正文
+
 今天，我们非常高兴地宣布，LangChain 旗下的智能体工程平台 LangSmith 已正式登陆 Google Cloud Marketplace。Google Cloud 客户现在可以通过现有的 Google Cloud 账户直接采购 LangSmith，从而实现无缝计费、简化采购流程，并能够直接抵扣现有的 Google Cloud 承诺消费额度。
 
 LangSmith 已经受到顶尖工程团队的信任，致力于为复杂的智能体工作流（Agentic workflows）带来可靠性与可视化。此次上线 Marketplace 深化了我们与 Google Cloud 的长期合作关系。LangSmith 的 SaaS 服务运行在 Google Cloud 基础设施之上，并且 LangChain 在 Gemini 模型集成、Agent2Agent (A2A) 协议以及数据库 MCP 工具箱等项目上与 Google 进行了密切合作。LangSmith 登陆 Google Cloud Marketplace 是帮助我们共同的客户构建、测试和部署生产级 AI 应用程序的自然之举。
@@ -67,6 +70,7 @@ LangSmith 提供多种部署配置以满足您的安全和合规要求：从全�
 LangChain 提供开发者快速交付可靠智能体所需的智能体工程平台和开源框架。我们的开源框架 LangGraph 和 LangChain 帮助开发者以极快的速度和细粒度的控制力构建智能体，而 LangSmith 则为快速迭代提供可观测性、评估和部署功能。LangChain 受到全球数百万开发者以及 Klarna、Clay、Cloudflare 和 Cisco 等 AI 团队的信任，提供了一套集成的工具集，致力于将 LLM 系统转化为可靠的生产体验。
 
 ## 关联主题
+
 - [[00-元语/Agent]]
 - [[00-元语/observability]]
 - [[00-元语/evals]]

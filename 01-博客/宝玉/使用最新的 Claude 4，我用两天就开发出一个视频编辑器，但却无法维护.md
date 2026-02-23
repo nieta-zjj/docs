@@ -1,9 +1,10 @@
-# 使用最新的 Claude 4，我用两天就开发出一个视频编辑器，但却无法维护
+---
+title: "使用最新的 Claude 4，我用两天就开发出一个视频编辑器，但却无法维护"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/claude-4-video-editor-development-maintenance
-- 发布日期：2025-05-25
-- 作者：宝玉
+来源: "https://baoyu.io/blog/claude-4-video-editor-development-maintenance"
+发布日期: "2025-05-25"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@
 *   **“Vibe Coding”的误导性**：市面上许多宣称通过纯 AI 交流（Vibe Coding）生成的复杂项目，通常只能作为 Demo 演示，在实际工程中几乎无法进行后续的迭代和维护。
 
 ## 正文
+
 ![Image 1](https://baoyu.io/uploads/2025-05-25-1748145617470-0faa4a8b-f4d5-481e-9d39-13de876af725.png)
 
 上图是我这两天用 ClaudeCode （Claude 4）Vibe Coding 的成果，一个复杂的视频编辑器，有基本功能，能加入元素，能播放。但我不是在这里吹 Claude 4 编程多厉害的，恰恰相反，我无法基于这个项目继续开发维护，不是代码不厉害，而是一个仅仅靠 AI 开发的负责系统，几乎是不可维护的！

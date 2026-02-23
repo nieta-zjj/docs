@@ -1,10 +1,12 @@
-# 为什么我偏爱使用 Claude Code 桌面端与 Rodney 工具
+---
+title: "为什么我偏爱使用 Claude Code 桌面端与 Rodney 工具"
 
-## 文档信息
-- 来源：https://simonwillison.net/2026/Feb/16/rodney-claude-code/#atom-everything
-- 发布日期：2026-02-16
+来源: "https://simonwillison.net/2026/Feb/16/rodney-claude-code/#atom-everything"
+发布日期: "2026-02-16"
+---
 
 ## 摘要
+
 **一句话总结**
 本文介绍了作者偏爱使用 Claude Code 原生桌面端与 Rodney 工具的原因，重点强调了其安全的云端容器环境以及 Mac 桌面端便捷的视觉预览功能。
 
@@ -20,6 +22,7 @@
 * Claude 的 iPhone 应用目前不支持显示已打开的图片（作者已在 Twitter 上向官方提出该功能请求）。
 
 ## 正文
+
 ### 安全的云端容器与原生应用
 
 我是“网页版 Claude Code”（Claude Code on the web）的重度用户。这是 Anthropic 推出的一款出色但命名不佳的云端版本。在其中，所有的操作都运行在由他们管理的容器环境中，这大大降低了我个人电脑受损的风险。
@@ -45,6 +48,7 @@ Mac 桌面端应用有一个让我特别欣赏的功能：它允许你查看 Cla
 目前，Claude 的 iPhone 应用还无法显示已打开的图片。因此，我刚刚在 Twitter 的一个帖子中向官方提出了这个功能请求。
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/Agent]]
 - [[00-元语/desktop-client]]

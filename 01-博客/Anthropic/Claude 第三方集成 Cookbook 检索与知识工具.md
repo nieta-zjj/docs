@@ -1,20 +1,21 @@
-# Claude 第三方集成 Cookbook 检索与知识工具
+---
+title: "Claude 第三方集成 Cookbook 检索与知识工具"
 
-## 文档信息
-发布日期：2025-11-27
-来源仓库：anthropics/claude-cookbooks
-原文链接：https://github.com/anthropics/claude-cookbooks/tree/main/third_party
-覆盖范围：
-- `third_party/LlamaIndex/Basic_RAG_With_LlamaIndex.ipynb`
-- `third_party/LlamaIndex/Multi_Document_Agents.ipynb`
-- `third_party/LlamaIndex/Router_Query_Engine.ipynb`
-- `third_party/LlamaIndex/SubQuestion_Query_Engine.ipynb`
-- `third_party/LlamaIndex/ReAct_Agent.ipynb`
-- `third_party/Pinecone/rag_using_pinecone.ipynb`
-- `third_party/Pinecone/claude_3_rag_agent.ipynb`
-- `third_party/MongoDB/rag_using_mongodb.ipynb`
-- `third_party/Wikipedia/wikipedia-search-cookbook.ipynb`
-- `third_party/WolframAlpha/using_llm_api.ipynb`
+发布日期: "2025-11-27"
+来源仓库: "anthropics/claude-cookbooks"
+原文链接: "https://github.com/anthropics/claude-cookbooks/tree/main/third_party"
+覆盖范围:
+  - "`third_party/LlamaIndex/Basic_RAG_With_LlamaIndex.ipynb`"
+  - "`third_party/LlamaIndex/Multi_Document_Agents.ipynb`"
+  - "`third_party/LlamaIndex/Router_Query_Engine.ipynb`"
+  - "`third_party/LlamaIndex/SubQuestion_Query_Engine.ipynb`"
+  - "`third_party/LlamaIndex/ReAct_Agent.ipynb`"
+  - "`third_party/Pinecone/rag_using_pinecone.ipynb`"
+  - "`third_party/Pinecone/claude_3_rag_agent.ipynb`"
+  - "`third_party/MongoDB/rag_using_mongodb.ipynb`"
+  - "`third_party/Wikipedia/wikipedia-search-cookbook.ipynb`"
+  - "`third_party/WolframAlpha/using_llm_api.ipynb`"
+---
 
 ## 摘要
 
@@ -35,6 +36,7 @@
 *   **成本失控风险**：外部 API 工具调用若未进行配额隔离，存在单个请求无限放大导致成本超支的风险。
 
 ## 正文
+
 该分组聚焦“把 Claude 接入外部知识系统”这一主问题：向量检索、文档路由、分解式问答、外部知识 API 工具化。它的共同价值是把模型从“凭记忆回答”升级为“基于可验证知识回答”。
 
 ### 能力主线
@@ -62,11 +64,13 @@ response = query_engine.query("What did author do growing up?")
 - 外部 API 工具调用要配额隔离，避免单个请求放大成本。
 
 ## 相关文档
+
 - [[01-博客/Anthropic/Voyage AI Embeddings 接入与检索实践|Voyage AI Embeddings 接入与检索实践]]；关联理由：上下游；说明：该文提供 embeddings 侧实现细节，是本文检索链路的向量化上游。
 - [[01-博客/Anthropic/Deepgram 与 LlamaIndex 集成入口|Deepgram 与 LlamaIndex 集成入口]]；关联理由：引用；说明：该文中的 LlamaIndex README 条目直接列出本文覆盖的多种检索 notebook，可作为范围核对来源。
 - [[01-博客/Anthropic/Claude 第三方集成 Cookbook 语音与多模态应用|Claude 第三方集成 Cookbook 语音与多模态应用]]；关联理由：同一事件；说明：两文同属 Claude Cookbooks third_party 分组，分别覆盖检索链路与语音多模态链路。
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/rag]]
 - [[00-元语/context-database]]

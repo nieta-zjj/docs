@@ -1,11 +1,9 @@
-# Factory IDE：终端与编辑器中的 AI coding agent
+---
+title: "Factory IDE：终端与编辑器中的 AI coding agent"
 
-## 文档信息
-
-- 对象：网站产品页
-- 来源：https://factory.ai/product/ide
-- 来源：https://factory.ai/pricing
-- 来源：https://factory.ai/enterprise
+对象: "网站产品页"
+来源: "https://factory.ai/enterprise"
+---
 
 ## 摘要
 

@@ -1,9 +1,10 @@
-# OpenAI 连续 12 天 AI 发布会：第一天完整视频（中英文双语字幕）
+---
+title: "OpenAI 连续 12 天 AI 发布会：第一天完整视频（中英文双语字幕）"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/openai-12-day-launch-event-day1-video
-- 发布日期：2024-12-06
-- 作者：宝玉
+来源: "https://baoyu.io/blog/openai-12-day-launch-event-day1-video"
+发布日期: "2024-12-06"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -21,6 +22,7 @@ OpenAI 在其连续12天发布会的首日推出了支持多模态且速度更�
 *   **即将推出的 API 更新**：o1 即将引入 API，并为开发者提供结构化输出、函数调用、开发者消息和 API 图像理解等新功能。
 
 ## 正文
+
 中英文字幕视频：
 
 [https://www.youtube.com/watch?v=1lx4WT5EDg0](https://www.youtube.com/watch?v=1lx4WT5EDg0)

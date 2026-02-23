@@ -1,9 +1,11 @@
-# 推出 Anthropic Interviewer：1250 位专业人士如何看待与 AI 共事
+---
+title: "推出 Anthropic Interviewer：1250 位专业人士如何看待与 AI 共事"
 
-## 文档信息
-- 来源：https://www.anthropic.com/research/anthropic-interviewer
+来源: "https://www.anthropic.com/research/anthropic-interviewer"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Anthropic 推出了由 Claude 驱动的自动化定性研究工具 Anthropic Interviewer，并通过对 1250 名专业人士的访谈，揭示了不同领域工作者在利用 AI 提升生产力时所面临的职场角色转变、社会偏见与信任瓶颈。
 
@@ -25,6 +27,7 @@ Anthropic 推出了由 Claude 驱动的自动化定性研究工具 Anthropic Int
 *   **缺乏因果关系**：作为非实验性研究，无法确定 AI 使用与生产力提升之间的直接因果关系。
 
 ## 正文
+
 如今，每天都有数以百万计的人在使用 AI。作为一家开发 AI 系统的公司，我们不仅希望利用用户的反馈来开发更好的产品，更因为“理解人类与 AI 的互动”已成为我们这个时代最伟大的社会学议题之一。我们想知道人们如何使用 AI、为什么使用，以及 AI 对他们产生了怎样的影响。
 
 此前，我们设计过一款保护用户隐私的分析工具，用于研究经济领域中 AI 使用模式的变迁。但该工具只能让我们了解在与 Claude 的对话框内发生了什么。对话结束之后呢？人们究竟是如何使用 Claude 的输出结果的？他们对此有何感受？他们如何想象 AI 在自己未来的角色？
@@ -113,6 +116,7 @@ Anthropic 推出了由 Claude 驱动的自动化定性研究工具 Anthropic Int
 *(注：参与本次访谈的受访者对 Anthropic Interviewer 给出了极高的评价，97.6% 的人满意度在 5 分及以上，99.12% 的人表示愿意向他人推荐这种访谈形式。)*
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Claude]]
 - [[00-元语/interview]]

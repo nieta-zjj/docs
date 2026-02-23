@@ -1,11 +1,11 @@
-# AI 辅助如何影响编程技能的形成
+---
+title: "AI 辅助如何影响编程技能的形成"
 
-## 文档信息
-
-- 站点：Anthropic Research
-- 原文链接：https://www.anthropic.com/research/AI-assistance-coding-skills
-- 发布日期：2026-01-29
-- 译注：未找到官方中文版本，本文基于英文原文翻译整理。
+站点: "Anthropic Research"
+原文链接: "https://www.anthropic.com/research/AI-assistance-coding-skills"
+发布日期: "2026-01-29"
+译注: "未找到官方中文版本，本文基于英文原文翻译整理。"
+---
 
 ## 摘要
 

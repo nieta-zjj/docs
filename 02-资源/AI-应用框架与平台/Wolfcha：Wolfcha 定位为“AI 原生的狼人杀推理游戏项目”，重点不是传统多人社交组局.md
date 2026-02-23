@@ -1,13 +1,9 @@
-# Wolfcha：Wolfcha 定位为“AI 原生的狼人杀推理游戏项目”，重点不是传统多人社交组局
+---
+title: "Wolfcha：Wolfcha 定位为“AI 原生的狼人杀推理游戏项目”，重点不是传统多人社交组局"
 
-## 文档信息
-
-- 对象：GitHub 开源项目
-- 来源：https://github.com/oil-oil/wolfcha
-- 来源：https://github.com/oil-oil/wolfcha/blob/main/README.zh.md
-- 来源：https://github.com/oil-oil/wolfcha/blob/main/LICENSE
-- 来源：https://github.com/oil-oil/wolfcha/releases
-- 来源：https://wolf-cha.com/
+对象: "GitHub 开源项目"
+来源: "https://wolf-cha.com/"
+---
 
 ## 摘要
 

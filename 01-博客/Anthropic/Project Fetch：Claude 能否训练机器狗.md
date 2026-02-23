@@ -1,9 +1,11 @@
-# Project Fetch：Claude 能否训练机器狗
+---
+title: "Project Fetch：Claude 能否训练机器狗"
 
-## 文档信息
-- 原文链接：https://www.anthropic.com/research/project-fetch-robot-dog
+原文链接: "https://www.anthropic.com/research/project-fetch-robot-dog"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 Anthropic 的 Project Fetch 实验表明，使用 Claude 辅助的非专业团队在编程机器狗执行复杂任务时，完成速度和进度均显著优于无 AI 辅助的团队，展示了 AI 在连接数字与物理世界硬件方面的巨大增益。
 
@@ -23,6 +25,7 @@ Anthropic 的 Project Fetch 实验表明，使用 Claude 辅助的非专业团�
 *   **能力突变风险**：AI 的增益往往是完全自主性的前奏。根据 Anthropic 的负责任扩展政策（RSP），必须监控 AI 模型在机器人和其他硬件方面的能力，因为真正自主的 AI 研发可能会产生快速、不可预测的进步，从而超出人类评估和应对新出现风险的能力。
 
 ## 正文
+
 像 Claude 这样的前沿 AI 模型如何超越计算机的局限，去影响物理世界？其中一条路径是通过机器人。我们进行了一项实验，以观察 Claude 在多大程度上能帮助 Anthropic 的员工操作机器狗完成复杂的任务。
 
 - 我们将八名 Anthropic 研究人员（均非机器人专家）随机分为两组——一组可以使用 Claude（Claude 组），另一组不能使用（无 Claude 组）——并要求他们对四足机器人进行编程，让其捡回沙滩球。

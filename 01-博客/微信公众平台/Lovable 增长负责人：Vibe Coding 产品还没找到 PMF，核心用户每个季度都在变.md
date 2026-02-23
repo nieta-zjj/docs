@@ -1,11 +1,11 @@
-# Lovable 增长负责人：Vibe Coding 产品还没找到 PMF，核心用户每个季度都在变
+---
+title: "Lovable 增长负责人：Vibe Coding 产品还没找到 PMF，核心用户每个季度都在变"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/auBa76ghfIC9g6RmNE04GQ
-- 发布日期：2025-11-28
-- 作者：Founder Park
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/auBa76ghfIC9g6RmNE04GQ"
+发布日期: "2025-11-28"
+作者: "Founder Park"
+---
 
 ## 摘要
 

@@ -1,10 +1,12 @@
-# monday Service 与 LangSmith：从零开始构建代码优先的评估策略
+---
+title: "monday Service 与 LangSmith：从零开始构建代码优先的评估策略"
 
-## 文档信息
-- 来源：https://blog.langchain.com/customers-monday/
-- 发布日期：2026-02-18
+来源: "https://blog.langchain.com/customers-monday/"
+发布日期: "2026-02-18"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 monday Service 借助 LangSmith 构建了代码优先的双层（离线与在线）AI 评估框架，通过测试并行化与 GitOps 部署流程，实现了 AI 智能体质量的高效监控与快速迭代。
 
@@ -22,6 +24,7 @@ monday Service 借助 LangSmith 构建了代码优先的双层（离线与在线
 *   **评估反馈延迟风险**：在采用串行运行离线评估时，缓慢的反馈循环会成为开发瓶颈，不可避免地损害测试深度与功能交付速度（该风险后续通过并行/并发架构得以解决）。
 
 ## 正文
+
 许多团队将评估（Evaluation）视为最后一公里的检查，但我们将其作为“第0天”的首要需求。
 
 monday Service 是一个 AI 原生的企业服务管理（ESM）平台，旨在自动化并解决跨服务部门的咨询问题。在构建我们全新的 AI 服务团队（由可定制的、基于角色的 AI 智能体组成，用于减轻人类客服的工单压力）时，我们从一开始就将评估嵌入到开发周期中，而不是等待 Alpha 测试用户去发现漏洞。
@@ -127,6 +130,7 @@ monday Service 是一个 AI 原生的企业服务管理（ESM）平台，旨在�
 这为我们带来了两全其美的结果：LangSmith 强大的评估基础设施与我们团队的 GitOps 工作流相结合。我们预计，随着生态系统的成熟，这种模式将变得更加普遍，并有可能演变成类似于 Terraform 模块的标准化“评估即基础设施（Evaluations as Infrastructure）”工具。
 
 ## 关联主题
+
 - [[00-元语/Agent]]
 - [[00-元语/evals]]
 - [[00-元语/observability]]

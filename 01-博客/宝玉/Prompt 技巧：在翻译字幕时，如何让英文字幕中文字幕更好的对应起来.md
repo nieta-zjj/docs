@@ -1,9 +1,10 @@
-# Prompt 技巧：在翻译字幕时，如何让英文字幕中文字幕更好的对应起来
+---
+title: "Prompt 技巧：在翻译字幕时，如何让英文字幕中文字幕更好的对应起来"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering/prompt-skills-subtitle-translation-align-english-chinese-better
-- 发布日期：2023-07-08
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering/prompt-skills-subtitle-translation-align-english-chinese-better"
+发布日期: "2023-07-08"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -27,6 +28,7 @@
 *   **LLM 输出不稳定性**：大语言模型生成的结果不够稳定，且存在较高成本，不能完全依赖其完成所有端到端的处理工作。
 
 ## 正文
+
 一周过去了，现在是时候公布这题答案了，这道 #Prompt 思考题 基本上是过去几道思考的集大成了。
 
 这道题目来源于我日常的应用场景，因为我经常会翻译一些字幕，必不可少的要借助 GPT 来帮我完成，这样我只需要二次校对就可以节约很多工作。但是字幕翻译远比我想象的复杂，因为英文原文和中文不是一一对应的关系，通常多个英文字幕在翻译时会被合并成成一个中文，也很难原样拆分回去，所以我需要将翻译后的结果和原始的英文对应起来，靠手工对应工作量还是不小。

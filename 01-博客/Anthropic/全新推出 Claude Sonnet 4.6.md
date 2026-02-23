@@ -1,9 +1,11 @@
-# 全新推出 Claude Sonnet 4.6
+---
+title: "全新推出 Claude Sonnet 4.6"
 
-## 文档信息
-- 来源：https://www.anthropic.com/news/claude-sonnet-4-6
+来源: "https://www.anthropic.com/news/claude-sonnet-4-6"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Claude Sonnet 4.6 是一次全面升级的新一代模型，推出了 100 万 Token 上下文窗口测试版，在编程、计算机使用和长上下文推理等领域展现出媲美 Opus 级别的性能，且维持原有定价。
 
@@ -23,6 +25,7 @@ Claude Sonnet 4.6 是一次全面升级的新一代模型，推出了 100 万 To
 *   **深度推理上限**：对于需要最深度推理的复杂任务（如代码库重构、协调工作流中的多个智能体、极高准确度要求的问题），Opus 4.6 仍然是比 Sonnet 4.6 更强的选择。
 
 ## 正文
+
 Claude Sonnet 4.6 是我们迄今为止能力最强的 Sonnet 模型。它在编程、计算机使用、长上下文推理、智能体规划、知识工作和设计等方面的技能得到了全面升级。此外，Sonnet 4.6 还推出了 100 万 Token 上下文窗口的测试版。
 
 对于免费和 Pro 计划的用户，Claude Sonnet 4.6 现已成为 claude.ai 和 Claude Cowork 的默认模型。其定价与 Sonnet 4.5 保持一致，为每百万 Token 3美元（输入）/ 15美元（输出）。
@@ -82,11 +85,13 @@ Claude Sonnet 4.6 现已在所有 Claude 计划、Claude Cowork、Claude Code、
 *   **Anthropic 与 Infosys 达成合作**：为电信及其他受监管行业构建 AI 智能体。
 
 ## 相关文档
+
 - [[01-博客/Anthropic/推出 Claude Opus 4.6：全面升级的最智能模型|推出 Claude Opus 4.6：全面升级的最智能模型]]；关联理由：同一事件；说明：两篇内容都属于 Anthropic 同期 4.6 系列发布，可对照 Sonnet 与 Opus 的产品定位与能力边界；
 - [[01-博客/Anthropic/将前沿网络安全能力赋予防御者：Claude Code Security 开启预览|将前沿网络安全能力赋予防御者：Claude Code Security 开启预览]]；关联理由：同一事件；说明：本文在相关动态提到 Claude Code Security，可与该文互补理解其安全能力与使用边界；
 - [[01-博客/Anthropic/Anthropic与Infosys达成合作：为受监管行业打造企业级AI智能体|Anthropic与Infosys达成合作：为受监管行业打造企业级AI智能体]]；关联理由：上下游；说明：Sonnet 4.6 的能力升级为受监管行业落地提供模型基础，而 Infosys 合作文档呈现其企业应用场景；
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/llm]]
 - [[00-元语/mcp]]

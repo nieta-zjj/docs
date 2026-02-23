@@ -1,9 +1,10 @@
-# Coding Agent 的舒适区
+---
+title: "Coding Agent 的舒适区"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/coding-agents-comfort-zone
-- 发布日期：2025-12-19
-- 作者：宝玉
+来源: "https://baoyu.io/blog/coding-agents-comfort-zone"
+发布日期: "2025-12-19"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@
 *   **上下文窗口限制**：Agent 受限于上下文窗口长度，无法一次性处理过长的任务，复杂项目无法将整个代码库直接交给 Agent，必须基于架构设计拆分为小任务。
 
 ## 正文
+
 Simon Willison（Django 框架的联合创始人）。他一边陪家人装饰圣诞树、看电影，一边用 Codex CLI + GPT-5.2，把 Emil Stenström 的 JustHTML（纯 Python、通过 html5lib-tests）迁移成了一个纯 JS、零依赖的库，跑过了 9200+ 个 html5lib-tests 用例，最终产出大约 9000 行代码、43 次提交。
 
 ![Image 1](https://baoyu.io/uploads/2025-12-19/Gemini_Generated_Image_afpv8safpv8safpv.png)

@@ -1,9 +1,10 @@
-# OpenAI 连续 12 天 AI 发布会：第七天 —— Projects（中英文双语字幕）
+---
+title: "OpenAI 连续 12 天 AI 发布会：第七天 —— Projects（中英文双语字幕）"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/openai-12-day-ai-day-7-projects
-- 发布日期：2024-12-13
-- 作者：宝玉
+来源: "https://baoyu.io/blog/openai-12-day-ai-day-7-projects"
+发布日期: "2024-12-13"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@ OpenAI 在其“12天 AI 发布会”的第七天正式推出了 ChatGPT 的“�
 *   **服务延迟**：官方提到，由于此前 Sora 的需求量非常大，导致其发布和推送时间比预计的要长。
 
 ## 正文
+
 OpenAI Projects Feature Launch Dialogue
 ---------------------------------------
 

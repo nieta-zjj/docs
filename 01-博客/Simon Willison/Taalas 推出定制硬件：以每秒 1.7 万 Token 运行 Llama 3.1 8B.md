@@ -1,10 +1,12 @@
-# Taalas 推出定制硬件：以每秒 1.7 万 Token 运行 Llama 3.1 8B
+---
+title: "Taalas 推出定制硬件：以每秒 1.7 万 Token 运行 Llama 3.1 8B"
 
-## 文档信息
-- 来源：https://simonwillison.net/2026/Feb/20/taalas/#atom-everything
-- 发布日期：2026-02-20
+来源: "https://simonwillison.net/2026/Feb/20/taalas/#atom-everything"
+发布日期: "2026-02-20"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 加拿大硬件初创公司 Taalas 推出了针对 Llama 3.1 8B 模型的定制硬件“Silicon Llama”，其生成速度高达每秒 1.7 万个 Token。
 
@@ -20,6 +22,7 @@
 * 研发周期长：为了打造并产出采用 4-bit 量化的下一代新模型，预计需要相当长的准备周期。
 
 ## 正文
+
 加拿大硬件初创公司 Taalas 刚刚宣布了他们的首款产品——针对 Llama 3.1 8B 模型（2024年7月发布）的定制硬件实现。该硬件的运行速度达到了惊人的每秒 17,000 个 Token。
 
 ### 极速的生成体验
@@ -33,5 +36,6 @@ Taalas 将这款产品描述为“Silicon Llama”，并表示对其进行了“
 他们的下一代产品将使用 4-bit 量化——这大概意味着他们需要相当长的准备周期来打造并产出新的模型！
 
 ## 关联主题
+
 - [[00-元语/llm]]
 - [[00-元语/benchmark]]

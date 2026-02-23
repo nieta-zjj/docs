@@ -1,16 +1,18 @@
-# rust：旨在赋能开发者构建可靠且高效软件的编程语言，其官方主仓库包含了核心编译器、标准库及相关文档
+---
+title: "rust：旨在赋能开发者构建可靠且高效软件的编程语言，其官方主仓库包含了核心编译器、标准库及相关文档"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `rust-lang/rust`
-- 项目主页：https://github.com/rust-lang/rust
-- 官方网站：https://www.rust-lang.org
-- 开源协议：Apache License 2.0
-- 主要语言：Rust
-- 统计快照：Stars 110603，Forks 14524，Watchers 1471（抓取时间：2026-02-22）
-- 版本快照：最新发布 1.93.1（发布时间：2026-02-12T20:26:57Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `rust-lang/rust`"
+项目主页: "https://github.com/rust-lang/rust"
+官方网站: "https://www.rust-lang.org"
+开源协议: "Apache License 2.0"
+主要语言: "Rust"
+统计快照: "Stars 110603，Forks 14524，Watchers 1471（抓取时间：2026-02-22）"
+版本快照: "最新发布 1.93.1（发布时间：2026-02-12T20:26:57Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Rust 是一个旨在赋能开发者构建可靠且高效软件的编程语言，其官方主仓库包含了核心编译器、标准库及相关文档。
 
@@ -26,37 +28,45 @@ Rust 是一个旨在赋能开发者构建可靠且高效软件的编程语言，
 * **安装建议**：官方推荐通过《The Book》中的标准指南进行快速安装，明确不建议用户直接从源码编译安装。
 
 ## 功能与定位
+
 Empowering everyone to build reliable and efficient software.
 
 ## 典型使用场景
+
 - 作为通用开发工具用于工程协作与效率提升。
 - 适用于个人与团队的日常研发流程。
 
 ## 核心功能
+
 - 提供稳定的通用工程能力。
 - 支持跨平台或多环境使用。
 - 依赖开源社区持续迭代。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:16:51Z。
 - 项目创建于 2010-06-16T20:39:03Z，具备持续迭代与社区沉淀。
 - 以 `Rust` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/rust-lang/rust
 - 官网：https://www.rust-lang.org
 - README：https://raw.githubusercontent.com/rust-lang/rust/main/README.md
 - Releases：https://github.com/rust-lang/rust/releases
 
 ## 关联主题
+
 - [[00-元语/github]]
 - [[00-元语/cli]]
 - [[00-元语/tool]]

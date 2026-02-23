@@ -1,9 +1,10 @@
-# MCP 遇上代码执行：构建更高效率的 AI 智能体
+---
+title: "MCP 遇上代码执行：构建更高效率的 AI 智能体"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/code-execution-with-mcp
-- 发布日期：2025-11-05
-- 作者：宝玉
+来源: "https://baoyu.io/blog/code-execution-with-mcp"
+发布日期: "2025-11-05"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@
 *   **运营与安全成本增加**：相比于简单的“直接工具调用”，构建和维护代码执行环境引入了额外的运营开销和安全考量，开发者需要在实现成本与效率收益之间进行权衡。
 
 ## 正文
+
 [模型上下文协议 (Model Context Protocol, 简称 MCP)](https://modelcontextprotocol.io/) 是一种开放标准，用于将 `AI 智能体 (AI Agent)` 连接到外部系统。在过去，将智能体连接到工具和数据，每一种“配对”都需要定制开发，这导致了严重的碎片化和重复劳动，让真正互联的系统难以规模化。MCP 提供了一种通用协议——开发者只需在他们的智能体中实现一次 MCP，就能解锁一整个集成生态系统。
 
 自 2024 年 11 月推出以来，MCP 的普及速度非常快：社区已经建立了数千个 [MCP 服务器](https://github.com/modelcontextprotocol/servers)，[SDK](https://modelcontextprotocol.io/docs/sdk) 已覆盖所有主流编程语言，业界也已将 MCP 采纳为连接智能体与工具和数据的“事实标准”。

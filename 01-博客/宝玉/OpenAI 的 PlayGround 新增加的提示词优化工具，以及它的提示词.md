@@ -1,9 +1,10 @@
-# OpenAI 的 PlayGround 新增加的提示词优化工具，以及它的提示词
+---
+title: "OpenAI 的 PlayGround 新增加的提示词优化工具，以及它的提示词"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt/openais-meta-prompt-for-optimizing-gpt-prompts
-- 发布日期：2024-10-03
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt/openais-meta-prompt-for-optimizing-gpt-prompts"
+发布日期: "2024-10-03"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -21,6 +22,7 @@ OpenAI 在其 Playground 中新增了提示词生成与优化功能，作者测�
 *   **模型知识截止期**：官方系统提示词中明确设定该工具的训练数据截止时间为 2023 年 10 月。
 
 ## 正文
+
 OpenAI 的 Playground
 
 [https://platform.openai.com/playground/chat?models=gpt-4o](https://platform.openai.com/playground/chat?models=gpt-4o)新增加了一个 帮你生成 Prompt 的功能，效果很不错，如果你需要生成提示词，不妨试试它。

@@ -1,10 +1,10 @@
-# OpenAI 应用 CTO 和 Codex 负责人：AI 正在重塑构建软件的方式
+---
+title: "OpenAI 应用 CTO 和 Codex 负责人：AI 正在重塑构建软件的方式"
 
-## 文档信息
-
-- 来源：https://baoyu.io/blog/2026-02-21/the-pragmatic-summit-inside-openai
-- 发布日期：2026-02-21
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026-02-21/the-pragmatic-summit-inside-openai"
+发布日期: "2026-02-21"
+作者: "宝玉"
+---
 
 ## 摘要
 

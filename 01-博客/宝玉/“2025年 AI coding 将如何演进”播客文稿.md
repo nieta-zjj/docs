@@ -1,9 +1,10 @@
-# “2025年 AI coding 将如何演进”播客文稿
+---
+title: "“2025年 AI coding 将如何演进”播客文稿"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ai-coding-evolution-2025
-- 发布日期：2025-01-15
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ai-coding-evolution-2025"
+发布日期: "2025-01-15"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -27,6 +28,7 @@
 *   **企业数据安全风险**：企业级落地面临严格的代码泄露担忧，必须依赖私有化部署结合企业内部知识库（RAG/微调）来解决安全与定制化需求。
 
 ## 正文
+
 YouTube：[https://www.youtube.com/watch?v=Ux5k0ACfgDU](https://www.youtube.com/watch?v=Ux5k0ACfgDU)
 
 **唐小引：** 刚才我们聊到了 AI coding 整个的发展演进，比如从 Copilot 的竞逐，再到 Agent 的出现。当然，现在很多小伙伴依然在使用 Copilot，同时我们也看到这些 AI 工具的创造者们紧跟需求，不断迭代。比如有位小伙伴提到通义灵码，在我们直播前刚刚进行了全新的升级发布，待会儿陈鑫老师会详细介绍。基于这些背景，我们组织了今天的对话。

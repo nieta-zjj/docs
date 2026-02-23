@@ -1,16 +1,18 @@
-# PaddleOCR：开源 OCR 与文档解析工具库
+---
+title: "PaddleOCR：开源 OCR 与文档解析工具库"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `PaddlePaddle/PaddleOCR`
-- 项目主页：https://github.com/PaddlePaddle/PaddleOCR
-- 官方网站：https://www.paddleocr.com
-- 开源协议：Apache License 2.0
-- 主要语言：Python
-- 统计快照：Stars 71015，Forks 9844，Watchers 522（抓取时间：2026-02-22）
-- 版本快照：最新发布 v3.4.0（发布时间：2026-01-29T11:19:45Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `PaddlePaddle/PaddleOCR`"
+项目主页: "https://github.com/PaddlePaddle/PaddleOCR"
+官方网站: "https://www.paddleocr.com"
+开源协议: "Apache License 2.0"
+主要语言: "Python"
+统计快照: "Stars 71015，Forks 9844，Watchers 522（抓取时间：2026-02-22）"
+版本快照: "最新发布 v3.4.0（发布时间：2026-01-29T11:19:45Z）"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 PaddleOCR 是一个强大的开源轻量级 OCR 与文档 AI 引擎，致力于将图像和 PDF 转化为结构化数据（如 JSON 和 Markdown）以赋能大语言模型（LLM），支持超百种语言并具备极高的工业级可用性。
 
@@ -26,37 +28,45 @@ PaddleOCR 是一个强大的开源轻量级 OCR 与文档 AI 引擎，致力于�
 * **版本兼容性风险**：官方明确指出，PaddleOCR 3.x 引入了重大的接口变更，基于 PaddleOCR 2.x 编写的旧代码很可能与 3.x 版本不兼容。
 
 ## 功能与定位
+
 Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 
 ## 典型使用场景
+
 - 用于模型训练、微调、推理或文档解析等基础能力建设。
 - 作为上层 AI 应用的数据与模型基础设施。
 
 ## 核心功能
+
 - 提供模型/推理相关核心能力。
 - 支持与主流 AI 工具链协同。
 - 兼顾实验验证与工程落地场景。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:20:56Z。
 - 项目创建于 2020-05-08T10:38:16Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/PaddlePaddle/PaddleOCR
 - 官网：https://www.paddleocr.com
 - README：https://raw.githubusercontent.com/PaddlePaddle/PaddleOCR/main/README.md
 - Releases：https://github.com/PaddlePaddle/PaddleOCR/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/ocr]]
 - [[00-元语/llm]]

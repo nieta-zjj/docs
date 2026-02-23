@@ -1,10 +1,12 @@
-# 在SQL表中构建高性价比的Agentic RAG系统处理长文本
+---
+title: "在SQL表中构建高性价比的Agentic RAG系统处理长文本"
 
-## 文档信息
-- 来源：https://towardsdatascience.com/building-cost-efficient-agentic-rag-on-long-text-documents-in-sql-tables/
-- 发布日期：2026-02-18
+来源: "https://towardsdatascience.com/building-cost-efficient-agentic-rag-on-long-text-documents-in-sql-tables/"
+发布日期: "2026-02-18"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 本文介绍了一种无需更改现有数据库模式或迁移数据，通过ReAct代理智能调度SQL计算与向量语义搜索，在传统SQL数据库上构建高性价比Agentic RAG系统的架构方案。
 
@@ -23,6 +25,7 @@
 * **移除向量元数据的成本风险**：若不在向量数据库中保留元数据过滤器，简单的带条件语义查询将被迫转为混合查询（需调用两次工具），从而显著增加Token使用量和系统延迟。
 
 ## 正文
+
 如何在不改变现有数据库模式（Schema）、不进行数据迁移且不牺牲性能的情况下，在存储长文本字段的SQL表上实现一个可靠、低延迟且高性价比的RAG（检索增强生成）系统？
 
 这并非一个纯理论问题。在大多数企业中，关键的业务知识已经存在于传统的关系型数据库中。提案、报告、合同、文章——这些通常存储在 TEXT 或 LONGTEXT 列中，其设计初衷是为了关键字匹配和聚合，而非语义检索。

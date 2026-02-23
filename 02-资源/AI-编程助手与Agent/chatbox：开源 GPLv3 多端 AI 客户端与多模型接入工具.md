@@ -1,16 +1,18 @@
-# chatbox：开源 GPLv3 多端 AI 客户端与多模型接入工具
+---
+title: "chatbox：开源 GPLv3 多端 AI 客户端与多模型接入工具"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `Bin-Huang/chatbox`
-- 项目主页：https://github.com/chatboxai/chatbox
-- 官方网站：https://chatboxai.app?utm_medium=github
-- 开源协议：GNU General Public License v3.0
-- 主要语言：TypeScript
-- 统计快照：Stars 38573，Forks 3908，Watchers 210（抓取时间：2026-02-22）
-- 版本快照：最新发布 v1.19.0（发布时间：2026-02-13T04:42:28Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `Bin-Huang/chatbox`"
+项目主页: "https://github.com/chatboxai/chatbox"
+官方网站: "https://chatboxai.app?utm_medium=github"
+开源协议: "GNU General Public License v3.0"
+主要语言: "TypeScript"
+统计快照: "Stars 38573，Forks 3908，Watchers 210（抓取时间：2026-02-22）"
+版本快照: "最新发布 v1.19.0（发布时间：2026-02-13T04:42:28Z）"
+---
 
 ## 摘要
+
 **一句话总结**
 Chatbox 是一款基于 TypeScript 开发的开源（GPLv3）跨平台 AI 客户端，支持接入多种主流大语言模型及本地模型，提供开箱即用的桌面端、移动端和网页版体验。
 
@@ -25,37 +27,45 @@ Chatbox 是一款基于 TypeScript 开发的开源（GPLv3）跨平台 AI 客户
 *   **开发环境要求**：本地构建需使用 Node.js (v20.x – v22.x) 和 npm，明确指出不支持使用 pnpm。
 
 ## 功能与定位
+
 Powerful AI Client
 
 ## 典型使用场景
+
 - 用于智能体开发、编排与执行链路搭建。
 - 适合 AI 编程助手与自动化协作流程建设。
 
 ## 核心功能
+
 - 支持 Agent 工具调用、任务分解或上下文管理。
 - 提供与开发环境协作的自动化能力。
 - 强调可扩展、可观测与工程集成。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:31:28Z。
 - 项目创建于 2023-03-06T12:22:15Z，具备持续迭代与社区沉淀。
 - 以 `TypeScript` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/Bin-Huang/chatbox
 - 官网：https://chatboxai.app?utm_medium=github
 - README：https://raw.githubusercontent.com/Bin-Huang/chatbox/main/README.md
 - Releases：https://github.com/Bin-Huang/chatbox/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/llm]]

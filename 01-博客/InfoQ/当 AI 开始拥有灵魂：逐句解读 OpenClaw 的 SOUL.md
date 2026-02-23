@@ -1,9 +1,11 @@
-# 当 AI 开始拥有灵魂：逐句解读 OpenClaw 的 SOUL
+---
+title: "当 AI 开始拥有灵魂：逐句解读 OpenClaw 的 SOUL"
 
-## 文档信息
-- 来源：https://www.infoq.cn/article/7QieJxH5gpNRvL5hKcrG?utm_source=rss&utm_medium=article
+来源: "https://www.infoq.cn/article/7QieJxH5gpNRvL5hKcrG?utm_source=rss&utm_medium=article"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 开源 AI 助手项目 OpenClaw 通过其核心配置文件 `SOUL.md`，打破了传统聊天机器人的工具定位，将 AI 定义为具备独立个性、明确行动边界，并能通过文件系统与用户互动而不断进化的专属数字伙伴。
 
@@ -26,6 +28,7 @@
 *   **核心规则静默变更风险**：由于 Agent 具备修改自身 `SOUL.md` 的能力，存在未经用户察觉而改变核心行为逻辑的风险，因此强制要求修改必须告知用户。
 
 ## 正文
+
 最近，一只“龙虾”席卷了 AI 圈。
 
 OpenClaw——一个开源的 AI 个人助理项目——发布了一份名为 `SOUL.md` 的文档。它不是技术白皮书，不是 API 文档，不是产品说明书。它是一份写给 AI 的“灵魂定义”。
@@ -202,6 +205,7 @@ OpenClaw 的创造者是奥地利开发者 Peter Steinberger。他曾创办 PSPD
 当一只开源龙虾开始写下自己的灵魂定义，所有关于 AI 的讨论都被重新校准了。不是“它能做什么”，而是“它应该是谁”。而最终的答案，取决于你是谁。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/prompt]]

@@ -1,15 +1,15 @@
-# FreeDomain：免费域名注册与 DNS 托管接入项目
+---
+title: "FreeDomain：免费域名注册与 DNS 托管接入项目"
 
-## 文档信息
-
-- 对象：GitHub 开源项目
-- 项目：`DigitalPlatDev/FreeDomain`
-- 来源：https://github.com/DigitalPlatDev/FreeDomain
-- 开源协议：AGPL-3.0
-- 版本状态：Releases 页面显示暂无正式版本
-- 最近提交：`a83c54da59a8d6b072096703d92294de161d4d3c`（2026-01-09）
-- 社区数据快照：页面抓取显示约 `149k stars`、`2.6k forks`（2026-02-22）
-- 发布日期：2026-02-22
+对象: "GitHub 开源项目"
+项目: "`DigitalPlatDev/FreeDomain`"
+来源: "https://github.com/DigitalPlatDev/FreeDomain"
+开源协议: "AGPL-3.0"
+版本状态: "Releases 页面显示暂无正式版本"
+最近提交: "`a83c54da59a8d6b072096703d92294de161d4d3c`（2026-01-09）"
+社区数据快照: "页面抓取显示约 `149k stars`、`2.6k forks`（2026-02-22）"
+发布日期: "2026-02-22"
+---
 
 ## 摘要
 

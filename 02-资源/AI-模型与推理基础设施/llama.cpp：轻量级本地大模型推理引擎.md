@@ -1,15 +1,17 @@
-# llama.cpp：轻量级本地大模型推理引擎
+---
+title: "llama.cpp：轻量级本地大模型推理引擎"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `ggml-org/llama.cpp`
-- 项目主页：https://github.com/ggml-org/llama.cpp
-- 开源协议：MIT License
-- 主要语言：C++
-- 统计快照：Stars 95594，Forks 15020，Watchers 638（抓取时间：2026-02-22）
-- 版本快照：最新发布 b8123（发布时间：2026-02-21T19:59:51Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `ggml-org/llama.cpp`"
+项目主页: "https://github.com/ggml-org/llama.cpp"
+开源协议: "MIT License"
+主要语言: "C++"
+统计快照: "Stars 95594，Forks 15020，Watchers 638（抓取时间：2026-02-22）"
+版本快照: "最新发布 b8123（发布时间：2026-02-21T19:59:51Z）"
+---
 
 ## 摘要
+
 **一句话总结**
 llama.cpp 是一个无外部依赖的 C/C++ 开源大语言模型推理框架，旨在通过广泛的硬件优化和量化技术，在本地和云端实现高效的 LLM 推理。
 
@@ -23,38 +25,45 @@ llama.cpp 是一个无外部依赖的 C/C++ 开源大语言模型推理框架，
 * **Hugging Face 集成**：支持直接通过 CLI 运行 Hugging Face 上的模型，Hugging Face 推理端点已开箱即用支持 GGUF 格式。
 * **丰富的模型兼容性**：支持数十种主流模型系列，包括 LLaMA 1/2/3、Mistral、Qwen、Deepseek、Gemma、Mamba 等，并近期与 NVIDIA 合作添加了对原生 MXFP4 格式的支持。
 
-
 ## 功能与定位
+
 LLM inference in C/C++
 
 ## 典型使用场景
+
 - 用于模型训练、微调、推理或文档解析等基础能力建设。
 - 作为上层 AI 应用的数据与模型基础设施。
 
 ## 核心功能
+
 - 提供模型/推理相关核心能力。
 - 支持与主流 AI 工具链协同。
 - 兼顾实验验证与工程落地场景。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:28:14Z。
 - 项目创建于 2023-03-10T18:58:00Z，具备持续迭代与社区沉淀。
 - 以 `C++` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/ggml-org/llama.cpp
 - README：https://raw.githubusercontent.com/ggml-org/llama.cpp/main/README.md
 - Releases：https://github.com/ggml-org/llama.cpp/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/llm]]
 - [[00-元语/github]]

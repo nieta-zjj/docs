@@ -1,16 +1,18 @@
-# MusicFree：基于 TypeScript 开发的插件化、定制化且无广告的免费开源音乐播放器，其本身不集成任何音源
+---
+title: "MusicFree：基于 TypeScript 开发的插件化、定制化且无广告的免费开源音乐播放器，其本身不集成任何音源"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `maotoumao/MusicFree`
-- 项目主页：https://github.com/maotoumao/MusicFree
-- 官方网站：https://musicfree.catcat.work
-- 开源协议：GNU Affero General Public License v3.0
-- 主要语言：TypeScript
-- 统计快照：Stars 23373，Forks 1624，Watchers 92（抓取时间：2026-02-22）
-- 版本快照：最新发布 v0.6.3-beta.1（发布时间：2026-01-06T14:15:47Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `maotoumao/MusicFree`"
+项目主页: "https://github.com/maotoumao/MusicFree"
+官方网站: "https://musicfree.catcat.work"
+开源协议: "GNU Affero General Public License v3.0"
+主要语言: "TypeScript"
+统计快照: "Stars 23373，Forks 1624，Watchers 92（抓取时间：2026-02-22）"
+版本快照: "最新发布 v0.6.3-beta.1（发布时间：2026-01-06T14:15:47Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 MusicFree 是一款基于 TypeScript 开发的插件化、定制化且无广告的免费开源音乐播放器，其本身不集成任何音源，所有搜索与播放功能均依赖第三方插件实现。
 
@@ -30,41 +32,50 @@ MusicFree 是一款基于 TypeScript 开发的插件化、定制化且无广告�
 *   **版本稳定性**：由于开发者精力有限，软件可能长期处于不稳定的测试版本状态，需谨慎使用。
 
 ## 功能与定位
+
 插件化、定制化、无广告的免费音乐播放器
 
 ## 典型使用场景
+
 - 作为通用开发工具用于工程协作与效率提升。
 - 适用于个人与团队的日常研发流程。
 
 ## 核心功能
+
 - 提供稳定的通用工程能力。
 - 支持跨平台或多环境使用。
 - 依赖开源社区持续迭代。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:02:21Z。
 - 项目创建于 2022-08-22T14:29:32Z，具备持续迭代与社区沉淀。
 - 以 `TypeScript` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/maotoumao/MusicFree
 - 官网：https://musicfree.catcat.work
 - README：https://raw.githubusercontent.com/maotoumao/MusicFree/master/README.md
 - Releases：https://github.com/maotoumao/MusicFree/releases
 
 ## 相关文档
+
 - [[02-资源/通用开发工具/spotube：基于 Dart 开发的跨平台开源音乐流媒体应用，支持通过插件集成多种音乐服务.md|spotube：基于 Dart 开发的跨平台开源音乐流媒体应用，支持通过插件集成多种音乐服务]]；关联理由：观点一致；说明：两者都采用“播放器壳 + 外部扩展”思路，通过插件能力接入音乐源而非内置完整音源体系。
 - [[02-资源/通用开发工具/AlgerMusicPlayer：基于 Vue 开发的开源第三方跨平台音乐播放器，集成了本地服务、桌面歌词、高音质下载、网易云账号同步及远程控制等功能.md|AlgerMusicPlayer：基于 Vue 开发的开源第三方跨平台音乐播放器，集成了本地服务、桌面歌词、高音质下载、网易云账号同步及远程控制等功能]]；关联理由：延伸思考；说明：两者同属开源第三方音乐播放器，但在技术栈与功能取向上不同，可用于对比“插件化壳层”与“功能集成型客户端”路线。
 
 ## 关联主题
+
 - [[00-元语/tool]]
 - [[00-元语/github]]
 - [[00-元语/typescript]]

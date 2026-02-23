@@ -1,16 +1,16 @@
-# ChinaTextbook：GitHub 教材 PDF 资源收录仓库
+---
+title: "ChinaTextbook：GitHub 教材 PDF 资源收录仓库"
 
-## 文档信息
-
-- 对象：GitHub 仓库
-- 仓库：TapXWorld/ChinaTextbook
-- 来源：
-  - https://github.com/TapXWorld/ChinaTextbook
-  - https://api.github.com/repos/TapXWorld/ChinaTextbook
-- 创建时间：2020-01-05
-- 统计时间：2026-02-22
-- 仓库数据（抓取时）：Stars 65,236；Forks 14,550；Subscribers 554
-- 开源协议：未声明（License: null）
+对象: "GitHub 仓库"
+仓库: "TapXWorld/ChinaTextbook"
+来源:
+  - "https://github.com/TapXWorld/ChinaTextbook"
+  - "https://api.github.com/repos/TapXWorld/ChinaTextbook"
+创建时间: "2020-01-05"
+统计时间: "2026-02-22"
+仓库数据（抓取时）: "Stars 65,236；Forks 14,550；Subscribers 554"
+开源协议: "未声明（License: null）"
+---
 
 ## 摘要
 

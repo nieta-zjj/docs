@@ -1,10 +1,12 @@
-# GeForce NOW 庆祝云游戏六周年：二月迎来 24 款全新游戏
+---
+title: "GeForce NOW 庆祝云游戏六周年：二月迎来 24 款全新游戏"
 
-## 文档信息
-- 来源：https://blogs.nvidia.com/blog/geforce-now-thursday-feb-2026-games-list/
-- 发布日期：2026-02-03
+来源: "https://blogs.nvidia.com/blog/geforce-now-thursday-feb-2026-games-list/"
+发布日期: "2026-02-03"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 GeForce NOW 迎来六周年里程碑，宣布二月将上线包括《三角洲行动》在内的 24 款全新云游戏，并持续扩展 RTX 5080 的支持范围。
 
@@ -21,6 +23,7 @@ GeForce NOW 迎来六周年里程碑，宣布二月将上线包括《三角洲�
 * 《Nova Roma》的发布已推迟至 3 月，该游戏登陆云端的时间也相应延后。
 
 ## 正文
+
 GeForce NOW 正式迎来六周年生日。自发布以来，会员们的云游戏串流总时长已超过 10 亿小时，而这场狂欢才刚刚开始。
 
 在整个二月，玩家们可以期待更多全新游戏、跨设备游玩的新方式，以及将 RTX 的强大性能带入家中每一块屏幕的更多途径。
@@ -104,3 +107,12 @@ Krafton 推出的《PUBG: BLINDSPOT》是 PUBG 宇宙的一款全新衍生作品
 *   **Waterpark Simulator**（Steam）
 
 此外，《Nova Roma》现已推迟至 3 月发布，届时将同步登陆云端。
+
+## 相关文档
+
+- [[01-博客/NVIDIA/GeForce NOW 让各类屏幕变身游戏主机|GeForce NOW 让各类屏幕变身游戏主机]]；关联理由：版本演进；说明：同属 GeForce NOW 六周年二月活动，这篇文档承接后续周更并补充了 Fire TV 平台扩展。
+- [[01-博客/NVIDIA/畅玩游戏世界：GeForce NOW 支持超过 4500 款游戏|畅玩游戏世界：GeForce NOW 支持超过 4500 款游戏]]；关联理由：同一事件；说明：同一周年活动周期内的后续公告，延续了游戏上新节奏与 RTX 5080 支持信息。
+
+## 关联主题
+
+- [[00-元语/game]]

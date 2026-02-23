@@ -1,15 +1,9 @@
-# Antigma：自主编程智能体与自组织智能基础设施
+---
+title: "Antigma：自主编程智能体与自组织智能基础设施"
 
-## 文档信息
-
-- 对象：网站
-- 来源：https://antigma.ai/
-- 来源：https://antigma.ai/about
-- 来源：https://antigma.ai/blog
-- 来源：https://documentation-e2y.pages.dev/
-- 来源：https://github.com/AntigmaLabs
-- 来源：https://github.com/AntigmaLabs/nanochat-rs
-- 来源：https://www.tbench.ai/leaderboard
+对象: "网站"
+来源: "https://www.tbench.ai/leaderboard"
+---
 
 ## 摘要
 

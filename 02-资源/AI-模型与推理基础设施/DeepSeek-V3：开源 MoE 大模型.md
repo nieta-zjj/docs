@@ -1,15 +1,17 @@
-# DeepSeek-V3：开源 MoE 大模型
+---
+title: "DeepSeek-V3：开源 MoE 大模型"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `deepseek-ai/DeepSeek-V3`
-- 项目主页：https://github.com/deepseek-ai/DeepSeek-V3
-- Stars（记录值）：85075（用户记录）
-- 代码许可：MIT License
-- 模型许可：DeepSeek License Agreement（见仓库 LICENSE-MODEL）
-- 论文：https://arxiv.org/pdf/2412.19437
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `deepseek-ai/DeepSeek-V3`"
+项目主页: "https://github.com/deepseek-ai/DeepSeek-V3"
+Stars（记录值）: "85075（用户记录）"
+代码许可: "MIT License"
+模型许可: "DeepSeek License Agreement（见仓库 LICENSE-MODEL）"
+论文: "https://arxiv.org/pdf/2412.19437"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 DeepSeek-V3 是一款拥有 6710 亿参数的高效开源混合专家（MoE）语言模型，凭借创新的架构设计与极低的训练成本，展现出媲美顶尖闭源模型的卓越性能。
 
@@ -28,23 +30,28 @@ DeepSeek-V3 是一款拥有 6710 亿参数的高效开源混合专家（MoE）�
 * **MTP 模块支持尚未完善**：多 Token 预测（MTP）模块的社区支持目前仍处于积极开发阶段。
 
 ## 功能与定位
+
 DeepSeek-V3 是一个以高效 MoE 架构为核心的开源基础模型（Base/Chat），强调在超大规模训练与推理部署中兼顾性能与效率，并提供与推理相关的技术路线（例如多 Token 预测、投机解码适配等）。
 
 ## 典型使用场景
+
 - 作为开源大模型基座：在对话、工具调用或业务应用中作为底层模型使用（需要结合安全策略与评测）。
 - 大规模推理部署研究：在 MoE、长上下文与精度/吞吐权衡方面做工程实践。
 - 作为其他推理能力工作的基础：与 R1 等推理训练/蒸馏路线形成配套。
 
 ## 核心内容
+
 - 模型权重与推理说明：Base/Chat 版本及其运行方式。
 - 训练与架构论文：MoE、MLA、负载均衡策略、FP8 训练等关键设计。
 - 许可与分发条款：代码与模型权重的授权边界、分发与衍生限制。
 
 ## 限制与注意事项
+
 - 代码与模型权重许可不同：使用前应分别核对仓库中的代码许可与模型许可条款。
 - 若要分发衍生权重或服务化提供，应优先按官方条款确认是否需要附带相同限制与声明。
 
 ## 链接
+
 - 仓库：https://github.com/deepseek-ai/DeepSeek-V3
 - 论文：https://arxiv.org/pdf/2412.19437
 - Hugging Face（Base）：https://huggingface.co/deepseek-ai/DeepSeek-V3-Base
@@ -52,6 +59,7 @@ DeepSeek-V3 是一个以高效 MoE 架构为核心的开源基础模型（Base/C
 - DeepSeek-R1：https://github.com/deepseek-ai/DeepSeek-R1
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/llm]]
 - [[00-元语/llmops]]

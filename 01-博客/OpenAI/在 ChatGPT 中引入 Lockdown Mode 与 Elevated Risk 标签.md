@@ -1,10 +1,10 @@
-# 在 ChatGPT 中引入 Lockdown Mode 与 Elevated Risk 标签
+---
+title: "在 ChatGPT 中引入 Lockdown Mode 与 Elevated Risk 标签"
 
-## 文档信息
-
-- 来源：https://www.openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt/
-- 发布日期：2026-02-13
-- 译注：未找到官方中文版本，本文基于英文原文翻译整理。
+来源: "https://www.openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt/"
+发布日期: "2026-02-13"
+译注: "未找到官方中文版本，本文基于英文原文翻译整理。"
+---
 
 ## 摘要
 

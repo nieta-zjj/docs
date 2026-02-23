@@ -1,9 +1,10 @@
-# 小技巧：GPT 多了怎么管理？
+---
+title: "小技巧：GPT 多了怎么管理？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/gpt/tips-for-managing-multiple-gpts
-- 发布日期：2024-06-14
-- 作者：宝玉
+来源: "https://baoyu.io/blog/gpt/tips-for-managing-multiple-gpts"
+发布日期: "2024-06-14"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -19,6 +20,7 @@
 * 通过 `@` 选中目标 GPT 后直接输入任务指令，其执行效果与单独打开该 GPT 页面完全一致。
 
 ## 正文
+
 我习惯于把一些日常小任务做成独立的 GPT，比如[标题生成 URL slug](https://chatgpt.com/g/g-K51fVqxoo-seo-slug-generator) 、[字幕文稿整理](https://chatgpt.com/g/g-pnXgeR4g4-shi-pin-wen-gao-zheng-li) 、[总结](https://chatgpt.com/g/g-ZVdeiqsj0-chang-wen-zong-jie) 、[翻译](https://chatgpt.com/g/g-uBhKUJJTl-ke-ji-wen-zhang-fan-yi) 等，单独用起来都挺方便的，输入内容就出来结果。
 
 但麻烦的地方在于：太多了不好找。去 GPT Store 找，然后再用很麻烦，就算可以固定在侧边栏，但个数多了一样被折叠。

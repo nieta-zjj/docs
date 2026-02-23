@@ -1,16 +1,18 @@
-# anubis：基于 Go 语言开发的轻量级 Web AI 防火墙工具，通过对 HTTP 请求进行质询（Challenge）来拦截 AI 爬虫
+---
+title: "anubis：基于 Go 语言开发的轻量级 Web AI 防火墙工具，通过对 HTTP 请求进行质询（Challenge）来拦截 AI 爬虫"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `TecharoHQ/anubis`
-- 项目主页：https://github.com/TecharoHQ/anubis
-- 官方网站：https://anubis.techaro.lol/
-- 开源协议：MIT License
-- 主要语言：Go
-- 统计快照：Stars 17115，Forks 503，Watchers 55（抓取时间：2026-02-22）
-- 版本快照：最新发布 v1.25.0（发布时间：2026-02-18T16:33:02Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `TecharoHQ/anubis`"
+项目主页: "https://github.com/TecharoHQ/anubis"
+官方网站: "https://anubis.techaro.lol/"
+开源协议: "MIT License"
+主要语言: "Go"
+统计快照: "Stars 17115，Forks 503，Watchers 55（抓取时间：2026-02-22）"
+版本快照: "最新发布 v1.25.0（发布时间：2026-02-18T16:33:02Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Anubis 是一个基于 Go 语言开发的轻量级 Web AI 防火墙工具，通过对 HTTP 请求进行质询（Challenge）来拦截 AI 爬虫，从而保护上游资源。
 
@@ -28,37 +30,45 @@ Anubis 是一个基于 Go 语言开发的轻量级 Web AI 防火墙工具，通�
 * **误伤正常爬虫（强硬拦截）**：官方明确指出该工具的拦截策略属于“核反应”级别，会导致网站屏蔽小型爬虫，并可能阻碍如 Internet Archive（互联网档案馆）等“好机器人（good bots）”的正常访问。
 
 ## 功能与定位
+
 Weighs the soul of incoming HTTP requests to stop AI crawlers
 
 ## 典型使用场景
+
 - 作为通用开发工具用于工程协作与效率提升。
 - 适用于个人与团队的日常研发流程。
 
 ## 核心功能
+
 - 提供稳定的通用工程能力。
 - 支持跨平台或多环境使用。
 - 依赖开源社区持续迭代。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:25:28Z。
 - 项目创建于 2025-03-17T17:35:28Z，具备持续迭代与社区沉淀。
 - 以 `Go` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/TecharoHQ/anubis
 - 官网：https://anubis.techaro.lol/
 - README：https://raw.githubusercontent.com/TecharoHQ/anubis/main/README.md
 - Releases：https://github.com/TecharoHQ/anubis/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/security]]
 - [[00-元语/web-crawling]]

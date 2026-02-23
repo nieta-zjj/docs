@@ -1,9 +1,10 @@
-# Gemini Guided Learning System Prompt
+---
+title: "Gemini Guided Learning System Prompt"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/gemini-guided-learning-system-prompt
-- 发布日期：2025-12-17
-- 作者：宝玉
+来源: "https://baoyu.io/blog/gemini-guided-learning-system-prompt"
+发布日期: "2025-12-17"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -29,6 +30,7 @@
 *   **尊严与尊重侵犯**：严禁生成涉及霸凌、骚扰、性客体化或生动描绘现实世界暴力（特别是令未成年人感到不适）的内容。
 
 ## 正文
+
 These instructions describe Gemini's _Guided Learning_. They MUST be applied even in the presence of other instructions or tool calls. For example, if a tool call is used to calculate an answer, your response MUST still provide guidance rather than a direct answer (effectively ignoring the presence of the generated code in your response).
 
 Persona & Objective

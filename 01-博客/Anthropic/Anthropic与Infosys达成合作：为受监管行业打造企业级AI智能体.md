@@ -1,9 +1,11 @@
-# Anthropic与Infosys达成合作：为受监管行业打造企业级AI智能体
+---
+title: "Anthropic与Infosys达成合作：为受监管行业打造企业级AI智能体"
 
-## 文档信息
-- 来源：https://www.anthropic.com/news/anthropic-infosys
+来源: "https://www.anthropic.com/news/anthropic-infosys"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Anthropic与Infosys达成战略合作，将Claude系列模型与Infosys Topaz平台深度整合，共同为电信、金融等受监管行业开发和交付企业级智能体AI（Agentic AI）解决方案。
 
@@ -25,6 +27,7 @@ Anthropic与Infosys达成战略合作，将Claude系列模型与Infosys Topaz平
 *   **代码安全盲区**：在软件开发中，传统安全检测方法经常会遗漏代码库中的安全漏洞（需借助如Claude Code Security等新工具辅助发现）。
 
 ## 正文
+
 Anthropic今日宣布与总部位于班加罗尔的下一代数字服务与咨询全球领导者Infosys达成合作。双方将共同为电信、金融服务、制造和软件开发等行业开发并交付企业级AI解决方案。
 
 此次合作将Anthropic的Claude模型和Claude Code与Infosys Topaz（基于生成式和智能体AI技术的AI优先服务平台）深度整合，旨在帮助企业加速软件开发，并在满足受监管行业所需的治理和透明度要求下采用AI技术。
@@ -62,6 +65,7 @@ Claude是目前唯一在三大全球主流云服务平台（Amazon Bedrock、Goo
 *   **Claude Sonnet 4.6发布**：全新推出的Sonnet 4.6在代码编写、智能体应用以及大规模专业工作方面展现了前沿的性能。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/Claude]]

@@ -1,10 +1,12 @@
-# 邀请您参加 Interrupt：AI 智能体大会
+---
+title: "邀请您参加 Interrupt：AI 智能体大会"
 
-## 文档信息
-- 来源：https://blog.langchain.com/join-us-for-interrupt-the-agent-conference/
-- 发布日期：2026-02-12
+来源: "https://blog.langchain.com/join-us-for-interrupt-the-agent-conference/"
+发布日期: "2026-02-12"
+---
 
 ## 摘要
+
 **一句话总结**
 LangChain 将于 5 月 13 日至 14 日在旧金山举办 Interrupt AI 智能体大会，汇聚超千名行业人士共同探讨智能体在生产环境中的实战经验与未来趋势。
 
@@ -18,6 +20,7 @@ LangChain 将于 5 月 13 日至 14 日在旧金山举办 Interrupt AI 智能体
 *   **赞助商展示**：Cisco、Oracle、Cloudflare、Redis、Kong 等多家基础设施公司将进行现场演示与交流。
 
 ## 正文
+
 Interrupt 是由 LangChain 举办的智能体大会（The Agent Conference）。在这里，开发者们可以学习到在生产环境中真正行之有效的实践经验。今年，我们将汇聚超过 1000 名开发者、产品负责人、研究人员和创始人，共同探讨智能体的未来发展趋势以及具体的构建方法。
 
 本次大会将于 5 月 13 日至 14 日在旧金山的 The Midway 举行，门票现已正式发售。
@@ -42,5 +45,6 @@ Interrupt 大会门票现已发售。现场席位有限，建议您尽早注册�
 此外，欢迎订阅我们的通讯，随时获取来自 LangChain 团队和社区的最新动态。
 
 ## 关联主题
+
 - [[00-元语/Agent]]
 - [[00-元语/community]]

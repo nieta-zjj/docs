@@ -1,9 +1,10 @@
-# 你是否听说过 MLOps 或者 LLMOps 呢？
+---
+title: "你是否听说过 MLOps 或者 LLMOps 呢？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/software-engineering/what-is-llm-ops
-- 发布日期：2023-04-18
-- 作者：宝玉
+来源: "https://baoyu.io/blog/software-engineering/what-is-llm-ops"
+发布日期: "2023-04-18"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@ MLOps和LLMOps是DevOps在AI和机器学习领域的延伸，尽管在技术栈�
 *   **数据处理瓶颈**：保证模型训练质量需要海量高质量数据，纯粹依靠人工无法完成该任务，存在数据处理能力不足的风险。
 
 ## 正文
+
 相信你对 DevOps 已经非常熟悉，但你是否听说过 MLOps 或者 LLMOps 呢？
 
 MLOps 本质上仍然是 DevOps，只是现在关注的是与 AI 和大语言模型相关的产品。

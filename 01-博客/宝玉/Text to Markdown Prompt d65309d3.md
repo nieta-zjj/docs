@@ -1,9 +1,10 @@
-# Text to Markdown Prompt
+---
+title: "Text to Markdown Prompt"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/text-to-markdown-prompt
-- 发布日期：2025-11-02
-- 作者：宝玉
+来源: "https://baoyu.io/blog/text-to-markdown-prompt"
+发布日期: "2025-11-02"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -19,6 +20,7 @@
 *   **解决加粗失效痛点**：制定了严格的格式规范，明确要求**绝对不要**将任何标点符号包含在 `**` 标记内部（如必须为 `**观点**。` 而非 `**观点。**`），解决了 LLM 生成中文 Markdown 时常见的加粗失效问题。
 
 ## 正文
+
 适用于你要把推文、微博这种纯文本内容转成格式良好的博客，可以帮你生成标题、列表，和加粗要点、金句。
 
 亮点：

@@ -1,9 +1,10 @@
-# Skills 究竟是短期红利还是长期壁垒？
+---
+title: "Skills 究竟是短期红利还是长期壁垒？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/skills-short-term-vs-long-term-advantage
-- 发布日期：2026-01-18
-- 作者：宝玉
+来源: "https://baoyu.io/blog/skills-short-term-vs-long-term-advantage"
+发布日期: "2026-01-18"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -23,6 +24,7 @@
 *   **技术红利衰退**：历史经验表明，特定阶段的技术手段（如 Prompt 工程、上下文工程）都会随着基础模型能力的进化（如 AI 自动写 Prompt、上下文窗口增大）而失去壁垒效应。
 
 ## 正文
+
 这是个好问题：
 
 > 随着基础模型继续进化，Skills 是否会逐渐被更强的自主规划取代？作为创业者现在去布局 Skills，究竟是短期红利还是长期壁垒？

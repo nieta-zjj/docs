@@ -1,10 +1,12 @@
-# 解锁 Codex 引擎：我们如何构建 App Server
+---
+title: "解锁 Codex 引擎：我们如何构建 App Server"
 
-## 文档信息
-- 来源：https://openai.com/index/unlocking-the-codex-harness
-- 发布日期：2026-02-04
+来源: "https://openai.com/index/unlocking-the-codex-harness"
+发布日期: "2026-02-04"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 Codex App Server 是一个基于双向 JSON-RPC 协议的底层接口，它将核心的 Codex 智能体引擎统一暴露给 Web、IDE、CLI 和桌面端等多种客户端，以支持丰富的流式交互与状态管理。
 
@@ -28,6 +30,7 @@ Codex App Server 是一个基于双向 JSON-RPC 协议的底层接口，它将�
 *   **Web 会话的脆弱性**：Web 标签页具有短暂性（易关闭或断网），不能作为长期运行任务的真实数据源，必须依赖服务端来保留状态和进度。
 
 ## 正文
+
 OpenAI 的编程智能体 Codex 存在于许多不同的平台中：Web 应用、CLI、IDE 扩展以及全新的 Codex macOS 应用。在底层，它们都由同一个 Codex 引擎（harness）驱动——这是构成所有 Codex 体验基础的智能体循环与逻辑。连接它们的关键纽带是什么？正是 Codex App Server，一个对客户端友好、双向的 JSON-RPC API。
 
 在这篇文章中，我们将介绍 Codex App Server；分享我们迄今为止学到的最佳实践，帮助您将 Codex 的能力引入您的产品，从而让您的用户大幅提升工作流效率。我们将涵盖 App Server 的架构和协议，它如何与不同的 Codex 平台集成，以及利用 Codex 的技巧——无论您是想将 Codex 变成代码审查员、SRE 智能体，还是编程助手。
@@ -172,3 +175,15 @@ Codex App Server 将是我们未来维护的一流集成方法，但也存在其
 在这篇文章中，我们分享了我们如何设计与智能体交互的新标准，以及如何将 Codex 引擎转变为一个稳定、对客户端友好的协议。我们介绍了 App Server 如何暴露 Codex core，让客户端驱动完整的智能体循环，并为包括 TUI、本地 IDE 集成和 Web 运行时在内的广泛平台提供动力。
 
 如果这激发了您将 Codex 集成到自己工作流中的想法，那么 App Server 值得一试。所有源代码都位于 Codex CLI 开源仓库中。欢迎分享您的反馈和功能请求。我们很高兴能听到您的声音，并继续让智能体变得对每个人都更易于使用。
+
+## 关联主题
+
+- [[00-元语/OpenAI]]
+- [[00-元语/Codex]]
+- [[00-元语/Agent]]
+- [[00-元语/protocol]]
+- [[00-元语/ui-protocol]]
+- [[00-元语/mcp]]
+- [[00-元语/sdk]]
+- [[00-元语/ide]]
+- [[00-元语/cli]]

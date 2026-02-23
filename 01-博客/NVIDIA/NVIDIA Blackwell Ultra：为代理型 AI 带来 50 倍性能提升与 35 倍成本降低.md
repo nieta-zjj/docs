@@ -1,9 +1,11 @@
-# NVIDIA Blackwell Ultra：为代理型 AI 带来 50 倍性能提升与 35 倍成本降低
+---
+title: "NVIDIA Blackwell Ultra：为代理型 AI 带来 50 倍性能提升与 35 倍成本降低"
 
-## 文档信息
-- 来源：https://blogs.nvidia.com/blog/data-blackwell-ultra-performance-lower-cost-agentic-ai/
+来源: "https://blogs.nvidia.com/blog/data-blackwell-ultra-performance-lower-cost-agentic-ai/"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 NVIDIA Blackwell Ultra 平台通过软硬件协同创新，专为代理型 AI 优化了低延迟与长上下文处理能力，相比 Hopper 平台实现了高达 50 倍的性能提升与 35 倍的成本降低。
 
@@ -16,6 +18,7 @@ NVIDIA Blackwell Ultra 平台通过软硬件协同创新，专为代理型 AI �
 * **下一代 Rubin 平台前瞻**：未来的 NVIDIA Rubin 平台在混合专家（MoE）推理的每兆瓦吞吐量上将比 Blackwell 提升高达 10 倍，且训练大型 MoE 模型所需的 GPU 数量仅为 Blackwell 的四分之一。
 
 ## 正文
+
 NVIDIA Blackwell 平台已被 Baseten、DeepInfra、Fireworks AI 和 Together AI 等领先的推理服务提供商广泛采用，将每 Token 的成本降低了高达 10 倍。如今，NVIDIA Blackwell Ultra 平台正将这一强劲势头进一步推向代理型 AI（Agentic AI）领域。
 
 根据 OpenRouter 的推理状态报告，AI 代理和编程助手正推动与软件编程相关的 AI 查询量呈爆炸式增长：从去年的 11% 激增至约 50%。这些应用要求极低的延迟，以在多步工作流中保持实时响应能力；同时还需要极长的上下文窗口，以便在整个代码库中进行推理。
@@ -60,6 +63,7 @@ CoreWeave 工程高级副总裁 Chen Goldberg 表示：“随着推理成为 AI 
 展望未来，将六款新芯片整合为一台 AI 超级计算机的 NVIDIA Rubin 平台，即将带来新一轮的巨大性能飞跃。在 MoE 推理方面，与 Blackwell 相比，Rubin 的每兆瓦吞吐量提升了高达 10 倍，这意味着每百万 Token 的成本将降至十分之一。而对于下一代前沿 AI 模型，Rubin 训练大型 MoE 模型所需的 GPU 数量仅为 Blackwell 的四分之一。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/llm]]

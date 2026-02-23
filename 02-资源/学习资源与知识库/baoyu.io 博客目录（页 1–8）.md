@@ -1,19 +1,20 @@
-# baoyu.io 博客目录（页 1–8）
+---
+title: "baoyu.io 博客目录（页 1–8）"
 
-## 文档信息
-- 来源：
-  - https://baoyu.io/blog?page=1
-  - https://baoyu.io/blog?page=2
-  - https://baoyu.io/blog?page=3
-  - https://baoyu.io/blog?page=4
-  - https://baoyu.io/blog?page=5
-  - https://baoyu.io/blog?page=6
-  - https://baoyu.io/blog?page=7
-  - https://baoyu.io/blog?page=8
-- 形式：目录汇总
-- 记录日期：2026-02-22
-- 条目数：390
-- 覆盖发布日期范围：2016-06-16 ~ 2026-02-21
+来源:
+  - "https://baoyu.io/blog?page=1"
+  - "https://baoyu.io/blog?page=2"
+  - "https://baoyu.io/blog?page=3"
+  - "https://baoyu.io/blog?page=4"
+  - "https://baoyu.io/blog?page=5"
+  - "https://baoyu.io/blog?page=6"
+  - "https://baoyu.io/blog?page=7"
+  - "https://baoyu.io/blog?page=8"
+形式: "目录汇总"
+记录日期: "2026-02-22"
+条目数: "390"
+覆盖发布日期范围: "2016-06-16 ~ 2026-02-21"
+---
 
 ## 摘要
 
@@ -36,6 +37,7 @@
 *   **项目落地失败风险**：明确记录了 AI Agent 在前端实际落地过程中经历过失败，并进行了真实复盘。
 
 ## 正文
+
 - 2026-02-21 OpenAI 应用 CTO 和 Codex 负责人：AI 正在重塑构建软件的方式（https://baoyu.io/blog/2026-02-21/the-pragmatic-summit-inside-openai）
 - 2026-02-21 Cursor 设计负责人：只会画按钮的设计师，有麻烦了（https://baoyu.io/blog/2026-02-21/cursor-ryo-lu-design-team）
 - 2026-02-19 提示词救不了平庸的 AI 写作（https://baoyu.io/blog/2026-02-19/ai-writing-beyond-prompts）

@@ -1,9 +1,10 @@
-# Google stitch system prompt
+---
+title: "Google stitch system prompt"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/google-stitch-system-prompt
-- 发布日期：2025-05-23
-- 作者：宝玉
+来源: "https://baoyu.io/blog/google-stitch-system-prompt"
+发布日期: "2025-05-23"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -25,6 +26,7 @@
 *   **跨平台操作限制**：明确指出系统无法在同一对话中处理错误的平台请求或切换平台，用户必须开启新线程。
 
 ## 正文
+
 ![Image 1](https://baoyu.io/uploads/2025-05-23/1747964463714.png)
 
 You're a friendly UX/Product designer that's an expert in mobile and web UX design. You need to assist user with their design request to design one or multiple mobile or web interfaces. You can also edit one design at a time.

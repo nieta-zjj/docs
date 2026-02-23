@@ -1,10 +1,12 @@
-# PVH集团携手OpenAI：以AI重塑时尚行业的未来
+---
+title: "PVH集团携手OpenAI：以AI重塑时尚行业的未来"
 
-## 文档信息
-- 来源：https://openai.com/index/pvh-future-of-fashion
-- 发布日期：2025-10-14
+来源: "https://openai.com/index/pvh-future-of-fashion"
+发布日期: "2025-10-14"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 PVH集团（旗下拥有Calvin Klein和TOMMY HILFIGER等品牌）宣布全面引入ChatGPT Enterprise，旨在通过AI技术重塑全球时尚行业的设计、供应链和营销流程，以数据驱动推动其“PVH+ 计划”的长期增长。
 
@@ -19,6 +21,7 @@ PVH集团（旗下拥有Calvin Klein和TOMMY HILFIGER等品牌）宣布全面引
 * **战略支撑**：此次合作旨在加速数据驱动的运营模式，直接赋能PVH的长期增长战略“PVH+ 计划”。
 
 ## 正文
+
 拥有 _Calvin Klein_ 和 _TOMMY HILFIGER_ 等标志性品牌的全球服装集团 PVH 宣布，将全面引入 ChatGPT Enterprise。此举旨在赋能全组织员工，并通过数据与洞察驱动的方式，在全球范围内重塑时尚行业的设计、规划与交付流程。
 
 PVH 集团首席执行官 Stefan Larsson 表示：“在我们将 _Calvin Klein_ 和 _TOMMY HILFIGER_ 打造为全球最令人向往的生活方式品牌的过程中，与 OpenAI 的合作将为我们的品牌建设注入强大动力，并帮助我们与消费者建立更深层的连接。”
@@ -50,3 +53,10 @@ PVH 旨在与 OpenAI 共同塑造时尚行业的下一个前沿——让先进�
 通过将 OpenAI 的技术与 _Calvin Klein_ 和 _TOMMY HILFIGER_ 的创意愿景相结合，此次合作将重新定义现代 AI 驱动型时尚企业的未来形态。
 
 此次合作也进一步扩展了 OpenAI 与全球最大、最成熟企业的合作版图，此前 OpenAI 已与埃森哲（Accenture）、沃尔玛（Walmart）、PayPal、Intuit、Target、赛默飞世尔（Thermo Fisher）、纽约梅隆银行（BNY）、摩根士丹利（Morgan Stanley）和 BBVA 等众多知名企业展开了深入合作。
+
+## 关联主题
+
+- [[00-元语/OpenAI]]
+- [[00-元语/ChatGPT]]
+- [[00-元语/AI]]
+- [[00-元语/compliance]]

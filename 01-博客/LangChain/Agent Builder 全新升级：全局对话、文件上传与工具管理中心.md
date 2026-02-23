@@ -1,10 +1,12 @@
-# Agent Builder 全新升级：全局对话、文件上传与工具管理中心
+---
+title: "Agent Builder 全新升级：全局对话、文件上传与工具管理中心"
 
-## 文档信息
-- 来源：https://blog.langchain.com/new-in-agent-builder-all-new-agent-chat-file-uploads-tool-registry/
-- 发布日期：2026-02-18
+来源: "https://blog.langchain.com/new-in-agent-builder-all-new-agent-chat-file-uploads-tool-registry/"
+发布日期: "2026-02-18"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 LangSmith Agent Builder 推出重大更新，新增支持全工具调用的全局对话、一键生成专属智能体、文件上传及集中式工具管理功能，旨在让智能体像团队伙伴一样高效协作。
 
@@ -19,6 +21,7 @@ LangSmith Agent Builder 推出重大更新，新增支持全工具调用的全�
 *   **严格的权限治理**：为保障团队安全，仅限工作区管理员添加新工具，确保工具访问权限始终受控。
 
 ## 正文
+
 今天，我们对 LangSmith Agent Builder 进行了重大更新，核心理念非常简单：**让智能体用起来就像你的团队伙伴一样。**
 
 我们围绕这一理念重构了 Agent Builder。现在，你可以通过一个随时待命的“全局对话（Chat）”智能体来处理临时任务或创建专属智能体。此外，我们还新增了文件上传功能，并让智能体可使用的工具变得一目了然。
@@ -71,6 +74,7 @@ Agent Builder 的全局对话现在可以访问你连接到工作区的所有工
 如果你还没有尝试过 Agent Builder，现在是开始的最佳时机。如果你已经在使用它构建应用，我们非常期待听到你的反馈。
 
 ## 关联主题
+
 - [[00-元语/Agent]]
 - [[00-元语/mcp]]
 - [[00-元语/tool]]

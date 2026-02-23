@@ -1,9 +1,10 @@
-# Codex system prompt （2025-09-16）
+---
+title: "Codex system prompt （2025-09-16）"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/codex-system-prompt-2025-09-16
-- 发布日期：2025-09-16
-- 作者：宝玉
+来源: "https://baoyu.io/blog/codex-system-prompt-2025-09-16"
+发布日期: "2025-09-16"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -25,6 +26,7 @@
 * **环境破坏风险**：当浏览器工具不可用或连接失败时，明确禁止代理自行尝试安装浏览器或 Playwright（除非用户明确要求或已预装）。
 
 ## 正文
+
 Prompt：
 
 ```

@@ -1,9 +1,10 @@
-# MCP 和 Skills 到底什么区别？一篇文章说清楚
+---
+title: "MCP 和 Skills 到底什么区别？一篇文章说清楚"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/2026/01/20/mcp-vs-skills
-- 发布日期：2026-01-20
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026/01/20/mcp-vs-skills"
+发布日期: "2026-01-20"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -25,6 +26,7 @@
 *   **MCP 交互过程消耗过高**：在复杂任务（如浏览器自动化）中，MCP 每步操作都需要返回中间状态（如无障碍树快照），单次任务可能消耗 50,000+ tokens。虽然 Claude Code 推出了 Tool Search（按需发现工具）作为补丁，但无法解决交互中间结果占用上下文的根本问题。
 
 ## 正文
+
 一句话解释 MCP 和 Skills 的区别：如果 AI Agent 是操作系统，MCP 就是 USB 协议，Skills 就是应用程序。
 
 ![Image 1: AI Agent 架构：操作系统、USB 协议与应用程序](https://s.baoyu.io/imgs/2026-01-20/mcp-vs-skills/illustration-os-architecture.png)

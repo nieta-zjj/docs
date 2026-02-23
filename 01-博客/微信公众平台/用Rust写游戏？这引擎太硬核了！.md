@@ -1,11 +1,11 @@
-# 用Rust写游戏？这引擎太硬核了！
+---
+title: "用Rust写游戏？这引擎太硬核了！"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/Vt_Us5TCrGOIbOP-YNhgjg
-- 发布日期：2025-10-01
-- 作者：编程悟道
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/Vt_Us5TCrGOIbOP-YNhgjg"
+发布日期: "2025-10-01"
+作者: "编程悟道"
+---
 
 ## 摘要
 

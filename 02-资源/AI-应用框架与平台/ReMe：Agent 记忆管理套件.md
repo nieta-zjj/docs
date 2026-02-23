@@ -1,11 +1,11 @@
-# ReMe：Agent 记忆管理套件
+---
+title: "ReMe：Agent 记忆管理套件"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/agentscope-ai/ReMe
-- 发现评分：91
-- Stars：984
+发布日期: "2026-02-22"
+来源: "https://github.com/agentscope-ai/ReMe"
+发现评分: "91"
+Stars: "984"
+---
 
 ## 摘要
 
@@ -20,11 +20,12 @@ ReMe 是一个专为智能体（Agents）设计的内存管理套件，旨在通
 * **项目来源**：项目已开源，代码托管于 GitHub（https://github.com/agentscope-ai/ReMe）。
 
 ## 功能与定位
+
 ReMe 是一个专为智能体（Agents）设计的内存管理套件（Memory Management Kit）。其核心理念为“Remember Me, Refine Me”，主要作为 AI 应用框架与平台的一部分，用于支持和优化智能体的记忆管理能力。
 
 ## 链接
-* GitHub 仓库：https://github.com/agentscope-ai/ReMe
 
+* GitHub 仓库：https://github.com/agentscope-ai/ReMe
 
 ## 关联主题
 

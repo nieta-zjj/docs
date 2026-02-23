@@ -1,9 +1,10 @@
-# AI可以帮助人写出好的Prompt，但只有人能写出高水平的Prompt
+---
+title: "AI可以帮助人写出好的Prompt，但只有人能写出高水平的Prompt"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ai-can-help-write-prompts-humans-write-high-level-prompts
-- 发布日期：2024-11-10
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ai-can-help-write-prompts-humans-write-high-level-prompts"
+发布日期: "2024-11-10"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -21,6 +22,7 @@
 * 人类在独立编写Prompt时，存在有时描述不清楚的不足（需依靠AI来弥补下限）。
 
 ## 正文
+
 写Prompt的下限，AI比人高，也就是AI可以写出AI更好理解和执行的Prompt，但人有时候描述不清楚。
 
 但写Prompt的上限，只有人能激发出来，优秀的Prompt都是人创作出来的。
@@ -44,10 +46,12 @@ OpenAI：[https://platform.openai.com/playground](https://platform.openai.com/pl
 [ite-good-prompt](https://baoyu.io/blog/how-to-write-good-prompt)
 
 ## 相关文档
+
 - [[01-博客/宝玉/如何写好提示词？|如何写好提示词？]]；关联理由：引用；说明：本文正文明确标注该文为截图来源，且两文都讨论如何提升 Prompt 质量。
 - [[01-博客/宝玉/如何写出高质量的 Prompt？|如何写出高质量的 Prompt？]]；关联理由：延伸思考；说明：两文都强调高质量 Prompt 依赖人类策略，该文进一步给出更系统的模板与分层方法。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/prompt]]
 - [[00-元语/llm]]

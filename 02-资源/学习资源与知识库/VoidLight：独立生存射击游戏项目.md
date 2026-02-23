@@ -1,10 +1,10 @@
-# VoidLight：独立生存射击游戏项目
+---
+title: "VoidLight：独立生存射击游戏项目"
 
-## 文档信息
-
-- 来源：
-  - https://entropymaximizer.itch.io/voidlight
-  - https://entropymaximizer.itch.io/
+来源:
+  - "https://entropymaximizer.itch.io/voidlight"
+  - "https://entropymaximizer.itch.io/"
+---
 
 ## 摘要
 

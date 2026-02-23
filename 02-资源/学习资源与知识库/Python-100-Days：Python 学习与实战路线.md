@@ -1,15 +1,17 @@
-# Python-100-Days：Python 学习与实战路线
+---
+title: "Python-100-Days：Python 学习与实战路线"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `jackfrued/Python-100-Days`
-- 项目主页：https://github.com/jackfrued/Python-100-Days
-- 开源协议：未声明
-- 主要语言：Jupyter Notebook
-- 统计快照：Stars 178803，Forks 55421，Watchers 6063（抓取时间：2026-02-22）
-- 版本快照：暂无正式发布记录
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `jackfrued/Python-100-Days`"
+项目主页: "https://github.com/jackfrued/Python-100-Days"
+开源协议: "未声明"
+主要语言: "Jupyter Notebook"
+统计快照: "Stars 178803，Forks 55421，Watchers 6063（抓取时间：2026-02-22）"
+版本快照: "暂无正式发布记录"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 该项目是一个极受欢迎的开源Python学习教程，由骆昊编写，旨在通过100天的系统化课程（主要基于Jupyter Notebook）帮助学习者从新手成长为Python大师。
 
@@ -25,38 +27,45 @@
 * **开源协议缺失**：项目基本信息中显示“未声明”开源协议，可能在代码的商业使用或二次分发上存在版权模糊地带。
 * **无正式发布版本**：项目目前显示“最新发布：无”，没有打包的 Release 版本。
 
-
 ## 功能与定位
+
 Python - 100天从新手到大师
 
 ## 典型使用场景
+
 - 作为学习与选型参考入口，快速定位资料与最佳实践。
 - 用于团队知识库沉淀与技术调研。
 
 ## 核心功能
+
 - 汇总课程、示例、清单或社区经验。
 - 强调可检索性与持续更新。
 - 适合学习路径规划与资源导航。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:32:22Z。
 - 项目创建于 2018-03-01T16:05:52Z，具备持续迭代与社区沉淀。
 - 以 `Jupyter Notebook` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/jackfrued/Python-100-Days
 - README：https://raw.githubusercontent.com/jackfrued/Python-100-Days/main/README.md
 - Releases：https://github.com/jackfrued/Python-100-Days/releases
 
 ## 关联主题
+
 - [[00-元语/learning-resource]]
 - [[00-元语/github]]
 - [[00-元语/roadmap]]

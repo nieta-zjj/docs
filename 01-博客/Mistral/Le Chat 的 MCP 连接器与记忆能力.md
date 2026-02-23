@@ -1,9 +1,9 @@
-# Le Chat 的 MCP 连接器与记忆能力
+---
+title: "Le Chat 的 MCP 连接器与记忆能力"
 
-## 文档信息
-
-- 发布日期：2025-09-02
-- 原文链接：https://mistral.ai/news/le-chat-mcp-connectors-memories
+发布日期: "2025-09-02"
+原文链接: "https://mistral.ai/news/le-chat-mcp-connectors-memories"
+---
 
 ## 摘要
 

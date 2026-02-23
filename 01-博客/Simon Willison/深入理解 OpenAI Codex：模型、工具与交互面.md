@@ -1,10 +1,12 @@
-# 深入理解 OpenAI Codex：模型、工具与交互面
+---
+title: "深入理解 OpenAI Codex：模型、工具与交互面"
 
-## 文档信息
-- 来源：https://simonwillison.net/2026/Feb/22/how-i-think-about-codex/#atom-everything
-- 发布日期：2026-02-22
+来源: "https://simonwillison.net/2026/Feb/22/how-i-think-about-codex/#atom-everything"
+发布日期: "2026-02-22"
+---
 
 ## 摘要
+
 **一句话总结**
 OpenAI 工程师 Gabriel Chua 阐明了 Codex 是由模型、Harness（指令与工具集）和交互面组成的软件工程智能体，且其模型是直接基于 Harness 环境进行原生训练的。
 
@@ -19,6 +21,7 @@ OpenAI 工程师 Gabriel Chua 阐明了 Codex 是由模型、Harness（指令与
 *   **双向塑造**：Harness 的设计紧密围绕模型如何规划、调用工具及从失败中恢复来展开，两者相辅相成。
 
 ## 正文
+
 OpenAI 亚太区开发者体验工程师 Gabriel Chua 近期分享了他对“Codex”这一术语的看法。在 OpenAI 的生态系统中，Codex 这个词往往容易令人混淆，因为它可能指代许多不同的事物。
 
 简而言之，**Codex 是 OpenAI 的软件工程智能体（Agent）**，用户可以通过多种交互界面来使用它。而所谓的“智能体”，本质上就是一个模型加上指令和工具，并封装在一个可以代你执行任务的运行环境中。
@@ -42,6 +45,7 @@ Codex 模型在训练时就已经置于 Harness 的环境中。这意味着，�
 反过来，Harness 的设计与塑造，也是紧紧围绕着模型如何进行规划、如何调用工具以及如何从失败中恢复来展开的。两者相辅相成，共同构成了强大的软件工程智能体。
 
 ## 关联主题
+
 - [[00-元语/OpenAI]]
 - [[00-元语/Codex]]
 - [[00-元语/Agent]]

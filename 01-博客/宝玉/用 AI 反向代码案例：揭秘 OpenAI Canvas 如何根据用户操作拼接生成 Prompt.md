@@ -1,9 +1,10 @@
-# 用 AI 反向代码案例：揭秘 OpenAI Canvas 如何根据用户操作拼接生成 Prompt
+---
+title: "用 AI 反向代码案例：揭秘 OpenAI Canvas 如何根据用户操作拼接生成 Prompt"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ai/reverse-engineering-openai-canvas-prompt-generation
-- 发布日期：2024-10-07
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ai/reverse-engineering-openai-canvas-prompt-generation"
+发布日期: "2024-10-07"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -23,6 +24,7 @@
 *   **代码体积限制**：当需要逆向还原的代码体积过大（如超过 1000 行）时，要求 LLM 一次性完整还原可能会遇到困难，建议基于特定模块（如仅关注构建 Prompt 部分）进行拆分提问。
 
 ## 正文
+
 用一个实例来看看如何借助 AI 来反向代码，帮助你更好的理解一些商业产品功能的实现。这里以 OpenAI 新推出的 Canvas 为例，我们看看它是如何根据用户的操作生成不同 Prompt 的。
 
 ### 第一步先找到相应的代码模块
@@ -592,6 +594,7 @@ function extractSurroundingContext(sourceRange: SourceRange, content: string): S
 通过以上架构图和流程图，可以清晰地理解代码的整体结构和运行流程。代码主要是根据用户的操作类型和选中的文本，生成相应的提示，发送到外部服务进行处理，然后处理返回的结果。
 
 ## 关联主题
+
 - [[00-元语/OpenAI]]
 - [[00-元语/ChatGPT]]
 - [[00-元语/prompt]]

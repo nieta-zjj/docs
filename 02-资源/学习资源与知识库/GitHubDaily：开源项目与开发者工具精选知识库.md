@@ -1,16 +1,18 @@
-# GitHubDaily：开源项目与开发者工具精选知识库
+---
+title: "GitHubDaily：开源项目与开发者工具精选知识库"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `GitHubDaily/GitHubDaily`
-- 项目主页：https://github.com/GitHubDaily/GitHubDaily
-- 官方网站：https://githubdaily.com
-- 开源协议：未声明
-- 主要语言：未声明
-- 统计快照：Stars 45248，Forks 4545，Watchers 1431（抓取时间：2026-02-22）
-- 版本快照：暂无正式发布记录
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `GitHubDaily/GitHubDaily`"
+项目主页: "https://github.com/GitHubDaily/GitHubDaily"
+官方网站: "https://githubdaily.com"
+开源协议: "未声明"
+主要语言: "未声明"
+统计快照: "Stars 45248，Forks 4545，Watchers 1431（抓取时间：2026-02-22）"
+版本快照: "暂无正式发布记录"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 GitHubDaily 是一个拥有超 4.5 万 Star 的开源知识库，自 2015 年起持续分享高质量的开源项目、开发者工具及前沿 AI 资源，致力于帮助开发者提升编程技能与技术视野。
 
@@ -24,37 +26,45 @@ GitHubDaily 是一个拥有超 4.5 万 Star 的开源知识库，自 2015 年起
 * **社区互动**：项目开放了社区推荐渠道，鼓励开发者通过提交 GitHub Issues 的方式推荐或自荐优秀的开源项目。
 
 ## 功能与定位
+
 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 
 ## 典型使用场景
+
 - 作为学习与选型参考入口，快速定位资料与最佳实践。
 - 用于团队知识库沉淀与技术调研。
 
 ## 核心功能
+
 - 汇总课程、示例、清单或社区经验。
 - 强调可检索性与持续更新。
 - 适合学习路径规划与资源导航。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:56:20Z。
 - 项目创建于 2018-12-30T13:56:58Z，具备持续迭代与社区沉淀。
 - 以 `未声明` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/GitHubDaily/GitHubDaily
 - 官网：https://githubdaily.com
 - README：https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/README.md
 - Releases：https://github.com/GitHubDaily/GitHubDaily/releases
 
 ## 关联主题
+
 - [[00-元语/github]]
 - [[00-元语/learning-resource]]
 - [[00-元语/community]]

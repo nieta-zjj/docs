@@ -1,22 +1,22 @@
-# uv：Rust 编写的极速 Python 包与项目管理工具
+---
+title: "uv：Rust 编写的极速 Python 包与项目管理工具"
 
-## 文档信息
-
-- 对象：GitHub 开源仓库与官方文档
-- 仓库：astral-sh/uv
-- 来源：
-  - https://github.com/astral-sh/uv
-  - https://api.github.com/repos/astral-sh/uv
-  - https://raw.githubusercontent.com/astral-sh/uv/main/README.md
-  - https://docs.astral.sh/uv
-  - https://pypi.org/project/uv/
-- 开源协议：Apache-2.0
-- 默认分支：main
-- 主要语言：Rust
-- 发布日期：2023-10-02
-- 最近推送：2026-02-20
-- 统计时间：2026-02-22
-- 仓库数据（统计时）：Stars 79,592；Forks 2,582；Subscribers 152；Open Issues 2,688
+对象: "GitHub 开源仓库与官方文档"
+仓库: "astral-sh/uv"
+来源:
+  - "https://github.com/astral-sh/uv"
+  - "https://api.github.com/repos/astral-sh/uv"
+  - "https://raw.githubusercontent.com/astral-sh/uv/main/README.md"
+  - "https://docs.astral.sh/uv"
+  - "https://pypi.org/project/uv/"
+开源协议: "Apache-2.0"
+默认分支: "main"
+主要语言: "Rust"
+发布日期: "2023-10-02"
+最近推送: "2026-02-20"
+统计时间: "2026-02-22"
+仓库数据（统计时）: "Stars 79,592；Forks 2,582；Subscribers 152；Open Issues 2,688"
+---
 
 ## 摘要
 

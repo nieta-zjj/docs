@@ -1,9 +1,10 @@
-# Claude Code 为何如此强大？Anthropic 万字长文揭秘 AI Agent 工具开发五大“心法”
+---
+title: "Claude Code 为何如此强大？Anthropic 万字长文揭秘 AI Agent 工具开发五大“心法”"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/claude-code-anthropic-ai-agent-development
-- 发布日期：2025-09-12
-- 作者：宝玉
+来源: "https://baoyu.io/blog/claude-code-anthropic-ai-agent-development"
+发布日期: "2025-09-12"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@
 *   **信息处理与纠错失效**：若工具返回难懂的机器码（如长串 UUID）或无用的错误提示（如仅提示 `InvalidInput`），Agent 将无法有效利用信息或完成自我纠错。
 
 ## 正文
+
 Anthropic 的工程团队又发表了一篇 AI Agent 相关的技术文章——**《为 AI 智能体打造高效工具》**。他们家的文章我每篇都至少看三遍，绝对是学习 AI Agent 开发的必读材料，毕竟，目前地表最强的 Coding Agent Claude Code 就出自他们之手，全是宝贵的一手实战经验。
 
 很多人好奇 Claude Code 为什么这么强？其实秘诀可以归结为两点：

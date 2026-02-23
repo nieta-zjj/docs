@@ -1,10 +1,10 @@
-# Cursor 设计负责人：只会画按钮的设计师，有麻烦了
+---
+title: "Cursor 设计负责人：只会画按钮的设计师，有麻烦了"
 
-## 文档信息
-
-- 来源：https://baoyu.io/blog/2026-02-21/cursor-ryo-lu-design-team
-- 发布日期：2026-02-21
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026-02-21/cursor-ryo-lu-design-team"
+发布日期: "2026-02-21"
+作者: "宝玉"
+---
 
 ## 摘要
 

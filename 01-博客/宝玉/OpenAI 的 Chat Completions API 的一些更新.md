@@ -1,9 +1,10 @@
-# OpenAI 的 Chat Completions API 的一些更新
+---
+title: "OpenAI 的 Chat Completions API 的一些更新"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/openai/chat-completion-api-changes
-- 发布日期：2023-12-15
-- 作者：宝玉
+来源: "https://baoyu.io/blog/openai/chat-completion-api-changes"
+发布日期: "2023-12-15"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -22,6 +23,7 @@
 - 新增的 `logprobs` 和 `top_logprobs` 参数对普通开发者而言实用性有限，主要适用于专业的 Prompt 工程师。
 
 ## 正文
+
 OpenAI 的 Chat Completions API 新增了 logprobs，那么这个参数是做什么用的呢？
 
 我们知道 LLM（大语言模型）是概率模型，会根据 Token 出现的概率来决定下一个 Token，但我们通常是无法知道 LLM 在生成的时候，各个 Token 的概率是什么样的，只能看到最终的结果，所以在调试 Prompt 的时候无法直观的看到 Prompt 和参数的设置对生成结果的影响。
@@ -61,6 +63,7 @@ functions 参数和 function_call 已经改名字了，分别对应的是 tools 
 也欢迎评论补充：你觉得这两个新增的参数 logprobs 和 top_logprobs 可以有哪些实用的应用场景？
 
 ## 关联主题
+
 - [[00-元语/OpenAI]]
 - [[00-元语/llm]]
 - [[00-元语/prompt]]

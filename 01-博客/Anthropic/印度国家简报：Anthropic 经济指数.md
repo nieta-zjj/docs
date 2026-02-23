@@ -1,11 +1,11 @@
-# 印度国家简报：Anthropic 经济指数
+---
+title: "印度国家简报：Anthropic 经济指数"
 
-## 文档信息
-
-- 站点：Anthropic Research
-- 原文链接：https://www.anthropic.com/research/india-brief-economic-index
-- 发布日期：2026-02-16
-- 译注：未找到官方中文版本，本文基于英文原文翻译整理。
+站点: "Anthropic Research"
+原文链接: "https://www.anthropic.com/research/india-brief-economic-index"
+发布日期: "2026-02-16"
+译注: "未找到官方中文版本，本文基于英文原文翻译整理。"
+---
 
 ## 摘要
 

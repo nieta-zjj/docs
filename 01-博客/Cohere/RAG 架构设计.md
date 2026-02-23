@@ -1,9 +1,9 @@
-# RAG 架构设计
+---
+title: "RAG 架构设计"
 
-## 文档信息
-
-- 发布日期：2026-01-05
-- 原文链接：https://cohere.com/blog/rag-architecture
+发布日期: "2026-01-05"
+原文链接: "https://cohere.com/blog/rag-architecture"
+---
 
 ## 摘要
 

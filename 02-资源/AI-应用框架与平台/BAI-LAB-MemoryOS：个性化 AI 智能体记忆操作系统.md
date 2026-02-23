@@ -1,11 +1,11 @@
-# BAI-LAB-MemoryOS：个性化 AI 智能体记忆操作系统
+---
+title: "BAI-LAB-MemoryOS：个性化 AI 智能体记忆操作系统"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/BAI-LAB/MemoryOS
-- 发现评分：92
-- Stars：1193
+发布日期: "2026-02-22"
+来源: "https://github.com/BAI-LAB/MemoryOS"
+发现评分: "92"
+Stars: "1193"
+---
 
 ## 摘要
 
@@ -21,14 +21,16 @@ MemoryOS 是一个专为个性化 AI 智能体设计的记忆操作系统与应�
 * **项目来源**：项目开源并托管于 GitHub（https://github.com/BAI-LAB/MemoryOS）。
 
 ## 功能与定位
+
 MemoryOS 是一个专为个性化 AI 智能体（AI agents）设计的记忆操作系统。该项目作为一个 AI 应用框架与平台，旨在为智能体提供底层的记忆管理能力。
 
 ## 特色与差异点
+
 - **学术认可**：该项目的相关研究成果已被自然语言处理领域的顶级会议 EMNLP 2025 接收，并获选为口头报告（Oral）。
 
 ## 链接
-- https://github.com/BAI-LAB/MemoryOS
 
+- https://github.com/BAI-LAB/MemoryOS
 
 ## 关联主题
 

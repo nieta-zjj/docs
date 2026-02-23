@@ -1,11 +1,11 @@
-# neuron-core-neuron-ai：AI 记忆与检索基础设施
+---
+title: "neuron-core-neuron-ai：AI 记忆与检索基础设施"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/neuron-core/neuron-ai
-- 发现评分：100
-- Stars：1704
+发布日期: "2026-02-22"
+来源: "https://github.com/neuron-core/neuron-ai"
+发现评分: "100"
+Stars: "1704"
+---
 
 ## 摘要
 
@@ -22,24 +22,28 @@ neuron-core/neuron-ai 是一个专为构建生产级 AI 应用设计的 PHP 智�
 *   **模块化架构**：采用高度模块化的设计，开发者可根据需求灵活组装，特别适合复杂业务场景的定制化开发。
 
 ## 功能与定位
+
 neuron-core/neuron-ai 是一个专为构建生产级 AI 驱动应用而设计的 PHP 智能体框架（Agentic Framework），定位为 AI 记忆与检索的基础设施。
 
 ## 典型使用场景
+
 *   构建检索增强生成（RAG）系统。
 *   开发多智能体（Multi-agent）协同工作流。
 *   实现企业业务流程自动化。
 
 ## 核心功能
+
 *   **组件集成**：支持将大语言模型（LLMs）、向量数据库（Vector DBs）以及记忆模块（Memory）等核心组件与智能体进行连接。
 *   **数据交互**：赋予智能体直接访问并与用户自有数据进行交互的能力。
 
 ## 特色与差异点
+
 *   **PHP 生态**：为 PHP 开发者提供了原生的 AI 智能体开发能力。
 *   **模块化架构**：采用高度模块化的设计，便于开发者根据需求灵活组装，特别适合复杂业务场景的定制化开发。
 
 ## 链接
-*   GitHub 仓库：https://github.com/neuron-core/neuron-ai
 
+*   GitHub 仓库：https://github.com/neuron-core/neuron-ai
 
 ## 关联主题
 

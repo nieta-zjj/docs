@@ -1,16 +1,18 @@
-# anoma：Anoma 协议的官方参考实现，主要基于 Elixir 语言开发
+---
+title: "anoma：Anoma 协议的官方参考实现，主要基于 Elixir 语言开发"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `anoma/anoma`
-- 项目主页：https://github.com/anoma/anoma
-- 官方网站：https://anoma.net
-- 开源协议：MIT License
-- 主要语言：Elixir
-- 统计快照：Stars 34054，Forks 4113，Watchers 193（抓取时间：2026-02-22）
-- 版本快照：最新发布 v0.35.1（发布时间：2026-02-22T09:59:39Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `anoma/anoma`"
+项目主页: "https://github.com/anoma/anoma"
+官方网站: "https://anoma.net"
+开源协议: "MIT License"
+主要语言: "Elixir"
+统计快照: "Stars 34054，Forks 4113，Watchers 193（抓取时间：2026-02-22）"
+版本快照: "最新发布 v0.35.1（发布时间：2026-02-22T09:59:39Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Anoma 是 Anoma 协议的官方参考实现，主要基于 Elixir 语言开发，是一个高关注度的区块链与 Web3 开源项目。
 
@@ -28,37 +30,45 @@ Anoma 是 Anoma 协议的官方参考实现，主要基于 Elixir 语言开发�
 * **已知编译问题 (:cairo)**：编译 `:cairo` 依赖时对 Rust 编译器版本要求严格，可能因工具链不兼容报错，官方建议安装 Rust 1.76.0 版本以解决此问题。
 
 ## 功能与定位
+
 Reference implementation of Anoma
 
 ## 典型使用场景
+
 - 用于链上应用、协议研究与基础设施选型。
 - 适合作为 Web3 工程与生态调研入口。
 
 ## 核心功能
+
 - 覆盖协议、执行环境或相关开发工具。
 - 支持链上系统设计与验证。
 - 强调生态兼容性与安全边界。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T11:17:33Z。
 - 项目创建于 2021-02-02T10:00:16Z，具备持续迭代与社区沉淀。
 - 以 `Elixir` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/anoma/anoma
 - 官网：https://anoma.net
 - README：https://raw.githubusercontent.com/anoma/anoma/base/README.md
 - Releases：https://github.com/anoma/anoma/releases
 
 ## 关联主题
+
 - [[00-元语/blockchain]]
 - [[00-元语/protocol]]
 - [[00-元语/cli]]

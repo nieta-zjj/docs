@@ -1,14 +1,14 @@
-# tapehead.lab：AI 实拍与动画合成的关键在于物理交互
+---
+title: "tapehead.lab：AI 实拍与动画合成的关键在于物理交互"
 
-## 文档信息
-
-- 来源：https://x.com/tapehead_lab/status/2018612043641966790?s=46
-- 平台：X
-- 发布账号：tapehead.lab（@tapehead_Lab）
-- 发布日期：2026-02-03
-- 原帖链接：https://x.com/tapehead_Lab/status/2018612043641966790
-- 媒体链接：https://video.twimg.com/amplify_video/2018610932897951744/vid/avc1/1280x720/_Z-HHkXumZthe4IU.mp4
-- 译注：原帖无官方中文版本，正文为基于原帖内容的中文翻译。
+来源: "https://x.com/tapehead_lab/status/2018612043641966790?s=46"
+平台: "X"
+发布账号: "tapehead.lab（@tapehead_Lab）"
+发布日期: "2026-02-03"
+原帖链接: "https://x.com/tapehead_Lab/status/2018612043641966790"
+媒体链接: "https://video.twimg.com/amplify_video/2018610932897951744/vid/avc1/1280x720/_Z-HHkXumZthe4IU.mp4"
+译注: "原帖无官方中文版本，正文为基于原帖内容的中文翻译。"
+---
 
 ## 摘要
 

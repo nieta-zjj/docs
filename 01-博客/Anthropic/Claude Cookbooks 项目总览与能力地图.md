@@ -1,13 +1,15 @@
-# Claude Cookbooks 项目总览与能力地图
+---
+title: "Claude Cookbooks 项目总览与能力地图"
 
-## 文档信息
-发布日期：2025-12-18
-作者：Anthropic
-来源仓库：anthropics/claude-cookbooks
-原文链接：https://github.com/anthropics/claude-cookbooks/blob/main/README.md
-译注：原文为英文仓库文档，本稿为中文整理版。
+发布日期: "2025-12-18"
+作者: "Anthropic"
+来源仓库: "anthropics/claude-cookbooks"
+原文链接: "https://github.com/anthropics/claude-cookbooks/blob/main/README.md"
+译注: "原文为英文仓库文档，本稿为中文整理版。"
+---
 
 ## 摘要
+
 **1) 一句话摘要**
 Claude Cookbooks 是一个为开发者提供的资源库，包含使用 Claude 构建应用的可复制代码片段和指南，涵盖基础文本处理、工具调用、多模态能力及第三方集成等丰富示例。
 
@@ -101,6 +103,7 @@ Claude Cookbooks 的蓬勃发展离不开开发者社区的贡献。我们非常
 - [[01-博客/Anthropic/Voyage AI Embeddings 接入与检索实践|Voyage AI Embeddings 接入与检索实践]]；关联理由：引用；说明：本篇在 third_party 集成中明确列出 Voyage AI embeddings 条目，该文是对应的实作细化页。
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/github]]
 - [[00-元语/rag]]

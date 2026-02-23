@@ -1,9 +1,11 @@
-# 欢迎首位首席运营官 Lila Ibrahim：带领 DeepMind 迈向新阶段
+---
+title: "欢迎首位首席运营官 Lila Ibrahim：带领 DeepMind 迈向新阶段"
 
-## 文档信息
-- 来源：https://deepmind.google/blog/our-first-coo-lila-ibrahim-takes-deepmind-to-the-next-level/
+来源: "https://deepmind.google/blog/our-first-coo-lila-ibrahim-takes-deepmind-to-the-next-level/"
+---
 
 ## 摘要
+
 **一句话总结**
 DeepMind 宣布任命 Lila Ibrahim 为公司首位首席运营官（COO），她将凭借丰富的技术与管理经验，协助团队带领公司迈向下一阶段的发展。
 
@@ -18,6 +20,7 @@ DeepMind 宣布任命 Lila Ibrahim 为公司首位首席运营官（COO），她
 * Lila 认同 DeepMind 的发展理念，特别强调了公司在科学进步以及对伦理和价值观的坚定承诺。
 
 ## 正文
+
 ### 跨学科协作的独特组织
 
 每天来到 DeepMind 工作最大的乐趣之一，就是有机会与来自不同领域、拥有不同视角的杰出研究人员和工程师合作。在这里，机器学习专家与神经科学家、物理学家、数学家、机器人专家以及伦理学家等并肩作战。
@@ -46,9 +49,11 @@ Lila 拥有丰富的组织和技术经验，她的职业生涯履历十分亮眼
 能够与这么多世界级的人才共同致力于这一使命是一种荣幸。Lila、Shane、Mustafa 和我非常期待在未来的岁月里共同取得更多成就。如果你也想加入我们这段奇妙的旅程，欢迎与我们取得联系！
 
 ## 相关文档
+
 - [[01-博客/Google DeepMind/扩大新加坡业务版图：推动亚太地区人工智能发展|扩大新加坡业务版图：推动亚太地区人工智能发展]]；关联理由：上下游；说明：本文聚焦 Lila Ibrahim 的履新背景，关联文档展示其作为 COO 推动区域战略落地的后续实践。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/组织设计]]
 - [[00-元语/career]]

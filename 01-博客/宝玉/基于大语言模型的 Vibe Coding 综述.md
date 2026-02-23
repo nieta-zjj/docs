@@ -1,9 +1,10 @@
-# 基于大语言模型的 Vibe Coding 综述
+---
+title: "基于大语言模型的 Vibe Coding 综述"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/a-survey-of-vibe-coding-with-llm
-- 发布日期：2025-10-27
-- 作者：宝玉
+来源: "https://baoyu.io/blog/a-survey-of-vibe-coding-with-llm"
+发布日期: "2025-10-27"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@
 *   **教育体系脱节**：当前计算机教育体系缺乏关于指挥 AI 编码、设计 AI 工作流及评估 AI 风险的教学，人才培养速度远落后于技术发展。
 
 ## 正文
+
 研究 Vibe Coding 都能写论文了，来自中科院、杜克大学等的这篇《基于大语言模型的Vibe Coding综述》，还是花了点功夫把 Vibe Coding 相关的论文、信息梳理了一遍，有一些值得看的内容。
 
 【一】

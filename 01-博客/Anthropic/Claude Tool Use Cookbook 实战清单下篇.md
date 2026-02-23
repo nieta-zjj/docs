@@ -1,16 +1,17 @@
-# Claude Tool Use Cookbook 实战清单下篇
+---
+title: "Claude Tool Use Cookbook 实战清单下篇"
 
-## 文档信息
-发布日期：2026-02-17
-来源仓库：anthropics/claude-cookbooks
-原文链接：https://github.com/anthropics/claude-cookbooks/tree/main/tool_use
-覆盖范围：
-- `tool_use/programmatic_tool_calling_ptc.ipynb`
-- `tool_use/tool_search_with_embeddings.ipynb`
-- `tool_use/tool_search_alternate_approaches.ipynb`
-- `tool_use/automatic-context-compaction.ipynb`
-- `tool_use/memory_cookbook.ipynb`
-- `tool_use/vision_with_tools.ipynb`
+发布日期: "2026-02-17"
+来源仓库: "anthropics/claude-cookbooks"
+原文链接: "https://github.com/anthropics/claude-cookbooks/tree/main/tool_use"
+覆盖范围:
+  - "`tool_use/programmatic_tool_calling_ptc.ipynb`"
+  - "`tool_use/tool_search_with_embeddings.ipynb`"
+  - "`tool_use/tool_search_alternate_approaches.ipynb`"
+  - "`tool_use/automatic-context-compaction.ipynb`"
+  - "`tool_use/memory_cookbook.ipynb`"
+  - "`tool_use/vision_with_tools.ipynb`"
+---
 
 ## 摘要
 
@@ -28,6 +29,7 @@
 *   **工程实践建议**：为上下文压缩与记忆管理设计显式的触发条件（避免隐式魔法化），并对工具调用链增加日志与指标以复盘失败路径。
 
 ## 正文
+
 下篇聚焦 Tool Use 的生产化能力：当工具数量变多、上下文变长、会话变复杂时，如何让 Agent 依然可控、可扩展、可观测。这组 notebook 是从“可用”走向“可上线”的关键补充。
 
 ### 能力主线
@@ -72,11 +74,13 @@ tools = [
 - 对工具调用链增加日志与指标，便于复盘失败路径。
 
 ## 相关文档
+
 - [[01-博客/Anthropic/Claude Tool Use Cookbook 实战清单上篇|Claude Tool Use Cookbook 实战清单上篇]]；关联理由：版本演进；说明：两篇同属 Tool Use Cookbook 的连续整理，上篇提供基础能力，下篇聚焦生产化能力扩展。
 - [[01-博客/Anthropic/工具搜索工具|工具搜索工具]]；关联理由：解说；说明：下篇覆盖 tool search notebook，关联文提供官方文档级机制说明与接口细节。
 - [[01-博客/Anthropic/在 Claude 开发者平台引入高级工具使用功能|在 Claude 开发者平台引入高级工具使用功能]]；关联理由：同一事件；说明：该文发布了 tool search 与 programmatic tool calling，和本文覆盖的下篇 notebook 能力一一对应。
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/Agent]]
 - [[00-元语/llm]]

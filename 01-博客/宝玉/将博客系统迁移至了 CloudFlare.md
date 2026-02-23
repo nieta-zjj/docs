@@ -1,9 +1,10 @@
-# 将博客系统迁移至了 CloudFlare
+---
+title: "将博客系统迁移至了 CloudFlare"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/tech/migrate-blog-to-cloud-flare
-- 发布日期：2024-10-02
-- 作者：宝玉
+来源: "https://baoyu.io/blog/tech/migrate-blog-to-cloud-flare"
+发布日期: "2024-10-02"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -27,6 +28,7 @@
 *   **编辑器缺陷**：TipTap 编辑器在复制粘贴图文混排的 HTML 内容时，默认会将图片移除（作者后续参考 AIEditor 找到了解决方案）。
 
 ## 正文
+
 之前我的博客系统是部署在 Vercel 上的，最初的版本是基于一个 MDX 静态文件的博客系统（[https://github.com/shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy)）构建的，运行的不错，但随着内容越来越多，流量越来越大后，也存在一些问题。
 
 主要问题是 MDX 静态文件的方式发布流程过于繁琐，每次写新的内容，都要创建文件、放图片到指定位置，提交发布。最近更新较少一个原因就是因为嫌麻烦。

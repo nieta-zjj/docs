@@ -1,10 +1,10 @@
-# 别再用提示词去 AI 味了，方向就是错的
+---
+title: "别再用提示词去 AI 味了，方向就是错的"
 
-## 文档信息
-
-- 来源：https://baoyu.io/blog/2026-02-14/remove-ai-writing-flavor
-- 发布日期：2026-02-14
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026-02-14/remove-ai-writing-flavor"
+发布日期: "2026-02-14"
+作者: "宝玉"
+---
 
 ## 摘要
 

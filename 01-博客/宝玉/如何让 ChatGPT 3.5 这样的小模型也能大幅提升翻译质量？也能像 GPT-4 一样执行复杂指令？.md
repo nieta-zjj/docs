@@ -1,9 +1,10 @@
-# 如何让 ChatGPT 3.5 这样的小模型也能大幅提升翻译质量？也能像 GPT-4 一样执行复杂指令？
+---
+title: "如何让 ChatGPT 3.5 这样的小模型也能大幅提升翻译质量？也能像 GPT-4 一样执行复杂指令？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering/divide-your-prompt-to-mutiple-prompts
-- 发布日期：2023-10-05
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering/divide-your-prompt-to-mutiple-prompts"
+发布日期: "2023-10-05"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -23,6 +24,7 @@
 *   **资源消耗**：拆分指令分步执行会增加 API 的调用次数，从而消耗更多的 Token。
 
 ## 正文
+
 前面我分享了如何通过《[一个简单的 Prompt 大幅提升 ChatGPT 翻译质量，告别“机翻感”](https://baoyu.io/blog/prompt-engineering/a-prompt-for-better-translation-result)》，简单来说，这个 Prompt 就是让 ChatGPT 翻译时先按字面意思直译，然后再根据直译结果和原文意译，这样可以得到很好的翻译结果，阅读起来更自然。
 
 很多网友在用 GPT-4 上执行后，都反馈效果非常好，但是也有一部分网友在 GPT-3.5 上测试后，觉得效果不理想，甚至有时候不能按照 Prompt 的要求执行。GPT-3.5 的能力确实要比 GPT-4 弱很多，但毕竟可以免费试用（ChatGPT 免费用户），就算是使用 API 的话，也能便宜很多。

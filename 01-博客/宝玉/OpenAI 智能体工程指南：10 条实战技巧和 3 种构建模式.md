@@ -1,10 +1,10 @@
-# OpenAI 智能体工程指南：10 条实战技巧和 3 种构建模式
+---
+title: "OpenAI 智能体工程指南：10 条实战技巧和 3 种构建模式"
 
-## 文档信息
-
-- 来源：https://baoyu.io/blog/2026-02-12/skills-shell-tips
-- 发布日期：2026-02-12
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026-02-12/skills-shell-tips"
+发布日期: "2026-02-12"
+作者: "宝玉"
+---
 
 ## 摘要
 

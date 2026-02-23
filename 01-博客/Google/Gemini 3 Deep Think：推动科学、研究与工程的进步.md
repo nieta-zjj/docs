@@ -1,9 +1,11 @@
-# Gemini 3 Deep Think：推动科学、研究与工程的进步
+---
+title: "Gemini 3 Deep Think：推动科学、研究与工程的进步"
 
-## 文档信息
-- 来源：https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/
+来源: "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 谷歌发布了专属推理模式 Gemini 3 Deep Think 的重大升级，旨在通过强大的数理逻辑和工程建模能力，解决科学、研究与工程领域的复杂难题并推动实际应用。
 
@@ -18,6 +20,7 @@
 * **获取途径**：Google AI Ultra 订阅用户现可在 Gemini 应用程序中直接使用；研究人员、工程师和企业可申请加入抢先体验计划（EAP），通过 Gemini API 进行测试。
 
 ## 正文
+
 谷歌今日发布了其专属推理模式 Gemini 3 Deep Think 的重大升级。此次更新旨在拓展智能的边界，解决现代科学、研究和工程领域面临的严峻挑战。
 
 通过与科学家和研究人员的紧密合作，新版 Deep Think 能够处理缺乏明确指导原则、没有单一标准答案以及数据杂乱不全的复杂研究难题。它将深厚的科学知识与日常工程实用性相结合，超越了抽象理论，直接推动实际应用。
@@ -55,3 +58,11 @@
 
 * **Google AI Ultra 订阅用户**：即日起可在 Gemini 应用程序中访问更新后的 Deep Think 模式。
 * **研究人员、工程师和企业**：现在可以申请加入抢先体验计划（Early Access Program），通过 Gemini API 测试 Deep Think。
+
+## 关联主题
+
+- [[00-元语/gemini]]
+- [[00-元语/AI]]
+- [[00-元语/llm]]
+- [[00-元语/benchmark]]
+- [[00-元语/数学]]

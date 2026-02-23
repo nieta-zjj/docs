@@ -1,10 +1,12 @@
-# 我们期待已久的 AI 颠覆已经到来
+---
+title: "我们期待已久的 AI 颠覆已经到来"
 
-## 文档信息
-- 来源：https://simonwillison.net/2026/Feb/18/the-ai-disruption/#atom-everything
-- 发布日期：2026-02-18
+来源: "https://simonwillison.net/2026/Feb/18/the-ai-disruption/#atom-everything"
+发布日期: "2026-02-18"
+---
 
 ## 摘要
+
 **一句话总结**
 Paul Ford 撰文指出，随着 Claude Code 等 AI 编程工具的飞跃性进步，定制软件的开发成本被彻底颠覆，个人现在能以极低成本独立完成过去价值数十万美元的复杂项目。
 
@@ -22,6 +24,7 @@ Paul Ford 撰文指出，随着 Claude Code 等 AI 编程工具的飞跃性进�
 *   技术社区对 AI 态度两极分化，存在严重的人际与社区撕裂感（即“我爱的人讨厌它，我讨厌的人喜欢它”）。
 
 ## 正文
+
 Simon Willison 在其博客中推荐了 Paul Ford 于《纽约时报》发表的一篇最新评论文章——《我们期待已久的 AI 颠覆已经到来》（The A.I. Disruption We’ve Been Waiting for Has Arrived）。这篇文章金句频出，其中有几个观点尤为引人注目。
 
 ### “十一月时刻”与旧项目的复活
@@ -52,6 +55,7 @@ Paul 描述了许多程序员都观察到的“十一月时刻”，并特别强
 尽管面临这种人际与社区的撕裂感，但或许正是出于最初吸引他进入科技界的那种“性格缺陷”，Paul 坦言，自己依然对 AI 感到“烦人地兴奋”。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Claude]]
 - [[00-元语/llm]]

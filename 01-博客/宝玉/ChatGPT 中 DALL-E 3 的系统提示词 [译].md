@@ -1,9 +1,10 @@
-# ChatGPT 中 DALL-E 3 的系统提示词 [译]
+---
+title: "ChatGPT 中 DALL-E 3 的系统提示词 [译]"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering/chatgpt-dall-e-3-system-prompt
-- 发布日期：2023-10-15
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering/chatgpt-dall-e-3-system-prompt"
+发布日期: "2023-10-15"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@
 *   **身份泄露风险**：提示词中可能包含泄露特定人物身份的显著头衔或名称（系统指令要求即使拼写错误也必须进行通用化替换）。
 
 ## 正文
+
 ![Image 1: 打印 DALL-E 3 系统指令](https://baoyu.io/images/translations/chatgpt-dall-e-3-system-prompt/dalle-prompt.png)
 
 打印 DALL-E 3 系统指令
@@ -88,6 +90,7 @@ seeds?: number[],
 } // namespace dalle
 
 ## 关联主题
+
 - [[00-元语/OpenAI]]
 - [[00-元语/ChatGPT]]
 - [[00-元语/prompt]]

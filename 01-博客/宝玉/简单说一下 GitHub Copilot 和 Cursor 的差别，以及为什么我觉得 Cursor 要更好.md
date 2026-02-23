@@ -1,9 +1,10 @@
-# 简单说一下 GitHub Copilot 和 Cursor 的差别，以及为什么我觉得 Cursor 要更好
+---
+title: "简单说一下 GitHub Copilot 和 Cursor 的差别，以及为什么我觉得 Cursor 要更好"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/github-copilot-vs-cursor
-- 发布日期：2024-12-16
-- 作者：宝玉
+来源: "https://baoyu.io/blog/github-copilot-vs-cursor"
+发布日期: "2024-12-16"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@
 *   **AI 自动选择上下文的局限性**：现阶段完全寄希望于 AI 自动“猜测”并选择代码上下文是不靠谱的，必须依赖开发者的手动精确控制。
 
 ## 正文
+
 简单说一下 GitHub Copilot 和 Cursor 的差别，以及为什么我觉得 Cursor 要更好。
 
 最开始 GitHub Copilot 是 VSCode 插件形式，只能在当前光标位置自动完成，当然现在越来越多的功能融合到 VSCode 内核中了，比如 CMD + I 就可以弹出对话框，比如有专门的聊天侧边栏。VSCode 也在提供更多的原生 AI 编辑器的支持。

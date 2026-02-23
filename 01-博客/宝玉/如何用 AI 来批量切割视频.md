@@ -1,9 +1,10 @@
-# 如何用 AI 来批量切割视频
+---
+title: "如何用 AI 来批量切割视频"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ai-batch-video-cutting
-- 发布日期：2025-02-24
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ai-batch-video-cutting"
+发布日期: "2025-02-24"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@
 *   现阶段 AI 能力有限，生成的脚本在执行时可能会出现错误，需要人工介入并反馈报错信息以完成修复。
 
 ## 正文
+
 分享一个我日常生活的应用 AI （比如 Grok 3，GPT-4o，Claude 3.5、DeepSeek R1 等等）的案例： 比如我有个超长 YouTube 视频，我想按照 Timestamps 切割，正常用法就是用视频编辑工具手动找到位置，然后导出么，但是这么多视频，切起来就有点费劲了。
 
 ![Image 1](https://baoyu.io/uploads/2025-02-24/1740412959170.png)

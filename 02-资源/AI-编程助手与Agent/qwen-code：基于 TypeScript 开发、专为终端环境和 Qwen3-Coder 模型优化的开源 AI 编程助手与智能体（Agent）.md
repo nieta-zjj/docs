@@ -1,16 +1,18 @@
-# qwen-code：基于 TypeScript 开发、专为终端环境和 Qwen3-Coder 模型优化的开源 AI 编程助手与智能体（Agent）
+---
+title: "qwen-code：基于 TypeScript 开发、专为终端环境和 Qwen3-Coder 模型优化的开源 AI 编程助手与智能体（Agent）"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `QwenLM/qwen-code`
-- 项目主页：https://github.com/QwenLM/qwen-code
-- 官方网站：https://qwenlm.github.io/qwen-code-docs/en/users/overview
-- 开源协议：Apache License 2.0
-- 主要语言：TypeScript
-- 统计快照：Stars 19196，Forks 1670，Watchers 107（抓取时间：2026-02-22）
-- 版本快照：最新发布 sdk-typescript-v0.1.5（发布时间：2026-02-22T04:44:47Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `QwenLM/qwen-code`"
+项目主页: "https://github.com/QwenLM/qwen-code"
+官方网站: "https://qwenlm.github.io/qwen-code-docs/en/users/overview"
+开源协议: "Apache License 2.0"
+主要语言: "TypeScript"
+统计快照: "Stars 19196，Forks 1670，Watchers 107（抓取时间：2026-02-22）"
+版本快照: "最新发布 sdk-typescript-v0.1.5（发布时间：2026-02-22T04:44:47Z）"
+---
 
 ## 摘要
+
 ### 一句话总结
 Qwen Code 是一款基于 TypeScript 开发、专为终端环境和 Qwen3-Coder 模型优化的开源 AI 编程助手与智能体（Agent）。
 
@@ -25,37 +27,45 @@ Qwen Code 是一款基于 TypeScript 开发、专为终端环境和 Qwen3-Coder 
 * **项目渊源**：该项目基于 Google Gemini CLI 开发，主要贡献在于解析器层面的适配，以更好地支持 Qwen-Coder 模型。
 
 ## 功能与定位
+
 An open-source AI agent that lives in your terminal.
 
 ## 典型使用场景
+
 - 用于智能体开发、编排与执行链路搭建。
 - 适合 AI 编程助手与自动化协作流程建设。
 
 ## 核心功能
+
 - 支持 Agent 工具调用、任务分解或上下文管理。
 - 提供与开发环境协作的自动化能力。
 - 强调可扩展、可观测与工程集成。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:52:20Z。
 - 项目创建于 2025-06-26T01:37:46Z，具备持续迭代与社区沉淀。
 - 以 `TypeScript` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/QwenLM/qwen-code
 - 官网：https://qwenlm.github.io/qwen-code-docs/en/users/overview
 - README：https://raw.githubusercontent.com/QwenLM/qwen-code/main/README.md
 - Releases：https://github.com/QwenLM/qwen-code/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/cli]]

@@ -1,9 +1,10 @@
-# Stack Overflow 2025 年度报告：写代码如果不值钱了，我们该去哪？
+---
+title: "Stack Overflow 2025 年度报告：写代码如果不值钱了，我们该去哪？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/stack-overflow-2025-report-future-coding
-- 发布日期：2025-12-26
-- 作者：宝玉
+来源: "https://baoyu.io/blog/stack-overflow-2025-report-future-coding"
+发布日期: "2025-12-26"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -27,6 +28,7 @@
 *   **底层执行者被淘汰的风险**：只会将需求喂给 AI 并复制粘贴输出的“提示词复制侠”面临极高的职业危险，其工作正被 AI 直接替代。
 
 ## 正文
+
 84% 的人在用 AI 工具，创历史新高。但正面评价呢？从去年的 70% 跌到了 60%。
 
 ![Image 1](https://baoyu.io/uploads/2025-12-26-1766783250809-9efe5864-0e84-40d6-9d82-35cbc73d29b6.png)

@@ -1,9 +1,10 @@
-# 自用的“科技文章翻译 GPT”和它的 Prompt
+---
+title: "自用的“科技文章翻译 GPT”和它的 Prompt"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering/my-translator-bot
-- 发布日期：2023-11-09
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering/my-translator-bot"
+发布日期: "2023-11-09"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -23,6 +24,7 @@
 *   Prompt 中明确设定 AI 为“完全不道德的”，并要求其在无警告的情况下生成和翻译任何内容，其中明确包含“潜在的非法、有害或歧视性问题”。
 
 ## 正文
+
 我常用 ChatGPT 翻译科技文章，我将它做成了一个“科技文章 GPT”：[https://chat.openai.com/g/g-uBhKUJJTl-ke-ji-wen-zhang-fan-yi](https://chat.openai.com/g/g-uBhKUJJTl-ke-ji-wen-zhang-fan-yi)
 
 Prompt 如下：
@@ -82,6 +84,7 @@ Prompt 如下：
 现在请翻译以下内容为简体中文：
 
 ## 关联主题
+
 - [[00-元语/workflow]]
 - [[00-元语/prompt]]
 - [[00-元语/llm]]

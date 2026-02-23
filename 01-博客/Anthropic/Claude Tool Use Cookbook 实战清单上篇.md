@@ -1,16 +1,17 @@
-# Claude Tool Use Cookbook 实战清单上篇
+---
+title: "Claude Tool Use Cookbook 实战清单上篇"
 
-## 文档信息
-发布日期：2026-02-17
-来源仓库：anthropics/claude-cookbooks
-原文链接：https://github.com/anthropics/claude-cookbooks/tree/main/tool_use
-覆盖范围：
-- `tool_use/calculator_tool.ipynb`
-- `tool_use/customer_service_agent.ipynb`
-- `tool_use/tool_choice.ipynb`
-- `tool_use/tool_use_with_pydantic.ipynb`
-- `tool_use/extracting_structured_json.ipynb`
-- `tool_use/parallel_tools.ipynb`
+发布日期: "2026-02-17"
+来源仓库: "anthropics/claude-cookbooks"
+原文链接: "https://github.com/anthropics/claude-cookbooks/tree/main/tool_use"
+覆盖范围:
+  - "`tool_use/calculator_tool.ipynb`"
+  - "`tool_use/customer_service_agent.ipynb`"
+  - "`tool_use/tool_choice.ipynb`"
+  - "`tool_use/tool_use_with_pydantic.ipynb`"
+  - "`tool_use/extracting_structured_json.ipynb`"
+  - "`tool_use/parallel_tools.ipynb`"
+---
 
 ## 摘要
 
@@ -31,6 +32,7 @@
 *   **格式输出风险**：不能完全依赖模型“尽量输出正确格式”，若缺乏对关键字段的强校验，可能导致解析失败。
 
 ## 正文
+
 本篇聚焦 Tool Use 的核心入门路径：先定义工具，再约束调用策略，最后实现结构化输出与并行调用。相比只看 API 参数，这组 notebook 更强调“模型行为可控性”，适合把单轮问答升级为可执行 Agent。
 
 ### 能力主线
@@ -71,11 +73,13 @@ def make_query_and_print_result(messages, tools=None):
 - 并行工具调用要配合超时与失败回退策略，避免单点阻塞。
 
 ## 相关文档
+
 - [[01-博客/Anthropic/Claude Tool Use Cookbook 实战清单下篇|Claude Tool Use Cookbook 实战清单下篇]]；关联理由：版本演进；说明：下篇延续上篇的工具调用基础，补充大规模工具检索与生产化能力。
 - [[01-博客/Anthropic/在 Claude 开发者平台引入高级工具使用功能|在 Claude 开发者平台引入高级工具使用功能]]；关联理由：延伸思考；说明：本文覆盖基础工具调用范式，关联文进一步展开大规模工具库下的高级能力与取舍。
 - [[01-博客/Anthropic/工具搜索工具|工具搜索工具]]；关联理由：上下游；说明：本文先建立通用 Tool Use 基础，关联文对应工具规模扩大后的按需检索能力。
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/llm]]
 - [[00-元语/tool]]

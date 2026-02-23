@@ -1,16 +1,18 @@
-# Ice：Powerful menu bar manager for macOS
+---
+title: "Ice：Powerful menu bar manager for macOS"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `jordanbaird/Ice`
-- 项目主页：https://github.com/jordanbaird/Ice
-- 官方网站：https://icemenubar.app
-- 开源协议：GNU General Public License v3.0
-- 主要语言：Swift
-- 统计快照：Stars 26088，Forks 586，Watchers 81（抓取时间：2026-02-22）
-- 版本快照：最新发布 0.11.12（发布时间：2024-10-29T19:29:03Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `jordanbaird/Ice`"
+项目主页: "https://github.com/jordanbaird/Ice"
+官方网站: "https://icemenubar.app"
+开源协议: "GNU General Public License v3.0"
+主要语言: "Swift"
+统计快照: "Stars 26088，Forks 586，Watchers 81（抓取时间：2026-02-22）"
+版本快照: "最新发布 0.11.12（发布时间：2024-10-29T19:29:03Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Ice 是一个开源项目，归档分类为“通用开发工具”。GitHub 描述：Powerful menu bar manager for macOS
 
@@ -24,42 +26,51 @@ Ice 是一个开源项目，归档分类为“通用开发工具”。GitHub 描
 - 仓库简介与元数据不能替代完整技术评估，实际接入前需通读 README、Release 与关键文档。
 
 ## 功能与定位
+
 Powerful menu bar manager for macOS
 
 ## 典型使用场景
+
 - 作为通用开发工具用于工程协作与效率提升。
 - 适用于个人与团队的日常研发流程。
 
 ## 核心功能
+
 - 提供稳定的通用工程能力。
 - 支持跨平台或多环境使用。
 - 依赖开源社区持续迭代。
 
 ## 特色与差异点
+
 - 仓库最近更新时间：2026-02-22T13:17:43Z。
 - 最近推送时间：2025-09-20T20:28:17Z。
 - 项目创建时间：2023-08-04T22:51:56Z。
 - 强调通用性与工程实用价值，适合作为基础工具链的一部分。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与文档，确认功能边界与依赖条件。
 2. 按项目说明完成安装与最小可运行验证。
 3. 在生产使用前补齐权限控制、日志监控与版本固定策略。
 
 ## 限制与注意事项
+
 - 本档案仅整理可验证公开信息，不替代项目官方文档。
 - 若项目涉及安全或合规风险，应优先建立边界策略后再接入。
 
 ## 链接
+
 - 仓库：https://github.com/jordanbaird/Ice
 - 官网：https://icemenubar.app
 - README：https://raw.githubusercontent.com/jordanbaird/Ice/main/README.md
 - Releases：https://github.com/jordanbaird/Ice/releases
 
 ## 相关文档
+
 - [[02-资源/通用开发工具/stats：macOS system monitor in your menu bar.md|stats：macOS system monitor in your menu bar]]；关联理由：观点一致；说明：两者都围绕 macOS 菜单栏提供效率增强能力，可用于同类工具选型对比。
 
 ## 关联主题
+
 - [[00-元语/tool]]
 - [[00-元语/github]]
 - [[00-元语/desktop-client]]

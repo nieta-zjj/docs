@@ -1,13 +1,14 @@
-# Claude Agent Workflow Notebook 实战
+---
+title: "Claude Agent Workflow Notebook 实战"
 
-## 文档信息
-发布日期：2026-02-17
-来源仓库：anthropics/claude-cookbooks
-原文链接：https://github.com/anthropics/claude-cookbooks/tree/main/patterns/agents
-覆盖范围：
-- `patterns/agents/basic_workflows.ipynb`
-- `patterns/agents/evaluator_optimizer.ipynb`
-- `patterns/agents/orchestrator_workers.ipynb`
+发布日期: "2026-02-17"
+来源仓库: "anthropics/claude-cookbooks"
+原文链接: "https://github.com/anthropics/claude-cookbooks/tree/main/patterns/agents"
+覆盖范围:
+  - "`patterns/agents/basic_workflows.ipynb`"
+  - "`patterns/agents/evaluator_optimizer.ipynb`"
+  - "`patterns/agents/orchestrator_workers.ipynb`"
+---
 
 ## 摘要
 
@@ -23,6 +24,7 @@
 * **架构设计建议**：在决定是否引入多 Agent 架构之前，应先将业务流程拆分为最小职责单元。
 
 ## 正文
+
 这组三个 notebook 提供了多 Agent 设计的基础范式：链式、并行、路由、评估优化、编排分工。它们不是特定业务 demo，而是可以迁移到大多数工作流系统的结构模板。
 
 ### 能力主线
@@ -38,7 +40,6 @@ def chain(input: str, prompts: list[str]) -> str:
         result = llm_call(f"{prompt}\nInput: {result}")
     return result
 
-
 def parallel(prompt: str, inputs: list[str], n_workers: int = 3) -> list[str]:
     with ThreadPoolExecutor(max_workers=n_workers) as executor:
         futures = [executor.submit(llm_call, f"{prompt}\nInput: {x}") for x in inputs]
@@ -51,10 +52,12 @@ def parallel(prompt: str, inputs: list[str], n_workers: int = 3) -> list[str]:
 - Orchestrator-Workers 需要明确任务分解标准与结果合并规则。
 
 ## 相关文档
+
 - [[01-博客/Anthropic/Building Effective Agents 常见工作流最小实现|Building Effective Agents 常见工作流最小实现]]；关联理由：上下游；说明：该文给出同一批工作流模式的 README 级最小实现，本篇是对应 Notebook 的实操展开。
 - [[01-博客/Anthropic/Claude Agent SDK Notebook 实战进阶|Claude Agent SDK Notebook 实战进阶]]；关联理由：延伸思考；说明：该文把本篇的工作流模板延伸到 SDK、多角色协同与可观测工程实践。
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/Agent]]
 - [[00-元语/workflow]]

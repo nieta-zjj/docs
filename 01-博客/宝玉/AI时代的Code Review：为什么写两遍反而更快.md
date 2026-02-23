@@ -1,9 +1,10 @@
-# Code Review in the AI Era: Why Writing It Twice Is Actually Faster
+---
+title: "Code Review in the AI Era: Why Writing It Twice Is Actually Faster"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/code-review-ai-era-writing-twice-faster
-- 发布日期：2026-01-03
-- 作者：宝玉
+来源: "https://baoyu.io/blog/code-review-ai-era-writing-twice-faster"
+发布日期: "2026-01-03"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -20,6 +21,7 @@
 *   **降低心理抗拒**：明确第一版代码是“阅后即焚”的，能有效降低资深开发者对AI生成代码质量的心理抗拒。
 
 ## 正文
+
 If you've been coding for a few years, you've probably lived through this nightmare: you finish the first version, finally get it running, and then realize you misunderstood half the requirements, hit three technical dead ends, and the architecture won't survive the next iteration. Want to rewrite from scratch? The deadline says no. So you keep piling on patches, and three years later, that codebase has become the legacy monster no one dares to touch.
 
 This problem has existed for decades. But AI coding tools have accidentally given us a new solution.

@@ -1,9 +1,10 @@
-# 一个简单的 Prompt 大幅提升 ChatGPT 翻译质量，告别“机翻感”
+---
+title: "一个简单的 Prompt 大幅提升 ChatGPT 翻译质量，告别“机翻感”"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering/a-prompt-for-better-translation-result
-- 发布日期：2023-09-28
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering/a-prompt-for-better-translation-result"
+发布日期: "2023-09-28"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -20,6 +21,7 @@
 *   **操作技巧**：在实际使用中，可以通过反复编辑包含待翻译英文的第二条消息来输入新内容，从而有效节约上下文长度。
 
 ## 正文
+
 无论是 Google 翻译、DeepL 翻译还是 ChatGPT，翻译大段英文的时候，“机翻感”（机器翻译的感觉）都很强，一看就是机器翻译的，很生硬，但是自己手动润色又太费时间。
 
 我以前花了很多努力让 ChatGPT 去“意译”而不是“直译”，让它模仿特定写作风格，效果能做到比谷歌翻译和 DeepL 强，但还是能感觉有“机翻”痕迹。

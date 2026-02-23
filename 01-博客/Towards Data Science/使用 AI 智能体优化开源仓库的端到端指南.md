@@ -1,10 +1,12 @@
-# 使用 AI 智能体优化开源仓库的端到端指南
+---
+title: "使用 AI 智能体优化开源仓库的端到端指南"
 
-## 文档信息
-- 来源：https://towardsdatascience.com/an-end-to-end-guide-to-beautifying-your-open-source-repo-with-agentic-ai/
-- 发布日期：2026-02-20
+来源: "https://towardsdatascience.com/an-end-to-end-guide-to-beautifying-your-open-source-repo-with-agentic-ai/"
+发布日期: "2026-02-20"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 OSA（Open Source Advisor）是一个基于大语言模型多智能体系统的开源 Python 工具，能够通过自动生成 README、代码文档、CI/CD 脚本并优化目录结构，端到端地提升开源代码仓库的质量与可复现性。
 
@@ -23,6 +25,7 @@ OSA（Open Source Advisor）是一个基于大语言模型多智能体系统的�
 *   **部分功能处于实验阶段**：基于自然语言指令的多智能体对话模式目前仍是实验性功能。
 
 ## 正文
+
 大家好！我是 ITMO 大学人工智能研究所的研究主管 Nikolay Nikitin 博士，也是一名开源爱好者。我经常看到许多同事没有时间和精力为他们的研究论文创建开源仓库，也无法保证这些代码库的质量。在本文中，我将探讨如何使用我们团队开发的 AI 工具 OSA（Open Source Advisor）来解决这个问题，帮助你的代码仓库脱胎换骨。
 
 如果你正在维护或参与开源项目，这篇文章将为你节省大量时间和精力：你将了解到 OSA 如何通过添加规范的 README、生成文档、设置 CI/CD 脚本，甚至总结项目的优缺点，来自动优化你的代码仓库。
@@ -126,6 +129,7 @@ OSA 机器人创建了仓库的分支并提交了包含所有更改的 PR。开�
 *Nikitin N. et al. An LLM-Powered Tool for Enhancing Scientific Open-Source Repositories // Championing Open-source DEvelopment in ML Workshop@ ICML25.*
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/llm]]

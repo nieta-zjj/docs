@@ -1,9 +1,10 @@
-# 把学术论文改写成科普文章的提示词：Gemini 2.5 Pro
+---
+title: "把学术论文改写成科普文章的提示词：Gemini 2.5 Pro"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/academic-paper-to-popular-science-prompt
-- 发布日期：2025-10-23
-- 作者：宝玉
+来源: "https://baoyu.io/blog/academic-paper-to-popular-science-prompt"
+发布日期: "2025-10-23"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@
 *   **科学传播失真风险**：在简化复杂概念时存在误导风险，提示词要求必须守住准确性底线，严格区分“已证明（proven）”与“暗示/表明（suggested）”。
 
 ## 正文
+
 ![Image 1](https://baoyu.io/uploads/2025-10-23/1761235701830.png)
 
 This prompt is designed for the Gemini 2.5 Pro model, and its effectiveness might be reduced on other models. The best way to use it is to create a 'Gem' in Gemini and paste the above prompt into the 'Instructions'. When using it, send the paper's PDF or related materials to the model to generate the results.

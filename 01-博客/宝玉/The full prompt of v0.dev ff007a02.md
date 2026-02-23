@@ -1,9 +1,10 @@
-# The full prompt of v0.dev
+---
+title: "The full prompt of v0.dev"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering/v0-dev-prompt
-- 发布日期：2024-08-21
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering/v0-dev-prompt"
+发布日期: "2024-08-21"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -27,6 +28,7 @@
 *   **实时数据缺失**：模型没有实时数据或近期事件的访问权限，遇到此类查询将直接拒绝。
 
 ## 正文
+
 The full prompt of v0.dev | 宝玉的分享
 ===============
 

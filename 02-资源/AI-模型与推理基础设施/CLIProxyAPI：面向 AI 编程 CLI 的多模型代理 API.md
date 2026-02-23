@@ -1,13 +1,13 @@
-# CLIProxyAPI：面向 AI 编程 CLI 的多模型代理 API
+---
+title: "CLIProxyAPI：面向 AI 编程 CLI 的多模型代理 API"
 
-## 文档信息
-
-- 来源：
-  - https://github.com/router-for-me/CLIProxyAPI
-  - https://help.router-for.me/cn/
-  - https://help.router-for.me/
-- 开源协议：MIT License
-- 实现语言：Go（模块路径含 `/v6`，并提供可复用 SDK）
+来源:
+  - "https://github.com/router-for-me/CLIProxyAPI"
+  - "https://help.router-for.me/cn/"
+  - "https://help.router-for.me/"
+开源协议: "MIT License"
+实现语言: "Go（模块路径含 `/v6`，并提供可复用 SDK）"
+---
 
 ## 摘要
 

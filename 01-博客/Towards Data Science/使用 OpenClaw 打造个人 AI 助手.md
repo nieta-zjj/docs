@@ -1,10 +1,12 @@
-# 使用 OpenClaw 打造个人 AI 助手
+---
+title: "使用 OpenClaw 打造个人 AI 助手"
 
-## 文档信息
-- 来源：https://towardsdatascience.com/use-openclaw-to-make-a-personal-ai-assistant/
-- 发布日期：2026-02-17
+来源: "https://towardsdatascience.com/use-openclaw-to-make-a-personal-ai-assistant/"
+发布日期: "2026-02-17"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 OpenClaw 是一个持续运行 Claude Code 的开源系统，通过 Docker 隔离部署、严格的权限管理和动态技能配置，可将其打造为高效的专属个人 AI 助手。
 
@@ -21,6 +23,7 @@ OpenClaw 是一个持续运行 Claude Code 的开源系统，通过 Docker 隔�
 * **自主运行的安全风险**：代理在被授权的系统中完全自主运行，若未严格限制权限或未进行环境隔离（如不同代理之间共享信息和密钥），可能引发安全问题。
 
 ## 正文
+
 OpenClaw 已迅速成为运行 Claude Code 的知名开源系统。它本质上是一个可以无限期运行 Claude Code 的系统，让你能够将其设置为专属的个人 AI 助手。
 
 你可以设置 OpenClaw 来为你执行各种任务，例如：
@@ -114,6 +117,7 @@ OpenClaw 最棒的地方在于它的个性化能力：你可以准确地告诉�
 创建一个 OpenClaw 助手对我来说非常强大，在设置不到一周的时间里，我已经注意到了效率的巨大提升。然而，我也发现了一些代理表现不佳的场景，在设置助手时必须考虑到这些情况。总而言之，关键在于尽可能具体，并让代理将所有相关内容存储为可以按需动态加载的技能。
 
 ## 关联主题
+
 - [[00-元语/Agent]]
 - [[00-元语/Claude]]
 - [[00-元语/github]]

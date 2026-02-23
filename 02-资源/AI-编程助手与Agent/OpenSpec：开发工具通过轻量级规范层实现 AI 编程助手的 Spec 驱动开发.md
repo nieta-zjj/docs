@@ -1,16 +1,18 @@
-# OpenSpec：开发工具通过轻量级规范层实现 AI 编程助手的 Spec 驱动开发
+---
+title: "OpenSpec：开发工具通过轻量级规范层实现 AI 编程助手的 Spec 驱动开发"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `Fission-AI/OpenSpec`
-- 项目主页：https://github.com/Fission-AI/OpenSpec
-- 官方网站：https://openspec.dev/
-- 开源协议：MIT License
-- 主要语言：TypeScript
-- 统计快照：Stars 25046，Forks 1672，Watchers 144（抓取时间：2026-02-22）
-- 版本快照：最新发布 v1.1.1（发布时间：2026-01-30T22:56:30Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `Fission-AI/OpenSpec`"
+项目主页: "https://github.com/Fission-AI/OpenSpec"
+官方网站: "https://openspec.dev/"
+开源协议: "MIT License"
+主要语言: "TypeScript"
+统计快照: "Stars 25046，Forks 1672，Watchers 144（抓取时间：2026-02-22）"
+版本快照: "最新发布 v1.1.1（发布时间：2026-01-30T22:56:30Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 OpenSpec 是一个为 AI 编程助手设计的规范驱动开发（SDD）框架，通过引入轻量级的规范层，在编写代码前对齐人类与 AI 的目标，从而提供可预测且结构化的开发工作流。
 
@@ -25,37 +27,45 @@ OpenSpec 是一个为 AI 编程助手设计的规范驱动开发（SDD）框架�
 * **遥测机制**：默认收集匿名的命令名称和版本使用统计数据（不包含参数、路径、内容或 PII），可通过设置环境变量 `OPENSPEC_TELEMETRY=0` 或 `DO_NOT_TRACK=1` 退出收集。
 
 ## 功能与定位
+
 Spec-driven development (SDD) for AI coding assistants.
 
 ## 典型使用场景
+
 - 用于智能体开发、编排与执行链路搭建。
 - 适合 AI 编程助手与自动化协作流程建设。
 
 ## 核心功能
+
 - 支持 Agent 工具调用、任务分解或上下文管理。
 - 提供与开发环境协作的自动化能力。
 - 强调可扩展、可观测与工程集成。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T13:09:09Z。
 - 项目创建于 2025-08-05T10:37:45Z，具备持续迭代与社区沉淀。
 - 以 `TypeScript` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/Fission-AI/OpenSpec
 - 官网：https://openspec.dev/
 - README：https://raw.githubusercontent.com/Fission-AI/OpenSpec/main/README.md
 - Releases：https://github.com/Fission-AI/OpenSpec/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/llm]]
 - [[00-元语/Agent]]

@@ -1,12 +1,14 @@
-# 我的 GPT-5 评测 —— Vibe Coding 进阶为真正的软件
+---
+title: "我的 GPT-5 评测 —— Vibe Coding 进阶为真正的软件"
 
-## 文档信息
-- 原文标题：My GPT-5 Review — Vibe Coding Graduates to Real Software
-- 作者：Matt Shumer
-- 发布日期：2025-08-07
-- 原文链接：https://shumer.dev/gpt5review
+原文标题: "My GPT-5 Review — Vibe Coding Graduates to Real Software"
+作者: "Matt Shumer"
+发布日期: "2025-08-07"
+原文链接: "https://shumer.dev/gpt5review"
+---
 
 ## 摘要
+
 ### 一句话总结
 GPT-5 凭借极快的响应速度、卓越的长上下文处理能力以及在全栈开发和机器学习任务中的高度自治性，实现了从“氛围编程（Vibe Coding）”到真正软件工程的跨越，大幅提升了开发效率。
 
@@ -28,6 +30,7 @@ GPT-5 凭借极快的响应速度、卓越的长上下文处理能力以及在�
 *   **疑似“小模型”特征**：作者根据其极快的速度、在创意/情感任务上的弱点以及特定的失败模式推测，GPT-5 的实际参数规模可能远小于外界预期。
 
 ## 正文
+
 太长不看 (TL;DR)
 -----
 

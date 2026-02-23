@@ -1,9 +1,10 @@
-# LinkedIn 团队构建生成式 AI 产品的经验教训
+---
+title: "LinkedIn 团队构建生成式 AI 产品的经验教训"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ai/linkedin-team-building-generative-ai-lessons
-- 发布日期：2024-07-28
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ai/linkedin-team-building-generative-ai-lessons"
+发布日期: "2024-07-28"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -25,6 +26,7 @@
 *   **评估机制的局限性**：生成结果的质量评估难以制定标准（如需兼顾真实准确与同理心），数据标注难以规模化，且高度依赖人工，难以实现自动化。
 
 ## 正文
+
 LinkedIn 的这个分享很有价值，他们分享了在构建生成式 AI 产品时的一些宝贵经验教训
 
 他们做的产品时基于 LinkedIn 上的信息流和职位，借助 AI 帮助用户评估是不是和职位匹配、了解某个公司的最新动态、面试和修改个人简历方面的建议，以及其他一些功能。

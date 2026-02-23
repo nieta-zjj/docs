@@ -1,9 +1,10 @@
-# OpenAI 连续 12 天 AI 发布会：第十一天 —— ChatGPT 桌面应用如何与各类应用无缝协作，让工作更高效
+---
+title: "OpenAI 连续 12 天 AI 发布会：第十一天 —— ChatGPT 桌面应用如何与各类应用无缝协作，让工作更高效"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/openai-day11-chatgpt-desktop-app-seamless-workflow
-- 发布日期：2024-12-20
-- 作者：宝玉
+来源: "https://baoyu.io/blog/openai-day11-chatgpt-desktop-app-seamless-workflow"
+发布日期: "2024-12-20"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@ OpenAI 在其连续12天发布会的第11天推出了 ChatGPT 桌面应用的重
 *   **隐私与授权边界**：ChatGPT 必须在用户明确授权特定应用程序后才能读取其内容，未授权应用的内容无法被访问。
 
 ## 正文
+
 [https://www.bilibili.com/video/BV1nzkkYvE8H/](https://www.bilibili.com/video/BV1nzkkYvE8H/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=e71f65cbc40a72fce570b20ffcb28b22)
 
 在 OpenAI 12 天特别活动的第 11 天，产品负责人 Kevin Weil 携手 ChatGPT 桌面团队的 Justin Rushing 和 John Nastos 为大家带来重磅新功能介绍。本期重点展示了 ChatGPT 桌面应用如何与各类应用无缝协作，让工作更高效。

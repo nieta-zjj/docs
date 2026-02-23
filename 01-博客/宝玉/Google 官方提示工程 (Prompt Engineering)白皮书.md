@@ -1,9 +1,10 @@
-# Google 官方提示工程 (Prompt Engineering)白皮书
+---
+title: "Google 官方提示工程 (Prompt Engineering)白皮书"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/google-prompt-engineering-whitepaper
-- 发布日期：2025-04-10
-- 作者：宝玉
+来源: "https://baoyu.io/blog/google-prompt-engineering-whitepaper"
+发布日期: "2025-04-10"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -32,6 +33,7 @@
 *   **模型漂移问题**：提示词的性能在不同 LLM 版本之间转换时可能会发生漂移（使用 CoT 可以部分提高鲁棒性，但仍需持续测试和适应更新）。
 
 ## 正文
+
 Google 官方提示工程 (Prompt Engineering)白皮书 | 宝玉的分享
 ===============
 
@@ -1152,6 +1154,7 @@ Built by[宝玉](https://twitter.com/dotey). [RSS](https://baoyu.io/feed.xml) . 
 Toggle theme
 
 ## 关联主题
+
 - [[00-元语/prompt]]
 - [[00-元语/llm]]
 - [[00-元语/gemini]]

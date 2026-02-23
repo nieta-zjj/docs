@@ -1,11 +1,11 @@
-# deepset-ai-haystack：AI 记忆与检索基础设施
+---
+title: "deepset-ai-haystack：AI 记忆与检索基础设施"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/deepset-ai/haystack
-- 发现评分：100
-- Stars：24257
+发布日期: "2026-02-22"
+来源: "https://github.com/deepset-ai/haystack"
+发现评分: "100"
+Stars: "24257"
+---
 
 ## 摘要
 
@@ -22,9 +22,11 @@ Haystack 是一个高人气的开源 AI 编排框架，致力于为构建生产�
 * **高透明度**：通过“显式控制”打破黑盒机制，使开发者能够精准定义和调整 AI 系统的内部流转逻辑。
 
 ## 功能与定位
+
 Haystack 是一个开源的 AI 编排框架，定位为 AI 记忆与检索的基础设施。它主要用于构建具备上下文工程能力、可直接投入生产环境的大语言模型（LLM）应用。
 
 ## 典型使用场景
+
 基于其底层架构，该框架专为以下场景构建：
 * **检索增强生成（RAG）**
 * **可扩展智能体（Scalable Agents）**
@@ -33,17 +35,19 @@ Haystack 是一个开源的 AI 编排框架，定位为 AI 记忆与检索的基
 * **对话系统（Conversational systems）**
 
 ## 核心功能
+
 * **构建模块化流水线**：支持开发者设计模块化的数据处理流水线（Pipelines）。
 * **设计智能体工作流**：可用于搭建复杂的 Agent 工作流。
 * **核心环节显式控制**：提供对 AI 应用中四大核心环节的明确控制权，包括：检索（Retrieval）、路由（Routing）、记忆（Memory）以及生成（Generation）。
 
 ## 特色与差异点
+
 * **生产就绪（Production-ready）**：专为实际生产环境和可扩展性设计，而非仅限于实验或原型开发。
 * **高透明度与控制力**：通过对检索、记忆等环节的“显式控制（explicit control）”，打破黑盒，使开发者能够精准定义和调整 AI 系统的内部流转逻辑。
 
 ## 链接
-* GitHub 仓库：https://github.com/deepset-ai/haystack
 
+* GitHub 仓库：https://github.com/deepset-ai/haystack
 
 ## 关联主题
 

@@ -1,14 +1,14 @@
-# Headroom：LLM 应用的上下文优化层
+---
+title: "Headroom：LLM 应用的上下文优化层"
 
-## 文档信息
-
-- 对象：Git 项目
-- 发布日期：2026-02-22
-- 来源：
-  - https://github.com/chopratejas/headroom
-  - https://raw.githubusercontent.com/chopratejas/headroom/main/README.md
-  - https://raw.githubusercontent.com/chopratejas/headroom/main/pyproject.toml
-  - https://raw.githubusercontent.com/chopratejas/headroom/main/LICENSE
+对象: "Git 项目"
+发布日期: "2026-02-22"
+来源:
+  - "https://github.com/chopratejas/headroom"
+  - "https://raw.githubusercontent.com/chopratejas/headroom/main/README.md"
+  - "https://raw.githubusercontent.com/chopratejas/headroom/main/pyproject.toml"
+  - "https://raw.githubusercontent.com/chopratejas/headroom/main/LICENSE"
+---
 
 ## 摘要
 

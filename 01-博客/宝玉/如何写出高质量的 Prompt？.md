@@ -1,9 +1,10 @@
-# 如何写出高质量的 Prompt？
+---
+title: "如何写出高质量的 Prompt？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering/how-to-write-high-quality-prompt
-- 发布日期：2023-07-18
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering/how-to-write-high-quality-prompt"
+发布日期: "2023-07-18"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -23,6 +24,7 @@
 *   **复杂推理出错风险**：对于复杂的推理过程，如果直接让 GPT 给出最终答案，很容易出现错误（需通过分步思考和打印中间步骤来规避）。
 
 ## 正文
+
 看到有人发《全网都在找的 GPT 最权威的 160 条指令》，其实没人记得住 160 条 Prompt，也没有必要去记 160 条 Prompt！
 
 跟 ChatGPT 交互，最重要是掌握 Prompt 的模板或者说结构，而不需要记住那么多 Prompt。

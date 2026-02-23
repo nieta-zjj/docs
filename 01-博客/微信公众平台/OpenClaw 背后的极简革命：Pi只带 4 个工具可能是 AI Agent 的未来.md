@@ -1,11 +1,11 @@
-# OpenClaw 背后的极简革命：Pi只带 4 个工具可能是 AI Agent 的未来
+---
+title: "OpenClaw 背后的极简革命：Pi只带 4 个工具可能是 AI Agent 的未来"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/mMetE4RR6MfYslJgwbRVZQ
-- 发布日期：2026-02-13
-- 作者：北嗅
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/mMetE4RR6MfYslJgwbRVZQ"
+发布日期: "2026-02-13"
+作者: "北嗅"
+---
 
 ## 摘要
 

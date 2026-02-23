@@ -1,11 +1,11 @@
-# 衡量 AI 智能体在实践中的自主性
+---
+title: "衡量 AI 智能体在实践中的自主性"
 
-## 文档信息
-
-- 站点：Anthropic Research
-- 原文链接：https://www.anthropic.com/research/measuring-agent-autonomy
-- 发布日期：2026-02-18
-- 译注：未找到官方中文版本，本文基于英文原文翻译整理。
+站点: "Anthropic Research"
+原文链接: "https://www.anthropic.com/research/measuring-agent-autonomy"
+发布日期: "2026-02-18"
+译注: "未找到官方中文版本，本文基于英文原文翻译整理。"
+---
 
 ## 摘要
 
@@ -211,7 +211,6 @@ Miles McCain, Thomas Millar, Saffron Huang, Jake Eaton, Kunal Handa, Michael Ste
 15. 我们的系统还会自动排除不符合我们聚合最小值的聚类，这意味着只有少数客户使用 Claude 执行的任务不会出现在此分析中。
 
 16. 软件工程中的采用曲线是否会在其他领域重复是一个悬而未决的问题。软件相对容易测试和审查——你可以运行代码并查看它是否工作——这使得信任智能体并捕捉其错误变得更容易。在法律、医学或金融等领域，验证智能体的输出可能需要付出巨大努力，这可能会减缓信任的建立。
-
 
 ## 关联主题
 

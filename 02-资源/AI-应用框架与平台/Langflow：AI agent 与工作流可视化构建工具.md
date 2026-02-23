@@ -1,15 +1,15 @@
-# Langflow：AI agent 与工作流可视化构建工具
+---
+title: "Langflow：AI agent 与工作流可视化构建工具"
 
-## 文档信息
-
-- 对象：GitHub 开源项目
-- 项目：`langflow-ai/langflow`
-- 来源：https://github.com/langflow-ai/langflow
-- 开源协议：MIT
-- 版本状态：releases 页面显示 `1.7.3` 为 Latest，`1.8.0.rc2` 为 Pre-release（2026-02-22 快照）
-- 最近提交：`0283f5d7e1c56c06e5786128f4b034a3ab3b15e6`（2026-02-20）
-- 社区数据快照：页面抓取显示约 `145k stars`、`8.5k forks`、`348 issues`、`694 pull requests`（2026-02-22）
-- 发布日期：2026-02-22
+对象: "GitHub 开源项目"
+项目: "`langflow-ai/langflow`"
+来源: "https://github.com/langflow-ai/langflow"
+开源协议: "MIT"
+版本状态: "releases 页面显示 `1.7.3` 为 Latest，`1.8.0.rc2` 为 Pre-release（2026-02-22 快照）"
+最近提交: "`0283f5d7e1c56c06e5786128f4b034a3ab3b15e6`（2026-02-20）"
+社区数据快照: "页面抓取显示约 `145k stars`、`8.5k forks`、`348 issues`、`694 pull requests`（2026-02-22）"
+发布日期: "2026-02-22"
+---
 
 ## 摘要
 

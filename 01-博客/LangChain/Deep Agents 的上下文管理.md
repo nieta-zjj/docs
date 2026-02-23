@@ -1,9 +1,9 @@
-# Deep Agents 的上下文管理
+---
+title: "Deep Agents 的上下文管理"
 
-## 文档信息
-
-- 发布日期：2026-01-28
-- 原文链接：https://blog.langchain.com/context-management-for-deepagents/
+发布日期: "2026-01-28"
+原文链接: "https://blog.langchain.com/context-management-for-deepagents/"
+---
 
 ## 摘要
 

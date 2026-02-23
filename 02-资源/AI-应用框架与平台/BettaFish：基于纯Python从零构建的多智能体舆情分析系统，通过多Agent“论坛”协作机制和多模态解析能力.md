@@ -1,16 +1,18 @@
-# BettaFish：基于纯Python从零构建的多智能体舆情分析系统，通过多Agent“论坛”协作机制和多模态解析能力
+---
+title: "BettaFish：基于纯Python从零构建的多智能体舆情分析系统，通过多Agent“论坛”协作机制和多模态解析能力"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `666ghj/BettaFish`
-- 项目主页：https://github.com/666ghj/BettaFish
-- 官方网站：https://deepwiki.com/666ghj/BettaFish
-- 开源协议：GNU General Public License v2.0
-- 主要语言：Python
-- 统计快照：Stars 35668，Forks 6823，Watchers 198（抓取时间：2026-02-22）
-- 版本快照：最新发布 v3.0.0（发布时间：2025-12-23T03:31:38Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `666ghj/BettaFish`"
+项目主页: "https://github.com/666ghj/BettaFish"
+官方网站: "https://deepwiki.com/666ghj/BettaFish"
+开源协议: "GNU General Public License v2.0"
+主要语言: "Python"
+统计快照: "Stars 35668，Forks 6823，Watchers 198（抓取时间：2026-02-22）"
+版本快照: "最新发布 v3.0.0（发布时间：2025-12-23T03:31:38Z）"
+---
 
 ## 摘要
+
 ### 一句话总结
 微舆（BettaFish）是一个基于纯Python从零构建的多智能体舆情分析系统，通过多Agent“论坛”协作机制和多模态解析能力，实现跨平台数据的全自动收集、深度分析与交互式报告生成。
 
@@ -23,39 +25,46 @@
 *   **多模态与数据融合**：突破图文限制，支持短视频内容解析与结构化信息卡片提取；同时提供安全接口，支持公域舆情与企业内部私有数据库无缝融合。
 *   **生态闭环**：项目已与最新发布的群体智能预测引擎“MiroFish”全线贯通，构建了从原始数据收集、舆情分析到未来全景预测的完整决策闭环。
 
-
 ## 功能与定位
+
 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 
 ## 典型使用场景
+
 - 用于快速搭建 AI 应用、工作流或服务化能力。
 - 作为上层产品的能力底座，统一模型调用与业务集成。
 
 ## 核心功能
+
 - 提供应用框架或平台化能力。
 - 支持模型接入、流程编排或接口服务化。
 - 面向开发与部署提供基础工程支持。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T11:07:43Z。
 - 项目创建于 2024-07-01T13:11:38Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/666ghj/BettaFish
 - 官网：https://deepwiki.com/666ghj/BettaFish
 - README：https://raw.githubusercontent.com/666ghj/BettaFish/main/README.md
 - Releases：https://github.com/666ghj/BettaFish/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/llm]]

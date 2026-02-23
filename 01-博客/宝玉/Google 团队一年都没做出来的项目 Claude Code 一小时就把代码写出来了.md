@@ -1,9 +1,10 @@
-# Google 团队一年都没做出来的项目 Claude Code 一小时就把代码写出来了
+---
+title: "Google 团队一年都没做出来的项目 Claude Code 一小时就把代码写出来了"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/claude-code-beats-google-team-on-year-long-project-in-hour
-- 发布日期：2026-01-05
-- 作者：宝玉
+来源: "https://baoyu.io/blog/claude-code-beats-google-team-on-year-long-project-in-hour"
+发布日期: "2026-01-05"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -25,6 +26,7 @@ Google 首席工程师利用 Claude Code 在一小时内生成了团队耗时一
 *   **大公司组织风险**：大公司内部让不同团队和利益方达成共识极其困难，这种高昂的“对齐成本”在 AI 时代被无情放大。
 
 ## 正文
+
 前几天 Google 首席工程师（Principal Engineer）Jaana Dogan 发了一条推文：
 
 “我们团队去年一整年都在做分布式 Agent 编排系统，各种方案，各种分歧，始终没有定论。我把问题描述给 Claude Code，它一个小时就生成了我们去年做的东西。”

@@ -1,9 +1,10 @@
-# OpenAI 连续 12 天 AI 发布会：第十二天 —— 最新一代推理模型 o3 和 o3-mini 发布介绍
+---
+title: "OpenAI 连续 12 天 AI 发布会：第十二天 —— 最新一代推理模型 o3 和 o3-mini 发布介绍"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/openai-day12-o3-o3-mini-model-release
-- 发布日期：2024-12-20
-- 作者：宝玉
+来源: "https://baoyu.io/blog/openai-day12-o3-o3-mini-model-release"
+发布日期: "2024-12-20"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@ OpenAI 发布了新一代高性能推理模型 o3 及高性价比的 o3-mini，�
 *   **长尾问题挑战**：在处理 GPQA 等极其复杂的数据集时，极难的长尾问题仍然是模型评估和表现上的难点。
 
 ## 正文
+
 [https://www.bilibili.com/video/BV1hYkDYrEDx](https://www.bilibili.com/video/BV1hYkDYrEDx)
 
 OpenAI 连续 12 天 AI 发布会：第十二天 —— 最新一代推理模型 o3 和 o3-mini 发布介绍

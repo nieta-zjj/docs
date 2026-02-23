@@ -1,10 +1,10 @@
-# 推出 OpenAI for India
+---
+title: "推出 OpenAI for India"
 
-## 文档信息
-
-- 来源：https://www.openai.com/index/openai-for-india/
-- 发布日期：2026-02-18
-- 译注：未找到官方中文版本，本文基于英文原文翻译整理。
+来源: "https://www.openai.com/index/openai-for-india/"
+发布日期: "2026-02-18"
+译注: "未找到官方中文版本，本文基于英文原文翻译整理。"
+---
 
 ## 摘要
 

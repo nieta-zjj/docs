@@ -1,15 +1,17 @@
-# uBlock：专为 Chromium 和 Firefox 设计的开源、高效且占用资源极低的广谱内容拦截工具，旨在保护用户隐私并拦截广告、追踪器及恶意网站
+---
+title: "uBlock：专为 Chromium 和 Firefox 设计的开源、高效且占用资源极低的广谱内容拦截工具，旨在保护用户隐私并拦截广告、追踪器及恶意网站"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `gorhill/uBlock`
-- 项目主页：https://github.com/gorhill/uBlock
-- 开源协议：GNU General Public License v3.0
-- 主要语言：JavaScript
-- 统计快照：Stars 61690，Forks 3950，Watchers 1013（抓取时间：2026-02-22）
-- 版本快照：最新发布 1.69.1b4（发布时间：2026-02-07T16:56:59Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `gorhill/uBlock`"
+项目主页: "https://github.com/gorhill/uBlock"
+开源协议: "GNU General Public License v3.0"
+主要语言: "JavaScript"
+统计快照: "Stars 61690，Forks 3950，Watchers 1013（抓取时间：2026-02-22）"
+版本快照: "最新发布 1.69.1b4（发布时间：2026-02-07T16:56:59Z）"
+---
 
 ## 摘要
+
 1) 一句话总结
 uBlock Origin (uBO) 是一款专为 Chromium 和 Firefox 设计的开源、高效且占用资源极低的广谱内容拦截工具，旨在保护用户隐私并拦截广告、追踪器及恶意网站。
 
@@ -28,36 +30,44 @@ uBlock Origin (uBO) 是一款专为 Chromium 和 Firefox 设计的开源、高�
 * **兼容性冲突风险**：官方明确警告**切勿**将 uBO 与其他内容拦截器同时使用，否则会破坏 uBO 的隐私保护及反拦截器破解功能。
 
 ## 功能与定位
+
 uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
 ## 典型使用场景
+
 - 作为通用开发工具用于工程协作与效率提升。
 - 适用于个人与团队的日常研发流程。
 
 ## 核心功能
+
 - 提供稳定的通用工程能力。
 - 支持跨平台或多环境使用。
 - 依赖开源社区持续迭代。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:33:15Z。
 - 项目创建于 2015-04-01T17:51:11Z，具备持续迭代与社区沉淀。
 - 以 `JavaScript` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/gorhill/uBlock
 - README：https://raw.githubusercontent.com/gorhill/uBlock/master/README.md
 - Releases：https://github.com/gorhill/uBlock/releases
 
 ## 关联主题
+
 - [[00-元语/tool]]
 - [[00-元语/github]]
 - [[00-元语/security]]

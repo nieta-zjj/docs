@@ -1,9 +1,10 @@
-# 为什么越是老程序员学 React 越是难学
+---
+title: "为什么越是老程序员学 React 越是难学"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/why-senior-developers-find-react-harder-to-learn
-- 发布日期：2024-10-19
-- 作者：宝玉
+来源: "https://baoyu.io/blog/why-senior-developers-find-react-harder-to-learn"
+发布日期: "2024-10-19"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -25,6 +26,7 @@
 *   **资源局限性**：Vercel Templates 提供的开源项目虽然质量高，但其缺点是与 Next.js 框架绑定得比较深。
 
 ## 正文
+
 > 初学者：第二次尝试学习 React 了，还是学不会，感觉上一次的学习经历没留下任何记忆。
 >
 >

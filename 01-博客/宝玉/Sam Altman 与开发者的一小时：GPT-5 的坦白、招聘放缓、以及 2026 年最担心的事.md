@@ -1,9 +1,10 @@
-# Sam Altman 与开发者的一小时：GPT-5 的坦白、招聘放缓、以及 2026 年最担心的事
+---
+title: "Sam Altman 与开发者的一小时：GPT-5 的坦白、招聘放缓、以及 2026 年最担心的事"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/2026/01/27/sam-altman-developer-townhall-gpt5
-- 发布日期：2026-01-27
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026/01/27/sam-altman-developer-townhall-gpt5"
+发布日期: "2026-01-27"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -25,6 +26,7 @@
 *   **财富与权力集中**：虽然 AI 会带来大规模通缩和赋能，但存在 AI 导致权力和财富极度集中的风险，Altman 强调阻止这种情况发生应是政策的主要目标之一。
 
 ## 正文
+
 ![Image 1](https://s.baoyu.io/imgs/2026-01-27/sam-altman-developer-townhall-gpt5/cover.png)
 
 > “我原本坚决认为绝对不会给 Codex 无监督访问我的电脑。结果大概撑了两个小时就放弃了。”

@@ -1,12 +1,12 @@
-# Clawdbot 如何记住一切：本地持久记忆系统解析
+---
+title: "Clawdbot 如何记住一切：本地持久记忆系统解析"
 
-## 文档信息
-
-- 原文标题：How Clawdbot Remembers Everything
-- 作者：Manthan Gupta
-- 来源：https://manthanguptaa.in/posts/clawdbot_memory/
-- 发布日期：2026-01-26
-- 译注：原文无官方中文版本，正文为基于原文的中文翻译。
+原文标题: "How Clawdbot Remembers Everything"
+作者: "Manthan Gupta"
+来源: "https://manthanguptaa.in/posts/clawdbot_memory/"
+发布日期: "2026-01-26"
+译注: "原文无官方中文版本，正文为基于原文的中文翻译。"
+---
 
 ## 摘要
 

@@ -1,10 +1,10 @@
-# 提示词救不了平庸的 AI 写作
+---
+title: "提示词救不了平庸的 AI 写作"
 
-## 文档信息
-
-- 来源：https://baoyu.io/blog/2026-02-19/ai-writing-beyond-prompts
-- 发布日期：2026-02-19
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026-02-19/ai-writing-beyond-prompts"
+发布日期: "2026-02-19"
+作者: "宝玉"
+---
 
 ## 摘要
 

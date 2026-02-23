@@ -1,9 +1,10 @@
-# YC 编写的 Vibe Coding 指南
+---
+title: "YC 编写的 Vibe Coding 指南"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/yc-vibe-coding-guide
-- 发布日期：2025-09-16
-- 作者：宝玉
+来源: "https://baoyu.io/blog/yc-vibe-coding-guide"
+发布日期: "2025-09-16"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -28,6 +29,7 @@
 *   **文件体积限制**：单个文件代码量过大（膨胀到数千行）会严重影响 AI 的理解和处理能力。
 
 ## 正文
+
 ![Image 1](https://baoyu.io/uploads/2025-09-16/1758059550818.png)![Image 2](https://baoyu.io/uploads/2025-09-16/1758059567892.png)
 
 与 AI 结对编程，就像是拥有了一位虽然才华横溢、但偶尔会“走神”的实习生。它能在一小时内帮你完成过去需要一周才能搞定的工作，但有时也会在你项目的核心代码里悄悄埋下一个“惊喜”。

@@ -1,9 +1,10 @@
-# GPT 无法翻译超长内容的提示词优化尝试
+---
+title: "GPT 无法翻译超长内容的提示词优化尝试"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/gpt/gpt-translation-long-content-optimization
-- 发布日期：2024-10-09
-- 作者：宝玉
+来源: "https://baoyu.io/blog/gpt/gpt-translation-long-content-optimization"
+发布日期: "2024-10-09"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -25,6 +26,7 @@
 * **模型计算能力缺陷**：GPT 的数学计算能力较弱，无法准确预估和输出长文的总页数。
 
 ## 正文
+
 最近科技文章翻译 [**GPT**](https://baoyu.io/blog/gpt/gpt-translation-long-content-optimization#)[**https://chatgpt.com/g/g-uBhKUJJTl-ke-ji-wen-zhang-fan-yi**](https://chatgpt.com/g/g-uBhKUJJTl-ke-ji-wen-zhang-fan-yi) 一直有用户反馈内容长了就不翻译，变成摘要了，这是由于内容一长，**GPT-4o** “变懒”了，于是不翻译完整内容，只是摘要。
 
 其实我一直很困扰这个问题，最早写过插件自动拆分，但是由于 OpenAI 频繁改版网页早已无法使用，最近都是手动拆分，也挺麻烦的。
@@ -192,6 +194,7 @@ Now please translate the content below:
 ```
 
 ## 关联主题
+
 - [[00-元语/ChatGPT]]
 - [[00-元语/OpenAI]]
 - [[00-元语/prompt]]

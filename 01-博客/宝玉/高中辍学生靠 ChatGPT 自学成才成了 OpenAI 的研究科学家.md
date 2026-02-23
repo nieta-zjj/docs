@@ -1,10 +1,10 @@
-# 高中辍学生靠 ChatGPT 自学成才成了 OpenAI 的研究科学家
+---
+title: "高中辍学生靠 ChatGPT 自学成才成了 OpenAI 的研究科学家"
 
-## 文档信息
-
-- 来源：https://baoyu.io/blog/2026-02-17/gabriel-petersson-openai-dropout
-- 发布日期：2026-02-17
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026-02-17/gabriel-petersson-openai-dropout"
+发布日期: "2026-02-17"
+作者: "宝玉"
+---
 
 ## 摘要
 

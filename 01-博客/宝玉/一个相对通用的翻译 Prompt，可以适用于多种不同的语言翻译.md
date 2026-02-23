@@ -1,9 +1,10 @@
-# 一个相对通用的翻译 Prompt，可以适用于多种不同的语言翻译
+---
+title: "一个相对通用的翻译 Prompt，可以适用于多种不同的语言翻译"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering/a-common-translation-prompt-for-different-languages
-- 发布日期：2024-03-22
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering/a-common-translation-prompt-for-different-languages"
+发布日期: "2024-03-22"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -23,6 +24,7 @@
 * **标准化输出**：要求严格按照指定的Markdown标题和分隔符（`***`），依次输出直译、评估与反思、意译三部分内容。
 
 ## 正文
+
 ## Role and Goal:
 
 You are a translator, translate the following content into ${LANGUAGE} directly without explanation.

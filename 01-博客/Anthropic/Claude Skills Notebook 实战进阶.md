@@ -1,13 +1,14 @@
-# Claude Skills Notebook 实战进阶
+---
+title: "Claude Skills Notebook 实战进阶"
 
-## 文档信息
-发布日期：2026-02-17
-来源仓库：anthropics/claude-cookbooks
-原文链接：https://github.com/anthropics/claude-cookbooks/tree/main/skills/notebooks
-覆盖范围：
-- `skills/notebooks/01_skills_introduction.ipynb`
-- `skills/notebooks/02_skills_financial_applications.ipynb`
-- `skills/notebooks/03_skills_custom_development.ipynb`
+发布日期: "2026-02-17"
+来源仓库: "anthropics/claude-cookbooks"
+原文链接: "https://github.com/anthropics/claude-cookbooks/tree/main/skills/notebooks"
+覆盖范围:
+  - "`skills/notebooks/01_skills_introduction.ipynb`"
+  - "`skills/notebooks/02_skills_financial_applications.ipynb`"
+  - "`skills/notebooks/03_skills_custom_development.ipynb`"
+---
 
 ## 摘要
 
@@ -28,6 +29,7 @@
 *   **版本升级风险**：自定义 Skills 在升级时存在破坏旧任务的风险，必须配备最小回归测试以避免此问题。
 
 ## 正文
+
 该分组把 Skills 的使用方式拆成三层：基础接入、业务化应用、自定义扩展。对于已经在用 Claude API 的团队，这三层对应了“试点 -> 上线 -> 平台化”的常见路径。
 
 ### 能力主线
@@ -59,10 +61,12 @@ def create_skills_message(client, prompt, skills, prefix="", show_token_usage=Tr
 - 自定义 Skills 要有最小回归测试，避免升级破坏旧任务。
 
 ## 相关文档
+
 - [[01-博客/Anthropic/Claude Skills Cookbook 使用指南|Claude Skills Cookbook 使用指南]]；关联理由：解说；说明：该文提供 Skills 的完整概念与能力边界，是本篇 Notebook 实战内容的基础说明。
 - [[01-博客/Anthropic/Claude Skills Cookbook 开发与排障手册|Claude Skills Cookbook 开发与排障手册]]；关联理由：上下游；说明：本篇强调实战进阶，手册补充了同一能力在真实开发中的排障与验证流程。
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/skills]]
 - [[00-元语/sdk]]

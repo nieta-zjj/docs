@@ -1,13 +1,14 @@
-# Claude Agent SDK Notebook 实战进阶
+---
+title: "Claude Agent SDK Notebook 实战进阶"
 
-## 文档信息
-发布日期：2026-02-17
-来源仓库：anthropics/claude-cookbooks
-原文链接：https://github.com/anthropics/claude-cookbooks/tree/main/claude_agent_sdk
-覆盖范围：
-- `claude_agent_sdk/00_The_one_liner_research_agent.ipynb`
-- `claude_agent_sdk/01_The_chief_of_staff_agent.ipynb`
-- `claude_agent_sdk/02_The_observability_agent.ipynb`
+发布日期: "2026-02-17"
+来源仓库: "anthropics/claude-cookbooks"
+原文链接: "https://github.com/anthropics/claude-cookbooks/tree/main/claude_agent_sdk"
+覆盖范围:
+  - "`claude_agent_sdk/00_The_one_liner_research_agent.ipynb`"
+  - "`claude_agent_sdk/01_The_chief_of_staff_agent.ipynb`"
+  - "`claude_agent_sdk/02_The_observability_agent.ipynb`"
+---
 
 ## 摘要
 
@@ -25,6 +26,7 @@
 *   **观测指标**：可观测性建设需要与业务指标强关联，避免仅记录底层技术日志。
 
 ## 正文
+
 这组 notebook 给出从“最小可运行 Agent”到“多角色协同 + 可观测”的完整演进路线。相比只读 README，notebook 展示了更具体的调用循环、工具约束和输出追踪方式。
 
 ### 能力主线
@@ -51,10 +53,12 @@ async for msg in query(
 - 可观测性要与业务指标关联，避免只记录技术日志。
 
 ## 相关文档
+
 - [[01-博客/Anthropic/使用 Claude Agent SDK 构建强大智能体教程|使用 Claude Agent SDK 构建强大智能体教程]]；关联理由：解说；说明：该文对应同一套 Claude Agent SDK 教程总览，补充了本篇三份 Notebook 的环境准备与能力边界。
 - [[01-博客/Anthropic/Claude Agent Workflow Notebook 实战|Claude Agent Workflow Notebook 实战]]；关联理由：上下游；说明：该文先给出通用多 Agent 工作流模板，本篇再落到 Claude Agent SDK 的工程化实战实现。
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/Agent]]
 - [[00-元语/memory]]

@@ -1,9 +1,9 @@
-# Agent Builder 中的记忆使用方法
+---
+title: "Agent Builder 中的记忆使用方法"
 
-## 文档信息
-
-- 发布日期：2026-02-19
-- 原文链接：https://blog.langchain.com/how-to-use-memory-in-agent-builder/
+发布日期: "2026-02-19"
+原文链接: "https://blog.langchain.com/how-to-use-memory-in-agent-builder/"
+---
 
 ## 摘要
 

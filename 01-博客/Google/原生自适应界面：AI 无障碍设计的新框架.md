@@ -1,9 +1,11 @@
-# 原生自适应界面：AI 无障碍设计的新框架
+---
+title: "原生自适应界面：AI 无障碍设计的新框架"
 
-## 文档信息
-- 来源：https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/
+来源: "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/"
+---
 
 ## 摘要
+
 **一句话总结**
 Google 提出了“原生自适应界面”（NAI）框架，利用 AI 技术将无障碍功能直接融入产品设计的底层，通过与残障社群紧密合作，打造能够主动适应用户个性化需求的辅助技术。
 
@@ -17,6 +19,7 @@ Google 提出了“原生自适应界面”（NAI）框架，利用 AI 技术将
 *   **Grammar Lab 案例**：RIT/NTID 基于 Gemini 模型开发了 AI 辅导工具 Grammar Lab，通过生成个性化多项选择题，帮助学生独立巩固美国手语（ASL）和英语的语言基础。
 
 ## 正文
+
 我们始终坚信，当技术能够服务于每一个人时，它才能发挥出最大的价值，在无障碍领域尤其如此。长期以来，人们不得不去适应技术，而现在，我们希望打造能够主动适应人的技术。
 
 这正是“原生自适应界面”（Natively Adaptive Interfaces，简称 NAI）背后的核心理念。在 Google.org 的支持下，Google 正利用 AI 技术将无障碍功能直接融入产品设计中，让无障碍成为产品的默认设置，而非事后的补充。我们的研究目标，是从一开始就构建出更具个性化、更高效的辅助技术。
@@ -43,3 +46,11 @@ NAI 框架始终遵循一个核心原则：“关于我们的事，不能没有�
 Grammar Lab 是一款由 RIT/NTID 英语讲师 Erin Finton 开发、基于 Gemini 模型构建的 AI 辅导工具。作为 RIT/NTID 工程师、学生与 Google 合作的结晶，Grammar Lab 将 RIT/NTID 和 Erin 多年的专业课程转化为一款自适应工具。它利用 AI 创建个性化的多项选择题，紧密围绕学生的技能以及美国手语（ASL）和英语的语言目标。这使得学生能够更加独立、自信地巩固 ASL 和英语的语言基础。我们最近在 BBC StoryWorks 商业制作公司制作的影片中展示了这款工具，呈现了它如何帮助 Erin 更好地支持学生的学习。
 
 我们对非营利组织主导的这些创新举措感到兴奋。我们相信，通过继续与残障社群携手开发，我们能够助力打造一个更加无障碍的世界。
+
+## 关联主题
+
+- [[00-元语/AI]]
+- [[00-元语/Agent]]
+- [[00-元语/design]]
+- [[00-元语/community]]
+- [[00-元语/gemini]]

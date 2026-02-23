@@ -1,9 +1,10 @@
-# 如何让 GPT-4 帮你写 Prompt？
+---
+title: "如何让 GPT-4 帮你写 Prompt？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering/how-to-write-prompt-with-gpt-4
-- 发布日期：2023-10-24
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering/how-to-write-prompt-with-gpt-4"
+发布日期: "2023-10-24"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -22,6 +23,7 @@
 *   **步骤拆解依赖人工提示**：如果用户自身不能提供清晰的步骤，GPT-4 可能无法将 Prompt 科学地拆分为合理的步骤（例如，在翻译任务中，除非明确要求，否则它不会主动写出“先直译再意译”的两步 Prompt）。
 
 ## 正文
+
 很多人苦于不知道如何写高质量的 Prompt，尤其是如果要用英文表达更是吃力，不容易表达准确。
 
 可以试试让 ChatGPT 帮你写，尤其是 GPT-4，生成的质量还是不错的。

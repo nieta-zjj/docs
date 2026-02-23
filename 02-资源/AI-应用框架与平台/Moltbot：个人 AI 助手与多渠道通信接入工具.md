@@ -1,16 +1,18 @@
-# Moltbot：个人 AI 助手与多渠道通信接入工具
+---
+title: "Moltbot：个人 AI 助手与多渠道通信接入工具"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `moltbot/moltbot`
-- 项目主页：https://github.com/openclaw/openclaw
-- 官方网站：https://openclaw.ai
-- 开源协议：MIT License
-- 主要语言：TypeScript
-- 统计快照：Stars 217476，Forks 41087，Watchers 1200（抓取时间：2026-02-22）
-- 版本快照：最新发布 v2026.2.21（发布时间：2026-02-21T16:56:48Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `moltbot/moltbot`"
+项目主页: "https://github.com/openclaw/openclaw"
+官方网站: "https://openclaw.ai"
+开源协议: "MIT License"
+主要语言: "TypeScript"
+统计快照: "Stars 217476，Forks 41087，Watchers 1200（抓取时间：2026-02-22）"
+版本快照: "最新发布 v2026.2.21（发布时间：2026-02-21T16:56:48Z）"
+---
 
 ## 摘要
+
 ### 一句话总结
 OpenClaw (moltbot) 是一款基于 TypeScript 开发的跨平台个人 AI 助手，支持在自有设备上运行，并能无缝接入 WhatsApp、Telegram、Slack、Discord 等多种主流通讯平台。
 
@@ -26,40 +28,49 @@ OpenClaw (moltbot) 是一款基于 TypeScript 开发的跨平台个人 AI 助手
 * **输入安全风险**：由于 OpenClaw 直接连接真实的外部通讯平台，官方明确警告必须将所有接收到的私信（DMs）视为**不可信输入（untrusted input）**，需注意相关的安全防护。
 
 ## 功能与定位
+
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
 ## 典型使用场景
+
 - 用于快速搭建 AI 应用、工作流或服务化能力。
 - 作为上层产品的能力底座，统一模型调用与业务集成。
 
 ## 核心功能
+
 - 提供应用框架或平台化能力。
 - 支持模型接入、流程编排或接口服务化。
 - 面向开发与部署提供基础工程支持。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:42:28Z。
 - 项目创建于 2025-11-24T10:16:47Z，具备持续迭代与社区沉淀。
 - 以 `TypeScript` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/moltbot/moltbot
 - 官网：https://openclaw.ai
 - README：https://raw.githubusercontent.com/moltbot/moltbot/main/README.md
 - Releases：https://github.com/moltbot/moltbot/releases
 
 ## 相关文档
+
 - [[01-博客/liruifengv/拆解 OpenClaw 的系统提示词，设计的太妙了.md|拆解 OpenClaw 的系统提示词，设计的太妙了]]；关联理由：解说；说明：同一项目的系统提示词拆解文可补充理解其多智能体行为约束与运行机制。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/github]]

@@ -1,9 +1,10 @@
-# 我用 Claude Code 花 2 小时没写一行代码做了一个翻译智能体，并且开源了整个过程
+---
+title: "我用 Claude Code 花 2 小时没写一行代码做了一个翻译智能体，并且开源了整个过程"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/claude-code-translation-agent-opensource
-- 发布日期：2025-06-22
-- 作者：宝玉
+来源: "https://baoyu.io/blog/claude-code-translation-agent-opensource"
+发布日期: "2025-06-22"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -27,6 +28,7 @@
 *   **大版本开发风险**：在 AI 编程中，若试图一次性实现所有功能（憋大版本），会导致生成的代码合并后出现大量 Bug 且无法正常运行。
 
 ## 正文
+
 这周没怎么更新内容，主要是忙于研究 AI Agent，深度体验了 Claude Code，并且模仿着它的原理实现了一个简单的翻译智能体，最终成品效果不错，只要你输入一段要翻译的文字、或者网址、或者本地文件路径，它就能帮你提取要翻译的内容并翻译。
 
 ![Image 1](https://baoyu.io/uploads/2025-06-22/1750555653947.png)

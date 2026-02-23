@@ -1,11 +1,11 @@
-# 如何做 AI Agent 喜欢的基础软件
+---
+title: "如何做 AI Agent 喜欢的基础软件"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/BZcRwgGZNinBK9K2L38LYg
-- 发布日期：2025-12-21
-- 作者：我世界的源代码
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/BZcRwgGZNinBK9K2L38LYg"
+发布日期: "2025-12-21"
+作者: "我世界的源代码"
+---
 
 ## 摘要
 

@@ -1,9 +1,9 @@
-# 使用 MCP 执行代码
+---
+title: "使用 MCP 执行代码"
 
-## 文档信息
-
-- 发布日期：2025-11-04
-- 原文链接：https://www.anthropic.com/engineering/code-execution-with-mcp
+发布日期: "2025-11-04"
+原文链接: "https://www.anthropic.com/engineering/code-execution-with-mcp"
+---
 
 ## 摘要
 

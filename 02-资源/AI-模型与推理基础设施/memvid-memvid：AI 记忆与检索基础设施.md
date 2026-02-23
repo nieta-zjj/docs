@@ -1,11 +1,11 @@
-# memvid-memvid：AI 记忆与检索基础设施
+---
+title: "memvid-memvid：AI 记忆与检索基础设施"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/memvid/memvid
-- 发现评分：100
-- Stars：13179
+发布日期: "2026-02-22"
+来源: "https://github.com/memvid/memvid"
+发现评分: "100"
+Stars: "13179"
+---
 
 ## 摘要
 
@@ -22,24 +22,28 @@ memvid 是一个专为 AI 智能体设计的无服务器、单文件记忆层基
 * **项目热度**：该开源项目在 GitHub 上拥有 13,179 个 Stars。
 
 ## 功能与定位
+
 memvid 是专为 AI 智能体（AI Agents）设计的记忆层基础设施。它的核心定位是通过提供一个无服务器（serverless）、单文件（single-file）的记忆层，来替代传统且复杂的 RAG（检索增强生成）流水线。
 
 ## 典型使用场景
+
 * **智能体记忆增强**：为 AI 智能体赋予长期记忆（long-term memory）能力。
 * **快速信息提取**：在 AI 应用中实现数据的即时检索（instant retrieval）。
 
 ## 核心功能
+
 * **即时检索**：支持为 AI 智能体提供快速的信息查询与调用能力。
 * **长期记忆**：实现智能体状态与数据的持久化存储。
 
 ## 特色与差异点
+
 * **极简架构**：采用单文件（single-file）设计，大幅降低了集成与维护的门槛。
 * **无服务器（Serverless）**：无需管理复杂的后端基础设施即可运行。
 * **替代 RAG**：相较于搭建繁琐的 RAG 管道，memvid 提供了一种更轻量、直接的记忆层解决方案。
 
 ## 链接
-* https://github.com/memvid/memvid
 
+* https://github.com/memvid/memvid
 
 ## 关联主题
 

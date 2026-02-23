@@ -1,16 +1,18 @@
-# Sunshine：开源的自托管低延迟云游戏流媒体服务器，专为 Moonlight 客户端设计
+---
+title: "Sunshine：开源的自托管低延迟云游戏流媒体服务器，专为 Moonlight 客户端设计"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `LizardByte/Sunshine`
-- 项目主页：https://github.com/LizardByte/Sunshine
-- 官方网站：http://app.lizardbyte.dev/Sunshine/
-- 开源协议：GNU General Public License v3.0
-- 主要语言：C++
-- 统计快照：Stars 34663，Forks 1708，Watchers 137（抓取时间：2026-02-22）
-- 版本快照：最新发布 v2026.221.41532（发布时间：2026-02-21T10:04:44Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `LizardByte/Sunshine`"
+项目主页: "https://github.com/LizardByte/Sunshine"
+官方网站: "http://app.lizardbyte.dev/Sunshine/"
+开源协议: "GNU General Public License v3.0"
+主要语言: "C++"
+统计快照: "Stars 34663，Forks 1708，Watchers 137（抓取时间：2026-02-22）"
+版本快照: "最新发布 v2026.221.41532（发布时间：2026-02-21T10:04:44Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Sunshine 是一个开源的自托管低延迟云游戏流媒体服务器，专为 Moonlight 客户端设计，支持多平台硬件编码及 Web UI 配置。
 
@@ -30,37 +32,45 @@ Sunshine 是一个开源的自托管低延迟云游戏流媒体服务器，专�
 * 部分屏幕捕获功能（如 Linux 下的 NVIDIA NvFBC 和 Windows 下的 Windows.Graphics.Capture）目前仅为部分支持（Partial Support）。
 
 ## 功能与定位
+
 Self-hosted game stream host for Moonlight.
 
 ## 典型使用场景
+
 - 作为通用开发工具用于工程协作与效率提升。
 - 适用于个人与团队的日常研发流程。
 
 ## 核心功能
+
 - 提供稳定的通用工程能力。
 - 支持跨平台或多环境使用。
 - 依赖开源社区持续迭代。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T13:00:00Z。
 - 项目创建于 2021-12-15T23:38:57Z，具备持续迭代与社区沉淀。
 - 以 `C++` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/LizardByte/Sunshine
 - 官网：http://app.lizardbyte.dev/Sunshine/
 - README：https://raw.githubusercontent.com/LizardByte/Sunshine/master/README.md
 - Releases：https://github.com/LizardByte/Sunshine/releases
 
 ## 关联主题
+
 - [[00-元语/github]]
 - [[00-元语/self-hosting]]
 - [[00-元语/game]]

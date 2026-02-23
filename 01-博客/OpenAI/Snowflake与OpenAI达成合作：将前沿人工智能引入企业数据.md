@@ -1,10 +1,12 @@
-# Snowflake与OpenAI达成合作：将前沿人工智能引入企业数据
+---
+title: "Snowflake与OpenAI达成合作：将前沿人工智能引入企业数据"
 
-## 文档信息
-- 来源：https://openai.com/index/snowflake-partnership
-- 发布日期：2025-10-14
+来源: "https://openai.com/index/snowflake-partnership"
+发布日期: "2025-10-14"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Snowflake与OpenAI达成了一项价值2亿美元的合作协议，将OpenAI的前沿模型（如GPT-5.2）深度集成到Snowflake的数据平台中，使企业能够在安全合规的环境下直接基于其业务数据构建自定义AI应用和智能代理。
 
@@ -19,6 +21,7 @@ Snowflake与OpenAI达成了一项价值2亿美元的合作协议，将OpenAI的�
 * **内部使用与生态扩展**：Snowflake内部将继续使用ChatGPT Enterprise；此合作也进一步扩展了OpenAI在沃尔玛、PayPal、摩根士丹利等大型企业中的应用版图。
 
 ## 正文
+
 **核心要点：**
 
 *   一项价值2亿美元的新协议将OpenAI的前沿智能技术直接引入Snowflake。
@@ -55,3 +58,17 @@ Snowflake支持包括金融服务、医疗保健、零售、媒体、制造和�
 展望未来，Snowflake和OpenAI团队将密切合作，推出利用OpenAI Apps SDK、AgentKit和API的新功能，以支持共享的企业工作流。作为此项工作的一部分，Snowflake将继续在内部使用ChatGPT Enterprise，以帮助员工更快地做出决策、简化工作流程并更有效地进行协作。
 
 通过此次合作，Snowflake进一步扩展了OpenAI与全球最大、最成熟企业的合作版图，这些企业包括埃森哲（Accenture）、沃尔玛（Walmart）、PayPal、Intuit、Target、赛默飞世尔（Thermo Fisher）、纽约梅隆银行（BNY）、摩根士丹利（Morgan Stanley）以及西班牙外换银行（BBVA）等。
+
+## 相关文档
+
+- [[01-博客/OpenAI/推出 OpenAI Frontier：企业级 AI 代理平台.md|推出 OpenAI Frontier：企业级 AI 代理平台]]；关联理由：上下游；说明：Frontier提供企业级代理部署与治理框架，Snowflake合作是将该能力接入企业数据平台的落地路径。
+- [[01-博客/OpenAI/PVH集团携手OpenAI：以AI重塑时尚行业的未来.md|PVH集团携手OpenAI：以AI重塑时尚行业的未来]]；关联理由：观点一致；说明：两文都聚焦在安全合规前提下把OpenAI能力嵌入企业核心业务流程。
+- [[01-博客/OpenAI/沃尔夫斯堡足球俱乐部：将 ChatGPT 转化为全俱乐部的核心能力.md|沃尔夫斯堡足球俱乐部：将 ChatGPT 转化为全俱乐部的核心能力]]；关联理由：延伸思考；说明：该案例展示企业将ChatGPT Enterprise转化为组织能力的实践，可作为本篇合作价值的应用层参考。
+
+## 关联主题
+
+- [[00-元语/OpenAI]]
+- [[00-元语/AI]]
+- [[00-元语/Agent]]
+- [[00-元语/llm]]
+- [[00-元语/compliance]]

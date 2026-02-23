@@ -1,9 +1,11 @@
-# Claude Code 核心功能与使用概览
+---
+title: "Claude Code 核心功能与使用概览"
 
-## 文档信息
-- 来源：https://www.anthropic.com/engineering/claude-code-best-practices
+来源: "https://www.anthropic.com/engineering/claude-code-best-practices"
+---
 
 ## 摘要
+
 **一句话总结**
 Claude Code 是一款具备智能代理能力的编程工具，支持跨平台与多设备无缝协作，能够通过自动化代码编辑、工具集成和任务流转来显著提升开发效率。
 
@@ -22,6 +24,7 @@ Claude Code 是一款具备智能代理能力的编程工具，支持跨平台�
 *   Chrome 扩展程序目前仍处于 Beta 版阶段。
 
 ## 正文
+
 Claude Code 是一款具备智能代理能力的编程工具（agentic coding tool）。它可以读取你的代码库、编辑文件、运行命令，并与你现有的开发工具无缝集成。无论是在终端、IDE、桌面应用还是浏览器中，你都可以随时随地使用它。
 
 ### 支持的平台与安装方式
@@ -57,3 +60,12 @@ Claude Code 打破了设备与平台的限制，支持跨端无缝协作：
 *   **进阶提升**：学习官方提供的最佳实践（Best practices）和常见工作流（Common workflows）。
 *   **个性化与支持**：通过设置（Settings）为你的工作流定制 Claude Code；遇到问题时可查阅故障排除（Troubleshooting）指南。
 *   **了解更多**：访问 code.claude.com 查看产品演示、定价以及更多产品细节。
+
+## 关联主题
+
+- [[00-元语/Claude]]
+- [[00-元语/Agent]]
+- [[00-元语/mcp]]
+- [[00-元语/cli]]
+- [[00-元语/terminal]]
+- [[00-元语/ide]]

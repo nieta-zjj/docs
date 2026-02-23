@@ -1,9 +1,10 @@
-# AI 搜索进化：深度体验 OpenAI Deep Research
+---
+title: "AI 搜索进化：深度体验 OpenAI Deep Research"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ai-search-evolution-openai-deep-research
-- 发布日期：2025-02-04
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ai-search-evolution-openai-deep-research"
+发布日期: "2025-02-04"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -25,6 +26,7 @@
 *   **职业替代风险**：对于工作核心仅为“简单资料搜集与整理”的岗位，面临较高的被替代风险。
 
 ## 正文
+
 ### 从“老网民”到“AI 时代”
 
 作为一个老网民，我一直引以为傲的技能之一就是——**善用搜索引擎**。只要有几个关键词，就能“顺藤摸瓜”找到各种想要的信息；即使如今 AI 搜索开始流行，我依然会去一些垂直网站或者社交媒体上“精耕细作”：

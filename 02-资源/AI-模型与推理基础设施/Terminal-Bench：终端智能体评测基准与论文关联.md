@@ -1,13 +1,10 @@
-# Terminal-Bench：终端智能体评测基准与论文关联
+---
+title: "Terminal-Bench：终端智能体评测基准与论文关联"
 
-## 文档信息
-
-- 对象：网站与论文关联档案
-- 来源：https://www.tbench.ai/
-- 来源：https://www.tbench.ai/news/announcement-2-0
-- 来源：https://arxiv.org/html/2601.11868v1
-- 来源：https://github.com/laude-institute/terminal-bench
-- 关联说明：论文明确将 `tbench.ai` 作为数据集与评测框架发布入口
+对象: "网站与论文关联档案"
+来源: "https://github.com/laude-institute/terminal-bench"
+关联说明: "论文明确将 `tbench.ai` 作为数据集与评测框架发布入口"
+---
 
 ## 摘要
 

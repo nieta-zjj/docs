@@ -1,9 +1,9 @@
-# Bifrost Gateway 快速开始：设置网关与两种配置模式
+---
+title: "Bifrost Gateway 快速开始：设置网关与两种配置模式"
 
-## 文档信息
-
-- 来源：https://docs.getbifrost.ai/quickstart/gateway/setting-up
-- 译注：站点无官方中文译文，本文基于原文机器翻译并做最小必要整理。
+来源: "https://docs.getbifrost.ai/quickstart/gateway/setting-up"
+译注: "站点无官方中文译文，本文基于原文机器翻译并做最小必要整理。"
+---
 
 ## 摘要
 

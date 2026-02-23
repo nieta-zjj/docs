@@ -1,10 +1,12 @@
-# LangChain 2026年1月产品动态与社区通讯
+---
+title: "LangChain 2026年1月产品动态与社区通讯"
 
-## 文档信息
-- 来源：https://blog.langchain.com/january-2026-langchain-newsletter/
-- 发布日期：2026-01-29
+来源: "https://blog.langchain.com/january-2026-langchain-newsletter/"
+发布日期: "2026-01-29"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 LangChain 2026年1月产品动态重点推出了 LangSmith Agent Builder 正式版与 LLM 实验并排对比功能，并汇总了最新的开源生态升级、学习资源、客户落地案例及全球社区活动安排。
 
@@ -19,6 +21,7 @@ LangChain 2026年1月产品动态重点推出了 LangSmith Agent Builder 正式�
 * **企业级客户实践**：Coinbase 通过标准化智能体技术栈将开发周期从数个季度缩短至数天；Remote 成功构建代码执行智能体，在数小时内实现了复杂薪资数据的自动化处理。
 
 ## 正文
+
 2026年伊始，LangChain 团队带来了一系列全新的智能体（Agent）构建更新、改进的实验对比功能，以及关于可观测性和评估的最新深度阅读。以下是我们在1月份发布的所有核心内容。
 
 ### 产品更新
@@ -79,3 +82,12 @@ AI 智能体大会 **Interrupt 2026** 将于 5月13日至14日 举行。门票�
 *   🇳🇱 **3月26日 | 阿姆斯特丹**：自主系统的崛起社区聚会，探讨架构、运行时及平台在 AI 扩展中的作用。
 
 > 想要获取更多 LangChain 最新动态？请关注 LangChain 博客、更新日志和 YouTube 频道，或订阅我们的官方通讯邮件。
+
+## 关联主题
+
+- [[00-元语/Agent]]
+- [[00-元语/observability]]
+- [[00-元语/evals]]
+- [[00-元语/memory]]
+- [[00-元语/community]]
+- [[00-元语/llm]]

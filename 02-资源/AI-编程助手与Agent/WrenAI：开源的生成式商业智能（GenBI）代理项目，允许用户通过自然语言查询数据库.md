@@ -1,16 +1,18 @@
-# WrenAI：开源的生成式商业智能（GenBI）代理项目，允许用户通过自然语言查询数据库
+---
+title: "WrenAI：开源的生成式商业智能（GenBI）代理项目，允许用户通过自然语言查询数据库"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `Canner/WrenAI`
-- 项目主页：https://github.com/Canner/WrenAI
-- 官方网站：https://getwren.ai/oss
-- 开源协议：GNU Affero General Public License v3.0
-- 主要语言：TypeScript
-- 统计快照：Stars 14447，Forks 1543，Watchers 90（抓取时间：2026-02-22）
-- 版本快照：最新发布 0.29.1（发布时间：2025-11-28T11:00:35Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `Canner/WrenAI`"
+项目主页: "https://github.com/Canner/WrenAI"
+官方网站: "https://getwren.ai/oss"
+开源协议: "GNU Affero General Public License v3.0"
+主要语言: "TypeScript"
+统计快照: "Stars 14447，Forks 1543，Watchers 90（抓取时间：2026-02-22）"
+版本快照: "最新发布 0.29.1（发布时间：2025-11-28T11:00:35Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 WrenAI 是一个开源的生成式商业智能（GenBI）代理项目，允许用户通过自然语言查询数据库，并快速生成准确的 SQL、数据图表和 AI 业务洞察。
 
@@ -27,37 +29,45 @@ WrenAI 是一个开源的生成式商业智能（GenBI）代理项目，允许�
 *   **模型能力依赖**：官方明确警告，Wren AI 的表现高度依赖于所选 LLM 的能力。如果使用能力较弱的模型，可能会导致性能下降、响应速度变慢或输出结果不准确（强烈建议使用当前可用的最强模型）。
 
 ## 功能与定位
+
 ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.
 
 ## 典型使用场景
+
 - 用于智能体开发、编排与执行链路搭建。
 - 适合 AI 编程助手与自动化协作流程建设。
 
 ## 核心功能
+
 - 支持 Agent 工具调用、任务分解或上下文管理。
 - 提供与开发环境协作的自动化能力。
 - 强调可扩展、可观测与工程集成。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T09:36:58Z。
 - 项目创建于 2024-03-13T06:18:20Z，具备持续迭代与社区沉淀。
 - 以 `TypeScript` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/Canner/WrenAI
 - 官网：https://getwren.ai/oss
 - README：https://raw.githubusercontent.com/Canner/WrenAI/main/README.md
 - Releases：https://github.com/Canner/WrenAI/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/llm]]

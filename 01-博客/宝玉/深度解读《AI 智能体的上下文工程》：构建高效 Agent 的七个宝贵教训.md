@@ -1,9 +1,10 @@
-# 深度解读《AI 智能体的上下文工程》：构建高效 Agent 的七个宝贵教训
+---
+title: "深度解读《AI 智能体的上下文工程》：构建高效 Agent 的七个宝贵教训"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/explain-Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus
-- 发布日期：2025-07-20
-- 作者：宝玉
+来源: "https://baoyu.io/blog/explain-Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus"
+发布日期: "2025-07-20"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -25,6 +26,7 @@
 * **“少样本学习”陷阱**：Agent 的历史对话消息会被 LLM 当作少样本进行学习，如果历史任务和结果高度相似（例如连续判定多份简历不通过），会导致模型陷入思维定式，输出结果严重同质化。
 
 ## 正文
+
 最近读了 Manus 团队的文章 [Context Engineering for AI Agents: Lessons from Building Manus](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)**《**[**AI 智能体的上下文工程：构建 Manus 的经验教训**](https://baoyu.io/translations/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)**》**，觉得对于从事 Agent 开发的同行非常有借鉴意义。这篇文章干货满满，其中的经验一看便知是经过大量实践和踩坑才总结出来的，能如此无私地分享，实属难得，必须点赞。
 
 但原文写得相对专业和技术化，若没有一定的 Agent 开发经验，可能不易完全理解。因此，我在这里结合自己的理解，为大家做一些解读。当然，我的解读不保证百分之百准确，建议最好能结合原文反复阅读。如有错漏之处，也请不吝指正。

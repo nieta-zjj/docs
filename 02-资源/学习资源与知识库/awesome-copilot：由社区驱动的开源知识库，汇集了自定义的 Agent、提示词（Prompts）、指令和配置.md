@@ -1,16 +1,18 @@
-# awesome-copilot：由社区驱动的开源知识库，汇集了自定义的 Agent、提示词（Prompts）、指令和配置
+---
+title: "awesome-copilot：由社区驱动的开源知识库，汇集了自定义的 Agent、提示词（Prompts）、指令和配置"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `github/awesome-copilot`
-- 项目主页：https://github.com/github/awesome-copilot
-- 官方网站：https://github.github.com/awesome-copilot/
-- 开源协议：MIT License
-- 主要语言：JavaScript
-- 统计快照：Stars 22094，Forks 2531，Watchers 295（抓取时间：2026-02-22）
-- 版本快照：暂无正式发布记录
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `github/awesome-copilot`"
+项目主页: "https://github.com/github/awesome-copilot"
+官方网站: "https://github.github.com/awesome-copilot/"
+开源协议: "MIT License"
+主要语言: "JavaScript"
+统计快照: "Stars 22094，Forks 2531，Watchers 295（抓取时间：2026-02-22）"
+版本快照: "暂无正式发布记录"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 `github/awesome-copilot` 是一个由社区驱动的开源知识库，汇集了自定义的 Agent、提示词（Prompts）、指令和配置，旨在全面增强和定制化 GitHub Copilot 的使用体验。
 
@@ -28,37 +30,45 @@
 * **权限与操作风险**：用户在安装任何 Agent 之前，必须仔细检查其代码和文档，以防范其可能请求的敏感权限或执行的潜在高风险操作。
 
 ## 功能与定位
+
 Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 
 ## 典型使用场景
+
 - 作为学习与选型参考入口，快速定位资料与最佳实践。
 - 用于团队知识库沉淀与技术调研。
 
 ## 核心功能
+
 - 汇总课程、示例、清单或社区经验。
 - 强调可检索性与持续更新。
 - 适合学习路径规划与资源导航。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T13:05:27Z。
 - 项目创建于 2025-06-11T16:57:39Z，具备持续迭代与社区沉淀。
 - 以 `JavaScript` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/github/awesome-copilot
 - 官网：https://github.github.com/awesome-copilot/
 - README：https://raw.githubusercontent.com/github/awesome-copilot/main/README.md
 - Releases：https://github.com/github/awesome-copilot/releases
 
 ## 关联主题
+
 - [[00-元语/copilot]]
 - [[00-元语/github]]
 - [[00-元语/llm]]

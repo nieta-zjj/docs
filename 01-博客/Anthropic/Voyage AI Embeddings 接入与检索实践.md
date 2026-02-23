@@ -1,13 +1,15 @@
-# Voyage AI Embeddings 接入与检索实践
+---
+title: "Voyage AI Embeddings 接入与检索实践"
 
-## 文档信息
-发布日期：2024-04-26
-作者：Anthropic
-来源仓库：anthropics/claude-cookbooks
-原文链接：https://github.com/anthropics/claude-cookbooks/blob/main/third_party/VoyageAI/how_to_create_embeddings.md
-译注：原文为英文仓库文档，本稿为中文整理版。
+发布日期: "2024-04-26"
+作者: "Anthropic"
+来源仓库: "anthropics/claude-cookbooks"
+原文链接: "https://github.com/anthropics/claude-cookbooks/blob/main/third_party/VoyageAI/how_to_create_embeddings.md"
+译注: "原文为英文仓库文档，本稿为中文整理版。"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Anthropic 通过与 Voyage AI 合作提供文本嵌入服务，开发者可通过 Python 包、HTTP API 或 AWS 访问其通用及特定领域优化的嵌入模型。
 
@@ -25,12 +27,14 @@ Anthropic 通过与 Voyage AI 合作提供文本嵌入服务，开发者可通�
 *   **超长文本报错风险**：在生成嵌入时，如果 `truncation` 参数设为 `False` 且文本超过上下文长度，或者在默认（`None`）设置下文本大幅超出上下文窗口限制，系统将直接引发错误。
 
 ## 正文
+
 # 嵌入 (Embeddings)
 文本嵌入是文本字符串的数字表示，表示为浮点数向量。我们可以使用两个文本嵌入之间的距离（通常是余弦相似度）来衡量两段文本之间的相关性，距离越小预测的相关性越高。
 
 比较字符串的相似度，或根据它们之间的距离对字符串进行聚类，可以实现多种应用，包括**搜索**（在 RAG 架构中很流行）、**推荐**和**异常检测**。
 
 ## 如何使用 Anthropic 获取嵌入
+
 虽然 Anthropic 不提供自己的嵌入模型，但我们已与 [Voyage AI](https://www.voyageai.com/?ref=anthropic) 合作，将其作为我们首选的文本嵌入提供商。Voyage 提供[最先进的 (state of the art)](https://blog.voyageai.com/2023/10/29/voyage-embeddings/?ref=anthropic) 嵌入模型，甚至提供针对金融和医疗保健等特定行业领域定制的模型，以及可以为您的公司进行微调的模型。
 
 要访问 Voyage 嵌入，请首先在 [Voyage AI 网站](https://dash.voyageai.com/?ref=anthropic)上注册，获取 API 密钥，并为了方便起见将该 API 密钥设置为环境变量：
@@ -136,7 +140,6 @@ Voyage AI 的嵌入端点是 `https://api.voyageai.com/v1/embeddings` (POST)。�
     - 如果未指定（默认为 `None`）：嵌入表示为浮点数列表；
     - `"base64"`：嵌入被压缩为 [Base64](https://docs.python.org/3/library/base64.html) 编码。
 
-
 ### AWS Marketplace
 
 Voyage 嵌入可在 [AWS Marketplace](https://aws.amazon.com/marketplace/seller-profile?id=seller-snt4gb6fd7ljg) 上获取。以下是在 AWS 上访问 Voyage 的说明：
@@ -151,7 +154,6 @@ Voyage 嵌入可在 [AWS Marketplace](https://aws.amazon.com/marketplace/seller-
 2. 部署模型包
 
     从现在开始，我们建议您继续使用我们在 [Sagemaker Studio](https://aws.amazon.com/sagemaker/studio/) 中提供的 notebook（`https://github.com/voyage-ai/voyageai-aws/blob/main/notebooks/deploy_voyage_code_2_sagemaker.ipynb`）。请创建一个 JupyterLab 空间，上传我们的 notebook，然后从那里继续。
-
 
 ## 可用模型
 
@@ -172,6 +174,7 @@ Voyage 正在积极开发更高级和专业的模型，并可以为您的公司�
 - `voyage-healthcare-2`: 敬请期待
 
 ## 引导示例
+
 既然我们已经知道如何获取嵌入，让我们来看一个简短的引导示例。
 
 假设我们有一个包含六个文档的小型语料库可供检索：
@@ -235,6 +238,7 @@ Apple’s conference call to discuss fourth fiscal quarter results and business 
 如果您正在寻找关于如何使用嵌入（包括向量数据库）进行 RAG 的详细 Cookbook，请查看我们的 RAG Cookbook（`https://github.com/anthropics/anthropic-cookbook/blob/main/third_party/Pinecone/rag_using_pinecone.ipynb`）。
 
 ## 常见问题解答
+
 ### 如何计算两个嵌入向量之间的距离？
 余弦相似度是一个常见的选择，但大多数距离函数都可以很好地工作。Voyage 嵌入被归一化为长度 1，因此余弦相似度本质上与两个向量之间的点积相同。以下是可用于计算两个嵌入向量之间余弦相似度的代码片段。
 
@@ -258,6 +262,7 @@ total_tokens = vo.count_tokens(["Sample text"])
 ```
 
 ## 定价
+
 定价信息可在 Voyage 网站的[定价页面](https://docs.voyageai.com/pricing/?ref=anthropic)上获取，请前往该页面查看。
 
 ## 相关文档
@@ -266,6 +271,7 @@ total_tokens = vo.count_tokens(["Sample text"])
 - [[01-博客/Anthropic/Claude Cookbooks 项目总览与能力地图|Claude Cookbooks 项目总览与能力地图]]；关联理由：引用；说明：该文在 third_party 集成目录中直接引用本篇作为 Voyage embeddings 入口。
 
 ## 关联主题
+
 - [[00-元语/rag]]
 - [[00-元语/llm]]
 - [[00-元语/sdk]]

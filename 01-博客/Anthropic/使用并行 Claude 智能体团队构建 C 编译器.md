@@ -1,9 +1,11 @@
-# 使用并行 Claude 智能体团队构建 C 编译器
+---
+title: "使用并行 Claude 智能体团队构建 C 编译器"
 
-## 文档信息
-- 来源：https://www.anthropic.com/engineering/building-c-compiler
+来源: "https://www.anthropic.com/engineering/building-c-compiler"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Anthropic研究员通过构建无人类干预的并行Claude智能体团队，耗时两周且花费约2万美元，自主从零开发了一个包含10万行代码、能够跨架构编译Linux内核的Rust版C编译器。
 
@@ -23,6 +25,7 @@ Anthropic研究员通过构建无人类干预的并行Claude智能体团队，�
 *   **自主开发的安全隐患**：完全自主的系统容易让人误以为“测试通过即代表工作完成”；程序员如果直接部署未经人工亲自验证的AI生成代码，将带来真实的安全风险。
 
 ## 正文
+
 本文由我们的安全保障（Safeguards）团队研究员 Nicholas Carlini 撰写。
 
 我最近一直在尝试一种监督语言模型的新方法，我们称之为“智能体团队（agent teams）”。
@@ -129,3 +132,13 @@ Claude 会自主工作来解决我给它的任何问题。因此，任务验证�
 ### 致谢
 
 特别感谢 Josef Bacik、Edwin Chen、Bernardo Meurer Costa、Jake Eaton、Dan Kelley、Felix Klock、Jannet Park、Steve Weis 以及 Anthropic 的许多其他同事提供的协助和贡献。
+
+## 关联主题
+
+- [[00-元语/Agent]]
+- [[00-元语/Claude]]
+- [[00-元语/llm]]
+- [[00-元语/benchmark]]
+- [[00-元语/CI]]
+- [[00-元语/软件工程]]
+- [[00-元语/security]]

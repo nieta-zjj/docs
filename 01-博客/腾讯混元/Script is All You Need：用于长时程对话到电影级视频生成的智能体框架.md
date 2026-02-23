@@ -1,10 +1,11 @@
-# Script is All You Need：用于长时程对话到电影级视频生成的智能体框架
+---
+title: "Script is All You Need：用于长时程对话到电影级视频生成的智能体框架"
+发布日期: "2026-01-25"
 
-## 文档信息
-
-- 来源：https://xd-mu.github.io/ScriptIsAllYouNeed/
-- 发布机构：腾讯混元多模态部门；西安电子科技大学
-- 译注：该页面未提供官方中文版本，正文为基于原文内容的中文翻译整理。
+来源: "https://xd-mu.github.io/ScriptIsAllYouNeed/"
+发布机构: "腾讯混元多模态部门；西安电子科技大学"
+译注: "该页面未提供官方中文版本，正文为基于原文内容的中文翻译整理。"
+---
 
 ## 摘要
 

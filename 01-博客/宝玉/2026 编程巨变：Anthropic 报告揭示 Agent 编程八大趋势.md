@@ -1,9 +1,10 @@
-# 2026 编程巨变：Anthropic 报告揭示 Agent 编程八大趋势
+---
+title: "2026 编程巨变：Anthropic 报告揭示 Agent 编程八大趋势"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/2026/02/09/anthropic-agentic-coding-trends-2026
-- 发布日期：2026-02-09
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026/02/09/anthropic-agentic-coding-trends-2026"
+发布日期: "2026-02-09"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@ Anthropic《2026 Agent 编程趋势报告》指出，软件开发正经历从“
 *   **完全放权比例极低**：尽管开发者在 60% 的工作中会使用 AI，但真正能“完全甩手”交给 AI 的任务仅占 0-20%，高复杂度任务仍高度依赖人类专家的经验判断和主动监督。
 
 ## 正文
+
 2026 编程巨变：Anthropic 报告揭示 Agent 编程八大趋势 | 宝玉的分享
 ===============
 

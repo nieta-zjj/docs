@@ -1,13 +1,13 @@
-# Y Combinator 祝贺 Pax Historia 上线
+---
+title: "Y Combinator 祝贺 Pax Historia 上线"
 
-## 文档信息
-
-- 发布日期：2026-02-06
-- 作者：Y Combinator
-- 来源：
-  - https://x.com/ycombinator/status/2019810821032047046?s=46
-  - https://ycombinator.com/launches/PMu-p
-- 抓取时浏览量：982.7K Views
+发布日期: "2026-02-06"
+作者: "Y Combinator"
+来源:
+  - "https://x.com/ycombinator/status/2019810821032047046?s=46"
+  - "https://ycombinator.com/launches/PMu-p"
+抓取时浏览量: "982.7K Views"
+---
 
 ## 摘要
 

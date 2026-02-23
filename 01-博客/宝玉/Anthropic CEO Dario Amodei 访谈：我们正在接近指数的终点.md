@@ -1,10 +1,10 @@
-# Anthropic CEO Dario Amodei 访谈：我们正在接近指数的终点
+---
+title: "Anthropic CEO Dario Amodei 访谈：我们正在接近指数的终点"
 
-## 文档信息
-
-- 来源：https://baoyu.io/blog/2026-02-14/dario-amodei-interview-analysis
-- 发布日期：2026-02-14
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026-02-14/dario-amodei-interview-analysis"
+发布日期: "2026-02-14"
+作者: "宝玉"
+---
 
 ## 摘要
 

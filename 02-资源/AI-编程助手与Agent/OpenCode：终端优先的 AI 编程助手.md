@@ -1,17 +1,19 @@
-# OpenCode：终端优先的 AI 编程助手
+---
+title: "OpenCode：终端优先的 AI 编程助手"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `sst/opencode`
-- 项目主页：https://github.com/sst/opencode
-- 官方网站：https://opencode.ai
-- 开源协议：MIT
-- 主要语言：TypeScript
-- 统计快照：Stars 108344，Forks 10724，Watchers 427（抓取时间：2026-02-22）
-- 版本快照：最新 release `v1.2.10`，发布时间 `2026-02-20`
-- 备注：用户提供“23503”，与当前公开 Stars 统计不一致；本条目按抓取时公开数据记录。
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `sst/opencode`"
+项目主页: "https://github.com/sst/opencode"
+官方网站: "https://opencode.ai"
+开源协议: "MIT"
+主要语言: "TypeScript"
+统计快照: "Stars 108344，Forks 10724，Watchers 427（抓取时间：2026-02-22）"
+版本快照: "最新 release `v1.2.10`，发布时间 `2026-02-20`"
+备注: "用户提供“23503”，与当前公开 Stars 统计不一致；本条目按抓取时公开数据记录。"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 OpenCode 是一款采用 MIT 协议、基于 C/S 架构的完全开源 AI 编程智能体，主打终端用户界面（TUI）且支持自由切换多种大模型。
 
@@ -29,15 +31,18 @@ OpenCode 是一款采用 MIT 协议、基于 C/S 架构的完全开源 AI 编程
 *   **社区合规要求**：基于 OpenCode 开发的第三方关联项目（如命名包含 "opencode"），必须在 README 中明确声明非官方构建且无附属关系。
 
 ## 功能与定位
+
 OpenCode 是一个完全开源的 AI 编程智能体（Coding Agent）。项目主打终端用户界面（TUI），采用客户端/服务端架构，旨在提供不绑定特定大模型供应商的自动化编程与代码探索体验。
 
 ## 典型使用场景
+
 - **日常开发与代码修改**：使用具备完整权限的智能体直接进行代码编写和文件修改。
 - **代码库探索与方案规划**：在面对陌生代码库时，使用只读模式进行安全的代码分析和变更规划。
 - **复杂检索与多步任务**：调用专门的子智能体处理需要多步骤执行的复杂搜索任务。
 - **远程/跨端开发**：利用其 C/S 架构，在本地计算机运行服务端，通过移动端等其他客户端进行远程控制。
 
 ## 核心功能
+
 - **多智能体切换**：内置不同权限和用途的智能体，可通过 `Tab` 键快速切换：
   - **build**：默认智能体，拥有完整访问权限，用于实际开发工作。
   - **plan**：只读智能体，默认禁止编辑文件，执行 bash 命令前会请求权限，适合代码探索和规划。
@@ -47,21 +52,25 @@ OpenCode 是一个完全开源的 AI 编程智能体（Coding Agent）。项目�
 - **多平台支持**：提供命令行工具以及适用于 macOS、Windows 和 Linux 的桌面客户端（Beta 版）。
 
 ## 特色与差异点
+
 - **与 Claude Code 的对比**：在能力上与 Claude Code 类似，但 OpenCode 是 100% 开源的，且不与任何单一 AI 供应商绑定，随着模型降价和能力演进，用户可以自由选择最具性价比的模型。
 - **专注终端体验**：由 neovim 用户及 terminal.shop 的创作者开发，致力于突破终端界面的交互极限。
 - **解耦架构**：采用客户端/服务端（C/S）架构，终端 UI 只是其支持的客户端之一，为未来的多端扩展（如移动端 App）提供了底层支持。
 
 ## 使用方式概览
+
 - **命令行安装**：支持通过 npm、bun、pnpm、yarn 等 Node 包管理器安装，同时也支持 Homebrew、Scoop、Chocolatey、Pacman、Nix 等系统级包管理器。
 - **桌面端安装**：可直接下载对应操作系统的安装包（如 `.dmg`, `.exe`, `.deb`, `.rpm`, AppImage 等）。
 - **自定义安装路径**：安装脚本支持通过环境变量（如 `$OPENCODE_INSTALL_DIR` 或 `$XDG_BIN_DIR`）指定安装目录。
 
 ## 限制与注意事项
+
 - **版本兼容性**：在安装最新版本前，建议先卸载 0.1.x 之前的旧版本。
 - **桌面版状态**：Desktop App 目前处于 BETA（测试）阶段。
 - **社区生态规范**：基于 OpenCode 开发的第三方关联项目（如命名包含 "opencode"），需要在其 README 中明确声明非官方团队构建且无附属关系。
 
 ## 链接
+
 - GitHub 仓库: https://github.com/anomalyco/opencode
 - 官网: https://opencode.ai
 - Releases 下载: https://github.com/anomalyco/opencode/releases

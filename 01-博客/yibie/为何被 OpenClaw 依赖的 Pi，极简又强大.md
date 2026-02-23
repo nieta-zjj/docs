@@ -1,13 +1,13 @@
-# 为何被 OpenClaw 依赖的 Pi，极简又强大
+---
+title: "为何被 OpenClaw 依赖的 Pi，极简又强大"
 
-## 文档信息
-
-- 发布日期：2026-02-05
-- 作者：yibie
-- 来源：
-  - https://x.com/yibie/status/2019271706335182965
-  - https://github.com/badlogic/pi-mono/
-  - https://raw.githubusercontent.com/badlogic/pi-mono/master/README.md
+发布日期: "2026-02-05"
+作者: "yibie"
+来源:
+  - "https://x.com/yibie/status/2019271706335182965"
+  - "https://github.com/badlogic/pi-mono/"
+  - "https://raw.githubusercontent.com/badlogic/pi-mono/master/README.md"
+---
 
 ## 摘要
 
@@ -20,6 +20,7 @@ Pi 是一个极简且强大的 AI 编码智能体框架，其核心可抽象为�
 - 关联仓库：`badlogic/pi-mono` 以 monorepo 形式承载 `pi-ai`、`pi-agent-core`、`pi-coding-agent` 等核心组件。
 
 ## 正文
+
 ### X 帖子正文
 Pi是一个极简、可扩展的AI编码智能体框架（harness），其核心设计哲学可以用一句话概括：一个调用LLM的while循环，加上四个基础工具。与当今复杂的AI Agent平台不同，Pi选择了一条反其道而行的道路——不是增加更多功能，而是将复杂性降到最低。
 

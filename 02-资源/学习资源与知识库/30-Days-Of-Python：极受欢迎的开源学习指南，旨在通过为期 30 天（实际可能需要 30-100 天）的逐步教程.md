@@ -1,15 +1,17 @@
-# 30-Days-Of-Python：极受欢迎的开源学习指南，旨在通过为期 30 天（实际可能需要 30-100 天）的逐步教程
+---
+title: "30-Days-Of-Python：极受欢迎的开源学习指南，旨在通过为期 30 天（实际可能需要 30-100 天）的逐步教程"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `Asabeneh/30-Days-Of-Python`
-- 项目主页：https://github.com/Asabeneh/30-Days-Of-Python
-- 开源协议：未声明
-- 主要语言：Python
-- 统计快照：Stars 58452，Forks 11170，Watchers 933（抓取时间：2026-02-22）
-- 版本快照：暂无正式发布记录
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `Asabeneh/30-Days-Of-Python`"
+项目主页: "https://github.com/Asabeneh/30-Days-Of-Python"
+开源协议: "未声明"
+主要语言: "Python"
+统计快照: "Stars 58452，Forks 11170，Watchers 933（抓取时间：2026-02-22）"
+版本快照: "暂无正式发布记录"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 `Asabeneh/30-Days-Of-Python` 是一个极受欢迎的开源学习指南，旨在通过为期 30 天（实际可能需要 30-100 天）的逐步教程，帮助初学者和专业人士全面掌握 Python 编程语言。
 
@@ -25,36 +27,44 @@
 * **开源协议缺失**：基本信息中明确指出该项目“未声明”开源协议（License），这可能会给代码的商业使用、修改或分发带来法律层面的不确定性。
 
 ## 功能与定位
+
 The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 
 ## 典型使用场景
+
 - 作为学习与选型参考入口，快速定位资料与最佳实践。
 - 用于团队知识库沉淀与技术调研。
 
 ## 核心功能
+
 - 汇总课程、示例、清单或社区经验。
 - 强调可检索性与持续更新。
 - 适合学习路径规划与资源导航。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:05:30Z。
 - 项目创建于 2019-11-19T17:24:16Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/Asabeneh/30-Days-Of-Python
 - README：https://raw.githubusercontent.com/Asabeneh/30-Days-Of-Python/master/README.md
 - Releases：https://github.com/Asabeneh/30-Days-Of-Python/releases
 
 ## 关联主题
+
 - [[00-元语/learning-resource]]
 - [[00-元语/github]]
 - [[00-元语/community]]

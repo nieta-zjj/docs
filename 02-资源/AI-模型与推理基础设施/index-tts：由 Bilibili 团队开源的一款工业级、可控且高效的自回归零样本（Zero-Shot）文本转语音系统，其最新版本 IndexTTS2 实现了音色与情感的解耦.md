@@ -1,15 +1,17 @@
-# index-tts：由 Bilibili 团队开源的一款工业级、可控且高效的自回归零样本（Zero-Shot）文本转语音系统，其最新版本 IndexTTS2 实现了音色与情感的解耦
+---
+title: "index-tts：由 Bilibili 团队开源的一款工业级、可控且高效的自回归零样本（Zero-Shot）文本转语音系统，其最新版本 IndexTTS2 实现了音色与情感的解耦"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `index-tts/index-tts`
-- 项目主页：https://github.com/index-tts/index-tts
-- 开源协议：Other
-- 主要语言：Python
-- 统计快照：Stars 18872，Forks 2330，Watchers 119（抓取时间：2026-02-22）
-- 版本快照：最新发布 v1.5.0（发布时间：2025-09-01T10:38:01Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `index-tts/index-tts`"
+项目主页: "https://github.com/index-tts/index-tts"
+开源协议: "Other"
+主要语言: "Python"
+统计快照: "Stars 18872，Forks 2330，Watchers 119（抓取时间：2026-02-22）"
+版本快照: "最新发布 v1.5.0（发布时间：2025-09-01T10:38:01Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 IndexTTS 是由 Bilibili 团队开源的一款工业级、可控且高效的自回归零样本（Zero-Shot）文本转语音系统，其最新版本 IndexTTS2 实现了音色与情感的解耦，并支持多模态的高表现力情感语音合成。
 
@@ -32,36 +34,44 @@ IndexTTS 是由 Bilibili 团队开源的一款工业级、可控且高效的自�
 * **非官方渠道风险**：官方仅维护 GitHub 仓库，不对任何其他第三方网站或服务的安全性、准确性或时效性提供保证。
 
 ## 功能与定位
+
 An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
 
 ## 典型使用场景
+
 - 用于模型训练、微调、推理或文档解析等基础能力建设。
 - 作为上层 AI 应用的数据与模型基础设施。
 
 ## 核心功能
+
 - 提供模型/推理相关核心能力。
 - 支持与主流 AI 工具链协同。
 - 兼顾实验验证与工程落地场景。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T11:29:09Z。
 - 项目创建于 2025-02-06T04:08:05Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/index-tts/index-tts
 - README：https://raw.githubusercontent.com/index-tts/index-tts/main/README.md
 - Releases：https://github.com/index-tts/index-tts/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/github]]
 - [[00-元语/tts]]

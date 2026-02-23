@@ -1,9 +1,10 @@
-# 在构建 Prompt 时，如何避免把翻译内容当成对话内容？
+---
+title: "在构建 Prompt 时，如何避免把翻译内容当成对话内容？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering/how-to-avoid-translated-content-being-treated-as-dialog
-- 发布日期：2024-10-03
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering/how-to-avoid-translated-content-being-treated-as-dialog"
+发布日期: "2024-10-03"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -22,6 +23,7 @@
 * 未对输入内容进行有效隔离或标记，会增加 AI 出现幻觉的概率。
 
 ## 正文
+
 这是一个常见的问题，比如我有一个翻译的 GPT 或者 LLM 应用，有以后 AI 会混淆输入的内容和指令，不清楚你说的话是要它翻译还是在跟它对话。
 
 换个角度来说，别说 AI，就是真人看到输入有时候都不好分辨是对话还是输入，比如你的系统提示词是：

@@ -1,10 +1,12 @@
-# Ladybird 浏览器宣布放弃采用 Swift 语言
+---
+title: "Ladybird 浏览器宣布放弃采用 Swift 语言"
 
-## 文档信息
-- 来源：https://simonwillison.net/2026/Feb/19/ladybird/#atom-everything
-- 发布日期：2026-02-19
+来源: "https://simonwillison.net/2026/Feb/19/ladybird/#atom-everything"
+发布日期: "2026-02-19"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Ladybird 浏览器项目因长期未取得进展，已通过代码提交正式宣布放弃将 Swift 作为首选内存安全语言的计划，并将其从代码库中移除。
 
@@ -20,6 +22,7 @@ Ladybird 浏览器项目因长期未取得进展，已通过代码提交正式�
 * **执行缺口**：项目方明确承认，在引入 Swift 语言的事项上长期未能取得任何进展，导致该计划已无法继续推进。
 
 ## 正文
+
 本文是 Simon Willison 于 2026 年 2 月 19 日发布的一篇分享文章。
 
 ### Ladybird 放弃采用 Swift
@@ -48,9 +51,11 @@ Ladybird 浏览器项目因长期未取得进展，已通过代码提交正式�
 *附注：本博客包含相关披露信息（Disclosures）与版权声明（Colophon），版权年份涵盖 2002 年至 2026 年。*
 
 ## 相关文档
+
 - [[02-资源/通用开发工具/Ladybird：独立研发的开源浏览器|Ladybird：独立研发的开源浏览器]]；关联理由：解说；说明：该文系统整理了 Ladybird 的定位与技术背景，可补足本条“放弃 Swift”新闻背后的项目上下文。
 
 ## 关联主题
+
 - [[00-元语/github]]
 - [[00-元语/decision-making]]
 - [[00-元语/roadmap]]

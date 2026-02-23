@@ -1,12 +1,12 @@
-# Acontext：Agent 上下文存储与可观测服务
+---
+title: "Acontext：Agent 上下文存储与可观测服务"
 
-## 文档信息
-
-- 对象：Git 项目
-- 发布日期：2026-02-22
-- 来源：
-  - https://github.com/memodb-io/Acontext
-  - https://acontext.io/
+对象: "Git 项目"
+发布日期: "2026-02-22"
+来源:
+  - "https://github.com/memodb-io/Acontext"
+  - "https://acontext.io/"
+---
 
 ## 摘要
 
@@ -29,15 +29,18 @@ Acontext 是一个专为生产级 AI Agent 打造的后端服务平台，提供�
 *   **API Key 限制**：本地部署需要提供 OpenAI API Key（系统默认使用 gpt-4.1 模型）。
 
 ## 功能与定位
+
 Acontext 是一个专为生产级和自学习 AI Agent 打造的上下文数据平台（由 memobase 团队开发）。它的定位类似于“Agent 上下文领域的 Supabase”，旨在提供开箱即用的统一存储、内置上下文工程和可观测性能力。它不仅是一个本地 Python 库，而是一个完整的后端服务，帮助开发者将 Agent 从本地演示平滑扩展到生产环境，而无需从头构建上下文基础设施。
 
 ## 典型使用场景
+
 - **长期运行的 Agent 管理**：为需要长时间运行的 Agent 提供持久化的上下文管理机制。
 - **多模态数据统一存储**：解决 LLM 消息、文件、技能等上下文数据分散在不同存储介质中的问题。
 - **Agent 状态追踪与评估**：追踪多模态、多模型 Agent 的运行状态，评估其表现与成功率。
 - **Agent 自我学习与进化**：通过观察 Agent 的工作进程，从其成功或失败的记录中提取经验与标准作业程序（SOP）。
 
 ## 核心功能
+
 - **上下文存储 (Context Storage)**
   - **会话管理 (Session)**：保存来自任意 LLM 和模态的 Agent 历史记录。支持以 OpenAI、Anthropic 或 Gemini 格式存储消息，并在检索时自动转换。
   - **虚拟磁盘 (Disk)**：为 Agent 提供持久化的虚拟文件系统，支持读、写、grep、glob 等操作。
@@ -51,22 +54,26 @@ Acontext 是一个专为生产级和自学习 AI Agent 打造的上下文数据�
   - **统一仪表盘 (Dashboard)**：可视化查看 Agent 的成功率等指标，并支持回放 Agent 的运行轨迹。
 
 ## 特色与差异点
+
 - **统一的数据管理**：能够统一存储多模态上下文数据（Messages 与 Artifacts）。
 - **零代码上下文管理**：内置上下文管理方法，开发者只需极少配置即可使用，无需编写复杂的上下文处理逻辑。
 - **广泛的生态兼容性**：无缝集成多种主流 SDK 和框架，包括 Claude Agent SDK、Vercel AI-SDK、OpenAI SDK、Agno 以及 smolagents。
 - **企业级技术栈**：采用 Go + Python 技术栈，底层基于 S3、Postgres、RabbitMQ、Redis 等成熟组件构建，具备良好的扩展性。
 
 ## 使用方式概览
+
 - **云端托管**：可通过 https://acontext.io/ 注册获取 API Key（提供免费额度）直接接入云端服务。
 - **本地部署**：官方提供 `acontext-cli` 工具，依赖 Docker 环境即可在本地快速启动后端服务（包含 API 和 Dashboard）。
 - **SDK 接入**：官方维护 Python 和 TypeScript SDK，并提供丰富的端到端 Agent 模板（如 OpenAI Agent、Claude Agent、交互式沙盒技能等）供开发者参考。
 
 ## 限制与注意事项
+
 - 本地部署依赖 Docker，且需要提供 OpenAI API Key（默认使用 gpt-4.1）。
 - 使用的 LLM 必须具备工具调用（Tool Calling）能力。
 - 项目目前采用 Apache License 2.0 开源协议。
 
 ## 链接
+
 - GitHub 仓库: https://github.com/memodb-io/Acontext
 - 官网: https://acontext.io/
 

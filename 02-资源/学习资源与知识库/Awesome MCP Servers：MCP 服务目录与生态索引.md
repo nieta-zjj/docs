@@ -1,15 +1,15 @@
-# Awesome MCP Servers：MCP 服务目录与生态索引
+---
+title: "Awesome MCP Servers：MCP 服务目录与生态索引"
 
-## 文档信息
-
-- 对象：GitHub 开源项目
-- 项目：`punkpeye/awesome-mcp-servers`
-- 来源：https://github.com/punkpeye/awesome-mcp-servers
-- 开源协议：MIT
-- 版本状态：releases 页面显示暂无正式版本
-- 最近提交：`2cd30f4fd0a851a44359a9bfaff23e68452f8266`（2026-02-22）
-- 社区数据快照：GitHub API 显示 `81317 stars`、`7417 forks`、`389 open issues`（2026-02-22）
-- 发布日期：2026-02-22
+对象: "GitHub 开源项目"
+项目: "`punkpeye/awesome-mcp-servers`"
+来源: "https://github.com/punkpeye/awesome-mcp-servers"
+开源协议: "MIT"
+版本状态: "releases 页面显示暂无正式版本"
+最近提交: "`2cd30f4fd0a851a44359a9bfaff23e68452f8266`（2026-02-22）"
+社区数据快照: "GitHub API 显示 `81317 stars`、`7417 forks`、`389 open issues`（2026-02-22）"
+发布日期: "2026-02-22"
+---
 
 ## 摘要
 

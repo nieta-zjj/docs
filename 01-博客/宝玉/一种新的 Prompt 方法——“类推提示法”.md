@@ -1,9 +1,10 @@
-# 一种新的 Prompt 方法——“类推提示法”
+---
+title: "一种新的 Prompt 方法——“类推提示法”"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering/introduct-analogical-prompting
-- 发布日期：2023-10-05
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering/introduct-analogical-prompting"
+发布日期: "2023-10-05"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -21,6 +22,7 @@
 *   **格式控制**：在 Prompt 中应明确规定输出格式（例如使用“Q:”表示问题，“A:”表示包含步骤的解答，并将最终答案放在特定符号如 `\boxed` 中），以确保推理过程的结构化和清晰度。
 
 ## 正文
+
 今天读了一篇有意思的论文《[Large Language Models as Analogical Reasoners](https://arxiv.org/abs/2310.01714)》，提到了一种新的 Prompt 方法——“类推提示法”，我已经翻译成了中文版：《[大语言模型的类比推理能力 [译]](https://baoyu.io/blog/translations/large-language-models-as-analogical-reasoners)》，跟大家一起分享一下。
 
 如果你对提示工程熟悉的话，一定听说过“思维链”（CoT，Chain of Thought），可以显著提升大语言模型（LLM）的推理能力。但使用 CoT 的时候，是需要我们需要提供相关的指导或推理示例来引导模型的。

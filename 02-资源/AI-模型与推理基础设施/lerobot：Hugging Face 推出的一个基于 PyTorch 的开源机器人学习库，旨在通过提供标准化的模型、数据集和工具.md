@@ -1,16 +1,18 @@
-# lerobot：Hugging Face 推出的一个基于 PyTorch 的开源机器人学习库，旨在通过提供标准化的模型、数据集和工具
+---
+title: "lerobot：Hugging Face 推出的一个基于 PyTorch 的开源机器人学习库，旨在通过提供标准化的模型、数据集和工具"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `huggingface/lerobot`
-- 项目主页：https://github.com/huggingface/lerobot
-- 官方网站：https://huggingface.co/docs/lerobot
-- 开源协议：Apache License 2.0
-- 主要语言：Python
-- 统计快照：Stars 21712，Forks 3813，Watchers 145（抓取时间：2026-02-22）
-- 版本快照：最新发布 v0.4.3（发布时间：2026-01-22T10:59:37Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `huggingface/lerobot`"
+项目主页: "https://github.com/huggingface/lerobot"
+官方网站: "https://huggingface.co/docs/lerobot"
+开源协议: "Apache License 2.0"
+主要语言: "Python"
+统计快照: "Stars 21712，Forks 3813，Watchers 145（抓取时间：2026-02-22）"
+版本快照: "最新发布 v0.4.3（发布时间：2026-01-22T10:59:37Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 LeRobot 是 Hugging Face 推出的一个基于 PyTorch 的开源机器人学习库，旨在通过提供标准化的模型、数据集和工具，降低现实世界机器人 AI 技术的入门门槛。
 
@@ -24,37 +26,45 @@ LeRobot 是 Hugging Face 推出的一个基于 PyTorch 的开源机器人学习�
 * **丰富的社区与教程资源**：官方提供详细的文档、免费的机器人学习实操课程，并包含经过验证的中文详细教程（涵盖组装、遥操作、数据集、训练与部署）。
 
 ## 功能与定位
+
 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
 
 ## 典型使用场景
+
 - 用于模型训练、微调、推理或文档解析等基础能力建设。
 - 作为上层 AI 应用的数据与模型基础设施。
 
 ## 核心功能
+
 - 提供模型/推理相关核心能力。
 - 支持与主流 AI 工具链协同。
 - 兼顾实验验证与工程落地场景。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T13:05:26Z。
 - 项目创建于 2024-01-26T15:50:41Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/huggingface/lerobot
 - 官网：https://huggingface.co/docs/lerobot
 - README：https://raw.githubusercontent.com/huggingface/lerobot/main/README.md
 - Releases：https://github.com/huggingface/lerobot/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/github]]
 - [[00-元语/hardware-control]]

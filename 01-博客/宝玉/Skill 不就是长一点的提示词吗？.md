@@ -1,9 +1,10 @@
-# Skill 不就是长一点的提示词吗？
+---
+title: "Skill 不就是长一点的提示词吗？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/2026/01/24/skill-vs-prompt
-- 发布日期：2026-01-24
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026/01/24/skill-vs-prompt"
+发布日期: "2026-01-24"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@
 *   **Skill 的环境依赖**：Skill 强依赖于 Agent 的工具调用能力，若脱离 Agent 环境，Skill 仅是普通的 Markdown 文件，无法发挥作用。
 
 ## 正文
+
 ![Image 1](https://s.baoyu.io/imgs/2026-01-24/skill-vs-prompt/imgs/cover.png)
 
 上篇文章《别把整个 GitHub 装进 Skills，Skills 的正确用法》发出去后，收到一些质疑：

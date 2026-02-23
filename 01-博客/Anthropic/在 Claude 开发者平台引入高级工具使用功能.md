@@ -1,10 +1,10 @@
-# 在 Claude 开发者平台引入高级工具使用功能
+---
+title: "在 Claude 开发者平台引入高级工具使用功能"
 
-## 文档信息
-
-- 站点：Anthropic Engineering
-- 原文链接：https://www.anthropic.com/engineering/advanced-tool-use
-- 译注：未找到官方中文版本，本文基于英文原文翻译整理。
+站点: "Anthropic Engineering"
+原文链接: "https://www.anthropic.com/engineering/advanced-tool-use"
+译注: "未找到官方中文版本，本文基于英文原文翻译整理。"
+---
 
 ## 摘要
 

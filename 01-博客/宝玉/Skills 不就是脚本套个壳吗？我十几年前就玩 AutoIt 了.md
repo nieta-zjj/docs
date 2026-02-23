@@ -1,9 +1,10 @@
-# Skills 不就是脚本套个壳吗？我十几年前就玩 AutoIt 了
+---
+title: "Skills 不就是脚本套个壳吗？我十几年前就玩 AutoIt 了"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/2026/01/25/script-vs-agent-skills
-- 发布日期：2026-01-25
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026/01/25/script-vs-agent-skills"
+发布日期: "2026-01-25"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@ Agent Skills 并非传统脚本的简单封装，而是通过自然语言编排�
 *   **审计依赖**：用户在安装 Skills 时面临信任风险，必须仅安装可信来源的 Skills，并在使用前对文件和脚本内容进行人工审计。
 
 ## 正文
+
 ![Image 1](https://s.baoyu.io/imgs/2026-01-25/script-vs-agent-skills/cover.png)
 
 程序员看到 Agent Skills，很多人第一反应是：“这不就是脚本换个壳吗？我用 Python 半小时就能写出来，还更稳定。”

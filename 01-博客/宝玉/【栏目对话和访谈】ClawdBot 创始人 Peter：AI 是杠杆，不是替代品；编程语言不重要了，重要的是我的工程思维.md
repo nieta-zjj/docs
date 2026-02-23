@@ -1,9 +1,10 @@
-# 【栏目对话和访谈】ClawdBot 创始人 Peter：AI 是杠杆，不是替代品；编程语言不重要了，重要的是我的工程思维
+---
+title: "【栏目对话和访谈】ClawdBot 创始人 Peter：AI 是杠杆，不是替代品；编程语言不重要了，重要的是我的工程思维"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/2026/02/01/peter-steinberger-interview
-- 发布日期：2026-02-01
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026/02/01/peter-steinberger-interview"
+发布日期: "2026-02-01"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@ ClawdBot（现 OpenClaw）创始人 Peter Steinberger 认为，AI 是放大人�
 *   **模型冲动问题**：部分 AI 模型（如早期的 Claude Code）存在“冲动”缺陷，在未充分讨论前就会急于写代码，导致 Anthropic 不得不加入“计划模式”作为临时拼凑的解决方案。
 
 ## 正文
+
 【栏目对话和访谈】ClawdBot 创始人 Peter：AI 是杠杆，不是替代品；编程语言不重要了，重要的是我的工程思维 | 宝玉的分享
 ===============
 

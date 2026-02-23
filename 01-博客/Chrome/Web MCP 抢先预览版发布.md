@@ -1,12 +1,12 @@
-# Web MCP 抢先预览版发布
+---
+title: "Web MCP 抢先预览版发布"
 
-## 文档信息
-
-- 发布日期：2026-02-10
-- 作者：André Cipriani Bandarra
-- 来源：
-  - https://developer.chrome.com/blog/webmcp-epp?hl=zh-cn
-  - https://developer.chrome.com/blog/webmcp-epp
+发布日期: "2026-02-10"
+作者: "André Cipriani Bandarra"
+来源:
+  - "https://developer.chrome.com/blog/webmcp-epp?hl=zh-cn"
+  - "https://developer.chrome.com/blog/webmcp-epp"
+---
 
 ## 摘要
 
@@ -19,6 +19,7 @@ Web MCP 现已推出抢先预览版，通过提供声明式和命令式 API，�
 - 参与方式：原型试用面向抢先预览计划参与者开放，可通过 EPP 注册获取文档与演示。
 
 ## 正文
+
 随着智能体网络的不断发展，我们希望帮助网站在 AI 智能体与其互动的方式中发挥积极作用。WebMCP 旨在提供一种用于公开结构化工具的标准方式，确保 AI 智能体能够以更高的速度、可靠性和精确度在您的网站上执行操作。
 
 通过定义这些工具，您可以告知智能体如何以及在何处与您的网站互动，无论是预订航班、提交支持服务工单，还是浏览复杂数据。这种直接的沟通渠道消除了歧义，并实现了更快、更稳健的智能体工作流。

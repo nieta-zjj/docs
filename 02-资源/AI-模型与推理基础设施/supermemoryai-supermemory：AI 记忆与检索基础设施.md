@@ -1,11 +1,11 @@
-# supermemoryai-supermemory：AI 记忆与检索基础设施
+---
+title: "supermemoryai-supermemory：AI 记忆与检索基础设施"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/supermemoryai/supermemory
-- 发现评分：92
-- Stars：16571
+发布日期: "2026-02-22"
+来源: "https://github.com/supermemoryai/supermemory"
+发现评分: "92"
+Stars: "16571"
+---
 
 ## 摘要
 
@@ -37,7 +37,6 @@ supermemory 是一个面向 AI 时代的记忆引擎与应用程序，旨在为�
 ## 链接
 
 *   GitHub 仓库：https://github.com/supermemoryai/supermemory
-
 
 ## 关联主题
 

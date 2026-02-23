@@ -1,11 +1,11 @@
-# rohitg00-pro-workflow：AI 编程助手与Agent工具
+---
+title: "rohitg00-pro-workflow：AI 编程助手与Agent工具"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/rohitg00/pro-workflow
-- 发现评分：91
-- Stars：902
+发布日期: "2026-02-22"
+来源: "https://github.com/rohitg00/pro-workflow"
+发现评分: "91"
+Stars: "902"
+---
 
 ## 摘要
 
@@ -22,23 +22,27 @@
 * **80/20 法则**：项目强调并践行“80/20 AI 编程比例”，旨在最大化开发者与 AI 的协作效能。
 
 ## 功能与定位
+
 该项目汇集了经过实战检验的 AI 高级用户工作流（Battle-tested AI workflows），定位为提升 AI 编程助手与 Agent 工具使用效率的实践指南。
 
 ## 典型使用场景
+
 适用于日常 AI 辅助编程，特别是需要管理 AI 上下文记忆、处理并行开发任务以及优化人机协作效率的开发场景。
 
 ## 核心功能
+
 * **自我修正记忆 (Self-correcting memory)**：用于管理和优化 AI 在工作流中的上下文与记忆。
 * **并行工作树 (Parallel worktrees)**：支持多线并行的开发工作流机制。
 * **收尾仪式 (Wrap-up rituals)**：规范化的任务结束与总结流程。
 
 ## 特色与差异点
+
 * **实战导向**：所有工作流均来自高级用户的真实使用经验。
 * **80/20 法则**：强调并践行“80/20 AI 编程比例 (80/20 AI coding ratio)”，旨在最大化开发者与 AI 的协作效能。
 
 ## 链接
-* GitHub 仓库：https://github.com/rohitg00/pro-workflow
 
+* GitHub 仓库：https://github.com/rohitg00/pro-workflow
 
 ## 关联主题
 

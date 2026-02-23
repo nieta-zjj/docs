@@ -1,9 +1,10 @@
-# Reborn from Failure: A Real-World Retrospective on Landing a Frontend AI Agent
+---
+title: "Reborn from Failure: A Real-World Retrospective on Landing a Frontend AI Agent"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/reborn-from-failure-frontend-ai-agent-retrospective
-- 发布日期：2025-12-20
-- 作者：宝玉
+来源: "https://baoyu.io/blog/reborn-from-failure-frontend-ai-agent-retrospective"
+发布日期: "2025-12-20"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -25,6 +26,7 @@
 *   **工作流割裂**：独立的Agent生成环境与真实的开发环境脱节，开发者需要手动复制粘贴代码，导致流程繁琐。
 
 ## 正文
+
 Today at FEDay, I shared a case study on implementing a Frontend Agent. The core narrative wasn't about a victory lap; it was the story of how a team went from "Technical Success" to "Product Failure," and how that failure led to a crucial upgrade in our cognitive framework.
 
 The value of this story lies not in a methodology for success, but in the pitfalls we encountered and the evolution of our thinking.

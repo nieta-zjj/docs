@@ -1,11 +1,11 @@
-# Agentastic：Mac 端 terminal-first 多 agent IDE
+---
+title: "Agentastic：Mac 端 terminal-first 多 agent IDE"
 
-## 文档信息
-
-- 对象：网站
-- 发布日期：2026-02-22
-- 来源：
-  - https://www.agentastic.dev/
+对象: "网站"
+发布日期: "2026-02-22"
+来源:
+  - "https://www.agentastic.dev/"
+---
 
 ## 摘要
 

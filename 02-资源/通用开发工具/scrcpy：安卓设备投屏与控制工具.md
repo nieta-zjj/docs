@@ -1,15 +1,17 @@
-# scrcpy：安卓设备投屏与控制工具
+---
+title: "scrcpy：安卓设备投屏与控制工具"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `Genymobile/scrcpy`
-- 项目主页：https://github.com/Genymobile/scrcpy
-- 开源协议：Apache License 2.0
-- 主要语言：C
-- 统计快照：Stars 135985，Forks 12680，Watchers 1343（抓取时间：2026-02-22）
-- 版本快照：最新发布 v3.3.4（发布时间：2025-12-17T19:26:16Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `Genymobile/scrcpy`"
+项目主页: "https://github.com/Genymobile/scrcpy"
+开源协议: "Apache License 2.0"
+主要语言: "C"
+统计快照: "Stars 135985，Forks 12680，Watchers 1343（抓取时间：2026-02-22）"
+版本快照: "最新发布 v3.3.4（发布时间：2025-12-17T19:26:16Z）"
+---
 
 ## 摘要
+
 ### 一句话总结
 scrcpy 是一款开源的跨平台工具，允许用户通过 USB 或 TCP/IP 连接，在无需 root 权限或在设备上安装应用的情况下，低延迟地显示和控制 Android 设备。
 
@@ -27,38 +29,45 @@ scrcpy 是一款开源的跨平台工具，允许用户通过 USB 或 TCP/IP 连
 * **安全风险**：官方明确警告 GitHub 仓库是该项目的唯一官方来源，切勿从其他随机网站下载名称包含 `scrcpy` 的发布版本。
 * **特定设备权限报错**：在部分设备（尤其是小米）上使用键鼠控制时，可能会遇到缺少 `INJECT_EVENTS` 权限的报错。必须额外开启“USB 调试（安全设置）”选项并在设置后重启设备才能解决。
 
-
 ## 功能与定位
+
 Display and control your Android device
 
 ## 典型使用场景
+
 - 作为通用开发工具用于工程协作与效率提升。
 - 适用于个人与团队的日常研发流程。
 
 ## 核心功能
+
 - 提供稳定的通用工程能力。
 - 支持跨平台或多环境使用。
 - 依赖开源社区持续迭代。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:04:29Z。
 - 项目创建于 2017-11-21T18:00:27Z，具备持续迭代与社区沉淀。
 - 以 `C` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/Genymobile/scrcpy
 - README：https://raw.githubusercontent.com/Genymobile/scrcpy/main/README.md
 - Releases：https://github.com/Genymobile/scrcpy/releases
 
 ## 关联主题
+
 - [[00-元语/tool]]
 - [[00-元语/cli]]
 - [[00-元语/hardware-control]]

@@ -1,13 +1,13 @@
-# AgentCraft 预告：用 RTS 界面指挥智能体
+---
+title: "AgentCraft 预告：用 RTS 界面指挥智能体"
 
-## 文档信息
-
-- 发布日期：2026-01-13
-- 作者：Ido Salomon（@idosal1）
-- 来源链接：https://x.com/idosal1/status/2011124558976434469?s=46
-- 配图链接：https://pbs.twimg.com/amplify_video_thumb/2011116164206768129/img/ZrLNV7V-g6BBy0c-.jpg
-- 浏览量：78.39 万
-- 译注：原帖为英文内容，正文为中文翻译整理稿。
+发布日期: "2026-01-13"
+作者: "Ido Salomon（@idosal1）"
+来源链接: "https://x.com/idosal1/status/2011124558976434469?s=46"
+配图链接: "https://pbs.twimg.com/amplify_video_thumb/2011116164206768129/img/ZrLNV7V-g6BBy0c-.jpg"
+浏览量: "78.39 万"
+译注: "原帖为英文内容，正文为中文翻译整理稿。"
+---
 
 ## 摘要
 

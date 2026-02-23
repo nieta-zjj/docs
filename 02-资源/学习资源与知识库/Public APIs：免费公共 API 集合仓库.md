@@ -1,17 +1,17 @@
-# Public APIs：免费公共 API 集合仓库
+---
+title: "Public APIs：免费公共 API 集合仓库"
 
-## 文档信息
-
-- 对象：GitHub 开源仓库
-- 仓库：public-apis/public-apis
-- 来源：
-  - https://github.com/public-apis/public-apis
-  - https://raw.githubusercontent.com/public-apis/public-apis/master/README.md
-  - https://api.github.com/repos/public-apis/public-apis
-- 开源协议：MIT
-- 创建时间：2016-03-20
-- 统计时间：2026-02-22
-- 仓库数据（抓取时）：Stars 399,457；Forks 42,740；Subscribers 4,522
+对象: "GitHub 开源仓库"
+仓库: "public-apis/public-apis"
+来源:
+  - "https://github.com/public-apis/public-apis"
+  - "https://raw.githubusercontent.com/public-apis/public-apis/master/README.md"
+  - "https://api.github.com/repos/public-apis/public-apis"
+开源协议: "MIT"
+创建时间: "2016-03-20"
+统计时间: "2026-02-22"
+仓库数据（抓取时）: "Stars 399,457；Forks 42,740；Subscribers 4,522"
+---
 
 ## 摘要
 

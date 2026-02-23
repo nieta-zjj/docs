@@ -1,11 +1,11 @@
-# panaversity-learn-agentic-ai：AI 编程助手与Agent工具
+---
+title: "panaversity-learn-agentic-ai：AI 编程助手与Agent工具"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/panaversity/learn-agentic-ai
-- 发现评分：100
-- Stars：3911
+发布日期: "2026-02-22"
+来源: "https://github.com/panaversity/learn-agentic-ai"
+发现评分: "100"
+Stars: "3911"
+---
 
 ## 摘要
 
@@ -22,12 +22,15 @@
 * **核心差异点**：高度强调并专注于“代理原生云技术”的综合实践。
 
 ## 功能与定位
+
 该项目是一个专注于学习 Agentic AI（代理式人工智能）的开源资源库。它结合了特定的设计模式与代理原生（Agent-Native）云技术，旨在帮助开发者掌握 AI 代理的开发及其在云原生环境中的应用。
 
 ## 典型使用场景
+
 用于学习、探索 Agentic AI 技术栈，以及了解如何将 AI 代理与现代云原生架构（如 Kubernetes 和 Dapr）相结合。
 
 ## 核心功能
+
 项目主要围绕以下技术栈和概念提供学习内容：
 * OpenAI Agents SDK
 * 记忆机制（Memory）
@@ -37,12 +40,13 @@
 * 云原生基础设施：Dapr、Rancher Desktop 与 Kubernetes
 
 ## 特色与差异点
+
 * 采用 Dapr Agentic Cloud Ascent (DACA) 设计模式。
 * 强调并专注于“代理原生云技术（Agent-Native Cloud Technologies）”的综合实践。
 
 ## 链接
-* https://github.com/panaversity/learn-agentic-ai
 
+* https://github.com/panaversity/learn-agentic-ai
 
 ## 关联主题
 

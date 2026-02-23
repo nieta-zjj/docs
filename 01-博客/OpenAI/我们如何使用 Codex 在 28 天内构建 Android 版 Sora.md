@@ -1,10 +1,10 @@
-# 我们如何使用 Codex 在 28 天内构建 Android 版 Sora
+---
+title: "我们如何使用 Codex 在 28 天内构建 Android 版 Sora"
 
-## 文档信息
-
-- 来源：https://openai.com/zh-Hans-CN/index/shipping-sora-for-android-with-codex/
-- 英文原文：https://openai.com/index/shipping-sora-for-android-with-codex/
-- 发布日期：2025年12月12日
+来源: "https://openai.com/zh-Hans-CN/index/shipping-sora-for-android-with-codex/"
+英文原文: "https://openai.com/index/shipping-sora-for-android-with-codex/"
+发布日期: "2025年12月12日"
+---
 
 ## 摘要
 

@@ -1,9 +1,12 @@
-# LocalStack 放弃 AWS 社区版：单一镜像模式引发开发者担忧
+---
+title: "LocalStack 放弃 AWS 社区版：单一镜像模式引发开发者担忧"
+发布日期: "2026-02-22"
 
-## 文档信息
-- 来源：https://www.infoq.cn/article/Ek2SwBQSUmCAbg9V7WWD?utm_source=rss&utm_medium=article
+来源: "https://www.infoq.cn/article/Ek2SwBQSUmCAbg9V7WWD?utm_source=rss&utm_medium=article"
+---
 
 ## 摘要
+
 **一句话总结**
 LocalStack 宣布将于 3 月放弃开源社区版，转而采用需要注册的单一镜像交付模式，并引入新的定价与 CI 积分机制，此举引发了开发者社区的广泛担忧。
 
@@ -22,6 +25,7 @@ LocalStack 宣布将于 3 月放弃开源社区版，转而采用需要注册的
 *   **声誉受损风险**：社区开发者明确指出，官方将项目称为“开源实验”的做法，损害了其长期建立在开源基础上的声誉。
 
 ## 正文
+
 LocalStack 最近宣布对其 AWS 云模拟器的交付方式进行重大更改，正式放弃广受欢迎的开源社区版，转而创建需要注册的单一镜像。这一变动意味着，目前使用最新社区镜像的项目将需要更新其工作流程。
 
 ### 交付方式的重大转变
@@ -58,6 +62,7 @@ LocalStack 允许应用程序在不连接到实时 AWS 云的情况下，在本�
 *   **CI 积分引发争议**：分配给工作区的 CI 积分数量取决于定价层级，而免费计划不包含 CI 积分。许多 Reddit 开发者质疑这一系统“不合理”。对此，LocalStack 的开发者关系负责人 Brian Rinaldi 承认了这一挑战，并表示公司可能很快会对其进行修订。
 
 ## 关联主题
+
 - [[00-元语/serverless]]
 - [[00-元语/CI]]
 - [[00-元语/community]]

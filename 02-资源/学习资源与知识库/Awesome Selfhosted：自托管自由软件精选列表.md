@@ -1,19 +1,19 @@
-# Awesome Selfhosted：自托管自由软件精选列表
+---
+title: "Awesome Selfhosted：自托管自由软件精选列表"
 
-## 文档信息
-
-- 对象：GitHub 仓库与列表站点
-- 仓库：awesome-selfhosted/awesome-selfhosted
-- 来源：
-  - https://github.com/awesome-selfhosted/awesome-selfhosted
-  - https://raw.githubusercontent.com/awesome-selfhosted/awesome-selfhosted/master/README.md
-  - https://raw.githubusercontent.com/awesome-selfhosted/awesome-selfhosted/master/LICENSE
-  - https://api.github.com/repos/awesome-selfhosted/awesome-selfhosted
-  - https://awesome-selfhosted.net/
-- 创建时间：2015-06-01
-- 统计时间：2026-02-22
-- 仓库数据（抓取时）：Stars 274,515；Forks 12,465；Subscribers 3,093
-- 许可说明：GitHub API 字段为 `NOASSERTION`，仓库 `LICENSE` 与 README 许可段落指向 `CC-BY-SA-3.0`
+对象: "GitHub 仓库与列表站点"
+仓库: "awesome-selfhosted/awesome-selfhosted"
+来源:
+  - "https://github.com/awesome-selfhosted/awesome-selfhosted"
+  - "https://raw.githubusercontent.com/awesome-selfhosted/awesome-selfhosted/master/README.md"
+  - "https://raw.githubusercontent.com/awesome-selfhosted/awesome-selfhosted/master/LICENSE"
+  - "https://api.github.com/repos/awesome-selfhosted/awesome-selfhosted"
+  - "https://awesome-selfhosted.net/"
+创建时间: "2015-06-01"
+统计时间: "2026-02-22"
+仓库数据（抓取时）: "Stars 274,515；Forks 12,465；Subscribers 3,093"
+许可说明: "GitHub API 字段为 `NOASSERTION`，仓库 `LICENSE` 与 README 许可段落指向 `CC-BY-SA-3.0`"
+---
 
 ## 摘要
 

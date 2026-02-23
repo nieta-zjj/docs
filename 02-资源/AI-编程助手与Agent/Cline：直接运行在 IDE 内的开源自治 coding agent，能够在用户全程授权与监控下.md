@@ -1,22 +1,22 @@
-# Cline：直接运行在 IDE 内的开源自治 coding agent，能够在用户全程授权与监控下
+---
+title: "Cline：直接运行在 IDE 内的开源自治 coding agent，能够在用户全程授权与监控下"
 
-## 文档信息
-
-- 对象：GitHub 开源仓库
-- 仓库：cline/cline
-- 来源：
-  - https://github.com/cline/cline
-  - https://api.github.com/repos/cline/cline
-  - https://raw.githubusercontent.com/cline/cline/main/README.md
-  - https://github.com/cline/cline/blob/main/locales/zh-cn/README.md
-  - https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev
-- 开源协议：Apache-2.0
-- 默认分支：main
-- 主要语言：TypeScript
-- 发布日期：2024-07-06
-- 最近推送：2026-02-21
-- 统计时间：2026-02-22
-- 仓库数据（统计时）：Stars 58,225；Forks 5,817；Subscribers 268；Open Issues 729
+对象: "GitHub 开源仓库"
+仓库: "cline/cline"
+来源:
+  - "https://github.com/cline/cline"
+  - "https://api.github.com/repos/cline/cline"
+  - "https://raw.githubusercontent.com/cline/cline/main/README.md"
+  - "https://github.com/cline/cline/blob/main/locales/zh-cn/README.md"
+  - "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
+开源协议: "Apache-2.0"
+默认分支: "main"
+主要语言: "TypeScript"
+发布日期: "2024-07-06"
+最近推送: "2026-02-21"
+统计时间: "2026-02-22"
+仓库数据（统计时）: "Stars 58,225；Forks 5,817；Subscribers 268；Open Issues 729"
+---
 
 ## 摘要
 

@@ -1,9 +1,10 @@
-# AI 画图技巧：让指定文字变成红色
+---
+title: "AI 画图技巧：让指定文字变成红色"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ai-image-red-text-html
-- 发布日期：2025-04-03
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ai-image-red-text-html"
+发布日期: "2025-04-03"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -20,6 +21,7 @@
 * **文本应用案例**：在示例中，通过 HTML 标签成功将标题中的“「认知」”和“「圈子」”设置为红色突出显示。
 
 ## 正文
+
 使用 Sora 或者 GPT-4o 画图，可以对文字部分使用 HTML 代码，比如我要让某部分文字变成红色，可以写成 HTML 形式 `<span style="color:red">「认知」</span>`
 
 ![Image 1](https://baoyu.io/uploads/2025-04-03/20250403_1513_%E6%89%8B%E7%BB%98%E8%B4%A8%E6%9C%B4%E4%BF%A1%E6%81%AF%E5%9B%BE_simple_compose_01jqymkve6ff7tnwb954ftvxqm.png)

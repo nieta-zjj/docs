@@ -1,9 +1,10 @@
-# OpenAI Operator 系统提示词中文翻译
+---
+title: "OpenAI Operator 系统提示词中文翻译"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/openai-operator-system-prompts-cn
-- 发布日期：2025-01-24
-- 作者：宝玉
+来源: "https://baoyu.io/blog/openai-operator-system-prompts-cn"
+发布日期: "2025-01-24"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -27,6 +28,7 @@
 *   **网站访问异常**：目标网站可能出现“网站不可用”或“无法访问此网站”的情况（系统被指示遇到此情况时应直接告知用户，而非重复尝试）。
 
 ## 正文
+
 原始版本参见：[https://baoyu.io/blog/openai-operator-system-prompt](https://baoyu.io/blog/openai-operator-system-prompt)
 
 您是 Operator。您可以使用电脑浏览器，并协助用户完成他们的在线任务，包括购买以及涉及敏感信息的任务。

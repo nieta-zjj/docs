@@ -1,15 +1,17 @@
-# Janus：DeepSeek 多模态生成模型项目
+---
+title: "Janus：DeepSeek 多模态生成模型项目"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `deepseek-ai/Janus`
-- 项目主页：https://github.com/deepseek-ai/Janus
-- 开源协议：MIT License
-- 主要语言：Python
-- 统计快照：Stars 17708，Forks 2238，Watchers 146（抓取时间：2026-02-22）
-- 版本快照：暂无正式发布记录
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `deepseek-ai/Janus`"
+项目主页: "https://github.com/deepseek-ai/Janus"
+开源协议: "MIT License"
+主要语言: "Python"
+统计快照: "Stars 17708，Forks 2238，Watchers 146（抓取时间：2026-02-22）"
+版本快照: "暂无正式发布记录"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Janus 是由 DeepSeek 开源的一系列统一多模态理解与生成模型，通过解耦视觉编码或结合修正流（Rectified Flow）技术，在单一 Transformer 架构下实现了卓越的图文理解与生成能力。
 
@@ -22,38 +24,45 @@ Janus 是由 DeepSeek 开源的一系列统一多模态理解与生成模型，�
 * **生态集成与测试**：多模态理解的评估代码已成功集成至 VLMEvalKit 框架；官方同时提供了涵盖各版本模型的 Hugging Face 在线 Demo 及本地 Gradio 演示。
 * **历史问题修复**：2024 年 10 月曾修复过 `tokenizer_config.json` 中的 Bug，解决了此前因无分类器引导（CFG）失效导致的视觉生成质量不佳问题。
 
-
 ## 功能与定位
+
 Janus-Series: Unified Multimodal Understanding and Generation Models
 
 ## 典型使用场景
+
 - 用于模型训练、微调、推理或文档解析等基础能力建设。
 - 作为上层 AI 应用的数据与模型基础设施。
 
 ## 核心功能
+
 - 提供模型/推理相关核心能力。
 - 支持与主流 AI 工具链协同。
 - 兼顾实验验证与工程落地场景。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T08:29:04Z。
 - 项目创建于 2024-10-18T03:48:16Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/deepseek-ai/Janus
 - README：https://raw.githubusercontent.com/deepseek-ai/Janus/main/README.md
 - Releases：https://github.com/deepseek-ai/Janus/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/multimodal]]
 - [[00-元语/llm]]

@@ -1,11 +1,11 @@
-# ScholKG：计算机科学知识图谱 CS-KG
+---
+title: "ScholKG：计算机科学知识图谱 CS-KG"
 
-## 文档信息
-
-- 对象：产品网站
-- 来源：
-  - https://scholkg.kmi.open.ac.uk/
-- 记录日期：2026-02-22
+对象: "产品网站"
+来源:
+  - "https://scholkg.kmi.open.ac.uk/"
+记录日期: "2026-02-22"
+---
 
 ## 摘要
 

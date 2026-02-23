@@ -1,10 +1,12 @@
-# 多GPU环境下的AI：GPU之间如何通信
+---
+title: "多GPU环境下的AI：GPU之间如何通信"
 
-## 文档信息
-- 来源：https://towardsdatascience.com/how-gpus-communicate/
-- 发布日期：2026-02-19
+来源: "https://towardsdatascience.com/how-gpus-communicate/"
+发布日期: "2026-02-19"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 本文详细解析了支持AI工作负载中多GPU通信的底层硬件技术栈（包括PCIe、NVLink、NVSwitch和InfiniBand），并阐述了实现高效分布式GPU计算的关键设计原则。
 
@@ -23,6 +25,7 @@
 *   **算力浪费风险**：如果无法实现计算与通信的完美重叠，GPU将处于空闲状态等待数据传输完成，从而造成计算资源的浪费。
 
 ## 正文
+
 本文将深入探讨支持AI工作负载中多GPU通信的硬件基础架构。
 
 在深入研究高级并行技术之前，我们需要先了解实现GPU间相互通信的关键技术。为什么GPU需要通信？在跨多个GPU训练AI模型时，每个GPU处理不同的数据批次，但它们都需要通过在反向传播期间共享梯度或交换模型权重来保持同步。现代AI训练是高度通信密集型的，因此高效的GPU间数据传输对整体性能至关重要。
@@ -87,9 +90,11 @@ InfiniBand主要负责节点间通信。虽然它比NVSwitch慢得多（也便�
 了解CPU-GPU和GPU-GPU通信的基础知识（PCIe、NVLink、NVSwitch和InfiniBand）以及分布式GPU计算的关键设计原则，能够帮助我们在设计AI工作负载时做出更明智的决策。在后续的内容中，我们将进一步探讨具体的并行技术，例如分布式数据并行（DDP）。
 
 ## 相关文档
+
 - [[01-博客/Towards Data Science/构建企业级本地 AI 的 GPUaaS 架构：Kubernetes 上的多租户、调度与成本模型|构建企业级本地 AI 的 GPUaaS 架构：Kubernetes 上的多租户、调度与成本模型]]；关联理由：上下游；说明：该文聚焦企业侧多 GPU 资源调度与租户隔离，是本文通信基础设施在平台层落地的上游设计。
 - [[01-博客/Mistral/vLLM 内存泄漏排查|vLLM 内存泄漏排查]]；关联理由：延伸思考；说明：该文从 UCX 与 InfiniBand 相关问题切入，补充了跨节点高速通信栈在实际工程中的稳定性风险。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/protocol]]

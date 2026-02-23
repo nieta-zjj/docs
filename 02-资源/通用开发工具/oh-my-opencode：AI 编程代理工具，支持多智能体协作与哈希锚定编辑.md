@@ -1,15 +1,17 @@
-# oh-my-opencode：AI 编程代理工具，支持多智能体协作与哈希锚定编辑
+---
+title: "oh-my-opencode：AI 编程代理工具，支持多智能体协作与哈希锚定编辑"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `code-yeongyu/oh-my-opencode`
-- 项目主页：https://github.com/code-yeongyu/oh-my-opencode
-- 开源协议：Other
-- 主要语言：TypeScript
-- 统计快照：Stars 32999，Forks 2493，Watchers 130（抓取时间：2026-02-22）
-- 版本快照：最新发布 v3.8.3（发布时间：2026-02-22T06:47:36Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `code-yeongyu/oh-my-opencode`"
+项目主页: "https://github.com/code-yeongyu/oh-my-opencode"
+开源协议: "Other"
+主要语言: "TypeScript"
+统计快照: "Stars 32999，Forks 2493，Watchers 130（抓取时间：2026-02-22）"
+版本快照: "最新发布 v3.8.3（发布时间：2026-02-22T06:47:36Z）"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 `oh-my-opencode` 是一个高热度的开源多模型 AI 编程代理框架（Agent Harness），通过多智能体协作、哈希锚定编辑和深度工具集成，提供无厂商锁定的自动化代码开发体验。
 
@@ -27,36 +29,44 @@
 *   **供应商限制**：文档中明确指出，由于该项目的防锁定特性，Anthropic 官方已经封禁了 OpenCode（"Anthropic blocked OpenCode because of us"）。
 
 ## 功能与定位
+
 the best agent harness
 
 ## 典型使用场景
+
 - 作为通用开发工具用于工程协作与效率提升。
 - 适用于个人与团队的日常研发流程。
 
 ## 核心功能
+
 - 提供稳定的通用工程能力。
 - 支持跨平台或多环境使用。
 - 依赖开源社区持续迭代。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:55:50Z。
 - 项目创建于 2025-12-03T01:40:05Z，具备持续迭代与社区沉淀。
 - 以 `TypeScript` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/code-yeongyu/oh-my-opencode
 - README：https://raw.githubusercontent.com/code-yeongyu/oh-my-opencode/dev/README.md
 - Releases：https://github.com/code-yeongyu/oh-my-opencode/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/llm]]

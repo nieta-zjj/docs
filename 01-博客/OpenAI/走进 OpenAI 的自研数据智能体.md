@@ -1,12 +1,12 @@
-# 走进 OpenAI 的自研数据智能体
+---
+title: "走进 OpenAI 的自研数据智能体"
 
-## 文档信息
-
-- 来源：https://openai.com/index/inside-our-in-house-data-agent/
-- 中文页面：https://openai.com/zh-Hans-CN/index/inside-our-in-house-data-agent/
-- 发布日期：2026年1月29日
-- 分类：[工程](https://openai.com/news/engineering/)
-- 译注：该中文页面当前正文仍为英文，以下为人工翻译。
+来源: "https://openai.com/index/inside-our-in-house-data-agent/"
+中文页面: "https://openai.com/zh-Hans-CN/index/inside-our-in-house-data-agent/"
+发布日期: "2026年1月29日"
+分类: "[工程](https://openai.com/news/engineering/)"
+译注: "该中文页面当前正文仍为英文，以下为人工翻译。"
+---
 
 ## 摘要
 

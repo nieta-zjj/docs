@@ -1,9 +1,10 @@
-# 借助 AI 学习编程，最重要的是打通学习和反馈的循环
+---
+title: "借助 AI 学习编程，最重要的是打通学习和反馈的循环"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ai-programming-learning-feedback-loop
-- 发布日期：2024-11-18
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ai-programming-learning-feedback-loop"
+发布日期: "2024-11-18"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -25,6 +26,7 @@
 * **问题卡壳导致停滞**：如果学习者在实践中遇到的问题总是无法解决，其编程能力将无法得到提升。
 
 ## 正文
+
 为什么绝大部分的编程教材，都是从 Hello World 开始？因为通过让你动手去打印一个 Hello World
 
 *   验证环境搭建：通过运行最简单的程序,确保编程环境已经正确配置

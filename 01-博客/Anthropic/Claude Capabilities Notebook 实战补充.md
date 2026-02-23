@@ -1,15 +1,16 @@
-# Claude Capabilities Notebook 实战补充
+---
+title: "Claude Capabilities Notebook 实战补充"
 
-## 文档信息
-发布日期：2026-02-17
-来源仓库：anthropics/claude-cookbooks
-原文链接：https://github.com/anthropics/claude-cookbooks/tree/main/capabilities
-覆盖范围：
-- `capabilities/classification/guide.ipynb`
-- `capabilities/contextual-embeddings/guide.ipynb`
-- `capabilities/retrieval_augmented_generation/guide.ipynb`
-- `capabilities/summarization/guide.ipynb`
-- `capabilities/text_to_sql/guide.ipynb`
+发布日期: "2026-02-17"
+来源仓库: "anthropics/claude-cookbooks"
+原文链接: "https://github.com/anthropics/claude-cookbooks/tree/main/capabilities"
+覆盖范围:
+  - "`capabilities/classification/guide.ipynb`"
+  - "`capabilities/contextual-embeddings/guide.ipynb`"
+  - "`capabilities/retrieval_augmented_generation/guide.ipynb`"
+  - "`capabilities/summarization/guide.ipynb`"
+  - "`capabilities/text_to_sql/guide.ipynb`"
+---
 
 ## 摘要
 
@@ -31,6 +32,7 @@
 *   在应用 Text-to-SQL 能力时，存在生成高风险查询的风险，必须进行额外的数据库权限隔离。
 
 ## 正文
+
 相比 capabilities 目录中的 README，本组 guide notebook 更偏“可运行示例”。它把分类、RAG、摘要和 Text-to-SQL 的工程步骤落成了具体数据准备、评测与调用流程。
 
 ### 能力主线
@@ -62,9 +64,11 @@ def evaluate_retrieval(
 - Text-to-SQL 需要额外权限隔离，避免生成高风险查询。
 
 ## 相关文档
+
 - [[01-博客/Anthropic/Claude Capabilities 指南与 Promptfoo 评测实践|Claude Capabilities 指南与 Promptfoo 评测实践]]；关联理由：解说；说明：两文都围绕 Capabilities 目录，前者给出总览与评测框架，后者补足可运行 Notebook 细节。
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/llm]]
 - [[00-元语/github]]

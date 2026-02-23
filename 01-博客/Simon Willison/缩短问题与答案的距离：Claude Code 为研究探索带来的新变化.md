@@ -1,10 +1,12 @@
-# 缩短问题与答案的距离：Claude Code 为研究探索带来的新变化
+---
+title: "缩短问题与答案的距离：Claude Code 为研究探索带来的新变化"
 
-## 文档信息
-- 来源：https://simonwillison.net/2026/Feb/17/dimitris-papailiopoulos/#atom-everything
-- 发布日期：2026-02-17
+来源: "https://simonwillison.net/2026/Feb/17/dimitris-papailiopoulos/#atom-everything"
+发布日期: "2026-02-17"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Claude Code 作为一个“魔法盒”，极大地缩短了从提出研究问题到获取初步答案的距离，使研究人员能够以几乎零人力成本独立完成早期研究信号的验证。
 
@@ -20,6 +22,7 @@ Claude Code 作为一个“魔法盒”，极大地缩短了从提出研究问�
 *   **长期影响未知**：目前尚无人能确切知晓这种工具的引入从长远来看会对整体研究方式产生何种具体影响（原文明确指出的未知空白）。
 
 ## 正文
+
 *本文整理自 Simon Willison 博客中收录的 Dimitris Papailiopoulos 关于使用 Claude Code 辅助研究的观点。*
 
 ### 零人力成本的“魔法盒”
@@ -39,6 +42,7 @@ Claude Code 作为一个“魔法盒”，极大地缩短了从提出研究问�
 我不知道这从长远来看对我们的研究方式意味着什么，我认为目前也没有人能给出确切的答案。但是，**从提出问题到获得初步答案之间的距离，确实变得非常短了**。
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/llm]]
 - [[00-元语/workflow]]

@@ -1,11 +1,11 @@
-# 走进 Project Genie：可创建、编辑与探索虚拟世界的实验原型
+---
+title: "走进 Project Genie：可创建、编辑与探索虚拟世界的实验原型"
 
-## 文档信息
-
-- 来源：https://x.com/googledeepmind/status/2016919756440240479?s=46
-- 发布账号：Google DeepMind @GoogleDeepMind
-- 发布日期：2026-01-29
-- 译注：原帖无官方中文版本，正文为基于原帖内容的中文翻译。
+来源: "https://x.com/googledeepmind/status/2016919756440240479?s=46"
+发布账号: "Google DeepMind @GoogleDeepMind"
+发布日期: "2026-01-29"
+译注: "原帖无官方中文版本，正文为基于原帖内容的中文翻译。"
+---
 
 ## 摘要
 

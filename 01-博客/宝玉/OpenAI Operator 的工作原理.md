@@ -1,9 +1,10 @@
-# OpenAI Operator 的工作原理
+---
+title: "OpenAI Operator 的工作原理"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/openai-operator-how-it-works
-- 发布日期：2025-01-25
-- 作者：宝玉
+来源: "https://baoyu.io/blog/openai-operator-how-it-works"
+发布日期: "2025-01-25"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@ OpenAI Operator 依托结合了 GPT-4o 视觉与强化学习推理的 CUA（Comp
 *   **敏感操作受限**：模型无法完全自动化所有流程，在遇到输入登录信息或处理验证码（CAPTCHA）等敏感操作时，必须中断并请求用户进行人工确认。
 
 ## 正文
+
 为 Operator 提供支持的是 Computer-Using Agent (CUA)，它结合了 GPT-4o 的视觉能力与通过强化学习获得的高级推理能力。
 
 ![Image 1](https://baoyu.io/uploads/2025-01-25/1737778621891.png)

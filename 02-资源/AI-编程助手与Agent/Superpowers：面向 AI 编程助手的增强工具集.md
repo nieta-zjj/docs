@@ -1,15 +1,17 @@
-# Superpowers：面向 AI 编程助手的增强工具集
+---
+title: "Superpowers：面向 AI 编程助手的增强工具集"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `obra/superpowers`
-- 项目主页：https://github.com/obra/superpowers
-- 开源协议：MIT License
-- 主要语言：Shell
-- 统计快照：Stars 57383，Forks 4353，Watchers 310（抓取时间：2026-02-22）
-- 版本快照：最新发布 v4.1.1（发布时间：2026-01-23T20:09:36Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `obra/superpowers`"
+项目主页: "https://github.com/obra/superpowers"
+开源协议: "MIT License"
+主要语言: "Shell"
+统计快照: "Stars 57383，Forks 4353，Watchers 310（抓取时间：2026-02-22）"
+版本快照: "最新发布 v4.1.1（发布时间：2026-01-23T20:09:36Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Superpowers 是一个基于可组合“技能”的 AI 编程智能体框架与软件开发工作流，通过强制执行头脑风暴、测试驱动开发（TDD）和子智能体驱动等规范流程，引导 AI 自主且高质量地完成软件开发。
 
@@ -22,38 +24,45 @@ Superpowers 是一个基于可组合“技能”的 AI 编程智能体框架与�
 *   **丰富的内置技能库**：提供涵盖测试（TDD）、调试（系统性调试、修复验证）、协作（并行智能体调度、代码审查、分支管理）以及元技能（指导如何编写新技能）的完整技能集合。
 *   **多平台安装支持**：针对不同平台提供差异化安装方式，Claude Code 和 Cursor 可通过内置插件市场安装，Codex 和 OpenCode 则通过指令拉取远程配置进行手动安装。
 
-
 ## 功能与定位
+
 An agentic skills framework & software development methodology that works.
 
 ## 典型使用场景
+
 - 作为开发阶段的 AI 助手，承担代码理解、生成与任务编排。
 - 在团队中作为可扩展 agent 能力层，连接模型与工具链。
 
 ## 核心功能
+
 - 提供面向工程任务的 agent 交互能力。
 - 支持与代码仓库、终端或外部服务集成。
 - 通过配置扩展模型、工具或执行策略。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:28:30Z。
 - 项目创建于 2025-10-09T19:45:18Z，具备持续迭代与社区沉淀。
 - 以 `Shell` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/obra/superpowers
 - README：https://raw.githubusercontent.com/obra/superpowers/main/README.md
 - Releases：https://github.com/obra/superpowers/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/github]]

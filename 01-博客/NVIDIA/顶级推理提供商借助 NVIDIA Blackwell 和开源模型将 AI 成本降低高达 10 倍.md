@@ -1,9 +1,11 @@
-# 顶级推理提供商借助 NVIDIA Blackwell 和开源模型将 AI 成本降低高达 10 倍
+---
+title: "顶级推理提供商借助 NVIDIA Blackwell 和开源模型将 AI 成本降低高达 10 倍"
 
-## 文档信息
-- 来源：https://blogs.nvidia.com/blog/inference-open-source-models-blackwell-reduce-cost-per-token/
+来源: "https://blogs.nvidia.com/blog/inference-open-source-models-blackwell-reduce-cost-per-token/"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 领先的 AI 推理提供商通过采用 NVIDIA Blackwell 平台和开源模型，在医疗、游戏、智能体和客服等领域将 AI Token 成本降低了高达 10 倍，并显著提升了系统响应速度。
 
@@ -21,6 +23,7 @@
 * **延迟敏感性风险**：在语音 AI 客服场景中，即使是轻微的延迟也会导致用户打断智能体、挂断电话或失去信任。
 
 ## 正文
+
 医疗领域的诊断洞察、互动游戏中的角色对话、客服智能体的自主回复——这些由 AI 驱动的交互都建立在同一个智能单元之上：Token。
 
 随着 AI 交互规模的不断扩大，企业必须考虑他们是否能够承担更多 Token 的成本。解决这一问题的关键在于优化“代币经济学（Tokenomics）”，其核心即降低每个 Token 的成本。这种成本下降的趋势正在各行各业中显现。麻省理工学院（MIT）的最新研究表明，基础设施和算法的效率提升，正使前沿性能的 AI 推理成本每年降低高达 10 倍。
@@ -89,3 +92,10 @@ Together AI 在 NVIDIA Blackwell GPU 上为 Decagon 的多模型语音栈运行�
 NVIDIA 在计算、网络和软件等堆栈各个层面的极致协同设计，结合其合作伙伴生态系统，正在大规模解锁 Token 成本的大幅下降。
 
 这一势头将在 NVIDIA Rubin 平台上继续延续——该平台将六款新芯片集成到一台 AI 超级计算机中，旨在提供比 Blackwell 高 10 倍的性能，并将 Token 成本再降低 10 倍。
+
+## 关联主题
+
+- [[00-元语/AI]]
+- [[00-元语/llm]]
+- [[00-元语/llmops]]
+- [[00-元语/benchmark]]

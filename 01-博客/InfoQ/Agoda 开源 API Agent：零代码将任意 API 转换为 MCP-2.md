@@ -1,9 +1,11 @@
-# Agoda 开源 API Agent：零代码将任意 API 转换为 MCP
+---
+title: "Agoda 开源 API Agent：零代码将任意 API 转换为 MCP"
 
-## 文档信息
-- 来源：https://www.infoq.cn/article/lTdPVphiffHFz6prrxu3?utm_source=rss&utm_medium=article
+来源: "https://www.infoq.cn/article/lTdPVphiffHFz6prrxu3?utm_source=rss&utm_medium=article"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 Agoda 开源了一款名为 API Agent 的零代码系统，通过动态架构自省与 DuckDB 数据过滤，使单个 MCP 服务器能够安全、高效地对接并查询任意内部 REST 或 GraphQL API。
 
@@ -23,6 +25,7 @@ Agoda 开源了一款名为 API Agent 的零代码系统，通过动态架构自
 *   **SQL 特性与错误处理**：在实际运维中，需妥善处理 SQL 特性相关问题，并在响应截断或报错时向 LLM 暴露完整的错误信息，以便其进行自我修正。
 
 ## 正文
+
 Agoda 工程师近期开发并开源了一款名为 API Agent 的系统。这是一个零代码、零部署的解决方案，能够让单个模型上下文协议（MCP）服务器直接对接内部的 REST 或 GraphQL API。该系统的核心目的在于降低管理多种架构和认证方式的 API 所带来的运维成本，使得团队无需为每个 API 单独搭建 MCP 服务器，AI 助手就能轻松查询相关服务。
 
 Agoda 首席技术官 Idan Zalzberg 对此表示：“许多团队希望将内部工具开放给 AI 使用，但为每个工具单独编写 MCP 工作量极大。API Agent 采用创新的零代码方案实现这一能力，据我们所知，这一方案在业内属于首创。”
@@ -59,6 +62,7 @@ DuckDB 可以在进程内运行，原生支持 JSON 并能自动推断 Schema。
 目前，该项目已正式开源（项目地址为 `api-agent`），开发者可将其用于 REST 和 GraphQL 相关的 AI 实验与集成。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/mcp]]

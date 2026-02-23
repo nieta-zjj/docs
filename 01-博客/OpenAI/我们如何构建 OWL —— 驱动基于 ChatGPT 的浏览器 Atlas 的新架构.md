@@ -1,13 +1,13 @@
-# 我们如何构建 OWL —— 驱动基于 ChatGPT 的浏览器 Atlas 的新架构
+---
+title: "我们如何构建 OWL —— 驱动基于 ChatGPT 的浏览器 Atlas 的新架构"
 
-## 文档信息
-
-- 来源：https://openai.com/zh-Hans-CN/index/building-chatgpt-atlas/
-- 英文原文：https://openai.com/index/building-chatgpt-atlas/
-- 发布日期：2025年10月30日
-- 分类：[工程](https://openai.com/news/engineering/)
-- 作者：[Ken Rockot](https://openai.com/news/?author=ken-rockot#results)（技术人员）、[Ben Goodger](https://openai.com/news/?author=ben-goodger#results)（ChatGPT Atlas 工程主管）
-- 标签：[2025 年](https://openai.com/news/?tags=2025)
+来源: "https://openai.com/zh-Hans-CN/index/building-chatgpt-atlas/"
+英文原文: "https://openai.com/index/building-chatgpt-atlas/"
+发布日期: "2025年10月30日"
+分类: "[工程](https://openai.com/news/engineering/)"
+作者: "[Ken Rockot](https://openai.com/news/?author=ken-rockot#results)（技术人员）、[Ben Goodger](https://openai.com/news/?author=ben-goodger#results)（ChatGPT Atlas 工程主管）"
+标签: "[2025 年](https://openai.com/news/?tags=2025)"
+---
 
 ## 摘要
 
@@ -31,7 +31,6 @@ OpenAI 推出了集成了 ChatGPT 的全新浏览器 Atlas，通过自研的 OWL
 *   **自动化输入越权风险**：若智能体生成的输入事件经过特权浏览器层，存在触发键盘快捷键从而执行与当前网页无关操作的风险（已通过直接路由至渲染器解决）。
 
 ## 正文
-
 
 探索我们的全新流程架构，为你提供更快捷、更智能的网络体验。
 
@@ -109,7 +108,6 @@ OWL 客户端库提供了一个简洁的公共 Swift API，对宿主服务层公
 通过重构浏览器与 Chromium 的集成方式，我们为新型体验创造空间：更流畅的启动、更丰富的用户界面、与操作系统其余部分实现更紧密的集成，同时拥有与创意速度匹配的开发循环。如果你愿意迎接此类挑战，欢迎申请我们目前在 Atlas 项目中招聘的 [Atlas 软件工程师](https://openai.com/careers/software-engineer-atlas-san-francisco/)、[iOS](https://openai.com/careers/software-engineer-ios-san-francisco/) 软件工程师[等](https://openai.com/careers/search/?c=e1e973fe-6f0a-475f-9361-a9b6c095d869%2Cf002fe09-4cec-46b0-8add-8bf9ff438a62%2Cab2b9da4-24a4-47df-8bed-1ed5a39c7036)职位。
 
 **请访问 [chatgpt.com/atlas](https://chatgpt.com/atlas) 体验 Atlas。**
-
 
 ## 致谢
 

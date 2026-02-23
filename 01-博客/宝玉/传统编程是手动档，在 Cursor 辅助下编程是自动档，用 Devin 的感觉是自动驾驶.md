@@ -1,9 +1,10 @@
-# 传统编程是手动档，在 Cursor 辅助下编程是自动档，用 Devin 的感觉是自动驾驶
+---
+title: "传统编程是手动档，在 Cursor 辅助下编程是自动档，用 Devin 的感觉是自动驾驶"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/cursor-assisted-programming-autopilot
-- 发布日期：2024-12-27
-- 作者：宝玉
+来源: "https://baoyu.io/blog/cursor-assisted-programming-autopilot"
+发布日期: "2024-12-27"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -27,6 +28,7 @@
 *   **非技术人员使用缺口**：非专业人员（如企业老板）在向AI清晰描述需求和提供专业反馈方面存在能力挑战，难以直接指挥AI完成工作。
 
 ## 正文
+
 > 传统编程是手动档。在 Cursor 辅助下编程是自动档。用 Devin 的感觉是自动驾驶。
 >
 >

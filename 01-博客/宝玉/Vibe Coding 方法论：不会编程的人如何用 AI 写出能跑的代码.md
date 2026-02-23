@@ -1,9 +1,10 @@
-# Vibe Coding 方法论：不会编程的人如何用 AI 写出能跑的代码
+---
+title: "Vibe Coding 方法论：不会编程的人如何用 AI 写出能跑的代码"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/vibe-coding-ai-code-for-non-programmers
-- 发布日期：2026-01-10
-- 作者：宝玉
+来源: "https://baoyu.io/blog/vibe-coding-ai-code-for-non-programmers"
+发布日期: "2026-01-10"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@ Vibe Coding 是一种让非程序员通过向 AI 清晰、具体地描述需求�
 *   **复杂系统仍需专业人员**：对于复杂、关键的核心系统，依然需要真正懂代码的专业工程师来主导。
 
 ## 正文
+
 前几天看到一篇文章《how to vibe code w/ claude code》[https://x.com/elenakvcs/article/2008228601980985550](https://x.com/elenakvcs/article/2008228601980985550)🔗，作者 Elena 是一位 AI 研究员，每天读论文、测模型、写报告，理解 AI 的工作原理，却从没自己写过代码。直到有一天她用自然语言向 Claude 描述了一个需求，45 秒后拿到一段 Python 脚本，运行，成功。原本要花 6 小时手动清理的 4000 行数据，一分钟搞定。
 
 她完全不懂那些代码是什么意思。但它跑起来了。

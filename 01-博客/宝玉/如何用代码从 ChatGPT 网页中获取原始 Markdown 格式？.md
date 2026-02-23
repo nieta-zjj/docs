@@ -1,9 +1,10 @@
-# 如何用代码从 ChatGPT 网页中获取原始 Markdown 格式？
+---
+title: "如何用代码从 ChatGPT 网页中获取原始 Markdown 格式？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/fontend/how-to-get-markdown-from-chatgpt-webpage
-- 发布日期：2023-10-29
-- 作者：宝玉
+来源: "https://baoyu.io/blog/fontend/how-to-get-markdown-from-chatgpt-webpage"
+发布日期: "2023-10-29"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@
 * React Hook 方法默认仅支持在控制台或页面直接执行；若在浏览器插件中使用，无法直接拿到该全局变量，必须通过 `RegisteredContentScript` 执行脚本并进行内部通信才能间接获取。
 
 ## 正文
+
 ChatGPT 在输出消息时，会将 Markdown 格式解析成 HTML，虽然可以点击复制按钮去复制原始的 Markdown，但是用代码操作时，却无法通过模拟点击去复制 Markdown。
 
 ![Image 1](https://baoyu.io/images/frontend/how-to-get-markdown-from-chatgpt-webpage/copy-markdown.png)

@@ -1,10 +1,12 @@
-# 跨越“数据短缺”壁垒：合成画像加速日本AI开发
+---
+title: "跨越“数据短缺”壁垒：合成画像加速日本AI开发"
 
-## 文档信息
-- 来源：https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja
-- 发布日期：2026-02-19
+来源: "https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja"
+发布日期: "2026-02-19"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 NTT DATA 通过引入 NVIDIA 的开源合成数据集（Nemotron-Personas-Japan），成功破解了日本 AI 开发中的本土化数据短缺难题，在保障数据隐私的同时实现了模型准确率的大幅提升与训练成本的降低。
 
@@ -24,6 +26,7 @@ NTT DATA 通过引入 NVIDIA 的开源合成数据集（Nemotron-Personas-Japan�
 *   **传统数据处理成本高昂：** 依靠人工从零开始收集、清洗和标注特定任务的新样本不仅耗时且昂贵，难以跟上 AI 的快速迭代步伐。
 
 ## 正文
+
 AI 具备为日本创造超过100万亿日元（约合6500亿美元）经济价值的巨大潜力。然而，要实现这一宏大愿景，取决于许多 AI 项目中普遍缺乏的一个决定性要素：在实际业务中“可用的训练数据”。
 
 对于致力于构建理解日语和日本文化的 AI 系统的开发者来说，这一挑战尤为严峻。与丰富的英语训练数据相比，日本开发者长期面临着慢性数据短缺的问题。从零开始构建高性能模型所需的、针对特定任务且植根于日本文化的数据极度匮乏。收集、清洗和标注新样本不仅耗时且昂贵，难以跟上 AI 快速迭代的步伐。
@@ -94,6 +97,7 @@ NTT DATA 使用了 NVIDIA Nemotron-Personas-Japan（这是 NVIDIA 首个开源�
 *(注：Nemotron-Personas-Japan 基于 CC BY 4.0 许可，支持商用与非商用。)*
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/llm]]
 - [[00-元语/data-pipeline]]

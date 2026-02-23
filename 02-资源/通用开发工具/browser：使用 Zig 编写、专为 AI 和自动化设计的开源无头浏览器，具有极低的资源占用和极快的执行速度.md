@@ -1,16 +1,18 @@
-# browser：使用 Zig 编写、专为 AI 和自动化设计的开源无头浏览器，具有极低的资源占用和极快的执行速度
+---
+title: "browser：使用 Zig 编写、专为 AI 和自动化设计的开源无头浏览器，具有极低的资源占用和极快的执行速度"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `lightpanda-io/browser`
-- 项目主页：https://github.com/lightpanda-io/browser
-- 官方网站：https://lightpanda.io
-- 开源协议：GNU Affero General Public License v3.0
-- 主要语言：Zig
-- 统计快照：Stars 11887，Forks 357，Watchers 39（抓取时间：2026-02-22）
-- 版本快照：最新发布 v0.2.4（发布时间：2026-02-19T10:00:53Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `lightpanda-io/browser`"
+项目主页: "https://github.com/lightpanda-io/browser"
+官方网站: "https://lightpanda.io"
+开源协议: "GNU Affero General Public License v3.0"
+主要语言: "Zig"
+统计快照: "Stars 11887，Forks 357，Watchers 39（抓取时间：2026-02-22）"
+版本快照: "最新发布 v0.2.4（发布时间：2026-02-19T10:00:53Z）"
+---
 
 ## 摘要
+
 ### 一句话总结
 Lightpanda 是一款使用 Zig 编写、专为 AI 和自动化设计的开源无头浏览器，具有极低的资源占用和极快的执行速度，并通过 CDP 兼容 Puppeteer 和 Playwright。
 
@@ -31,37 +33,45 @@ Lightpanda 是一款使用 Zig 编写、专为 AI 和自动化设计的开源无
 *   **贡献门槛**：外部开发者提交 Pull Request 时必须签署 CLA（贡献者许可协议），否则代码将不被接受。
 
 ## 功能与定位
+
 Lightpanda: the headless browser designed for AI and automation
 
 ## 典型使用场景
+
 - 作为通用开发工具用于工程协作与效率提升。
 - 适用于个人与团队的日常研发流程。
 
 ## 核心功能
+
 - 提供稳定的通用工程能力。
 - 支持跨平台或多环境使用。
 - 依赖开源社区持续迭代。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:33:04Z。
 - 项目创建于 2023-02-07T15:19:34Z，具备持续迭代与社区沉淀。
 - 以 `Zig` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/lightpanda-io/browser
 - 官网：https://lightpanda.io
 - README：https://raw.githubusercontent.com/lightpanda-io/browser/main/README.md
 - Releases：https://github.com/lightpanda-io/browser/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/llm]]

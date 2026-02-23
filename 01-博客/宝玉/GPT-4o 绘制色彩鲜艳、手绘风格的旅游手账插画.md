@@ -1,9 +1,10 @@
-# GPT-4o 绘制色彩鲜艳、手绘风格的旅游手账插画
+---
+title: "GPT-4o 绘制色彩鲜艳、手绘风格的旅游手账插画"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/gpt-4-vibrant-travel-journal-illustrations
-- 发布日期：2025-04-03
-- 作者：宝玉
+来源: "https://baoyu.io/blog/gpt-4-vibrant-travel-journal-illustrations"
+发布日期: "2025-04-03"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -19,6 +20,7 @@
 *   **文字排版**：要求采用简洁可爱的手写体，并加入贴纸式标语（如“北京旅行记忆已解锁！”）和欢乐的感叹句，使构图饱满生动。
 
 ## 正文
+
 ![Image 1](https://baoyu.io/uploads/2025-04-03/1743705891452.png)
 
 工具：sora.com 或者 GPT-4o
@@ -64,6 +66,7 @@
 整体风格可爱而有趣，构图饱满生动，文字采用简洁可爱的手写体，仿佛带人进入一段童真又难忘的北京旅行回忆！
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/OpenAI]]
 - [[00-元语/ChatGPT]]

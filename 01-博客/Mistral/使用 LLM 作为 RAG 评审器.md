@@ -1,9 +1,9 @@
-# 使用 LLM 作为 RAG 评审器
+---
+title: "使用 LLM 作为 RAG 评审器"
 
-## 文档信息
-
-- 发布日期：2026-01-13
-- 原文链接：https://mistral.ai/news/llm-as-rag-judge
+发布日期: "2026-01-13"
+原文链接: "https://mistral.ai/news/llm-as-rag-judge"
+---
 
 ## 摘要
 

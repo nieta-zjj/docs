@@ -1,10 +1,10 @@
-# SliderEdit：具有细粒度指令控制的连续图像编辑
+---
+title: "SliderEdit：具有细粒度指令控制的连续图像编辑"
 
-## 文档信息
-
-- 来源：https://armanzarei.github.io/SliderEdit/#
-- 发布日期：2026-02-05
-- 译注：原页面无官方中文版本，正文为基于原文内容的中文翻译。
+来源: "https://armanzarei.github.io/SliderEdit/#"
+发布日期: "2026-02-05"
+译注: "原页面无官方中文版本，正文为基于原文内容的中文翻译。"
+---
 
 ## 摘要
 

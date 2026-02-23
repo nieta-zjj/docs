@@ -1,9 +1,11 @@
-# 代码界新王登基！Gemini 3.1 Pro 血洗 Claude 与 GPT，12 项基准测试第一！
+---
+title: "代码界新王登基！Gemini 3.1 Pro 血洗 Claude 与 GPT，12 项基准测试第一！"
 
-## 文档信息
-- 来源：https://www.infoq.cn/article/Ic69NzLCGqQ6HRuCligh?utm_source=rss&utm_medium=article
+来源: "https://www.infoq.cn/article/Ic69NzLCGqQ6HRuCligh?utm_source=rss&utm_medium=article"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 谷歌正式推出采用混合专家架构（MoE）的 Gemini 3.1 Pro 基础模型，其核心推理能力实现翻倍，在 12 项基准测试中超越 Claude 与 GPT 竞品位列第一，并已面向开发者、企业和消费者多端同步上线。
 
@@ -21,6 +23,7 @@
 *   **性能上限差距**：Gemini 3.1 Pro 在 ARC-AGI-2 测试中的得分（77.1%）仍低于此前发布的、仅限订阅用户使用的 Gemini Deep Think 模型（84.6%）。
 
 ## 正文
+
 ### 核心能力全面下放，多端同步上线
 
 继上周发布面向科学研究与工程领域复杂问题的 Gemini 3 Deep Think 重大更新后，谷歌今日正式推出支撑这些突破的“核心智能”升级版本——Gemini 3.1 Pro。
@@ -78,3 +81,11 @@ Gemini 3.1 Pro 专为那些“给出一个简单答案远远不够”的任务�
 *   AI.jp 报道：https://www.ai.jp.net/article/google-s-gemini-3-1-pro-a-new-reasoning-champion-c710f5
 *   Shunyu Yao (X): https://x.com/ShunyuYao14
 *   DeepMind Gemini Pro: https://deepmind.google/models/gemini/pro/
+
+## 关联主题
+
+- [[00-元语/AI]]
+- [[00-元语/gemini]]
+- [[00-元语/llm]]
+- [[00-元语/benchmark]]
+- [[00-元语/multimodal]]

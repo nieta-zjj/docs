@@ -1,10 +1,12 @@
-# 畅玩游戏世界：GeForce NOW 支持超过 4500 款游戏
+---
+title: "畅玩游戏世界：GeForce NOW 支持超过 4500 款游戏"
 
-## 文档信息
-- 来源：https://blogs.nvidia.com/blog/geforce-now-thursday-battlefield-season-2/
-- 发布日期：2026-02-18
+来源: "https://blogs.nvidia.com/blog/geforce-now-thursday-battlefield-season-2/"
+发布日期: "2026-02-18"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 GeForce NOW 云游戏平台目前已支持超过 4500 款游戏，本周新增 12 款作品（包括《战地 6》第二赛季更新及《冥河：贪婪之刃》等），并持续开展六周年社区庆祝与抽奖活动。
 
@@ -18,6 +20,7 @@ GeForce NOW 云游戏平台目前已支持超过 4500 款游戏，本周新增 1
 *   **会员特权**：Ultimate 会员可享受强大服务器的优先接入权。
 
 ## 正文
+
 GeForce NOW 周年庆典仍在继续，本周的焦点将回归到让这一切成为可能的核心——游戏。目前，云端已支持超过 4500 款游戏，加上本周新增的 12 款作品，玩家总能在这里发现、串流并分享全新的游戏体验。
 
 #6YearsofGFN 的欢乐氛围正在 GeForce NOW 的 Reddit 社区延续。即日起至 2 月 20 日（星期五），玩家可以通过分享游戏截图和表情包来庆祝周年纪念，并有机会赢取 Amazon Fire TV Stick 4K、Thrustmaster HOTAS ONE 飞行摇杆等丰厚奖品。
@@ -64,5 +67,6 @@ GeForce NOW 应用程序内设有精心策划的推荐栏目，突出展示最�
 *(注：NVIDIA GeForce NOW 官方大使 EloraBliss 将于 2 月 19 日的周年纪念游戏之夜及赠品活动中主持《黎明杀机 (Dead by Daylight)》环节。活动将于太平洋标准时间上午 10 点开始，其主持环节于下午 1 点开始，届时将有丰厚奖品放送。)*
 
 ## 关联主题
+
 - [[00-元语/game]]
 - [[00-元语/community]]

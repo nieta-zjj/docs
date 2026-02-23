@@ -1,9 +1,11 @@
-# 估算 Claude 对话带来的 AI 生产力收益
+---
+title: "估算 Claude 对话带来的 AI 生产力收益"
 
-## 文档信息
-- 原文链接：https://www.anthropic.com/research/estimating-productivity-gains
+原文链接: "https://www.anthropic.com/research/estimating-productivity-gains"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 基于对十万次真实对话的分析，Anthropic 估算 Claude 可将单项任务的完成时间平均缩短 80%，若广泛采用，当前一代 AI 模型有望在未来十年内使美国劳动生产率每年增长 1.8%。
 
@@ -25,6 +27,7 @@
 *   **未考虑组织重组与创新**：该模型仅衡量了“加速现有任务”的收益，无法预测企业将如何围绕 AI 重组业务运营，也未捕捉 AI 加速科学创新对生产力的深远影响。
 
 ## 正文
+
 ## 概述
 
 与 Claude 的真实对话能告诉我们 AI 对劳动生产率有何影响？使用我们保护隐私的分析方法，我们从 Claude.ai 中抽取了十万次真实对话作为样本，估算在有无 AI 协助的情况下完成这些对话中的任务所需的时间，并研究其对更广泛宏观经济的生产力影响。根据 Claude 的估算，如果没有 AI 协助，这些任务平均需要大约 90 分钟才能完成，而 Claude 将单个任务的速度提升了约 80%。

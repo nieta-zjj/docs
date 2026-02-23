@@ -1,10 +1,12 @@
-# GGML 与 llama.cpp 加入 Hugging Face：共筑本地 AI 的长远未来
+---
+title: "GGML 与 llama.cpp 加入 Hugging Face：共筑本地 AI 的长远未来"
 
-## 文档信息
-- 来源：https://huggingface.co/blog/ggml-joins-hf
-- 发布日期：2026-02-20
+来源: "https://huggingface.co/blog/ggml-joins-hf"
+发布日期: "2026-02-20"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 GGML（llama.cpp 的创作者）正式加入 Hugging Face，双方将结合各自在本地推理与模型定义上的优势，共同推动本地 AI 的长远发展，同时保持项目完全开源与社区驱动。
 
@@ -18,6 +20,7 @@ GGML（llama.cpp 的创作者）正式加入 Hugging Face，双方将结合各�
 * 双方的长期愿景是打造最高效的设备端终极推理技术栈，为开源超级智能的普及提供坚实的基础构建块。
 
 ## 正文
+
 我们非常高兴地宣布，Llama.cpp 的创作者 GGML 正式加入 Hugging Face（HF），以确保未来 AI 保持开源。随着本地 AI（Local AI）在未来几年继续呈指数级发展，Georgi Gerganov 及其团队加入 HF 的目标是进一步扩展和支持 ggml 与 llama.cpp 背后的社区。
 
 我们与 Georgi 及其团队已经合作了很长时间（我们的团队中甚至已经有了像 Son 和 Alek 这样优秀的 llama.cpp 核心贡献者），因此这是一个水到渠成的过程。
@@ -47,11 +50,13 @@ Hugging Face 将为该项目提供长期、可持续的资源支持，提升项�
 我们将与不断壮大的本地 AI 社区携手共进，继续打造能在我们的设备上以最高效率运行的终极推理技术栈。
 
 ## 相关文档
+
 - [[01-博客/Hugging Face/GGML 与 llama.cpp 加入 Hugging Face|GGML 与 llama.cpp 加入 Hugging Face]]；关联理由：版本演进；说明：该文是同源主题的较早归档版本，可用于对照本稿的结构化整理结果。
 - [[02-资源/AI-模型与推理基础设施/llama.cpp：轻量级本地大模型推理引擎|llama.cpp：轻量级本地大模型推理引擎]]；关联理由：解说；说明：该档案补充了 llama.cpp 的技术定位与生态背景，有助于理解本文“本地推理基础构建块”的含义。
 - [[02-资源/AI-模型与推理基础设施/Transformers：Hugging Face 大模型框架|Transformers：Hugging Face 大模型框架]]；关联理由：上下游；说明：本文强调 transformers 与 llama.cpp 的衔接目标，该条目提供上游框架背景与生态上下文。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/llm]]
 - [[00-元语/community]]

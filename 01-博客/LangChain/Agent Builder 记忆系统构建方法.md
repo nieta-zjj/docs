@@ -1,9 +1,9 @@
-# Agent Builder 记忆系统构建方法
+---
+title: "Agent Builder 记忆系统构建方法"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 原文链接：https://blog.langchain.com/how-we-built-agent-builders-memory-system/
+发布日期: "2026-02-22"
+原文链接: "https://blog.langchain.com/how-we-built-agent-builders-memory-system/"
+---
 
 ## 摘要
 

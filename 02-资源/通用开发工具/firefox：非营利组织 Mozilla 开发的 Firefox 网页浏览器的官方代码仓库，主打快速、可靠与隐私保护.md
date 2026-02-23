@@ -1,16 +1,18 @@
-# firefox：非营利组织 Mozilla 开发的 Firefox 网页浏览器的官方代码仓库，主打快速、可靠与隐私保护
+---
+title: "firefox：非营利组织 Mozilla 开发的 Firefox 网页浏览器的官方代码仓库，主打快速、可靠与隐私保护"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `mozilla-firefox/firefox`
-- 项目主页：https://github.com/mozilla-firefox/firefox
-- 官方网站：https://www.firefox.com/
-- 开源协议：Other
-- 主要语言：JavaScript
-- 统计快照：Stars 11316，Forks 895，Watchers 57（抓取时间：2026-02-22）
-- 版本快照：暂无正式发布记录
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `mozilla-firefox/firefox`"
+项目主页: "https://github.com/mozilla-firefox/firefox"
+官方网站: "https://www.firefox.com/"
+开源协议: "Other"
+主要语言: "JavaScript"
+统计快照: "Stars 11316，Forks 895，Watchers 57（抓取时间：2026-02-22）"
+版本快照: "暂无正式发布记录"
+---
 
 ## 摘要
+
 **一句话总结**
 mozilla-firefox/firefox 是非营利组织 Mozilla 开发的 Firefox 网页浏览器的官方代码仓库，主打快速、可靠与隐私保护。
 
@@ -24,37 +26,45 @@ mozilla-firefox/firefox 是非营利组织 Mozilla 开发的 Firefox 网页浏�
 * **版本发布**：该 GitHub 仓库目前没有记录正式的 Release 发布信息。
 
 ## 功能与定位
+
 The official repository of Mozilla's Firefox web browser.
 
 ## 典型使用场景
+
 - 作为通用开发工具用于工程协作与效率提升。
 - 适用于个人与团队的日常研发流程。
 
 ## 核心功能
+
 - 提供稳定的通用工程能力。
 - 支持跨平台或多环境使用。
 - 依赖开源社区持续迭代。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:14:48Z。
 - 项目创建于 2024-07-30T01:51:51Z，具备持续迭代与社区沉淀。
 - 以 `JavaScript` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/mozilla-firefox/firefox
 - 官网：https://www.firefox.com/
 - README：https://raw.githubusercontent.com/mozilla-firefox/firefox/main/README.md
 - Releases：https://github.com/mozilla-firefox/firefox/releases
 
 ## 关联主题
+
 - [[00-元语/github]]
 - [[00-元语/security]]
 - [[00-元语/community]]

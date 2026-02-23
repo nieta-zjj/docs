@@ -1,9 +1,9 @@
-# Anthropic 捐赠 MCP 并成立 Agentic AI Foundation
+---
+title: "Anthropic 捐赠 MCP 并成立 Agentic AI Foundation"
 
-## 文档信息
-
-- 发布日期：2025-12-11
-- 原文链接：https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation
+发布日期: "2025-12-11"
+原文链接: "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation"
+---
 
 ## 摘要
 

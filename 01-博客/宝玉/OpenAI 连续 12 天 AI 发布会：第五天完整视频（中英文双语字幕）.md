@@ -1,9 +1,10 @@
-# OpenAI 连续 12 天 AI 发布会：第五天完整视频（中英文双语字幕）
+---
+title: "OpenAI 连续 12 天 AI 发布会：第五天完整视频（中英文双语字幕）"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/openai-12-day-ai-event-day-5-video
-- 发布日期：2024-12-11
-- 作者：宝玉
+来源: "https://baoyu.io/blog/openai-12-day-ai-event-day-5-video"
+发布日期: "2024-12-11"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -21,6 +22,7 @@ OpenAI “12 天发布会”第五天重点展示了 ChatGPT 与苹果生态（i
 *   **跨设备同步**：ChatGPT 的对话记录可在 iPhone、iPad 和 Mac 等不同设备间保持同步。
 
 ## 正文
+
 视频：[https://youtu.be/wWYYq9nUxcg](https://youtu.be/wWYYq9nUxcg)
 
 OpenAI 连续 12 天 AI 发布会：第五天完整视频（中英文双语字幕）

@@ -1,9 +1,10 @@
-# 简单通俗的解释《一个简单的 Prompt 大幅提升 ChatGPT 翻译质量，告别“机翻感”》
+---
+title: "简单通俗的解释《一个简单的 Prompt 大幅提升 ChatGPT 翻译质量，告别“机翻感”》"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering/two-ai-agents-in-one-prompt
-- 发布日期：2023-10-07
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering/two-ai-agents-in-one-prompt"
+发布日期: "2023-10-07"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -19,6 +20,7 @@
 *   **生成即思考**：GPT 生成内容的过程可以理解为它的思考过程，正如人类思考也往往需要分步骤而非一步到位。
 
 ## 正文
+
 今天给朋友解释《[一个简单的 Prompt 大幅提升 ChatGPT 翻译质量，告别“机翻感”](https://baoyu.io/blog/prompt-engineering/a-prompt-for-better-translation-result)》这个 Prompt，开始他没听懂，我说可以这么理解：
 
 想象下你是个中学校长，现在有一篇英文新闻要翻译给学生看，你有两个老师：一个英语老师精通英语，但是语文不太好，写出来的东西很生硬；一个语文老师精通中文，英文不太好，但是中文很好，写出来的东西流畅通俗易懂。

@@ -1,9 +1,10 @@
-# The complete "Editable NotebookLM Slides" solution
+---
+title: "The complete \"Editable NotebookLM Slides\" solution"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/the-complete-editable-notebooklm-slides-solution
-- 发布日期：2025-12-21
-- 作者：宝玉
+来源: "https://baoyu.io/blog/the-complete-editable-notebooklm-slides-solution"
+发布日期: "2025-12-21"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -20,6 +21,7 @@
 *   **第四步（细节微调）**：由于采用逐页生成模式，用户可以对单张幻灯片提出具体修改要求（如放大字体、更改图标颜色），实现像素级的完全控制。
 
 ## 正文
+
 **I finally solved the biggest issue with NotebookLM Slides.**🚫✍
 
 We all love the aesthetic of NotebookLM's auto-generated Slide Decks, but there's a catch: they are static images. You can't edit the text, and you can't tweak the content.

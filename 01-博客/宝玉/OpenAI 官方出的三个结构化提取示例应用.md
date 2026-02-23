@@ -1,9 +1,10 @@
-# OpenAI 官方出的三个结构化提取示例应用
+---
+title: "OpenAI 官方出的三个结构化提取示例应用"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/openai-structured-extraction-examples
-- 发布日期：2025-01-07
-- 作者：宝玉
+来源: "https://baoyu.io/blog/openai-structured-extraction-examples"
+发布日期: "2025-01-07"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -23,6 +24,7 @@ OpenAI 官方开源了三个基于结构化输出的示例项目（简历提取�
 *   **架构设计争议**：作者指出生成式 UI 示例存在“为了用函数调用而用”的嫌疑；在实际复杂 UI 场景中，直接提供组件列表并让 AI 输出完整的 React 代码可能是更直接有效的替代方案。
 
 ## 正文
+
 OpenAI 官方出的三个结构化提取示例应用：
 
 1.   简历信息提取（Resume Extraction） 展示如何将非结构化的简历文本转换为结构化的信息展示，适合需要自动化文档处理的场景
@@ -101,6 +103,7 @@ OpenAI 官方出的三个结构化提取示例应用：
 ```
 
 ## 关联主题
+
 - [[00-元语/OpenAI]]
 - [[00-元语/llm]]
 - [[00-元语/prompt]]

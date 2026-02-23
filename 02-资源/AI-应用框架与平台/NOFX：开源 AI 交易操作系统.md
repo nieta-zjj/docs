@@ -1,10 +1,11 @@
-# NOFX：开源 AI 交易操作系统
+---
+title: "NOFX：开源 AI 交易操作系统"
 
-## 文档信息
-- 来源：https://github.com/NoFxAiOS/nofx/blob/main/docs/i18n/zh-CN/README.md
-- 仓库：https://github.com/NoFxAiOS/nofx
-- 官网：https://nofxai.com
-- 许可证：AGPL-3.0，详见仓库 LICENSE
+来源: "https://github.com/NoFxAiOS/nofx/blob/main/docs/i18n/zh-CN/README.md"
+仓库: "https://github.com/NoFxAiOS/nofx"
+官网: "https://nofxai.com"
+许可证: "AGPL-3.0，详见仓库 LICENSE"
+---
 
 ## 摘要
 
@@ -26,10 +27,10 @@ NOFX 是一个基于 AGPL-3.0 协议开源的 AI 交易操作系统，支持多 
 * **交易风险**：系统为实验性质，AI 自动交易存在重大风险，官方强烈建议仅用于学习/研究目的或小额测试。
 
 ## 正文
+
 > **语言声明：** 本中文版本文档仅为方便海外华人社区阅读而提供，不代表本软件面向中国大陆、香港、澳门或台湾地区用户开放。如您位于上述地区，请勿使用本软件。
 
 ---
-
 
 ### 核心功能
 
@@ -59,7 +60,6 @@ NOFX 是一个基于 AGPL-3.0 协议开源的 AI 交易操作系统，支持多 
 
 ---
 
-
 ## 开始之前
 
 使用 NOFX 你需要准备:
@@ -68,7 +68,6 @@ NOFX 是一个基于 AGPL-3.0 协议开源的 AI 交易操作系统，支持多 
 2. **AI 模型 API Key** - 从任意支持的提供商获取（推荐 DeepSeek，性价比最高）
 
 ---
-
 
 ## 支持的交易所
 
@@ -93,7 +92,6 @@ NOFX 是一个基于 AGPL-3.0 协议开源的 AI 交易操作系统，支持多 
 
 ---
 
-
 ## 支持的 AI 模型
 
 | AI 模型 | 状态 | 获取 API Key |
@@ -107,7 +105,6 @@ NOFX 是一个基于 AGPL-3.0 协议开源的 AI 交易操作系统，支持多 
 | **Kimi** | ✅ 已支持 | [获取 API Key](https://platform.moonshot.cn) |
 
 ---
-
 
 ## 截图
 
@@ -124,7 +121,6 @@ NOFX 是一个基于 AGPL-3.0 协议开源的 AI 交易操作系统，支持多 
 *多数据源策略配置与 AI 测试*
 
 ---
-
 
 ## 快速开始
 
@@ -218,7 +214,6 @@ npm run dev
 
 ---
 
-
 ## Windows 安装
 
 ### 方法一：Docker Desktop：推荐
@@ -300,7 +295,6 @@ npm run dev
 
 ---
 
-
 ## 服务器部署
 
 ### 快速部署：HTTP/IP 访问
@@ -356,7 +350,6 @@ TRANSPORT_ENCRYPTION=true
 
 ---
 
-
 ## 初始配置：Web 界面
 
 启动系统后，通过 Web 界面进行配置:
@@ -370,7 +363,6 @@ TRANSPORT_ENCRYPTION=true
 所有配置都通过 Web 界面完成 - 无需编辑 JSON 文件。
 
 ---
-
 
 ## Web 界面功能
 
@@ -392,7 +384,6 @@ TRANSPORT_ENCRYPTION=true
 - AI 测试与实时提示词预览
 
 ---
-
 
 ## 常见问题
 
@@ -416,7 +407,6 @@ sudo apt-get install libta-lib0-dev
 
 ---
 
-
 ## 文档
 
 | 文档 | 描述 |
@@ -430,13 +420,11 @@ sudo apt-get install libta-lib0-dev
 
 ---
 
-
 ## 许可证
 
 本项目采用 **GNU Affero General Public License v3.0 (AGPL-3.0)** 许可 - 详见 [LICENSE](https://github.com/NoFxAiOS/nofx/blob/main/LICENSE) 文件。
 
 ---
-
 
 ## 贡献
 
@@ -446,7 +434,6 @@ sudo apt-get install libta-lib0-dev
 - **[安全政策](https://github.com/NoFxAiOS/nofx/blob/main/SECURITY.md)** - 报告漏洞
 
 ---
-
 
 ## 贡献者空投计划
 
@@ -465,7 +452,6 @@ sudo apt-get install libta-lib0-dev
 
 ---
 
-
 ## 联系方式
 
 - **GitHub Issues**: [提交 Issue](https://github.com/NoFxAiOS/nofx/issues)
@@ -473,12 +459,12 @@ sudo apt-get install libta-lib0-dev
 
 ---
 
-
 ## Star 历史
 
 [![Star History Chart](https://api.star-history.com/svg?repos=NoFxAiOS/nofx&type=Date)](https://star-history.com/#NoFxAiOS/nofx&Date)
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/trading]]
 - [[00-元语/llm]]

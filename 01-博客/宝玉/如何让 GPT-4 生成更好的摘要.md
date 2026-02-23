@@ -1,9 +1,10 @@
-# 如何让 GPT-4 生成更好的摘要
+---
+title: "如何让 GPT-4 生成更好的摘要"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering/how-to-get-a-better-summary-result
-- 发布日期：2024-03-20
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering/how-to-get-a-better-summary-result"
+发布日期: "2024-03-20"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -20,6 +21,7 @@
 *   **步骤四（展开生成）**：严格以话题为章节，基于要点用 1-3 个自然段落总结每个话题（不使用项目符号），使整体效果呈现为一篇连贯的科普文章。
 
 ## 正文
+
 很多人都说 GPT-4 总结的时候会偷懒，Claude 更好，但如果你提示词得当，GPT-4 的效果其实一样可以做到很好，甚至比 Claude 效果还好。
 
 比如以 Lex 采访 Sam 的视频文稿的后面 45 分钟，分别让 GPT-4 和 Claude 3 总结，GPT-4 的要点总结的更好，生成结果更完整。

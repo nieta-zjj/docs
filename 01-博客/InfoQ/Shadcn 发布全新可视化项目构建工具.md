@@ -1,9 +1,11 @@
-# Shadcn 发布全新可视化项目构建工具
+---
+title: "Shadcn 发布全新可视化项目构建工具"
 
-## 文档信息
-- 来源：https://www.infoq.cn/article/cGvFLF4et1Jc68h5T7Sg?utm_source=rss&utm_medium=article
+来源: "https://www.infoq.cn/article/cGvFLF4et1Jc68h5T7Sg?utm_source=rss&utm_medium=article"
+---
 
 ## 摘要
+
 **一句话总结**
 开源 UI 组件库 Shadcn 发布了全新的可视化项目构建工具，允许开发者在编写代码前通过“设计优先”的方式完成项目框架与视觉风格的深度定制。
 
@@ -17,6 +19,7 @@
 * **项目背景与热度**：Shadcn 在 GitHub 已斩获超 10 万星标；新工具发布推文迅速获得超 9000 个点赞和 400 多条评论。
 
 ## 正文
+
 广受欢迎的开源 UI 组件库 Shadcn 近日发布了一款全新的可视化项目构建工具。开发者现在可以通过 `npx shadcn create` 命令，采用“设计优先”的方式来创建新项目。该工具内置了完善的主题系统，并支持多种主流前端框架。
 
 ### 核心功能与可视化体验
@@ -53,9 +56,11 @@
 Shadcn 是由 Vercel 的 shadcn 打造的开源组件分发平台。目前，该平台在 GitHub 上已斩获超过 10 万星标，并广泛支持 Next.js、React、Vue 和 Svelte 等多个框架。
 
 ## 相关文档
+
 - [[02-资源/通用开发工具/shadcn-ui：可组合的前端组件与样式体系|shadcn-ui：可组合的前端组件与样式体系]]；关联理由：解说；说明：该档案页系统整理了 shadcn-ui 的定位与技术栈，可作为本文“新工具发布”事件的背景解读。
 
 ## 关联主题
+
 - [[00-元语/react]]
 - [[00-元语/design]]
 - [[00-元语/cli]]

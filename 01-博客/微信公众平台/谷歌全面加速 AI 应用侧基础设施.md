@@ -1,10 +1,10 @@
-# 谷歌全面加速 AI 应用侧基础设施
+---
+title: "谷歌全面加速 AI 应用侧基础设施"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/V04mUWgdq71Ezimfhi2hNA
-- 发布日期：2025-11-30
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/V04mUWgdq71Ezimfhi2hNA"
+发布日期: "2025-11-30"
+---
 
 ## 摘要
 

@@ -1,9 +1,11 @@
-# 印度携手 NVIDIA 推进国家 AI 战略
+---
+title: "印度携手 NVIDIA 推进国家 AI 战略"
 
-## 文档信息
-- 来源：https://blogs.nvidia.com/blog/india-ai-mission-infrastructure-models/
+来源: "https://blogs.nvidia.com/blog/india-ai-mission-infrastructure-models/"
+---
 
 ## 摘要
+
 **一句话总结**
 印度政府通过超10亿美元的“印度 AI 任务”计划携手 NVIDIA，在扩展计算基础设施、开发多语言主权 AI 模型以及推动学术研究与初创生态方面展开全面合作，以加速印度的 AI 工业革命。
 
@@ -18,6 +20,7 @@
 * **初创生态扶持**：NVIDIA 联合 Peak XV、Accel India 等知名风投机构资助 AI 初创企业，目前已有超4000家印度企业加入 NVIDIA Inception 计划。
 
 ## 正文
+
 本周，印度在新德里举办了人工智能影响力峰会（AI Impact Summit），汇聚全球国家元首和行业领袖共商 AI 的未来，印度正成为 AI 创新的核心枢纽。
 
 在峰会上，行业领袖、政府机构、教育机构和初创企业分享了他们如何与 NVIDIA 合作，在这个世界上人口最多的国家推动 AI 工业革命。
@@ -75,6 +78,7 @@ NVIDIA 将为 ANRF 的受资助机构提供 NVIDIA AI Enterprise 软件的免费
 此外，NVIDIA 还与 Peak XV、Z47、Elevation Capital、Nexus Venture Partners 和 Accel India 等知名风险投资公司合作，寻找并资助处于各个阶段、为印度和国际市场构建 AI 解决方案的优秀初创企业。目前，已有超过 4000 家印度 AI 初创企业加入了 NVIDIA Inception 计划。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/llm]]

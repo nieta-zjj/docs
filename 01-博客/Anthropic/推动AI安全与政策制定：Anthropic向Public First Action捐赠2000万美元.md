@@ -1,9 +1,11 @@
-# 推动AI安全与政策制定：Anthropic向Public First Action捐赠2000万美元
+---
+title: "推动AI安全与政策制定：Anthropic向Public First Action捐赠2000万美元"
 
-## 文档信息
-- 来源：https://www.anthropic.com/news/donate-public-first-action
+来源: "https://www.anthropic.com/news/donate-public-first-action"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 Anthropic 向跨党派组织 Public First Action 捐赠 2000 万美元，旨在填补 AI 治理空白，推动灵活且完善的联邦监管政策，并确保美国在 AI 领域的领导地位。
 
@@ -27,6 +29,7 @@ Anthropic 向跨党派组织 Public First Action 捐赠 2000 万美元，旨在�
 *   **国家安全风险：** 关键的 AI 技术存在落入美国竞争对手（专制对手）手中的风险。
 
 ## 正文
+
 人工智能（AI）将为科学、技术、医学和经济增长等领域带来巨大的利益。然而，如此强大的技术也伴随着相当大的风险。
 
 这些风险可能源于对模型的滥用：AI 已经被用于自动化网络攻击；在未来，它甚至可能协助制造危险武器。风险也可能来自模型本身：强大的 AI 系统可能会采取违背用户意图甚至脱离用户控制的有害行动。
@@ -73,3 +76,10 @@ Public First Action 正致力于填补这一空白。该组织由共和党和民
 *   **为防御者提供前沿的网络安全能力：** Claude Code Security 是一项内置于网页版 Claude Code 中的新功能，目前已提供有限的研究预览版。它能够扫描代码库中的安全漏洞，并提出针对性的软件补丁供人工审查，帮助团队发现和修复传统方法经常遗漏的安全问题。
 *   **Anthropic 与卢旺达政府签署谅解备忘录：** 旨在将 AI 应用于医疗和教育领域。
 *   **推出 Claude Sonnet 4.6：** Sonnet 4.6 在编程、智能体和大规模专业工作方面展现了前沿的性能。
+
+## 关联主题
+
+- [[00-元语/AI]]
+- [[00-元语/compliance]]
+- [[00-元语/risk]]
+- [[00-元语/security]]

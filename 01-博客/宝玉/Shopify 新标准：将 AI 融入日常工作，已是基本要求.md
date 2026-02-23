@@ -1,9 +1,10 @@
-# Shopify 新标准：将 AI 融入日常工作，已是基本要求
+---
+title: "Shopify 新标准：将 AI 融入日常工作，已是基本要求"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/shopify-ai-integration-standard
-- 发布日期：2025-04-07
-- 作者：宝玉
+来源: "https://baoyu.io/blog/shopify-ai-integration-standard"
+发布日期: "2025-04-07"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@ Shopify CEO Tobi Lütke 发布内部备忘录，宣布将 AI 融入日常工作�
 *   **技能掌握门槛**：高效使用 AI 是一项需要大量实践的困难技能，员工容易在初期编写提示词（prompt）未获理想结果时产生挫败感并放弃。
 
 ## 正文
+
 今天 Shopify CEO Tobi Lütke 的一封被曝光的内部邮件很流行，Tobi 要把拥抱 AI 变成 Shopify 的文化基因，不仅是要求所有公司员工学习 AI，还需要在日常工作中应用 AI，甚至将 AI 的应用计入了绩效考核，**部门若想申请更多招聘名额和资源，需先证明他们的工作不能被 AI 替代**；同时 AI 必须是“完成任务原型阶段”（GSD Prototype phase）的核心工具，也就是说以前可能需要人工去制作原型，现在都要尽可能使用 AI 来完成。
 
 * * *

@@ -1,9 +1,11 @@
-# 使用 AI 生成 MVP 对软件架构意味着什么
+---
+title: "使用 AI 生成 MVP 对软件架构意味着什么"
 
-## 文档信息
-- 来源：https://www.infoq.cn/article/hIHSjxraqSi1kJL2a7uQ?utm_source=rss&utm_medium=article
+来源: "https://www.infoq.cn/article/hIHSjxraqSi1kJL2a7uQ?utm_source=rss&utm_medium=article"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 使用 AI 生成 MVP 代码使软件架构的重心从前期设计转向对质量属性（QAR）的实证验证，要求团队在提示词中明确架构权衡，并应对代码不透明带来的技术债务与长期维护挑战。
 
@@ -24,6 +26,7 @@
 *   **工具依赖风险：** 如果未来 AI 的行为发生变化或完全无法使用，团队将面临无法继续支撑和维护现有系统的巨大风险。
 
 ## 正文
+
 AI 正逐渐成为软件开发的强大工具。在之前的文章中，我们介绍了几种 AI 助力团队构建软件架构的方式。当团队不再满足于将 AI 仅作为头脑风暴的辅助工具，而是进一步用它来生成最小可行架构（MVA）的实现代码时，架构设计工作的本质也将随之发生实质性改变。
 
 ### 软件架构关乎决策，但 AI 生成的代码是黑盒
@@ -80,6 +83,7 @@ AI 生成的代码是否会终结软件架构？答案是否定的。团队依�
 *原文链接：https://www.infoq.com/articles/ai-generated-mvp/*
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/软件工程]]
 - [[00-元语/prompt]]

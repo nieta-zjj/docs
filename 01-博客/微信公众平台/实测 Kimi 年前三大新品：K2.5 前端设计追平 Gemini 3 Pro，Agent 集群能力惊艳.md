@@ -1,11 +1,11 @@
-# 实测 Kimi 年前三大新品：K2.5 前端设计追平 Gemini 3 Pro，Agent 集群能力惊艳
+---
+title: "实测 Kimi 年前三大新品：K2.5 前端设计追平 Gemini 3 Pro，Agent 集群能力惊艳"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/qpQLEejEPeIpGne2fEv5hQ
-- 发布日期：2026-01-27
-- 作者：一泽Eze
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/qpQLEejEPeIpGne2fEv5hQ"
+发布日期: "2026-01-27"
+作者: "一泽Eze"
+---
 
 ## 摘要
 
@@ -26,7 +26,6 @@ Kimi 发布了包含 K2.5 多模态基座模型、Agent 集群及开源 Kimi Cod
 *   **设计细节上限**：在前端设计细节的实现上限（实现更复杂的交互与设计）方面，K2.5 仍略逊于 Gemini 3 Pro。
 
 ## 正文
-
 
 Kimi 赶在年前连发了 3 个新品，放出了大招。
 

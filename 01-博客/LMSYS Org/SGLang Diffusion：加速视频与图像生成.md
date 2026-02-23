@@ -1,11 +1,11 @@
-# SGLang Diffusion：加速视频与图像生成
+---
+title: "SGLang Diffusion：加速视频与图像生成"
 
-## 文档信息
-
-- 站点：LMSYS Org
-- 发布日期：2025-11-07
-- 原文链接：https://lmsys.org/blog/2025-11-07-sglang-diffusion/
-- 译注：未找到官方中文版本，本文基于英文原文翻译整理。
+站点: "LMSYS Org"
+发布日期: "2025-11-07"
+原文链接: "https://lmsys.org/blog/2025-11-07-sglang-diffusion/"
+译注: "未找到官方中文版本，本文基于英文原文翻译整理。"
+---
 
 ## 摘要
 

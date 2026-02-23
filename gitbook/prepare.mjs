@@ -5,6 +5,8 @@ import path from "node:path";
 const CONTENT_ROOTS = ["00-元语", "01-博客", "02-资源", "03-图书", "04-聊天"];
 const SOURCE_DIR = path.join(process.cwd(), ".tmp", "gitbook-src");
 const GRAPH_DATA_FILE = "graph-data.json";
+const RECENT_ROOT = "01-博客";
+const RECENT_PAGE_SIZE = 200;
 const WIKI_LINK_RE = /\[\[([^\]]+)\]\]/g;
 const MD_LINK_RE = /(?<!!)\[[^\]]+\]\(([^)]+)\)/g;
 const MERMAID_FENCE_RE = /```mermaid[^\n]*\n([\s\S]*?)```/g;
@@ -37,7 +39,33 @@ function encodeLinkPath(p) {
   return p.replace(/ /g, "%20");
 }
 
+function extractFrontmatterBlock(markdown) {
+  const match = markdown.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n/);
+  return match ? match[1] : "";
+}
+
+function extractFrontmatterField(markdown, key) {
+  const fm = extractFrontmatterBlock(markdown);
+  if (!fm) return "";
+
+  const escapedKey = key.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const match = fm.match(new RegExp(`^${escapedKey}:\\s*(.+)\\s*$`, "m"));
+  if (!match) return "";
+
+  let value = match[1].trim();
+  if (
+    (value.startsWith('"') && value.endsWith('"')) ||
+    (value.startsWith("'") && value.endsWith("'"))
+  ) {
+    value = value.slice(1, -1).trim();
+  }
+  return value;
+}
+
 function extractTitle(markdown, relPath) {
+  const fmTitle = extractFrontmatterField(markdown, "title");
+  if (fmTitle) return fmTitle;
+
   const line = markdown
     .split(/\r?\n/, 60)
     .find((item) => /^#\s+/.test(item.trim()));
@@ -45,6 +73,11 @@ function extractTitle(markdown, relPath) {
     return line.replace(/^#\s+/, "").trim();
   }
   return path.posix.basename(stripMd(relPath));
+}
+
+function extractPublishDate(markdown) {
+  const value = extractFrontmatterField(markdown, "发布日期");
+  return /^\d{4}-\d{2}-\d{2}$/.test(value) ? value : "";
 }
 
 async function removeAndRecreateDir(dir) {
@@ -186,7 +219,79 @@ function groupNameFromRel(relPath) {
   return relPath.split("/")[0] || "其他";
 }
 
-function renderHomePage(stats) {
+function toRelativeLink(fromRelPath, toRelPath) {
+  const relative = path.posix.relative(path.posix.dirname(fromRelPath), toRelPath);
+  const normalized = relative.startsWith(".") ? relative : `./${relative}`;
+  return encodeLinkPath(normalized);
+}
+
+function buildPageRelPath(pageIndex) {
+  return pageIndex === 1 ? "README.md" : `recent/page-${pageIndex}.md`;
+}
+
+function renderPagination({ pageIndex, totalPages, currentPagePath }) {
+  if (totalPages <= 1) return "";
+
+  const items = [];
+  if (pageIndex > 1) {
+    const prevPath = buildPageRelPath(pageIndex - 1);
+    items.push(`- 上一页：[第 ${pageIndex - 1} 页](${toRelativeLink(currentPagePath, prevPath)})`);
+  }
+  if (pageIndex < totalPages) {
+    const nextPath = buildPageRelPath(pageIndex + 1);
+    items.push(`- 下一页：[第 ${pageIndex + 1} 页](${toRelativeLink(currentPagePath, nextPath)})`);
+  }
+  return items.join("\n");
+}
+
+function renderRecentPage({ docs, pageIndex, totalPages, totalDocs, stats, currentPagePath }) {
+  const pageStart = (pageIndex - 1) * RECENT_PAGE_SIZE;
+  const lines = docs.map((doc, idx) => {
+    const number = pageStart + idx + 1;
+    const link = toRelativeLink(currentPagePath, doc.relPath);
+    return `${number}. ${doc.publishDate} [${doc.title}](${link})`;
+  });
+  const pagination = renderPagination({ pageIndex, totalPages, currentPagePath });
+  const paginationBlock = pagination ? `${pagination}\n` : "";
+
+  const graphSection =
+    pageIndex === 1
+      ? `
+## 关系图谱
+
+<div id="relation-graph-home" class="relation-graph-home"></div>
+
+<div id="relation-graph-stats" class="relation-graph-stats">
+  节点：${stats.nodes} ｜ 连线：${stats.links}
+</div>
+
+> 提示：拖拽画布可平移，滚轮可缩放，点击节点可跳转。若节点过多，默认展示高连接度子图以保证性能。
+`
+      : "";
+
+  return `# 最近更新
+
+## 文档信息
+
+- 站点：wsl-docs GitBook
+- 生成时间：${new Date().toISOString()}
+- 数据范围：${RECENT_ROOT}
+- 总条目：${totalDocs}
+- 当前页：${pageIndex}/${totalPages}
+- 每页条数：${RECENT_PAGE_SIZE}
+
+## 摘要
+
+按发布日期从新到旧展示文档，首页固定为最近更新列表。每页最多 ${RECENT_PAGE_SIZE} 条，可通过分页继续浏览历史内容。
+
+## 正文
+
+${paginationBlock}${lines.join("\n")}
+
+${paginationBlock}${graphSection}`;
+}
+
+function renderLegacyHomePage(stats) {
   return `# 文档关系图谱首页
 
 ## 文档信息
@@ -210,8 +315,15 @@ function renderHomePage(stats) {
 `;
 }
 
-function renderSummary(docs) {
-  const lines = ["# Summary", "", "* [首页](README.md)"];
+function renderSummary(docs, recentPageCount) {
+  const lines = ["# Summary", "", "* [首页（最近更新）](README.md)"];
+
+  if (recentPageCount > 1) {
+    lines.push("", "## 最近更新");
+    for (let i = 2; i <= recentPageCount; i += 1) {
+      lines.push(`* [第 ${i} 页](recent/page-${i}.md)`);
+    }
+  }
 
   for (const root of CONTENT_ROOTS) {
     const group = docs
@@ -266,6 +378,7 @@ async function main() {
       absPath,
       rawContent,
       title,
+      publishDate: extractPublishDate(rawContent),
       slug,
       group: groupNameFromRel(relPath),
     });
@@ -364,10 +477,47 @@ async function main() {
     backlinks,
   };
 
-  const homeMarkdown = renderHomePage({ nodes: nodes.length, links: links.length });
-  const summaryMarkdown = renderSummary([...docsByRel.values()]);
+  const allDocs = [...docsByRel.values()];
+  const recentDocs = allDocs
+    .filter(
+      (doc) => doc.relPath.startsWith(`${RECENT_ROOT}/`) && !!doc.publishDate
+    )
+    .sort((a, b) => {
+      if (a.publishDate !== b.publishDate) {
+        return b.publishDate.localeCompare(a.publishDate, "zh-Hans-CN");
+      }
+      return a.relPath.localeCompare(b.relPath, "zh-Hans-CN");
+    });
 
-  await fs.writeFile(path.join(SOURCE_DIR, "README.md"), homeMarkdown, "utf8");
+  const recentPageCount = Math.max(
+    1,
+    Math.ceil(recentDocs.length / RECENT_PAGE_SIZE)
+  );
+
+  for (let pageIndex = 1; pageIndex <= recentPageCount; pageIndex += 1) {
+    const start = (pageIndex - 1) * RECENT_PAGE_SIZE;
+    const end = start + RECENT_PAGE_SIZE;
+    const pageDocs = recentDocs.slice(start, end);
+    const pagePath = buildPageRelPath(pageIndex);
+    const pageMarkdown =
+      recentDocs.length > 0
+        ? renderRecentPage({
+            docs: pageDocs,
+            pageIndex,
+            totalPages: recentPageCount,
+            totalDocs: recentDocs.length,
+            stats: { nodes: nodes.length, links: links.length },
+            currentPagePath: pagePath,
+          })
+        : renderLegacyHomePage({ nodes: nodes.length, links: links.length });
+
+    const outPath = path.join(SOURCE_DIR, pagePath);
+    await fs.mkdir(path.dirname(outPath), { recursive: true });
+    await fs.writeFile(outPath, pageMarkdown, "utf8");
+  }
+
+  const summaryMarkdown = renderSummary(allDocs, recentPageCount);
+
   await fs.writeFile(path.join(SOURCE_DIR, "SUMMARY.md"), summaryMarkdown, "utf8");
   await fs.writeFile(
     path.join(SOURCE_DIR, GRAPH_DATA_FILE),

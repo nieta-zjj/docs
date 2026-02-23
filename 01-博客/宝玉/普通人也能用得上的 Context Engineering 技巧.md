@@ -1,9 +1,10 @@
-# 普通人也能用得上的 Context Engineering 技巧
+---
+title: "普通人也能用得上的 Context Engineering 技巧"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/context-engineering-skills-for-normal-users
-- 发布日期：2025-08-04
-- 作者：宝玉
+来源: "https://baoyu.io/blog/context-engineering-skills-for-normal-users"
+发布日期: "2025-08-04"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@
 * **资源浪费**：面对复杂任务时，如果 AI 一开始方向错误，可能会在错误的路线和计划上持续浪费资源与时间。
 
 ## 正文
+
 现在讨论 Context Engineering（上下文工程）时，大多关注如何构建高级 AI Agent，但对普通用户来说，这些技术未必实用。我在这里总结了一些普通人使用 AI 时真正能用到的上下文工程技巧。
 
 Context Engineering 的中有两个关键点可以帮助你控制好上下文：

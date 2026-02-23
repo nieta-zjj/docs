@@ -1,9 +1,11 @@
-# 克里斯·利德尔（Chris Liddell）加入Anthropic董事会
+---
+title: "克里斯·利德尔（Chris Liddell）加入Anthropic董事会"
 
-## 文档信息
-- 来源：https://www.anthropic.com/news/chris-liddell-appointed-anthropic-board
+来源: "https://www.anthropic.com/news/chris-liddell-appointed-anthropic-board"
+---
 
 ## 摘要
+
 **一句话总结**
 拥有丰富企业高管与公共服务经验的克里斯·利德尔（Chris Liddell）正式加入Anthropic董事会，同时公司近期在安全产品、国际合作及模型版本上取得了多重新进展。
 
@@ -19,6 +21,7 @@
 * **模型版本更新**：发布Claude Sonnet 4.6，在编程、智能体（agents）及大规模专业工作方面展现前沿性能。
 
 ## 正文
+
 ### 核心任命与资深背景
 
 克里斯·利德尔（Chris Liddell）已正式被任命为Anthropic董事会成员。他在全球最大、最复杂的组织中积累了超过30年的高管经验。
@@ -59,3 +62,15 @@ Anthropic是一家公共利益公司（Public Benefit Corporation），其董事
 * **推出Claude Code Security**：作为Claude Code网页版的一项新功能，目前已进入有限的研究预览阶段。它能够扫描代码库中的安全漏洞，并提出针对性的软件补丁供人工审查，帮助团队发现和修复传统方法经常遗漏的安全问题。
 * **达成国际合作**：Anthropic与卢旺达政府签署了谅解备忘录（MOU），共同推动人工智能在医疗和教育领域的应用。
 * **发布Claude Sonnet 4.6**：新版本在编程、智能体（agents）以及大规模专业工作方面均展现了前沿的性能。
+
+## 相关文档
+
+- [[01-博客/Anthropic/将前沿网络安全能力赋予防御者：Claude Code Security 开启预览|将前沿网络安全能力赋予防御者：Claude Code Security 开启预览]]；关联理由：同一事件；说明：本文“相关最新动态”明确提到该能力发布，该文是对应事件的完整展开。
+- [[01-博客/Anthropic/Anthropic与卢旺达达成三年期合作：推动AI在医疗、教育与公共领域的应用|Anthropic与卢旺达达成三年期合作：推动AI在医疗、教育与公共领域的应用]]；关联理由：同一事件；说明：本文提及与卢旺达签署 MOU，该文提供同一合作事项的独立详细说明。
+- [[01-博客/Anthropic/全新推出 Claude Sonnet 4.6|全新推出 Claude Sonnet 4.6]]；关联理由：同一事件；说明：本文将 Sonnet 4.6 列为同期进展，该文对应同一模型发布事件。
+
+## 关联主题
+
+- [[00-元语/AI]]
+- [[00-元语/Claude]]
+- [[00-元语/compliance]]

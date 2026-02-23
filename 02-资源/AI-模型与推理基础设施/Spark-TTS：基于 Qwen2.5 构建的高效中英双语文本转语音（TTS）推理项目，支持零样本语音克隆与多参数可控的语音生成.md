@@ -1,15 +1,17 @@
-# Spark-TTS：基于 Qwen2.5 构建的高效中英双语文本转语音（TTS）推理项目，支持零样本语音克隆与多参数可控的语音生成
+---
+title: "Spark-TTS：基于 Qwen2.5 构建的高效中英双语文本转语音（TTS）推理项目，支持零样本语音克隆与多参数可控的语音生成"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `SparkAudio/Spark-TTS`
-- 项目主页：https://github.com/SparkAudio/Spark-TTS
-- 开源协议：Apache License 2.0
-- 主要语言：Python
-- 统计快照：Stars 10938，Forks 1170，Watchers 67（抓取时间：2026-02-22）
-- 版本快照：暂无正式发布记录
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `SparkAudio/Spark-TTS`"
+项目主页: "https://github.com/SparkAudio/Spark-TTS"
+开源协议: "Apache License 2.0"
+主要语言: "Python"
+统计快照: "Stars 10938，Forks 1170，Watchers 67（抓取时间：2026-02-22）"
+版本快照: "暂无正式发布记录"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 Spark-TTS 是一个基于 Qwen2.5 构建的高效中英双语文本转语音（TTS）推理项目，支持零样本语音克隆与多参数可控的语音生成。
 
@@ -27,36 +29,44 @@ Spark-TTS 是一个基于 Qwen2.5 构建的高效中英双语文本转语音（T
 *   **功能缺失（Gap）**：根据项目的 To-Do 列表，目前仅发布了推理代码和论文，模型的训练代码以及训练数据集（VoxBox）尚未开源。
 
 ## 功能与定位
+
 Spark-TTS Inference Code
 
 ## 典型使用场景
+
 - 用于模型训练、微调、推理或文档解析等基础能力建设。
 - 作为上层 AI 应用的数据与模型基础设施。
 
 ## 核心功能
+
 - 提供模型/推理相关核心能力。
 - 支持与主流 AI 工具链协同。
 - 兼顾实验验证与工程落地场景。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T11:03:30Z。
 - 项目创建于 2025-02-25T01:29:36Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/SparkAudio/Spark-TTS
 - README：https://raw.githubusercontent.com/SparkAudio/Spark-TTS/main/README.md
 - Releases：https://github.com/SparkAudio/Spark-TTS/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/audio]]
 - [[00-元语/llm]]

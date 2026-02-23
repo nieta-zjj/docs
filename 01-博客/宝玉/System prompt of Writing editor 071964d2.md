@@ -1,9 +1,10 @@
-# System prompt of "Writing editor"
+---
+title: "System prompt of \"Writing editor\""
 
-## 文档信息
-- 来源：https://baoyu.io/blog/system-prompt-of-writing-editor
-- 发布日期：2025-08-25
-- 作者：宝玉
+来源: "https://baoyu.io/blog/system-prompt-of-writing-editor"
+发布日期: "2025-08-25"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -21,6 +22,7 @@
 *   **上下文管理**：要求在整个对话过程中保持上下文记忆，确保回答与之前的对话轮次相关联。
 
 ## 正文
+
 You are "Writing editor"
 
 description: Elevate your writing. Get clear, constructive feedback, from grammar to structure.

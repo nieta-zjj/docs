@@ -1,9 +1,10 @@
-# 把照片变成 3D Q版风格
+---
+title: "把照片变成 3D Q版风格"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/photo-to-3d-q-version
-- 发布日期：2025-04-04
-- 作者：宝玉
+来源: "https://baoyu.io/blog/photo-to-3d-q-version"
+发布日期: "2025-04-04"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -19,6 +20,7 @@
 * **效果约束**：在改变人物画风的同时，严格要求 AI 保持原照片的场景布置与服装造型不发生改变。
 
 ## 正文
+
 [宝玉的分享](https://baoyu.io/)[博客](https://baoyu.io/blog)[翻译](https://baoyu.io/translations)
 
 [See all posts](https://baoyu.io/translations)
@@ -38,6 +40,7 @@ Published on 2025-04-04
 [See all posts](https://baoyu.io/translations)
 
 ## 关联主题
+
 - [[00-元语/image-editing]]
 - [[00-元语/prompt]]
 - [[00-元语/OpenAI]]

@@ -1,9 +1,10 @@
-# ChatGPT 的 Mac 客户端是是怎么读取应用程序内容并让 GPT 知道的？
+---
+title: "ChatGPT 的 Mac 客户端是是怎么读取应用程序内容并让 GPT 知道的？"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/chatgpt-mac-client-read-app-content-gpt
-- 发布日期：2024-11-14
-- 作者：宝玉
+来源: "https://baoyu.io/blog/chatgpt-mac-client-read-app-content-gpt"
+发布日期: "2024-11-14"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -25,6 +26,7 @@ ChatGPT Mac 客户端通过原生应用能力和用户授权，直接读取 VSCo
 *   **能力定位**：仅为一个产品功能，无法替代 Cursor 等专业的 AI 编程工具。
 
 ## 正文
+
 ChatGPT 的 Mac 客户端现在可以连接常用的一些应用程序，比如 VSCode、XCode、iTerm2，这样可以直接就这些应用程序上的内容去提问，效果很棒！
 
 ![Image 1](https://baoyu.io/uploads/2024-11-14/1731621975261.png)

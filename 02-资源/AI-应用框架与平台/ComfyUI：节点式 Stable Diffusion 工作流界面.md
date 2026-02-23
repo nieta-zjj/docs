@@ -1,17 +1,19 @@
-# ComfyUI：节点式 Stable Diffusion 工作流界面
+---
+title: "ComfyUI：节点式 Stable Diffusion 工作流界面"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `comfyanonymous/ComfyUI`
-- 项目主页：https://github.com/comfyanonymous/ComfyUI
-- 官方网站：https://www.comfy.org/
-- 开源协议：GPL-3.0
-- 主要语言：Python
-- 统计快照：Stars 103843，Forks 11862，Watchers 668（抓取时间：2026-02-22）
-- 版本快照：最新 release `v0.14.2`，发布时间 `2026-02-18`
-- 备注：用户提供“26367”，与当前公开 Stars 统计不一致；本条目按抓取时公开数据记录。
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `comfyanonymous/ComfyUI`"
+项目主页: "https://github.com/comfyanonymous/ComfyUI"
+官方网站: "https://www.comfy.org/"
+开源协议: "GPL-3.0"
+主要语言: "Python"
+统计快照: "Stars 103843，Forks 11862，Watchers 668（抓取时间：2026-02-22）"
+版本快照: "最新 release `v0.14.2`，发布时间 `2026-02-18`"
+备注: "用户提供“26367”，与当前公开 Stars 统计不一致；本条目按抓取时公开数据记录。"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 ComfyUI 是一个基于 Python 开发的、高度模块化的节点式视觉 AI 引擎与图形界面，支持零代码搭建并执行涵盖图像、视频、音频及 3D 生成的复杂扩散模型工作流。
 
@@ -31,14 +33,17 @@ ComfyUI 是一个基于 Python 开发的、高度模块化的节点式视觉 AI 
 * **性能限制**：虽然支持纯 CPU 运行，但在此模式下生成速度会非常慢。
 
 ## 功能与定位
+
 ComfyUI 是一个强大且高度模块化的视觉 AI 引擎和应用程序。它提供了一个基于图/节点/流程图的交互界面，可作为图形用户界面（GUI）、API 和后端使用，专门用于设计和执行高级的 Stable Diffusion 工作流。
 
 ## 典型使用场景
+
 - **零代码工作流搭建**：无需编写任何代码，即可通过节点连线的方式实验和创建复杂的 Stable Diffusion 生成流程。
 - **多模态内容生成与编辑**：涵盖图像生成、图像编辑、视频生成、音频生成以及 3D 模型生成。
 - **高级图像处理**：适用于执行高清修复（Hires fix）、区域合成（Area Composition）、局部重绘（Inpainting）以及模型融合等复杂任务。
 
 ## 核心功能
+
 - **广泛的模型支持**：
   - **图像模型**：支持 SD1.x, SD2.x, SDXL, SDXL Turbo, Stable Cascade, SD3/3.5, Pixart, AuraFlow, HunyuanDiT, Flux, Lumina 2.0, HiDream, Qwen Image, Hunyuan Image 2.1, Z Image 等。
   - **图像编辑模型**：支持 Omnigen 2, Flux Kontext, HiDream E1.1, Qwen Image Edit。
@@ -58,12 +63,14 @@ ComfyUI 是一个强大且高度模块化的视觉 AI 引擎和应用程序。�
   - 提供 TAESD 潜在空间预览（Latent previews）。
 
 ## 特色与差异点
+
 - **完全离线运行**：核心组件默认完全离线工作，除非用户主动操作，否则不会下载任何内容。
 - **跨平台与全硬件兼容**：支持 Windows、Linux 和 macOS；兼容 NVIDIA、AMD、Intel、Apple Silicon 和 Ascend 等多种 GPU，同时也支持纯 CPU 运行（使用 `--cpu` 参数）。
 - **模型文件共享**：提供配置文件（`extra_model_paths.yaml`），允许用户自定义模型搜索路径，从而轻松与其他 UI 共享庞大的模型文件。
 - **模块化架构与发布机制**：项目分为 Core（核心库）、Desktop（桌面版）和 Frontend（前端），遵循每周（通常是周一）的发布周期。
 
 ## 使用方式概览
+
 - **桌面应用程序**：提供 Windows 和 macOS 版本，是最简单的入门方式。
 - **Windows 便携版**：提供独立的压缩包（包含针对 Nvidia、AMD 或纯 CPU 的版本），解压后即可运行，无需复杂配置。
 - **命令行安装**：可通过 `comfy-cli` 工具进行安装（执行 `pip install comfy-cli` 后运行 `comfy install`）。
@@ -71,18 +78,21 @@ ComfyUI 是一个强大且高度模块化的视觉 AI 引擎和应用程序。�
 - **快捷键交互**：内置丰富的快捷键系统（如 `Ctrl+Enter` 将当前图加入生成队列，`Ctrl+S` 保存工作流，`Ctrl+B` 旁路节点等），大幅提升操作效率。
 
 ## 限制与注意事项
+
 - **环境兼容性**：对 Python 3.13 支持极佳；Python 3.14 虽然可用，但部分自定义节点（custom nodes）可能会出现问题（如遇到依赖问题可回退至 3.12）。推荐使用 PyTorch 2.4 及以上版本。
 - **版本稳定性风险**：在稳定发布标签（Stable release tags）之外的最新提交（commits）可能非常不稳定，并有可能导致许多自定义节点失效。
 - **纯 CPU 运行性能**：虽然支持在没有 GPU 的情况下运行，但生成速度会非常慢。
 - **外部 API 节点**：包含可选的 API 节点以调用外部提供商的付费模型，如果不需要，可通过 `--disable-api-nodes` 参数禁用。
 
 ## 链接
+
 - https://github.com/Comfy-Org/ComfyUI
 - https://www.comfy.org/
 - https://github.com/Comfy-Org/ComfyUI/releases
 - https://comfyanonymous.github.io/ComfyUI_examples/
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/workflow]]
 - [[00-元语/multimodal]]

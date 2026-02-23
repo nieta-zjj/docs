@@ -1,9 +1,11 @@
-# OpenClaw 创始人正式加入 OpenAI：项目保持开源并成立基金会
+---
+title: "OpenClaw 创始人正式加入 OpenAI：项目保持开源并成立基金会"
 
-## 文档信息
-- 来源：https://www.infoq.cn/article/pKL4h90cQidiLX4H3r79?utm_source=rss&utm_medium=article
+来源: "https://www.infoq.cn/article/pKL4h90cQidiLX4H3r79?utm_source=rss&utm_medium=article"
+---
 
 ## 摘要
+
 **一句话总结**
 OpenClaw 创始人 Peter Steinberger 正式加入 OpenAI 致力于下一代个人智能体研发，同时 OpenClaw 项目将成立独立基金会并继续保持开源。
 
@@ -20,6 +22,7 @@ OpenClaw 创始人 Peter Steinberger 正式加入 OpenAI 致力于下一代个�
 * **治理机制缺失：** 个人代理的制度设计仍是难点，目前尚需解决数据访问权限界定、完整操作日志查看，以及建立细粒度且可回溯的审计追踪机制等问题以跨越信任门槛。
 
 ## 正文
+
 刚刚，OpenAI CEO Sam Altman 在 X 上宣布，顶流开源项目 OpenClaw 的创始人 Peter Steinberger 将正式加入 OpenAI，致力于推动下一代个人智能体（Agent）的研发。
 
 Altman 在发帖中高度评价了 Peter 的才华：“他是一位天才，对未来智能体如何相互协作、为人们提供实用服务有着许多令人惊叹的构想。我们预计这将很快成为我们产品的核心。”同时，Altman 确认 OpenClaw 将以开源项目的形式存在于基金会中，OpenAI 将继续为其提供支持，以迎接高度多智能体化的时代。
@@ -54,6 +57,7 @@ Altman 在发帖中高度评价了 Peter 的才华：“他是一位天才，对
 以上种种讨论折射出一个清晰的信号：OpenClaw 所代表的不仅是一款新产品，更是一种正在逼近现实的个人智能体愿景。而围绕这一愿景，整个行业正处于兴奋、犹疑与审慎交织的情绪之中。
 
 ## 关联主题
+
 - [[00-元语/OpenAI]]
 - [[00-元语/Agent]]
 - [[00-元语/community]]

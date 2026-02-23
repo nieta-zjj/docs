@@ -1,11 +1,13 @@
-# YouTube Playables Builder Beta 介绍
+---
+title: "YouTube Playables Builder Beta 介绍"
 
-## 文档信息
-- 来源：https://www.youtube.com/playablesbuilder/
-- 品牌：YouTube
-- 译注：页面未提供可用官方中文内容，正文为中文翻译整理稿。
+来源: "https://www.youtube.com/playablesbuilder/"
+品牌: "YouTube"
+译注: "页面未提供可用官方中文内容，正文为中文翻译整理稿。"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 YouTube 全新推出了无需编程的 Playables Builder Beta 版，让创作者能够在几分钟内通过输入文本、图片或视频快速生成迷你游戏，并直接与观众分享。
 
@@ -19,6 +21,7 @@ YouTube 全新推出了无需编程的 Playables Builder Beta 版，让创作者
 * **参与机制**：用户现在可以报名，以获取未来加入 Playables Builder Beta 计划的资格。
 
 ## 正文
+
 ![Image 1: YouTube](https://firebasestorage.googleapis.com/v0/b/playables-game-builder.firebasestorage.app/o/landingpage%2Fyt-logo.png?alt=media)
 
 全新推出！Playables Builder Beta — 成为首批体验者

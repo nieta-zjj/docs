@@ -1,16 +1,17 @@
-# Claude Multimodal Cookbook 实战手册
+---
+title: "Claude Multimodal Cookbook 实战手册"
 
-## 文档信息
-发布日期：2026-02-17
-来源仓库：anthropics/claude-cookbooks
-原文链接：https://github.com/anthropics/claude-cookbooks/tree/main/multimodal
-覆盖范围：
-- `multimodal/getting_started_with_vision.ipynb`
-- `multimodal/best_practices_for_vision.ipynb`
-- `multimodal/crop_tool.ipynb`
-- `multimodal/how_to_transcribe_text.ipynb`
-- `multimodal/reading_charts_graphs_powerpoints.ipynb`
-- `multimodal/using_sub_agents.ipynb`
+发布日期: "2026-02-17"
+来源仓库: "anthropics/claude-cookbooks"
+原文链接: "https://github.com/anthropics/claude-cookbooks/tree/main/multimodal"
+覆盖范围:
+  - "`multimodal/getting_started_with_vision.ipynb`"
+  - "`multimodal/best_practices_for_vision.ipynb`"
+  - "`multimodal/crop_tool.ipynb`"
+  - "`multimodal/how_to_transcribe_text.ipynb`"
+  - "`multimodal/reading_charts_graphs_powerpoints.ipynb`"
+  - "`multimodal/using_sub_agents.ipynb`"
+---
 
 ## 摘要
 
@@ -27,6 +28,7 @@
 *   **典型落地场景**：包括报表和看板的趋势与异常解读、票据与表单的结构化字段转录，以及结合子代理的多文档并行阅读与汇总。
 
 ## 正文
+
 这组 notebook 给出了一条完整多模态落地路径：图像输入、视觉提示、局部裁剪、文档转录、图表理解，再到子代理协同。它的价值不在“能看图”，而在“如何稳定提取可用信息并接入工作流”。
 
 ### 能力主线
@@ -66,11 +68,13 @@ CROP_TOOL = {
 - 多文档研究助手：结合子代理并行阅读并汇总结论。
 
 ## 相关文档
+
 - [[01-博客/Anthropic/Claude 第三方集成 Cookbook 语音与多模态应用|Claude 第三方集成 Cookbook 语音与多模态应用]]；关联理由：解说；说明：两文都处理多模态输入理解链路，本文聚焦原生视觉与裁剪，关联文补充语音与外部检索集成。
 - [[01-博客/Anthropic/Claude Tool Use Cookbook 实战清单下篇|Claude Tool Use Cookbook 实战清单下篇]]；关联理由：上下游；说明：本文解决视觉信息提取，上游结果可直接进入 `vision_with_tools` 一类工具执行链路完成生产化动作。
 - [[01-博客/Anthropic/Claude Cookbooks 项目总览与能力地图|Claude Cookbooks 项目总览与能力地图]]；关联理由：上下游；说明：该文给出 cookbooks 全局能力地图并明确 multimodal 分组位置，是本文所属模块的总览入口。
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/multimodal]]
 - [[00-元语/image-editing]]

@@ -1,15 +1,17 @@
-# Whisper：OpenAI 语音识别模型
+---
+title: "Whisper：OpenAI 语音识别模型"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `openai/whisper`
-- 项目主页：https://github.com/openai/whisper
-- 开源协议：MIT License
-- 主要语言：Python
-- 统计快照：Stars 94932，Forks 11788，Watchers 702（抓取时间：2026-02-22）
-- 版本快照：最新发布 v20250625（发布时间：2025-06-26T01:06:09Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `openai/whisper`"
+项目主页: "https://github.com/openai/whisper"
+开源协议: "MIT License"
+主要语言: "Python"
+统计快照: "Stars 94932，Forks 11788，Watchers 702（抓取时间：2026-02-22）"
+版本快照: "最新发布 v20250625（发布时间：2025-06-26T01:06:09Z）"
+---
 
 ## 摘要
+
 ### 一句话总结
 Whisper 是由 OpenAI 开源的一款基于大规模弱监督训练的通用语音识别模型，支持多语言语音识别、语音翻译和语种识别任务。
 
@@ -27,38 +29,45 @@ Whisper 是由 OpenAI 开源的一款基于大规模弱监督训练的通用语�
 *   **Turbo 模型的翻译局限**：`turbo` 模型未针对翻译任务进行训练。如果需要将非英语语音翻译为英语，即使在命令中指定了 `--task translate`，`turbo` 模型仍会返回原语言。进行翻译任务时必须使用其他多语言模型（官方推荐 `medium` 或 `large` 以获得最佳效果）。
 *   **性能差异**：模型在不同语言上的表现差异较大，实际的识别速度也会受到语言种类、语速和可用硬件的显著影响。
 
-
 ## 功能与定位
+
 Robust Speech Recognition via Large-Scale Weak Supervision
 
 ## 典型使用场景
+
 - 用于模型训练、微调、推理或文档解析等基础能力建设。
 - 作为上层 AI 应用的数据与模型基础设施。
 
 ## 核心功能
+
 - 提供模型/推理相关核心能力。
 - 支持与主流 AI 工具链协同。
 - 兼顾实验验证与工程落地场景。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:32:52Z。
 - 项目创建于 2022-09-16T20:02:54Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/openai/whisper
 - README：https://raw.githubusercontent.com/openai/whisper/main/README.md
 - Releases：https://github.com/openai/whisper/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/OpenAI]]
 - [[00-元语/audio]]

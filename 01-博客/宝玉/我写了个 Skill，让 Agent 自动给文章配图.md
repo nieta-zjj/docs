@@ -1,9 +1,10 @@
-# 我写了个 Skill，让 Agent 自动给文章配图
+---
+title: "我写了个 Skill，让 Agent 自动给文章配图"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/2026/01/15/agent-skills-illustrator-tutorial
-- 发布日期：2026-01-15
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026/01/15/agent-skills-illustrator-tutorial"
+发布日期: "2026-01-15"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@
 *   **外部工具依赖**：该配图 Skill 强依赖于“图像生成 Skill”或外部图像生成工具（如 Gemini）。若运行环境未接入相关工具，Agent 只能生成提示词，需要用户手动去生成配图。
 
 ## 正文
+
 ![Image 1: 封面](https://s.baoyu.io/imgs/2026-01-15/agent-skills-illustrator-tutorial/cover.png)
 
 写完一篇长文，配图是一件让人头疼的事。

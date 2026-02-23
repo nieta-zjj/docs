@@ -1,11 +1,11 @@
-# Vercel 给 Agent Skills 泼了一盆冷水
+---
+title: "Vercel 给 Agent Skills 泼了一盆冷水"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/YXdKe4NgHSl4v535UXkjvg
-- 发布日期：2026-01-31
-- 作者：luckySnail01
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/YXdKe4NgHSl4v535UXkjvg"
+发布日期: "2026-01-31"
+作者: "luckySnail01"
+---
 
 ## 摘要
 

@@ -1,10 +1,10 @@
-# Jeff Dean 深度访谈：一页纸备忘录促成 Gemini 的诞生，Google AI 的反击与 10,000 Token 的未来
+---
+title: "Jeff Dean 深度访谈：一页纸备忘录促成 Gemini 的诞生，Google AI 的反击与 10,000 Token 的未来"
 
-## 文档信息
-
-- 来源：https://baoyu.io/blog/2026-02-17/jeff-dean-latent-space
-- 发布日期：2026-02-17
-- 作者：宝玉
+来源: "https://baoyu.io/blog/2026-02-17/jeff-dean-latent-space"
+发布日期: "2026-02-17"
+作者: "宝玉"
+---
 
 ## 摘要
 

@@ -1,9 +1,9 @@
-# 面向 AI Agent 的上下文工程实践
+---
+title: "面向 AI Agent 的上下文工程实践"
 
-## 文档信息
-
-- 发布日期：2026-01-06
-- 原文链接：https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
+发布日期: "2026-01-06"
+原文链接: "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents"
+---
 
 ## 摘要
 

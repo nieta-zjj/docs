@@ -1,15 +1,17 @@
-# Cookbook Notebook 审核规范与评分清单
+---
+title: "Cookbook Notebook 审核规范与评分清单"
 
-## 文档信息
-发布日期：2026-02-17
-作者：Anthropic
-来源仓库：anthropics/claude-cookbooks
-原文链接：
-- https://github.com/anthropics/claude-cookbooks/blob/main/.claude/skills/cookbook-audit/SKILL.md
-- https://github.com/anthropics/claude-cookbooks/blob/main/.claude/skills/cookbook-audit/style_guide.md
-译注：原文为英文仓库文档，本稿为中文整理版。
+发布日期: "2026-02-17"
+作者: "Anthropic"
+来源仓库: "anthropics/claude-cookbooks"
+原文链接:
+  - "https://github.com/anthropics/claude-cookbooks/blob/main/.claude/skills/cookbook-audit/SKILL.md"
+  - "https://github.com/anthropics/claude-cookbooks/blob/main/.claude/skills/cookbook-audit/style_guide.md"
+译注: "原文为英文仓库文档，本稿为中文整理版。"
+---
 
 ## 摘要
+
 ### 1) 一句话摘要
 本文档提供了 Anthropic Cookbook 笔记本的标准化审核流程、评分框架与样式指南，旨在确保内容以解决实际问题为导向、代码规范且具备高教育价值。
 
@@ -29,8 +31,8 @@
 * **审查产物残留**：自动生成的 Markdown 审查文件若未被 `.gitignore` 忽略，可能会将审查产物（`tmp/` 文件夹）错误提交到代码库中。
 
 ## 正文
-### 来源文档：`.claude/skills/cookbook-audit/SKILL.md`
 
+### 来源文档：`.claude/skills/cookbook-audit/SKILL.md`
 
 # Cookbook 审核
 
@@ -361,7 +363,6 @@ AI 可观测性代理可以 24/7 全天候监控你的 CI/CD 流水线，从噪�
 
 * [必备知识/工具 - 没有这些，cookbook 将无法运行]
 
-
 ## 设置
 
 [带有解释的逐步说明]
@@ -434,10 +435,8 @@ client = Anthropic(api_key=os.getenv('ANTHROPIC_API_KEY')
 %pip install -U anthropic scikit-learn numpy python-dotenv
 ~~~
 
-
 **注意：** 确保你的 `.env` 文件包含：
 ANTHROPIC_API_KEY=your_key_here
-
 
 加载环境变量并配置客户端：
 
@@ -452,7 +451,6 @@ MODEL = "claude-sonnet-4-6"
 client = anthropic.Anthropic()
 ~~~
 ```
-
 
 # 3. 核心 Cookbook 章节
 每个功能/概念都有自己的独立章节，通过演示而不是文档进行教学。
@@ -486,7 +484,6 @@ client = anthropic.Anthropic()
 ```
 反面示例：
 
-
 这较少强调如何将读者学到的知识应用到他们特定的上下文中。
 ```
 我们已经演示了 Claude Code SDK 如何使你能够构建复杂的多代理系统
@@ -498,6 +495,7 @@ client = anthropic.Anthropic()
 - [[01-博客/Anthropic/Claude Skills Cookbook 开发与排障手册|Claude Skills Cookbook 开发与排障手册]]；关联理由：上下游；说明：该文给出 Skills Notebook 的实现与排障细节，本文可作为其质量验收与评分准绳。
 
 ## 关联主题
+
 - [[00-元语/code-review]]
 - [[00-元语/workflow]]
 - [[00-元语/skills]]

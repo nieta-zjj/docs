@@ -1,13 +1,13 @@
-# OpenViking：面向 AI Agent 的上下文数据库
+---
+title: "OpenViking：面向 AI Agent 的上下文数据库"
 
-## 文档信息
-
-- 对象：网站与开源项目
-- 发布日期：2026-02-14
-- 来源：
-  - https://openviking.ai/
-  - https://github.com/volcengine/OpenViking
-  - https://pypi.org/project/openviking/
+对象: "网站与开源项目"
+发布日期: "2026-02-14"
+来源:
+  - "https://openviking.ai/"
+  - "https://github.com/volcengine/OpenViking"
+  - "https://pypi.org/project/openviking/"
+---
 
 ## 摘要
 

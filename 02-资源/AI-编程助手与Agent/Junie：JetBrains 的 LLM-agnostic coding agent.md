@@ -1,16 +1,10 @@
-# Junie：JetBrains 的 LLM-agnostic coding agent
+---
+title: "Junie：JetBrains 的 LLM-agnostic coding agent"
 
-## 文档信息
-
-- 对象：网站产品与文档
-- 来源：https://junie.jetbrains.com/
-- 来源：https://junie.jetbrains.com/docs/
-- 来源：https://junie.jetbrains.com/docs/junie-cli.html
-- 来源：https://junie.jetbrains.com/docs/junie-headless.html
-- 来源：https://junie.jetbrains.com/docs/junie-on-github.html
-- 来源：https://junie.jetbrains.com/docs/junie-gitlab-ci-cd.html
-- 来源：https://junie.jetbrains.com/cli
-- 产品状态：EAP
+对象: "网站产品与文档"
+来源: "https://junie.jetbrains.com/cli"
+产品状态: "EAP"
+---
 
 ## 摘要
 

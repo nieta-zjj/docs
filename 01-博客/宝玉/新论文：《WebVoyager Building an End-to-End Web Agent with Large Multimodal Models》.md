@@ -1,9 +1,10 @@
-# 新论文：《WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models》
+---
+title: "新论文：《WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models》"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ai/webvoyager
-- 发布日期：2024-01-27
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ai/webvoyager"
+发布日期: "2024-01-27"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@ WebVoyager 是一个基于 GPT-4V 等多模态大模型的端到端网页智能�
 *   **幻觉与上下文限制**：AI 在理解和遵循复杂提示词时仍面临重大挑战；过长的操作路径会导致上下文冗长，进而妨碍指令的有效执行。
 
 ## 正文
+
 来自浙江大学、腾讯 AI 实验室和西湖大学的新论文：《WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models》
 
 这篇论文详细的讲解了如何借助 GPT-4V 这样的多模态模型，与开放网络中的网站交互，完成用户的各项指令。

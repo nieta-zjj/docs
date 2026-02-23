@@ -1,11 +1,11 @@
-# 告别静态权重：谷歌提出 Nested Learning，让大模型拥有“海马体”
+---
+title: "告别静态权重：谷歌提出 Nested Learning，让大模型拥有“海马体”"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/MZ3MR4a-khFEax0GujfuIQ
-- 发布日期：2025-11-24
-- 作者：沈公子今天读什么
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/MZ3MR4a-khFEax0GujfuIQ"
+发布日期: "2025-11-24"
+作者: "沈公子今天读什么"
+---
 
 ## 摘要
 

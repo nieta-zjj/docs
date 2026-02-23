@@ -1,11 +1,11 @@
-# 在本地高效运行 LLM
+---
+title: "在本地高效运行 LLM"
 
-## 文档信息
-
-- 来源：https://jalexine.github.io/performatively-run-a-llm-locally.html
-- 作者：Alexine Le Port
-- 发布日期：2025-10-16
-- 译注：该页面未提供官方中文版本，正文为基于原文内容的中文翻译整理。
+来源: "https://jalexine.github.io/performatively-run-a-llm-locally.html"
+作者: "Alexine Le Port"
+发布日期: "2025-10-16"
+译注: "该页面未提供官方中文版本，正文为基于原文内容的中文翻译整理。"
+---
 
 ## 摘要
 

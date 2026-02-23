@@ -1,9 +1,10 @@
-# AI编程革命：代码的未来，由AI重塑！
+---
+title: "AI编程革命：代码的未来，由AI重塑！"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ai-programming-revolution
-- 发布日期：2025-01-12
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ai-programming-revolution"
+发布日期: "2025-01-12"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -31,6 +32,7 @@
 *   **企业安全合规限制**：部分企业因数据安全策略，禁止使用云端大模型工具，这类场景需依赖开源模型（如DeepSeek V3）的进一步普及。
 
 ## 正文
+
 这周五在 X Space 上和 CSDN 的闫辉、以及 AutoCoder 的 William Zhu有过一次《AI编程革命：代码的未来，由AI重塑！》为主题的对话，我把文稿整理了一下。
 
 重播地址：[https://x.com/i/spaces/1ynJODZWVoZxR](https://x.com/i/spaces/1ynJODZWVoZxR)
@@ -266,6 +268,7 @@ WilliamZhu：实际上AI辅助编程的话我觉得现在应该是两个层面�
 WilliamZhu：拜拜。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/llm]]

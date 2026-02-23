@@ -1,11 +1,11 @@
-# UI Style Prompt：AI UI 设计风格提示词库
+---
+title: "UI Style Prompt：AI UI 设计风格提示词库"
 
-## 文档信息
-
-- 对象：网站
-- 发布日期：2026-02-22
-- 来源：
-  - https://www.uiprompt.site/styles
+对象: "网站"
+发布日期: "2026-02-22"
+来源:
+  - "https://www.uiprompt.site/styles"
+---
 
 ## 摘要
 
@@ -22,9 +22,11 @@ UI Style Prompt 是一个专为 AI UI 设计打造的现代风格库，提供 73
 * **多场景适用性**：风格库可广泛应用于企业级专业工具、奢侈品电商、健康冥想应用、内容出版平台及游戏科幻等特定行业与场景。
 
 ## 功能与定位
+
 UI Style Prompt 是一个专注于 AI UI 设计的现代风格库，旨在帮助开发者和设计师探索、筛选并应用 70 多种不同的 UI 设计风格。该库将美学原则与功能设计相结合，为现代 Web 和移动应用程序的界面开发提供视觉语言参考与模板。
 
 ## 典型使用场景
+
 * **现代 Web 与移动应用**：提供扁平化（Flat Design）、极简主义（Minimalism）、无障碍设计（Accessibility）等基础 UI 规范。
 * **企业级与专业工具**：适用于后台管理、数据分析、CAD 软件及工业系统（如工业设计、蓝图、Fluent Design 2.0、Material Design 风格）。
 * **特定行业与品牌展示**：
@@ -34,20 +36,24 @@ UI Style Prompt 是一个专注于 AI UI 设计的现代风格库，旨在帮助
 * **游戏、娱乐与科幻**：使用赛博朋克（Neon Cyberpunk）、科幻 HUD（Sci-Fi HUD）、漫画书（Comic Book）或复古街机（Arcade CRT Scanlines）风格。
 
 ## 核心功能
+
 * **风格分类与检索**：提供筛选（Filter）功能，展示共计 73 种 UI 设计风格。风格被系统划分为核心风格（Core Styles）、视觉（Visual）、复古（Retro）、布局（Layout）和交互（Interaction）五大类别。
 * **风格模板库**：每种设计风格均配备 1 至 4 个不等的具体设计模板（Templates）供用户参考和使用。
 * **详尽的风格指南**：为每种风格提供核心设计理念、视觉构成元素（如排版、色彩、阴影、材质）以及适用场景的详细说明，并附带相关设计标签（如 Contemporary, Minimal, Retro, Creative 等）。
 
 ## 特色与差异点
+
 * **覆盖极广的视觉美学**：不仅包含主流的现代设计系统，还收录了大量细分、前卫及复古的艺术风格，如 Y2K 时代、反设计（Anti-Design Studio）、新粗野主义（Neo-Brutalism）、蒸汽朋克（Steampunk）、包豪斯（Bauhaus）以及复古操作系统（Retro OS、Frutiger Aero）等。
 * **多维度的设计元素拆解**：涵盖了从光影效果（极光玻璃、全息渐变、霓虹发光）、材质纹理（黏土、纸雕、水墨、噪点）到空间透视（3D 元素、阈限空间）的全方位视觉维度。
 * **包含动态与交互设计**：除了静态视觉，还收录了滚动叙事（Scroll Narrative）、粒子系统（Particle System）以及鼠标追踪（Mouse Tracking）等强调动态反馈和交互体验的风格。
 * **契合现代开发趋势**：包含生成式艺术（Generative Art）和实用优先（Utility First）等契合 AI 辅助设计与现代前端组件化开发的风格理念。
 
 ## 使用方式概览
+
 用户可以通过浏览风格库并利用筛选功能，在 73 种设计风格中进行查找。选定特定风格后，可查看该风格的视觉特征、适用场景说明，并获取对应的设计模板以应用于实际项目中。
 
 ## 链接
+
 * https://www.uiprompt.site/styles
 
 ## 关联主题

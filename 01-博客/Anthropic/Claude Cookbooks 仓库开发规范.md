@@ -1,13 +1,15 @@
-# Claude Cookbooks 仓库开发规范
+---
+title: "Claude Cookbooks 仓库开发规范"
 
-## 文档信息
-发布日期：2026-02-17
-作者：Anthropic
-来源仓库：anthropics/claude-cookbooks
-原文链接：https://github.com/anthropics/claude-cookbooks/blob/main/CLAUDE.md
-译注：原文为英文仓库文档，本稿为中文整理版。
+发布日期: "2026-02-17"
+作者: "Anthropic"
+来源仓库: "anthropics/claude-cookbooks"
+原文链接: "https://github.com/anthropics/claude-cookbooks/blob/main/CLAUDE.md"
+译注: "原文为英文仓库文档，本稿为中文整理版。"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 本文档是 Claude Cookbooks 的开发与贡献指南，详细说明了环境配置、代码规范、Git 工作流、核心开发规则以及添加新示例的标准化流程。
 
@@ -27,6 +29,7 @@
 *   **模型调用错误风险**：明确警告永远不要使用带日期的 Claude 模型 ID（Opus 4.6 之前的 Bedrock 旧模型除外）。
 
 ## 正文
+
 # Claude Cookbooks
 
 包含一系列 Jupyter notebook 和 Python 示例，用于使用 Claude API 构建应用。
@@ -145,6 +148,7 @@ scripts/           # 验证脚本
 - [[01-博客/Anthropic/Claude Skills Cookbook 开发与排障手册|Claude Skills Cookbook 开发与排障手册]]；关联理由：上下游；说明：该文是 `skills/` 子目录的实践手册，直接落地了本文的环境、模型与质量检查规范
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/workflow]]
 - [[00-元语/github]]

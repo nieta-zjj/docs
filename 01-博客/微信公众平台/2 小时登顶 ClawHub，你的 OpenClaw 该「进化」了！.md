@@ -1,11 +1,11 @@
-# 2 小时登顶 ClawHub，你的 OpenClaw 该「进化」了！
+---
+title: "2 小时登顶 ClawHub，你的 OpenClaw 该「进化」了！"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/zxehrqWyu-9kJx3UbKf_JA
-- 发布日期：2026-02-20
-- 作者：AI信息Gap
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/zxehrqWyu-9kJx3UbKf_JA"
+发布日期: "2026-02-20"
+作者: "AI信息Gap"
+---
 
 ## 摘要
 
@@ -28,7 +28,6 @@ EvoMap 是一个基于基因组进化协议（GEP）的 AI Agent 经验共享网
 *   **平台与团队动荡**：OpenClaw 项目在两个月内改名三次，且创始人 Peter Steinberger 已于 2 月 15 日宣布加入 OpenAI，平台存在较高的不确定性。
 
 ## 正文
-
 
 一行命令：
 

@@ -1,9 +1,11 @@
-# Nemotron Labs：AI 智能体如何将文档转化为实时的商业智能
+---
+title: "Nemotron Labs：AI 智能体如何将文档转化为实时的商业智能"
 
-## 文档信息
-- 来源：https://blogs.nvidia.com/blog/ai-agents-intelligent-document-processing/
+来源: "https://blogs.nvidia.com/blog/ai-agents-intelligent-document-processing/"
+---
 
 ## 摘要
+
 **一句话总结**
 NVIDIA Nemotron 开源模型和 GPU 加速库通过结合 AI 智能体与检索增强生成（RAG）技术，帮助企业将包含复杂排版和多模态内容的文档转化为实时的商业智能。
 
@@ -18,6 +20,7 @@ NVIDIA Nemotron 开源模型和 GPU 加速库通过结合 AI 智能体与检索�
 *   **部署与优化**：这些功能以 NVIDIA NIM 微服务形式提供，支持在云端或本地数据中心安全部署；企业可通过 LLM 路由器混合使用前沿模型与开源模型，以平衡系统性能与计算成本。
 
 ## 正文
+
 编者按：本文是 Nemotron Labs 博客系列的一部分，该系列探讨了最新的开源模型、数据集和训练技术如何帮助企业在 NVIDIA 平台上构建专业的 AI 系统和应用。本文将重点介绍如何使用开源技术栈在生产环境中创造价值——从透明的研究助手到可扩展的 AI 智能体。
 
 当今企业面临着一个巨大挑战：如何从海量且种类繁多的文档（如报告、演示文稿、PDF、网页和电子表格）中挖掘有价值的洞察。
@@ -78,3 +81,12 @@ Edison 需要一种能够快速、准确地从大量 PDF 中提取结构化信�
 开发者可以访问相关教程，了解如何构建具有 RAG 功能的文档处理管道，并探索 Nemotron RAG 如何为不同行业量身定制专业智能体。
 
 此外，您可以在 GitHub 和 Hugging Face 上体验 Nemotron RAG 模型和 NVIDIA NeMo Retriever 开源库，以及 Nemotron Parse 模型。欢迎加入使用 NVIDIA 企业级 RAG 蓝图（NVIDIA Blueprint for Enterprise RAG）的开发者社区，该蓝图已获得众多行业领先的 AI 数据平台提供商的信任，现已在 build.nvidia.com、GitHub 和 NGC 目录中提供。
+
+## 关联主题
+
+- [[00-元语/AI]]
+- [[00-元语/Agent]]
+- [[00-元语/rag]]
+- [[00-元语/ocr]]
+- [[00-元语/llm]]
+- [[00-元语/multimodal]]

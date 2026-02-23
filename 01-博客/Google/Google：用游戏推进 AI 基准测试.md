@@ -1,14 +1,14 @@
-# Google：用游戏推进 AI 基准测试
+---
+title: "Google：用游戏推进 AI 基准测试"
 
-## 文档信息
-
-- 发布日期：2026-02-04
-- 作者：Google / @Google
-- 来源：
-  - https://x.com/Google/status/2019094596588839191?s=20
-  - https://twitter.com/GoogleDeepMind/status/2018378872513794332
-  - https://goo.gle/4qU4qbS
-- 互动数据：1298 点赞，163 转发，86 回复
+发布日期: "2026-02-04"
+作者: "Google / @Google"
+来源:
+  - "https://x.com/Google/status/2019094596588839191?s=20"
+  - "https://twitter.com/GoogleDeepMind/status/2018378872513794332"
+  - "https://goo.gle/4qU4qbS"
+互动数据: "1298 点赞，163 转发，86 回复"
+---
 
 ## 摘要
 

@@ -1,9 +1,10 @@
-# Prompt 技巧：使用 Type 定义得到想要的 JSON 输出格式
+---
+title: "Prompt 技巧：使用 Type 定义得到想要的 JSON 输出格式"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/prompt-engineering/prompt-skills-using-type-to-define-json-output
-- 发布日期：2023-09-01
-- 作者：宝玉
+来源: "https://baoyu.io/blog/prompt-engineering/prompt-skills-using-type-to-define-json-output"
+发布日期: "2023-09-01"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -18,6 +19,7 @@
 * **实际案例**：文中展示了一个 `TranslatedResult` 的类型定义示例，明确规定了完整翻译内容（字符串）以及单句翻译内容（包含翻译文本、时间戳、首词等嵌套数组结构）。
 
 ## 正文
+
 如果只是为了格式化 JSON，用不着 Function Calling，一个最简单有效的办法就是用 TypeScript 的类型声明，还可以配合注释，比如这是我用的一个 Prompt，在 GPT-4 下可以稳定的输出指定的 JSON 格式：
 
 * * *
@@ -65,6 +67,7 @@ firstWord: string;
 ![Image 2](https://baoyu.io/images/prompt-engineering/prompt-skills-using-type-to-define-json-output/F49BlpAXsAMHH61.png)
 
 ## 关联主题
+
 - [[00-元语/prompt]]
 - [[00-元语/llm]]
 - [[00-元语/OpenAI]]

@@ -1,15 +1,17 @@
-# 3FS：DeepSeek 开源的一款基于 C++ 的高性能分布式文件系统，专为 AI 训练与推理工作负载设计
+---
+title: "3FS：DeepSeek 开源的一款基于 C++ 的高性能分布式文件系统，专为 AI 训练与推理工作负载设计"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `deepseek-ai/3FS`
-- 项目主页：https://github.com/deepseek-ai/3FS
-- 开源协议：MIT License
-- 主要语言：C++
-- 统计快照：Stars 9712，Forks 1009，Watchers 91（抓取时间：2026-02-22）
-- 版本快照：暂无正式发布记录
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `deepseek-ai/3FS`"
+项目主页: "https://github.com/deepseek-ai/3FS"
+开源协议: "MIT License"
+主要语言: "C++"
+统计快照: "Stars 9712，Forks 1009，Watchers 91（抓取时间：2026-02-22）"
+版本快照: "暂无正式发布记录"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 3FS（Fire-Flyer File System）是 DeepSeek 开源的一款基于 C++ 的高性能分布式文件系统，专为 AI 训练与推理工作负载设计，通过结合现代 SSD 和 RDMA 网络提供强大的共享存储能力。
 
@@ -31,36 +33,44 @@
 * **编译配置强依赖**：为解决上述兼容性问题，开发者在编译时必须显式指定 `-DSHUFFLE_METHOD` 参数以锁定一致的算法；且集群一旦部署，后续所有构建都必须严格保持该配置不变。
 
 ## 功能与定位
+
 A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 
 ## 典型使用场景
+
 - 用于模型训练、微调、推理或文档解析等基础能力建设。
 - 作为上层 AI 应用的数据与模型基础设施。
 
 ## 核心功能
+
 - 提供模型/推理相关核心能力。
 - 支持与主流 AI 工具链协同。
 - 兼顾实验验证与工程落地场景。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-21T09:58:43Z。
 - 项目创建于 2025-02-27T13:36:53Z，具备持续迭代与社区沉淀。
 - 以 `C++` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/deepseek-ai/3FS
 - README：https://raw.githubusercontent.com/deepseek-ai/3FS/main/README.md
 - Releases：https://github.com/deepseek-ai/3FS/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/github]]
 - [[00-元语/virtual-file-system]]

@@ -1,9 +1,11 @@
-# 借助AI驱动的科学与教育，加速印度的创新与发现
+---
+title: "借助AI驱动的科学与教育，加速印度的创新与发现"
 
-## 文档信息
-- 来源：https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/
+来源: "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Google DeepMind 通过“国家AI合作伙伴关系”计划与印度政府及当地组织展开深度合作，重点在科学研究、教育创新、农业韧性及清洁能源等领域部署AI技术，以加速印度的创新与发展。
 
@@ -17,6 +19,7 @@ Google DeepMind 通过“国家AI合作伙伴关系”计划与印度政府及�
 *   **清洁能源预测**：与 Open Climate Fix 合作将 WeatherNext AI 模型整合至印度电网，测试显示风力发电预测准确率提升高达8%，助力印度实现2030年500吉瓦可再生能源的装机目标。
 
 ## 正文
+
 我们相信，人工智能将是人类历史上最具变革性的技术，它应当以造福全人类的方式进行部署。这需要前沿AI实验室、政府、学术界和民间社会之间开展深入的战略合作。
 
 为了充分发挥AI的潜力，Google DeepMind 正通过“国家AI合作伙伴关系”（National Partnerships for AI）计划与各国政府合作。我们致力于扩大外界对前沿AI能力的访问权限，确保这些技术能够服务于公众，并满足各国在科学、教育、社会韧性及公共服务等领域的优先事项。
@@ -68,8 +71,10 @@ Google DeepMind、Google Research 和 Google.org 正与印度国家研究基金�
 AI的全球影响是不可避免的，但其成功并非必然。为了将技术潜力转化为真正的繁荣，我们承诺与印度政府机构和组织进行深入的本地合作，确保AI在印度次大陆乃至全世界交付切实的成果。
 
 ## 相关文档
+
 - [[01-博客/Google/没有任何技术能像AI一样让我拥有如此宏大的梦想|没有任何技术能像AI一样让我拥有如此宏大的梦想]]；关联理由：同一事件；说明：两文都围绕印度 AI 峰会语境展开，分别从 DeepMind 项目落地与 Google 整体战略视角互补。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/gemini]]

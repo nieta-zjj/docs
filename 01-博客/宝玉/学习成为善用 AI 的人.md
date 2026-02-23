@@ -1,9 +1,10 @@
-# 学习成为善用 AI 的人
+---
+title: "学习成为善用 AI 的人"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ai/recommendation-for-book-developing-apps-with-gpt-4-and-chatgpt
-- 发布日期：2024-03-01
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ai/recommendation-for-book-developing-apps-with-gpt-4-and-chatgpt"
+发布日期: "2024-03-01"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@
 *   **技术局限**：大语言模型本身存在局限性（属于学习AI时必须了解的“What”范畴）。
 
 ## 正文
+
 《[大模型应用开发极简入门：基于 GPT-4 和 ChatGPT](https://www.oreilly.com.cn/index.php?func=book&isbn=978-7-115-63640-9)》推荐序
 
 2023 年是 AI 爆发的一年，各种 AI 技术和产品如井喷一样爆发。尤其是以 ChatGPT 为代表的大语言模型 (large language model,LLM),能写文章、写总结、写代码，还能调用外部智能体 (agent),真切地让普通人感受到了 AI 的强大。同时，AI 的爆发也引发了很多人的焦虑，以至于一句话广为流传:“替代你的不是 AI，而是善用 AI 的人。”大家都想快速学习和掌握 AI 技术，不想落伍，但同时又担心 AI 门槛过高，很难掌握。

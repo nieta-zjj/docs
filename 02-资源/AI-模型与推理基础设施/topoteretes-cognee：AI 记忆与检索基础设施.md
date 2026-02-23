@@ -1,11 +1,11 @@
-# topoteretes-cognee：AI 记忆与检索基础设施
+---
+title: "topoteretes-cognee：AI 记忆与检索基础设施"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/topoteretes/cognee
-- 发现评分：92
-- Stars：12465
+发布日期: "2026-02-22"
+来源: "https://github.com/topoteretes/cognee"
+发现评分: "92"
+Stars: "12465"
+---
 
 ## 摘要
 
@@ -20,14 +20,16 @@ cognee 是一个轻量级的底层 AI 记忆与检索基础设施，旨在通过
 * **开源来源**：项目托管于 GitHub（topoteretes/cognee）。
 
 ## 功能与定位
+
 cognee 是一个底层的 AI 记忆与检索基础设施，主要定位为 AI 智能体（AI Agent）提供记忆支持的知识引擎（Knowledge Engine）。
 
 ## 特色与差异点
+
 * **极简接入**：主打轻量化与易用性，仅需 6 行代码即可为 AI 智能体构建并接入记忆知识引擎。
 
 ## 链接
-* https://github.com/topoteretes/cognee
 
+* https://github.com/topoteretes/cognee
 
 ## 关联主题
 

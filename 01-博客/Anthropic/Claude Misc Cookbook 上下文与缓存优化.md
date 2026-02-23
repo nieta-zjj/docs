@@ -1,16 +1,17 @@
-# Claude Misc Cookbook 上下文与缓存优化
+---
+title: "Claude Misc Cookbook 上下文与缓存优化"
 
-## 文档信息
-发布日期：2026-02-20
-来源仓库：anthropics/claude-cookbooks
-原文链接：https://github.com/anthropics/claude-cookbooks/tree/main/misc
-覆盖范围：
-- `misc/prompt_caching.ipynb`
-- `misc/speculative_prompt_caching.ipynb`
-- `misc/session_memory_compaction.ipynb`
-- `misc/batch_processing.ipynb`
-- `misc/sampling_past_max_tokens.ipynb`
-- `misc/metaprompt.ipynb`
+发布日期: "2026-02-20"
+来源仓库: "anthropics/claude-cookbooks"
+原文链接: "https://github.com/anthropics/claude-cookbooks/tree/main/misc"
+覆盖范围:
+  - "`misc/prompt_caching.ipynb`"
+  - "`misc/speculative_prompt_caching.ipynb`"
+  - "`misc/session_memory_compaction.ipynb`"
+  - "`misc/batch_processing.ipynb`"
+  - "`misc/sampling_past_max_tokens.ipynb`"
+  - "`misc/metaprompt.ipynb`"
+---
 
 ## 摘要
 
@@ -33,6 +34,7 @@
 * 批处理任务若未按优先级和 SLA（服务等级协议）进行分桶，慢任务可能会拖累整体处理进度。
 
 ## 正文
+
 这组 notebook 的核心是“以工程手段控制成本和延迟”：缓存减少重复 token，batch 提高吞吐，memory compaction 延长会话，metaprompt 用于系统化产出高质量 prompt。
 
 ### 能力主线
@@ -63,10 +65,12 @@ def fetch_article_content(url):
 - 批处理任务建议按优先级和 SLA 分桶，避免慢任务拖累整体。
 
 ## 相关文档
+
 - [[01-博客/Anthropic/Claude Tool Use Cookbook 实战清单下篇|Claude Tool Use Cookbook 实战清单下篇]]；关联理由：上下游；说明：该文在工具调用场景落地 context compaction 与 memory 管理，是本篇缓存与会话优化策略的下游工程化实践。
 - [[01-博客/Anthropic/面向 AI Agent 的上下文工程实践|面向 AI Agent 的上下文工程实践]]；关联理由：解说；说明：该文系统解释了上下文压缩与结构化记忆的设计原则，可作为本篇 notebook 策略的理论框架与方法补充。
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/context-optimization]]
 - [[00-元语/data-pipeline]]

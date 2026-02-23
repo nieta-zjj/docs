@@ -1,9 +1,10 @@
-# Deep Research 实践经验总结：从“进度条”到“提示词”，一次搞懂！
+---
+title: "Deep Research 实践经验总结：从“进度条”到“提示词”，一次搞懂！"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/deep-research-progress-to-prompt
-- 发布日期：2025-02-27
-- 作者：宝玉
+来源: "https://baoyu.io/blog/deep-research-progress-to-prompt"
+发布日期: "2025-02-27"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -28,6 +29,7 @@
 *   **版权合规风险**：引入外部资料时需注意尊重版权，务必保留引用信息，避免违规使用。
 
 ## 正文
+
 最近有很多朋友向我咨询：**“Deep Research 的用量是怎么算的？”** 又因为目前 Plus 每个月只能用 10 次，大家都非常担心浪费。其实一句话就能总结——**只要开始出现 “Starting Research” 的进度条，就算使用了一次。在进度条出现之前，怎么问都不算**。下面就为大家分享一些 Deep Research 的使用流程、注意事项和提示词模板，帮助大家更好地运用这一强大的研究功能。
 
 ![Image 1](https://baoyu.io/uploads/2025-02-27/1740626622141.png)
@@ -222,6 +224,7 @@ Deep Research 不仅能写报告，还能**写代码**。只要你提示它“�
 欢迎大家在留言区分享你们的使用心得与经验，一起探讨 Deep Research 的更多玩法！
 
 ## 关联主题
+
 - [[00-元语/prompt]]
 - [[00-元语/ChatGPT]]
 - [[00-元语/OpenAI]]

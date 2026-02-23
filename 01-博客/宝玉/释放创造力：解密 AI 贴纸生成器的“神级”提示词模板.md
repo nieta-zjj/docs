@@ -1,9 +1,10 @@
-# 释放创造力：解密 AI 贴纸生成器的“神级”提示词模板
+---
+title: "释放创造力：解密 AI 贴纸生成器的“神级”提示词模板"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/ai-sticker-generator-prompts
-- 发布日期：2025-09-17
-- 作者：宝玉
+来源: "https://baoyu.io/blog/ai-sticker-generator-prompts"
+发布日期: "2025-09-17"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -21,6 +22,7 @@
 *   **适用工具**：用户可将照片与替换好变量的提示词输入至即梦4、nano banana 等 AI 图像生成工具中进行实际创作。
 
 ## 正文
+
 ![Image 1](https://baoyu.io/uploads/2025-09-17-1758092558627-f97c239e-6137-4631-ad76-2487613d39b6.png)
 
 如果你想知道如何使用 AI 生成各种炫酷的贴纸，而苦于不知道如何写提示词，正好我今天看到一个日本网友分享的 Gem 应用（ [https://gemini.google.com/share/53eec61f7d5b](https://gemini.google.com/share/53eec61f7d5b) ），上传照片就可以生成各种风格的贴纸，而且还可以加上不同的表情，所以我花了一点时间研究了下它的提示词模板。

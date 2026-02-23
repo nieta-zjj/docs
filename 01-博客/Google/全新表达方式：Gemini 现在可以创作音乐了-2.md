@@ -1,9 +1,11 @@
-# 全新表达方式：Gemini 现在可以创作音乐了
+---
+title: "全新表达方式：Gemini 现在可以创作音乐了"
 
-## 文档信息
-- 来源：https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/
+来源: "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Google 在 Gemini 应用程序中推出了基于 Lyria 3 模型的自定义音乐生成测试版功能，允许用户通过文本、图像或视频提示快速创作 30 秒的专属音乐片段。
 
@@ -22,6 +24,7 @@ Google 在 Gemini 应用程序中推出了基于 Lyria 3 模型的自定义音�
 *   **合规风险**：用户必须严格遵守服务条款和生成式 AI 禁止使用政策，严禁利用该功能侵犯他人的知识产权和隐私权。
 
 ## 正文
+
 自 Gemini 应用程序推出以来，我们一直致力于构建工具，鼓励人们通过图像和视频进行创意表达。今天，我们迈出了新的一步：自定义音乐生成。
 
 Google DeepMind 最新的生成式音乐模型 Lyria 3 现已在 Gemini 应用程序中推出测试版（Beta）。只需描述一个想法或上传一张照片，例如“一首关于一只袜子找到另一半的滑稽 R&B 慢歌”，Gemini 就能在几秒钟内将其转化为高质量、朗朗上口的 30 秒音乐片段。为了进一步拓展创意，你甚至可以要求 Gemini 从你上传的内容中汲取灵感。
@@ -64,6 +67,7 @@ Lyria 3 现已在 Gemini 应用程序中向所有 18 岁以上的用户开放，
 我们希望 Gemini 应用程序中的音乐生成功能能为你增添有趣、个性化的生活配乐。今天就去 gemini.google.com 尝试一下吧。
 
 ## 关联主题
+
 - [[00-元语/gemini]]
 - [[00-元语/audio]]
 - [[00-元语/multimodal]]

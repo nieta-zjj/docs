@@ -1,18 +1,12 @@
-# GitHub Copilot SDK：Copilot agent 工作流多语言集成开发包
+---
+title: "GitHub Copilot SDK：Copilot agent 工作流多语言集成开发包"
 
-## 文档信息
-
-- 对象：GitHub 开源项目
-- 来源：https://github.com/github/copilot-sdk
-- 来源：https://github.com/github/copilot-sdk/blob/main/README.md
-- 来源：https://github.com/github/copilot-sdk/blob/main/docs/getting-started.md
-- 来源：https://github.com/github/copilot-sdk/blob/main/docs/auth/index.md
-- 来源：https://github.com/github/copilot-sdk/blob/main/docs/auth/byok.md
-- 来源：https://github.com/github/copilot-sdk/releases
-- 来源：https://github.com/github/copilot-sdk/blob/main/LICENSE
-- 开源协议：MIT
-- 项目状态：Technical preview
-- 版本快照：截至 2026-02-22，发布页显示 `v0.1.25` 与 `v0.1.26-preview.0`
+对象: "GitHub 开源项目"
+来源: "https://github.com/github/copilot-sdk/blob/main/LICENSE"
+开源协议: "MIT"
+项目状态: "Technical preview"
+版本快照: "截至 2026-02-22，发布页显示 `v0.1.25` 与 `v0.1.26-preview.0`"
+---
 
 ## 摘要
 

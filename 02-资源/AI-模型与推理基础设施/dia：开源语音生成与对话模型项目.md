@@ -1,15 +1,17 @@
-# dia：开源语音生成与对话模型项目
+---
+title: "dia：开源语音生成与对话模型项目"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `nari-labs/dia`
-- 项目主页：https://github.com/nari-labs/dia
-- 开源协议：Apache License 2.0
-- 主要语言：Python
-- 统计快照：Stars 19122，Forks 1666，Watchers 162（抓取时间：2026-02-22）
-- 版本快照：暂无正式发布记录
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `nari-labs/dia`"
+项目主页: "https://github.com/nari-labs/dia"
+开源协议: "Apache License 2.0"
+主要语言: "Python"
+统计快照: "Stars 19122，Forks 1666，Watchers 162（抓取时间：2026-02-22）"
+版本快照: "暂无正式发布记录"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Dia 是由 Nari Labs 开发的 16 亿参数开源文本转语音（TTS）模型，能够直接从文本生成超逼真的对话，并支持情感控制、声音克隆及非语言声音的生成。
 
@@ -27,38 +29,45 @@ Dia 是由 Nari Labs 开发的 16 亿参数开源文本转语音（TTS）模型�
 * **伪影风险**：过度使用或使用未在列表中列出的非语言标签，可能会导致生成结果出现奇怪的伪影（artifacts）。
 * **标签使用限制**：连续使用相同的说话人标签（如 `[S1]`... `[S1]`...）会导致生成效果不佳。
 
-
 ## 功能与定位
+
 A TTS model capable of generating ultra-realistic dialogue in one pass.
 
 ## 典型使用场景
+
 - 用于模型训练、微调、推理或文档解析等基础能力建设。
 - 作为上层 AI 应用的数据与模型基础设施。
 
 ## 核心功能
+
 - 提供模型/推理相关核心能力。
 - 支持与主流 AI 工具链协同。
 - 兼顾实验验证与工程落地场景。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T11:12:00Z。
 - 项目创建于 2025-04-19T07:15:57Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/nari-labs/dia
 - README：https://raw.githubusercontent.com/nari-labs/dia/main/README.md
 - Releases：https://github.com/nari-labs/dia/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/github]]
 - [[00-元语/tts]]

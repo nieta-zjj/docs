@@ -1,12 +1,12 @@
-# HeartMuLa：开源音乐基础模型家族
+---
+title: "HeartMuLa：开源音乐基础模型家族"
 
-## 文档信息
-
-- 发布日期：2026-01-15
-- 来源链接：https://heartmula.github.io/
-- 论文链接：https://arxiv.org/abs/2601.10547
-- 代码仓库：https://github.com/HeartMuLa/heartlib
-- 译注：站点未提供官方中文版本，正文为中文翻译整理稿。
+发布日期: "2026-01-15"
+来源链接: "https://heartmula.github.io/"
+论文链接: "https://arxiv.org/abs/2601.10547"
+代码仓库: "https://github.com/HeartMuLa/heartlib"
+译注: "站点未提供官方中文版本，正文为中文翻译整理稿。"
+---
 
 ## 摘要
 

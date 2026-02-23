@@ -1,11 +1,13 @@
-# NitroGen：通用游戏智能体基础模型
+---
+title: "NitroGen：通用游戏智能体基础模型"
 
-## 文档信息
-- 来源：https://nitrogen.minedojo.org/
-- 品牌：NitroGen
-- 译注：站点未提供可用官方中文译文，正文为中文翻译整理稿。
+来源: "https://nitrogen.minedojo.org/"
+品牌: "NitroGen"
+译注: "站点未提供可用官方中文译文，正文为中文翻译整理稿。"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 NitroGen是一个开源的视觉-动作基础模型，通过从4万小时的互联网游戏视频中自动提取动作数据进行大规模预训练，为通用游戏智能体提供了跨游戏的开箱即用能力和高效的迁移微调表现。
 
@@ -24,6 +26,7 @@ NitroGen是一个开源的视觉-动作基础模型，通过从4万小时的互�
 *   **数据提取挑战**：视频中的手柄覆盖层在控制器类型（如Xbox、PlayStation）、透明度以及视频压缩引入的视觉伪影方面存在巨大差异，给动作数据的准确提取带来了显著挑战。
 
 ## 正文
+
 [Loïc Magne](https://nitrogen.minedojo.org/#)1 *, [Anas Awadalla](https://nitrogen.minedojo.org/#)1 2 *, [Guanzhi Wang](https://nitrogen.minedojo.org/#)1 3 * †
 
 [Yinzhen Xu](https://nitrogen.minedojo.org/#)1, [Joshua Belofsky](https://nitrogen.minedojo.org/#)4, [Fengyuan Hu](https://nitrogen.minedojo.org/#)1, [Joohwan Kim](https://nitrogen.minedojo.org/#)1, 

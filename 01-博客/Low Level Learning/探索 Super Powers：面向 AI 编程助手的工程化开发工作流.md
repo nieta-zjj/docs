@@ -1,9 +1,11 @@
-# 探索 Super Powers：面向 AI 编程助手的工程化开发工作流
+---
+title: "探索 Super Powers：面向 AI 编程助手的工程化开发工作流"
+发布日期: "2026-02-19"
+原文链接: "https://lowleveldesign.io/News/superpowers-ai-dev-workflow-2026-02-19"
 
-## 文档信息
-
-- 来源：视频字幕转写（Low Level Learning，YouTube）
-- 整理说明：由字幕整理成文，已做断句、纠错与结构化。
+来源: "视频字幕转写（Low Level Learning，YouTube）"
+整理说明: "由字幕整理成文，已做断句、纠错与结构化。"
+---
 
 ## 摘要
 

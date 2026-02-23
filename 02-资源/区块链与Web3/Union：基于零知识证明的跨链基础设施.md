@@ -1,15 +1,17 @@
-# Union：基于零知识证明的跨链基础设施
+---
+title: "Union：基于零知识证明的跨链基础设施"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `unionlabs/union`
-- 项目主页：https://github.com/unionlabs/union
-- 官方文档：https://docs.union.build/
-- 官方应用：https://app.union.build/
-- Stars（记录值）：79178（用户记录）
-- 开源协议：Apache License 2.0 / MIT License
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `unionlabs/union`"
+项目主页: "https://github.com/unionlabs/union"
+官方文档: "https://docs.union.build/"
+官方应用: "https://app.union.build/"
+Stars（记录值）: "79178（用户记录）"
+开源协议: "Apache License 2.0 / MIT License"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Union 是一个基于零知识证明（ZK）的跨链基础设施层，旨在通过完全去信任化、零第三方依赖的方式，实现多链生态间的通用消息传递、资产转移与 DeFi 应用构建。
 
@@ -26,24 +28,29 @@ Union 是一个基于零知识证明（ZK）的跨链基础设施层，旨在通
 *   **平台构建限制**：部分组件仅限 Linux 环境构建，macOS 用户无法直接原生编译，需借助虚拟机（官方推荐使用 OrbStack 搭建 NixOS）进行开发。
 
 ## 功能与定位
+
 Union 面向跨链消息与资产互操作：目标是提供一个去信任化的跨链基础设施层，用以连接不同链生态并承载更上层的 DeFi/NFT/应用协议。
 
 ## 典型使用场景
+
 - 跨链消息传递与链间应用交互。
 - 跨链资产转移与跨生态流动性/DeFi 组合。
 - 为多链产品提供统一的互操作基础设施。
 
 ## 核心组件
+
 - `uniond`：节点实现（仓库描述为基于 CometBLS）。
 - `galoisd`：零知识证明器。
 - `voyager`：跨生态中继器（Relayer）。
 - 多生态轻客户端与合约/SDK 支持：CosmWasm、EVM、TypeScript SDK。
 
 ## 限制与注意事项
+
 - 构建与开发环境依赖较重（Nix），并且部分组件对平台有要求；在团队落地前应先验证开发与部署链路。
 - 跨链基础设施属于高风险领域：上线前应充分评估安全模型、审计与应急预案。
 
 ## 链接
+
 - 仓库：https://github.com/unionlabs/union
 - 文档：https://docs.union.build/
 - 应用：https://app.union.build/
@@ -51,6 +58,7 @@ Union 面向跨链消息与资产互操作：目标是提供一个去信任化�
 - Discord：https://discord.union.build
 
 ## 关联主题
+
 - [[00-元语/blockchain]]
 - [[00-元语/github]]
 - [[00-元语/protocol]]

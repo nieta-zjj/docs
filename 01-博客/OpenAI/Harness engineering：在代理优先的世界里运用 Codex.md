@@ -1,12 +1,12 @@
-# Harness engineering：在代理优先的世界里运用 Codex
+---
+title: "Harness engineering：在代理优先的世界里运用 Codex"
 
-## 文档信息
-
-- 来源：https://openai.com/index/harness-engineering/
-- 中文页面：https://openai.com/zh-Hans-CN/index/harness-engineering/
-- 发布日期：2026年2月11日
-- 分类：[工程](https://openai.com/news/engineering/)
-- 译注：该中文页面当前正文仍为英文，以下为人工翻译。
+来源: "https://openai.com/index/harness-engineering/"
+中文页面: "https://openai.com/zh-Hans-CN/index/harness-engineering/"
+发布日期: "2026年2月11日"
+分类: "[工程](https://openai.com/news/engineering/)"
+译注: "该中文页面当前正文仍为英文，以下为人工翻译。"
+---
 
 ## 摘要
 

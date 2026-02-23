@@ -1,15 +1,17 @@
-# Deepgram 与 LlamaIndex 集成入口
+---
+title: "Deepgram 与 LlamaIndex 集成入口"
 
-## 文档信息
-发布日期：2025-09-16
-作者：Anthropic
-来源仓库：anthropics/claude-cookbooks
-原文链接：
-- https://github.com/anthropics/claude-cookbooks/blob/main/third_party/Deepgram/README.md
-- https://github.com/anthropics/claude-cookbooks/blob/main/third_party/LlamaIndex/README.md
-译注：原文为英文仓库文档，本稿为中文整理版。
+发布日期: "2025-09-16"
+作者: "Anthropic"
+来源仓库: "anthropics/claude-cookbooks"
+原文链接:
+  - "https://github.com/anthropics/claude-cookbooks/blob/main/third_party/Deepgram/README.md"
+  - "https://github.com/anthropics/claude-cookbooks/blob/main/third_party/LlamaIndex/README.md"
+译注: "原文为英文仓库文档，本稿为中文整理版。"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 本文档介绍了 Claude Cookbooks 中关于 Deepgram（语音与语言智能 API）和 LlamaIndex（LLM 数据框架）的集成指南、示例 Notebooks 以及相关开发者资源。
 
@@ -24,6 +26,7 @@
 *   **社区与支持**：两个项目均提供了官方文档链接，并拥有活跃的社区支持渠道（如 Discord、GitHub Discussions 等）。
 
 ## 正文
+
 ### 来源文档：`third_party/Deepgram/README.md`
 
 # Deepgram <> Claude Cookbooks
@@ -48,11 +51,9 @@
 
 您有任何问题、建议，或者想与我们交流吗？请前往我们的 [Github Discussions](https://github.com/orgs/deepgram/discussions) 或加入我们的 [Discord](https://discord.com/invite/xWRaCDBtW4)。
 
-
 # 快速入门
 
 如果您准备好开始使用 Deepgram，请前往 [Deepgram 控制台](https://console.deepgram.com/signup) 获取免费的 API 密钥和免费额度，并开始使用我们强大的语音、文本和智能 [API](https://developers.deepgram.com/reference/) 进行开发。
-
 
 ### 来源文档：`third_party/LlamaIndex/README.md`
 
@@ -81,6 +82,7 @@
 - [[01-博客/Anthropic/Claude Cookbooks 项目总览与能力地图|Claude Cookbooks 项目总览与能力地图]]；关联理由：引用；说明：总览文档将 Deepgram 与 LlamaIndex 列在 third_party 集成中，本篇是对应条目的下钻入口。
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/github]]
 - [[00-元语/Agent]]

@@ -1,14 +1,14 @@
-# OpenCode 多智能体套件：oh-my-opencode-slim
+---
+title: "OpenCode 多智能体套件：oh-my-opencode-slim"
 
-## 文档信息
-
-- 来源：
-  - https://github.com/alvinunreal/oh-my-opencode-slim
-  - https://github.com/alvinunreal/oh-my-opencode-slim/blob/master/README.md
-  - https://github.com/alvinunreal/oh-my-opencode-slim/blob/master/docs/installation.md
-  - https://github.com/alvinunreal/oh-my-opencode-slim/blob/master/docs/quick-reference.md
-- 开源协议：MIT License
-- 备注：用户提供的 `README.zh-CN.md` 在 2026-02-22 访问返回 404（https://github.com/alvinunreal/oh-my-opencode-slim/blob/master/README.zh-CN.md）
+来源:
+  - "https://github.com/alvinunreal/oh-my-opencode-slim"
+  - "https://github.com/alvinunreal/oh-my-opencode-slim/blob/master/README.md"
+  - "https://github.com/alvinunreal/oh-my-opencode-slim/blob/master/docs/installation.md"
+  - "https://github.com/alvinunreal/oh-my-opencode-slim/blob/master/docs/quick-reference.md"
+开源协议: "MIT License"
+备注: "用户提供的 `README.zh-CN.md` 在 2026-02-22 访问返回 404（https://github.com/alvinunreal/oh-my-opencode-slim/blob/master/README.zh-CN.md）"
+---
 
 ## 摘要
 

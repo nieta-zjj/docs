@@ -1,9 +1,12 @@
-# 别再学做 App 了：Karpathy 预言 Agent 将淘汰 App Store，软件进入“用完即丢”时代
+---
+title: "别再学做 App 了：Karpathy 预言 Agent 将淘汰 App Store，软件进入“用完即丢”时代"
+发布日期: "2026-02-22"
 
-## 文档信息
-- 来源：https://www.infoq.cn/article/4LPuZzDH4CXh5G5h5N4G?utm_source=rss&utm_medium=article
+来源: "https://www.infoq.cn/article/4LPuZzDH4CXh5G5h5N4G?utm_source=rss&utm_medium=article"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 知名 AI 工程师 Andrej Karpathy 预测，未来 AI Agent 将能根据用户的自然语言需求实时生成“用完即丢”的专属软件，从而颠覆传统的应用商店模式。
 
@@ -22,6 +25,7 @@
 *   **需求理解风险**：构建软件的核心难点在于明确用户真实需求，反对者质疑 LLM 难以仅凭缺乏专业领域词汇的随意提示（Prompt）就能准确破解并实现用户的真实意图。
 
 ## 正文
+
 如果软件可以由 AI 现场生成，那应用商店会不会消失？
 
 知名 AI 工程师、神经网络布道者 Andrej Karpathy 最近发表了一篇引发热议的长帖。他的核心观点是：**以后人们可能不需要专门去应用商店“找” App 了。你只需说清楚需求，AI 就能现场为你做一个，而且未来可能只需 1 分钟。**
@@ -79,6 +83,7 @@ Karpathy 犀利回复：“奶奶根本没必要懂什么 App，甚至不用知�
 当“进应用商店挑一个”变得比“说一句需求”更慢时，默认的流量入口迟早会改变。对于未来 App 的形态，你怎么看？
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Agent]]
 - [[00-元语/llm]]

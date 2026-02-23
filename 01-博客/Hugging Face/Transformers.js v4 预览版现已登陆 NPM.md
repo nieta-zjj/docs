@@ -1,9 +1,11 @@
-# Transformers.js v4 预览版现已登陆 NPM
+---
+title: "Transformers.js v4 预览版现已登陆 NPM"
 
-## 文档信息
-- 来源：https://huggingface.co/blog/transformersjs-v4
+来源: "https://huggingface.co/blog/transformersjs-v4"
+---
 
 ## 摘要
+
 **一句话总结**
 Transformers.js v4 预览版现已登陆 NPM，本次重大更新带来了基于 C++ 重写的全新 WebGPU 运行时、显著的性能提升、全面的代码库重构以及独立的轻量级分词器库。
 
@@ -18,6 +20,7 @@ Transformers.js v4 预览版现已登陆 NPM，本次重大更新带来了基于
 *   **大模型运行能力**：增强了对超过 8B 参数模型的支持，测试显示在 M4 Pro Max 上运行 GPT-OSS 20B (q4f16) 速度可达约 60 tokens/秒。
 
 ## 正文
+
 我们非常高兴地宣布，Transformers.js v4（预览版）现已在 NPM 上发布！经过近一年的开发（始于2025年3月 🤯），我们终于准备好让大家进行测试了。以前，用户必须通过 GitHub 从源码安装 v4 版本，但现在只需运行一条简单的命令即可：
 
 ```bash
@@ -100,3 +103,10 @@ const encoded = tokenizer.encode("Hello World");
 ### 致谢
 
 我们衷心感谢所有为这个大版本做出贡献的人，特别是 ONNX Runtime 团队在全新 WebGPU 运行时上的出色工作以及他们在整个开发过程中的支持，同时也感谢所有外部贡献者和早期测试人员。
+
+## 关联主题
+
+- [[00-元语/AI]]
+- [[00-元语/llm]]
+- [[00-元语/wasm]]
+- [[00-元语/sdk]]

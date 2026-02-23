@@ -1,9 +1,10 @@
-# 用类比的方式点评下神级 Prompt，以及它和 o1 推理模型的差距
+---
+title: "用类比的方式点评下神级 Prompt，以及它和 o1 推理模型的差距"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/comparing-god-level-prompts-to-o1-reasoning-models
-- 发布日期：2024-11-14
-- 作者：宝玉
+来源: "https://baoyu.io/blog/comparing-god-level-prompts-to-o1-reasoning-models"
+发布日期: "2024-11-14"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -25,6 +26,7 @@
 *   **基础能力差距**：传统模型通过提示词模仿思维过程，并不能本质上提升其数学和逻辑基础。
 
 ## 正文
+
 昨天一个热门话题是涂同学发的让 Claude 也能输出类似 o1 思考过程的 Prompt [https://github.com/richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) ，有人称之为神级 Prompt，网友们体验后评论不一：有人认为确实很强，效果很好；有人认为效果一般。
 
 ![Image 1](https://baoyu.io/uploads/2024-11-14/1731607878856.png)
@@ -75,6 +77,7 @@
 长江后浪推前浪，前浪死在沙滩上！
 
 ## 关联主题
+
 - [[00-元语/prompt]]
 - [[00-元语/llm]]
 - [[00-元语/Claude]]

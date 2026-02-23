@@ -1,11 +1,11 @@
-# tnm-zclaw：AI 编程助手与Agent工具
+---
+title: "tnm-zclaw：AI 编程助手与Agent工具"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/tnm/zclaw
-- 发现评分：90
-- Stars：759
+发布日期: "2026-02-22"
+来源: "https://github.com/tnm/zclaw"
+发现评分: "90"
+Stars: "759"
+---
 
 ## 摘要
 
@@ -23,19 +23,23 @@ tnm/zclaw 是一款专为 ESP32 微控制器设计的极轻量级个人 AI 助�
 * **开源地址**：项目托管于 GitHub（https://github.com/tnm/zclaw）。
 
 ## 功能与定位
+
 tnm/zclaw 是一个定位为个人 AI 助手与 Agent 的工具，专为资源受限的微控制器环境设计。
 
 ## 核心功能
+
 * **硬件控制**：支持 GPIO 操作。
 * **任务调度**：内置 cron 定时任务功能。
 * **扩展能力**：支持自定义工具（custom tools）。
 * **记忆机制**：具备记忆（memory）功能。
 
 ## 特色与差异点
+
 * **极致轻量**：整体体积仅为 888KiB，其中应用代码仅约 25KB。
 * **硬件平台**：专为运行在 ESP32 微控制器上而构建。
 
 ## 链接
+
 * https://github.com/tnm/zclaw
 
 ## 相关文档

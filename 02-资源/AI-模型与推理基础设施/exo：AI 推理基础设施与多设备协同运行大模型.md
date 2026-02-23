@@ -1,15 +1,17 @@
-# exo：AI 推理基础设施与多设备协同运行大模型
+---
+title: "exo：AI 推理基础设施与多设备协同运行大模型"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `exo-explore/exo`
-- 项目主页：https://github.com/exo-explore/exo
-- 开源协议：Apache License 2.0
-- 主要语言：Python
-- 统计快照：Stars 41686，Forks 2834，Watchers 322（抓取时间：2026-02-22）
-- 版本快照：最新发布 v1.0.67（发布时间：2026-01-28T07:09:36Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `exo-explore/exo`"
+项目主页: "https://github.com/exo-explore/exo"
+开源协议: "Apache License 2.0"
+主要语言: "Python"
+统计快照: "Stars 41686，Forks 2834，Watchers 322（抓取时间：2026-02-22）"
+版本快照: "最新发布 v1.0.67（发布时间：2026-01-28T07:09:36Z）"
+---
 
 ## 摘要
+
 ### 一句话总结
 exo 是一个基于 Python 的开源 AI 推理基础设施，能够将多个本地设备自动连接成 AI 集群，通过拓扑感知和张量并行技术高效运行超大参数的前沿 AI 模型。
 
@@ -26,38 +28,45 @@ exo 是一个基于 Python 的开源 AI 推理基础设施，能够将多个本�
 *   **实测性能**：基准测试表明，该系统能在 4 台 M3 Ultra Mac Studio 组成的集群上成功运行 Qwen3-235B (8-bit)、DeepSeek v3.1 671B (8-bit) 以及 Kimi K2 Thinking (4-bit) 等超大模型。
 *   **部署方式**：支持通过 Nix 一键运行，或在 macOS 环境下通过源码编译启动（需依赖 Xcode Metal 工具链、uv、macmon、Node.js 及 Rust nightly 版本）。
 
-
 ## 功能与定位
+
 Run frontier AI locally.
 
 ## 典型使用场景
+
 - 用于模型训练、微调、推理或文档解析等基础能力建设。
 - 作为上层 AI 应用的数据与模型基础设施。
 
 ## 核心功能
+
 - 提供模型/推理相关核心能力。
 - 支持与主流 AI 工具链协同。
 - 兼顾实验验证与工程落地场景。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:07:13Z。
 - 项目创建于 2024-06-24T18:36:22Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/exo-explore/exo
 - README：https://raw.githubusercontent.com/exo-explore/exo/main/README.md
 - Releases：https://github.com/exo-explore/exo/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/llm]]
 - [[00-元语/llmops]]

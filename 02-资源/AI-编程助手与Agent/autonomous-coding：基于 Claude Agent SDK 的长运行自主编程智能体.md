@@ -1,12 +1,12 @@
-# autonomous-coding：基于 Claude Agent SDK 的长运行自主编程智能体
+---
+title: "autonomous-coding：基于 Claude Agent SDK 的长运行自主编程智能体"
 
-## 文档信息
-
-- 来源：
-  - https://github.com/leonvanzyl/autonomous-coding
-  - https://youtu.be/YW09hhnVqNM
-- 授权与许可：README 标注为 “Internal Anthropic use”
-- 主要依赖：Claude Code CLI、Python（`claude-agent-sdk` 等）
+来源:
+  - "https://github.com/leonvanzyl/autonomous-coding"
+  - "https://youtu.be/YW09hhnVqNM"
+授权与许可: "README 标注为 “Internal Anthropic use”"
+主要依赖: "Claude Code CLI、Python（`claude-agent-sdk` 等）"
+---
 
 ## 摘要
 

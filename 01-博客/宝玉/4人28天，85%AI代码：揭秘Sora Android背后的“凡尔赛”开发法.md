@@ -1,9 +1,10 @@
-# 4人28天，85%AI代码：揭秘Sora Android背后的“凡尔赛”开发法
+---
+title: "4人28天，85%AI代码：揭秘Sora Android背后的“凡尔赛”开发法"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/sora-android-85-ai-code-development-method
-- 发布日期：2025-12-18
-- 作者：宝玉
+来源: "https://baoyu.io/blog/sora-android-85-ai-code-development-method"
+发布日期: "2025-12-18"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@ OpenAI 仅用 4 名工程师在 28 天内完成了 Sora 安卓客户端的开发
 *   **传统增加人力的负面效应**：在软件工程中，单纯向延期的项目增加人力会因沟通、任务碎片化和整合成本，导致效率降低、延期更严重（《人月神话》定律）。
 
 ## 正文
+
 刚看了 OpenAI 发的那篇《How we used Codex to build Sora for Android in 28 days》[https://openai.com/index/shipping-sora-for-android-with-codex/](https://openai.com/index/shipping-sora-for-android-with-codex/) 的“凡尔赛”文章
 
 整个 Sora 的安卓客户端 App 大约 **85%** 的代码是 AI 写的。发布首日，用户 24 小时内生成了超过 100 万条视频，并且质量很稳定，无崩溃率 **99.9%**。

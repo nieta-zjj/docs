@@ -1,10 +1,10 @@
-# 用 Evals 系统化测试 Agent Skills
+---
+title: "用 Evals 系统化测试 Agent Skills"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://developers.openai.com/blog/eval-skills
-- 译注：当前未检索到该文的官方中文版本，本文为基于原文的中文整理译稿。
+发布日期: "2026-01-22"
+来源: "https://developers.openai.com/blog/eval-skills"
+译注: "当前未检索到该文的官方中文版本，本文为基于原文的中文整理译稿。"
+---
 
 ## 摘要
 
@@ -17,6 +17,7 @@
 - 评估集应随着真实失败案例持续扩充，形成长期稳定的回归防线。
 
 ## 正文
+
 当你为 Codex 这样的智能体迭代某项技能时，很难判断你究竟是在改进它，还是仅仅改变了它的行为。某个版本感觉更快，另一个版本似乎更可靠，然后回归错误（regression）就悄悄出现了：技能没有触发、跳过了必要的步骤，或者留下了多余的文件。
 
 从本质上讲，技能是为大语言模型（LLM）准备的[经过组织的提示词和指令集合](https://developers.openai.com/codex/skills)。随着时间的推移，改进技能最可靠的方法是像[评估 LLM 应用程序的其他提示词](https://platform.openai.com/docs/guides/evaluation-best-practices)一样来评估它。
@@ -202,7 +203,6 @@ test-04,false,"Add Tailwind styling to my existing React app"
 这种组合是有意为之的。一些 Evals 应该确认技能在被显式调用时表现正确；另一些则应该检查它是否能在用户根本没有提及该技能的真实提示词中被激活。
 
 当你发现遗漏、未能触发技能的提示词，或者输出偏离预期的情景时，将它们作为新行添加进去。随着时间的推移，这个小小的 CSV 文件将成为一份动态记录，记录着 `setup-demo-app` 技能必须持续做对的各种场景。
-
 
 ### 5. 从轻量级的确定性评分器开始
 

@@ -1,16 +1,18 @@
-# niri：基于 Rust 开发的滚动平铺式 Wayland 合成器，具有无限向右延伸的窗口排列机制、动态工作区以及完善的多显示器支持
+---
+title: "niri：基于 Rust 开发的滚动平铺式 Wayland 合成器，具有无限向右延伸的窗口排列机制、动态工作区以及完善的多显示器支持"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `YaLTeR/niri`
-- 项目主页：https://github.com/niri-wm/niri
-- 官方网站：https://niri-wm.github.io/niri/
-- 开源协议：GNU General Public License v3.0
-- 主要语言：Rust
-- 统计快照：Stars 20217，Forks 703，Watchers 62（抓取时间：2026-02-22）
-- 版本快照：最新发布 v25.11（发布时间：2025-11-29T10:06:23Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `YaLTeR/niri`"
+项目主页: "https://github.com/niri-wm/niri"
+官方网站: "https://niri-wm.github.io/niri/"
+开源协议: "GNU General Public License v3.0"
+主要语言: "Rust"
+统计快照: "Stars 20217，Forks 703，Watchers 62（抓取时间：2026-02-22）"
+版本快照: "最新发布 v25.11（发布时间：2025-11-29T10:06:23Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Niri 是一款基于 Rust 开发的滚动平铺式 Wayland 合成器，具有无限向右延伸的窗口排列机制、动态工作区以及完善的多显示器支持。
 
@@ -28,40 +30,49 @@ Niri 是一款基于 Rust 开发的滚动平铺式 Wayland 合成器，具有无
 * **手势支持缺失**：虽然支持触摸板手势，但目前尚未支持触摸屏手势（touchscreen gestures）。
 
 ## 功能与定位
+
 A scrollable-tiling Wayland compositor.
 
 ## 典型使用场景
+
 - 作为通用开发工具用于工程协作与效率提升。
 - 适用于个人与团队的日常研发流程。
 
 ## 核心功能
+
 - 提供稳定的通用工程能力。
 - 支持跨平台或多环境使用。
 - 依赖开源社区持续迭代。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:09:44Z。
 - 项目创建于 2023-08-10T10:53:14Z，具备持续迭代与社区沉淀。
 - 以 `Rust` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/YaLTeR/niri
 - 官网：https://niri-wm.github.io/niri/
 - README：https://raw.githubusercontent.com/YaLTeR/niri/main/README.md
 - Releases：https://github.com/YaLTeR/niri/releases
 
 ## 相关文档
+
 - [[02-资源/通用开发工具/Hyprland：an independent, highly customizable|Hyprland：an independent, highly customizable]]；关联理由：观点一致；说明：两者都是 Wayland 平铺式合成器，适合并行对比窗口布局机制与可定制能力。
 
 ## 关联主题
+
 - [[00-元语/desktop-client]]
 - [[00-元语/ui-protocol]]
 - [[00-元语/protocol]]

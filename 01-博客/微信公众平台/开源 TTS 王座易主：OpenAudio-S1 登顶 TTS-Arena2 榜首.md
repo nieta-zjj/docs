@@ -1,11 +1,11 @@
-# 开源 TTS 王座易主：OpenAudio-S1 登顶 TTS-Arena2 榜首
+---
+title: "开源 TTS 王座易主：OpenAudio-S1 登顶 TTS-Arena2 榜首"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/8cZtOcdRw7vEUzNBiDAa1g
-- 发布日期：2025-10-30
-- 作者：YourwayAI
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/8cZtOcdRw7vEUzNBiDAa1g"
+发布日期: "2025-10-30"
+作者: "YourwayAI"
+---
 
 ## 摘要
 

@@ -1,9 +1,10 @@
-# 让 Claude Code 超深度思考（ultrathink）的自定义指令
+---
+title: "让 Claude Code 超深度思考（ultrathink）的自定义指令"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/claude-code-ultrathink-custom-instructions
-- 发布日期：2025-07-02
-- 作者：宝玉
+来源: "https://baoyu.io/blog/claude-code-ultrathink-custom-instructions"
+发布日期: "2025-07-02"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -20,6 +21,7 @@
 * **规范化输出格式**：最终输出需包含推理记录（展示关键决策节点）、最终答案（Markdown 格式的可执行步骤或代码）以及后续行动（团队需跟进的事项）。
 
 ## 正文
+
 ```
 # 使用说明
 

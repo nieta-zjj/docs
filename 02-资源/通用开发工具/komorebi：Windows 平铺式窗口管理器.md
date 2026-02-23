@@ -1,14 +1,14 @@
-# komorebi：Windows 平铺式窗口管理器
+---
+title: "komorebi：Windows 平铺式窗口管理器"
 
-## 文档信息
-
-- 来源：
-  - https://github.com/LGUG2Z/komorebi
-  - https://lgug2z.github.io/komorebi
-  - https://komorebi.lgug2z.com/schema
-  - https://github.com/LGUG2Z/komorebi-license
-- 适用系统：Windows 10 及以上
-- 许可：Komorebi License 2.0.0（基于 PolyForm Strict 1.0.0 的分支；个人用途与商业用途限制明显不同）
+来源:
+  - "https://github.com/LGUG2Z/komorebi"
+  - "https://lgug2z.github.io/komorebi"
+  - "https://komorebi.lgug2z.com/schema"
+  - "https://github.com/LGUG2Z/komorebi-license"
+适用系统: "Windows 10 及以上"
+许可: "Komorebi License 2.0.0（基于 PolyForm Strict 1.0.0 的分支；个人用途与商业用途限制明显不同）"
+---
 
 ## 摘要
 

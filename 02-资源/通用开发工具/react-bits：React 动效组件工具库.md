@@ -1,10 +1,10 @@
-# react-bits：React 动效组件工具库
+---
+title: "react-bits：React 动效组件工具库"
 
-## 文档信息
-
-- 来源：
-  - https://github.com/DavidHDev/react-bits
-  - https://reactbits.dev
+来源:
+  - "https://github.com/DavidHDev/react-bits"
+  - "https://reactbits.dev"
+---
 
 ## 摘要
 

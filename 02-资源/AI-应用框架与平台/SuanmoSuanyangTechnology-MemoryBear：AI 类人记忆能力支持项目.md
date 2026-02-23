@@ -1,11 +1,11 @@
-# SuanmoSuanyangTechnology-MemoryBear：AI 类人记忆能力支持项目
+---
+title: "SuanmoSuanyangTechnology-MemoryBear：AI 类人记忆能力支持项目"
 
-## 文档信息
-
-- 发布日期：2026-02-22
-- 来源：https://github.com/SuanmoSuanyangTechnology/MemoryBear
-- 发现评分：90
-- Stars：802
+发布日期: "2026-02-22"
+来源: "https://github.com/SuanmoSuanyangTechnology/MemoryBear"
+发现评分: "90"
+Stars: "802"
+---
 
 ## 摘要
 
@@ -20,14 +20,16 @@ MemoryBear 是一个致力于为人工智能（AI）赋予类人记忆能力的�
 *   **代码托管**：项目源码及相关文档托管于 GitHub 平台（链接：https://github.com/SuanmoSuanyangTechnology/MemoryBear）。
 
 ## 功能与定位
+
 MemoryBear 是一个 AI 应用框架与平台，其核心定位是为人工智能（AI）装备类似人类的记忆能力（human-like memory capability）。
 
 ## 核心功能
+
 - **类人记忆支持**：致力于让 AI 具备类似人类的记忆机制。
 
 ## 链接
-- GitHub 仓库：https://github.com/SuanmoSuanyangTechnology/MemoryBear
 
+- GitHub 仓库：https://github.com/SuanmoSuanyangTechnology/MemoryBear
 
 ## 关联主题
 

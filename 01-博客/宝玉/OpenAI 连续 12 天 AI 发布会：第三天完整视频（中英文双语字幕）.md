@@ -1,9 +1,10 @@
-# OpenAI 连续 12 天 AI 发布会：第三天完整视频（中英文双语字幕）
+---
+title: "OpenAI 连续 12 天 AI 发布会：第三天完整视频（中英文双语字幕）"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/openai-12-days-ai-event-day-2-video
-- 发布日期：2024-12-09
-- 作者：宝玉
+来源: "https://baoyu.io/blog/openai-12-days-ai-event-day-2-video"
+发布日期: "2024-12-09"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -27,6 +28,7 @@ OpenAI 在发布会第三天正式推出了最高支持 1080p 分辨率和 20 �
 *   **审核误判风险**：虽然内置了防止滥用和非法活动的安全措施，但官方承认早期的内容审核系统可能不完美，存在误判的可能。
 
 ## 正文
+
 视频：[https://youtu.be/5NzZQNx72Lc](https://youtu.be/5NzZQNx72Lc)
 
 Day 3 OpenAI 果然发布了 Sora ​​​

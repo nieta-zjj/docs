@@ -1,9 +1,10 @@
-# ReAct 框架与 AI Agent：当 AI 学会自己思考和行动
+---
+title: "ReAct 框架与 AI Agent：当 AI 学会自己思考和行动"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/react-ai-agent-self-thinking-acting
-- 发布日期：2025-09-14
-- 作者：宝玉
+来源: "https://baoyu.io/blog/react-ai-agent-self-thinking-acting"
+发布日期: "2025-09-14"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -23,6 +24,7 @@
 *   **概念混淆风险（Tool Calling ≠ Full Agent）**：仅具备工具调用（Tool Calling）能力但不具备自主规划、多步策略和循环决策能力的设计，仍需人为一步步指引，不能被称为真正的智能体（Agent）。
 
 ## 正文
+
 > 先抛个观点：如果你的 AI Agent 还需要在提示词里用 ReAct 框架，那要么说明你用的是没有 Agent 能力的模型（比如 _GPT-4o_、_Gemini 2.5 Pro_），要么就是方法用错了。
 
 为什么这么说？因为具备 Agent 能力的先进模型（例如 Anthropic 的 _Claude 4_ 系列，甚至包括更早的 _Claude 3.7_ 和 OpenAI 的 _GPT-5_），已经通过训练把 ReAct 的本领“内化”进去了。换句话说，只要提供正确的工具接口和描述，这些模型自己就会规划步骤、调用工具来完成任务，不需要我们再手把手用 ReAct 提示去教它们该怎么做。

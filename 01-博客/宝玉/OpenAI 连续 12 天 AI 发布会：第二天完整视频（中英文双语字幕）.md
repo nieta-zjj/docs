@@ -1,9 +1,10 @@
-# OpenAI 连续 12 天 AI 发布会：第二天完整视频（中英文双语字幕）
+---
+title: "OpenAI 连续 12 天 AI 发布会：第二天完整视频（中英文双语字幕）"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/openai-12-day-ai-event-day-2-video
-- 发布日期：2024-12-06
-- 作者：宝玉
+来源: "https://baoyu.io/blog/openai-12-day-ai-event-day-2-video"
+发布日期: "2024-12-06"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -24,6 +25,7 @@ OpenAI 在发布会第二天推出了针对 o1 系列模型的强化微调（RFT
 *   **缺乏可比的基准测试数据**：在罕见病基因预测的具体案例中，研究人员指出，由于此次实验未包含基因组测序数据，目前尚无完全可比的基准数据来将该微调模型的表现与现有的传统生物信息学工具进行直接对比。
 
 ## 正文
+
 视频：
 
 [https://youtu.be/cJ6Wpyre5FQ](https://youtu.be/cJ6Wpyre5FQ)

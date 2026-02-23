@@ -1,16 +1,18 @@
-# MinerU：文档解析与结构化提取工具
+---
+title: "MinerU：文档解析与结构化提取工具"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `opendatalab/MinerU`
-- 项目主页：https://github.com/opendatalab/MinerU
-- 官方网站：https://opendatalab.github.io/MinerU/
-- 开源协议：GNU Affero General Public License v3.0
-- 主要语言：Python
-- 统计快照：Stars 54687，Forks 4533，Watchers 217（抓取时间：2026-02-22）
-- 版本快照：最新发布 mineru-2.7.6-released（发布时间：2026-02-06T03:39:53Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `opendatalab/MinerU`"
+项目主页: "https://github.com/opendatalab/MinerU"
+官方网站: "https://opendatalab.github.io/MinerU/"
+开源协议: "GNU Affero General Public License v3.0"
+主要语言: "Python"
+统计快照: "Stars 54687，Forks 4533，Watchers 217（抓取时间：2026-02-22）"
+版本快照: "最新发布 mineru-2.7.6-released（发布时间：2026-02-06T03:39:53Z）"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 MinerU 是一个基于 Python 的开源文档分析工具，能够将复杂的 PDF 文档（包含公式、表格等）高精度地转换为适用于大语言模型（LLM）和智能体工作流的 Markdown 或 JSON 格式。
 
@@ -28,39 +30,46 @@ MinerU 是一个基于 Python 的开源文档分析工具，能够将复杂的 P
 * **产品成熟度差距**：官方明确指出，与知名商业产品相比 MinerU 仍然年轻，解析结果可能存在不符合预期的情况（官方文档中列有“已知问题”清单）。
 * **依赖项安全风险（已修复）**：历史版本中存在第三方依赖项安全漏洞，官方在 2.7.1 版本中通过更新 `pdfminer.six` 依赖版本修复了 CVE-2025-64512 漏洞。
 
-
 ## 功能与定位
+
 Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
 
 ## 典型使用场景
+
 - 用于模型训练、微调、推理或文档解析等基础能力建设。
 - 作为上层 AI 应用的数据与模型基础设施。
 
 ## 核心功能
+
 - 提供模型/推理相关核心能力。
 - 支持与主流 AI 工具链协同。
 - 兼顾实验验证与工程落地场景。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:10:43Z。
 - 项目创建于 2024-02-29T08:52:34Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/opendatalab/MinerU
 - 官网：https://opendatalab.github.io/MinerU/
 - README：https://raw.githubusercontent.com/opendatalab/MinerU/main/README.md
 - Releases：https://github.com/opendatalab/MinerU/releases
 
 ## 关联主题
+
 - [[00-元语/ocr]]
 - [[00-元语/multimodal]]
 - [[00-元语/llm]]

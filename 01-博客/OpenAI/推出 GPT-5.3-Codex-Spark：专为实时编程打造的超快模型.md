@@ -1,9 +1,11 @@
-# 推出 GPT-5.3-Codex-Spark：专为实时编程打造的超快模型
+---
+title: "推出 GPT-5.3-Codex-Spark：专为实时编程打造的超快模型"
 
-## 文档信息
-- 来源：https://openai.com/index/introducing-gpt-5-3-codex-spark
+来源: "https://openai.com/index/introducing-gpt-5-3-codex-spark"
+---
 
 ## 摘要
+
 ### 一句话总结
 OpenAI 推出了专为实时编程打造的轻量化模型 GPT-5.3-Codex-Spark，该模型基于 Cerebras 硬件运行，生成速度超过 1000 Token/秒，现已向 ChatGPT Pro 用户开放研究预览。
 
@@ -22,6 +24,7 @@ OpenAI 推出了专为实时编程打造的轻量化模型 GPT-5.3-Codex-Spark�
 *   **输入模态局限**：发布初期，该模型仅支持文本输入，尚未支持多模态输入。
 
 ## 正文
+
 今天，我们正式发布 **GPT-5.3-Codex-Spark** 的研究预览版。作为 GPT-5.3-Codex 的轻量化版本，这是我们首款专为实时编程设计的模型。
 
 Codex-Spark 标志着我们在今年 1 月宣布与 Cerebras 达成合作后的首个重要里程碑。该模型针对超低延迟硬件进行了优化，在处理实际编程任务时不仅保持了强大的能力，还能提供每秒超过 1000 个 Token 的生成速度，带来近乎瞬时的交互体验。

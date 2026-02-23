@@ -1,11 +1,11 @@
-# Nano-Banana Pro看这一篇就够了，Google刚发布官方最强教程！
+---
+title: "Nano-Banana Pro看这一篇就够了，Google刚发布官方最强教程！"
 
-## 文档信息
-
-- 站点：微信公众平台
-- 原文链接：https://mp.weixin.qq.com/s/pua-Btuy1XDAQ50B3zHY5Q
-- 发布日期：2025-11-29
-- 作者：Datawhale
+站点: "微信公众平台"
+原文链接: "https://mp.weixin.qq.com/s/pua-Btuy1XDAQ50B3zHY5Q"
+发布日期: "2025-11-29"
+作者: "Datawhale"
+---
 
 ## 摘要
 

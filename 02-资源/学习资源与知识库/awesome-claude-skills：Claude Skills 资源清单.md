@@ -1,15 +1,17 @@
-# awesome-claude-skills：Claude Skills 资源清单
+---
+title: "awesome-claude-skills：Claude Skills 资源清单"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `ComposioHQ/awesome-claude-skills`
-- 项目主页：https://github.com/ComposioHQ/awesome-claude-skills
-- 开源协议：未声明
-- 主要语言：Python
-- 统计快照：Stars 36606，Forks 3570，Watchers 265（抓取时间：2026-02-22）
-- 版本快照：暂无正式发布记录
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `ComposioHQ/awesome-claude-skills`"
+项目主页: "https://github.com/ComposioHQ/awesome-claude-skills"
+开源协议: "未声明"
+主要语言: "Python"
+统计快照: "Stars 36606，Forks 3570，Watchers 265（抓取时间：2026-02-22）"
+版本快照: "暂无正式发布记录"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 `ComposioHQ/awesome-claude-skills` 是一个精选的 Claude 技能（Skills）、资源和工具集合，旨在通过自定义工作流全面提升 Claude.ai、Claude Code 和 Claude API 的生产力与自动化能力。
 
@@ -24,36 +26,44 @@
 * **安全与系统管理**：包含计算机数字取证、安全文件删除、元数据提取及使用 Sigma 规则进行安全威胁狩猎等系统级技能。
 
 ## 功能与定位
+
 A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
 ## 典型使用场景
+
 - 作为学习与选型参考入口，快速定位资料与最佳实践。
 - 用于团队知识库沉淀与技术调研。
 
 ## 核心功能
+
 - 汇总课程、示例、清单或社区经验。
 - 强调可检索性与持续更新。
 - 适合学习路径规划与资源导航。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:51:16Z。
 - 项目创建于 2025-10-17T07:15:01Z，具备持续迭代与社区沉淀。
 - 以 `Python` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/ComposioHQ/awesome-claude-skills
 - README：https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/README.md
 - Releases：https://github.com/ComposioHQ/awesome-claude-skills/releases
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Claude]]
 - [[00-元语/skills]]

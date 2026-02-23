@@ -1,9 +1,11 @@
-# Teleport 发布全新智能体身份框架：重塑企业 AI 基础设施安全
+---
+title: "Teleport 发布全新智能体身份框架：重塑企业 AI 基础设施安全"
 
-## 文档信息
-- 来源：https://www.infoq.cn/article/NCScMoBflBRBsFh5tQmJ?utm_source=rss&utm_medium=article
+来源: "https://www.infoq.cn/article/NCScMoBflBRBsFh5tQmJ?utm_source=rss&utm_medium=article"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Teleport 发布了全新的智能体身份框架，通过将 AI 智能体作为可信身份进行统一管理并采用临时身份机制，帮助企业在基础设施中安全地部署自主与半自主 AI 系统。
 
@@ -25,6 +27,7 @@ Teleport 发布了全新的智能体身份框架，通过将 AI 智能体作为�
 * **缺乏统一基础的后果**：若缺乏统一的身份基础，智能体系统会在数据、基础设施与合规层面带来不可控的风险。
 
 ## 正文
+
 Terraform 母公司 Teleport 近期发布了以 AI 为核心的安全模型——**Teleport 智能体身份框架**。该框架旨在帮助企业在云环境和本地环境中，安全地部署自主和半自主 AI 智能体。
 
 随着智能体 AI 的快速落地，数据泄露、合规失效与对抗性攻击等风险日益凸显。Teleport 框架为企业提供了一套清晰的实施路径，将 AI 智能体作为可信身份进行管理，填补了当前企业基础设施中的安全空白。
@@ -67,6 +70,7 @@ Teleport 联合创始人兼首席执行官 Ev Kontsevoy 强调：“统一的身
 如果说可观测性工具告诉你发生了什么，密钥平台帮你管理凭证，那么 Teleport 框架的目标则是**从源头防范不安全访问**。通过采用加密验证的短期访问机制，对智能体的身份、可访问资源及访问时长进行强制管控，Teleport 真正让身份成为了智能体 AI 的核心控制平面。
 
 ## 关联主题
+
 - [[00-元语/Agent]]
 - [[00-元语/security]]
 - [[00-元语/mcp]]

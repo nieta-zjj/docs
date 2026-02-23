@@ -1,13 +1,15 @@
-# Claude Skills Cookbook 使用指南
+---
+title: "Claude Skills Cookbook 使用指南"
 
-## 文档信息
-发布日期：2026-02-17
-作者：Anthropic
-来源仓库：anthropics/claude-cookbooks
-原文链接：https://github.com/anthropics/claude-cookbooks/blob/main/skills/README.md
-译注：原文为英文仓库文档，本稿为中文整理版。
+发布日期: "2026-02-17"
+作者: "Anthropic"
+来源仓库: "anthropics/claude-cookbooks"
+原文链接: "https://github.com/anthropics/claude-cookbooks/blob/main/skills/README.md"
+译注: "原文为英文仓库文档，本稿为中文整理版。"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 本指南全面介绍了如何利用 Claude 的 Skills 功能进行文档生成、数据分析和业务自动化，涵盖了从内置技能应用到自定义技能开发的完整工作流。
 
@@ -27,6 +29,7 @@
 *   **配置强依赖**：若未正确设置环境变量（API 密钥）或缺失指定的 Beta 请求头，将直接导致功能调用失败。
 
 ## 正文
+
 # Claude Skills Cookbook 🚀
 
 一份关于使用 Claude 的 Skills（技能）功能进行文档生成、数据分析和业务自动化的综合指南。本 Cookbook 演示了如何利用 Claude 内置的 Excel、PowerPoint 和 PDF 创建技能，以及如何为特定工作流构建自定义技能。
@@ -388,6 +391,7 @@ Error: Request exceeds token limit
 - [[01-博客/Anthropic/Claude Skills Notebook 实战进阶|Claude Skills Notebook 实战进阶]]；关联理由：上下游；说明：本篇给出 Skills 总览与入门路径，该文承接到 Notebook 实操进阶。
 
 ## 关联主题
+
 - [[00-元语/Claude]]
 - [[00-元语/skills]]
 - [[00-元语/context-optimization]]

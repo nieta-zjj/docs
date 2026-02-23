@@ -1,9 +1,11 @@
-# 免费使用 Unsloth 和 Hugging Face Jobs 训练 AI 模型
+---
+title: "免费使用 Unsloth 和 Hugging Face Jobs 训练 AI 模型"
 
-## 文档信息
-- 来源：https://huggingface.co/blog/unsloth-jobs
+来源: "https://huggingface.co/blog/unsloth-jobs"
+---
 
 ## 摘要
+
 1) 一句话总结
 本文介绍了如何利用 Unsloth 和 Hugging Face Jobs，结合 AI 编程助手（如 Claude Code 和 Codex）快速且低成本地微调小型大语言模型。
 
@@ -18,6 +20,7 @@
 * **明确的成本预估**：根据模型参数量提供 GPU 推荐及预估成本（例如：1-3B 模型推荐 `t4-medium`，约 $0.60/小时；3-7B 模型推荐 `a10g-small`，约 $1.00/小时）。
 
 ## 正文
+
 本文将介绍如何使用 [Unsloth](https://github.com/unslothai/unsloth) 和 Hugging Face Jobs，通过 Claude Code 和 Codex 等 AI 编程助手，快速微调大语言模型（特别是 [`LiquidAI/LFM2.5-1.2B-Instruct`](https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct)）。与标准方法相比，Unsloth 能将训练速度提升约 2 倍，并减少约 60% 的显存占用，因此训练小型模型的成本只需几美元。
 
 **为什么选择小型模型？**
@@ -200,6 +203,7 @@ trainer.push_to_hub()
 * [Unsloth Jobs 示例脚本](https://huggingface.co/datasets/unsloth/jobs)
 
 ## 关联主题
+
 - [[00-元语/llm]]
 - [[00-元语/lora]]
 - [[00-元语/cli]]

@@ -1,13 +1,13 @@
-# OpenSpec：AI 编程助手的轻量级规范层
+---
+title: "OpenSpec：AI 编程助手的轻量级规范层"
 
-## 文档信息
-
-- 来源：
-  - https://github.com/Fission-AI/OpenSpec
-  - https://www.npmjs.com/package/@fission-ai/openspec
-  - https://github.com/Fission-AI/OpenSpec/tree/main/docs
-- 开源协议：MIT License
-- 运行环境：Node.js 20.19.0 及以上
+来源:
+  - "https://github.com/Fission-AI/OpenSpec"
+  - "https://www.npmjs.com/package/@fission-ai/openspec"
+  - "https://github.com/Fission-AI/OpenSpec/tree/main/docs"
+开源协议: "MIT License"
+运行环境: "Node.js 20.19.0 及以上"
+---
 
 ## 摘要
 

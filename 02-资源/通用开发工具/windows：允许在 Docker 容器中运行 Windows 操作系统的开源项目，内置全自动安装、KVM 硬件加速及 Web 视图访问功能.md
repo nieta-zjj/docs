@@ -1,15 +1,17 @@
-# windows：允许在 Docker 容器中运行 Windows 操作系统的开源项目，内置全自动安装、KVM 硬件加速及 Web 视图访问功能
+---
+title: "windows：允许在 Docker 容器中运行 Windows 操作系统的开源项目，内置全自动安装、KVM 硬件加速及 Web 视图访问功能"
 
-## 文档信息
-- 发布日期：2026-02-22
-- 对象：GitHub 项目 `dockur/windows`
-- 项目主页：https://github.com/dockur/windows
-- 开源协议：MIT License
-- 主要语言：Shell
-- 统计快照：Stars 50053，Forks 4046，Watchers 235（抓取时间：2026-02-22）
-- 版本快照：最新发布 v5.14（发布时间：2025-11-22T04:09:01Z）
+发布日期: "2026-02-22"
+对象: "GitHub 项目 `dockur/windows`"
+项目主页: "https://github.com/dockur/windows"
+开源协议: "MIT License"
+主要语言: "Shell"
+统计快照: "Stars 50053，Forks 4046，Watchers 235（抓取时间：2026-02-22）"
+版本快照: "最新发布 v5.14（发布时间：2025-11-22T04:09:01Z）"
+---
 
 ## 摘要
+
 ### 1) 一句话总结
 dockur/windows 是一个允许在 Docker 容器中运行 Windows 操作系统的开源项目，内置全自动安装、KVM 硬件加速及 Web 视图访问功能。
 
@@ -31,36 +33,44 @@ dockur/windows 是一个允许在 Docker 容器中运行 Windows 操作系统的
 *   **云环境兼容性**：依赖 KVM 加速，大多数云服务提供商（VPS）不支持嵌套虚拟化，可能导致无法正常运行。
 
 ## 功能与定位
+
 Windows inside a Docker container.
 
 ## 典型使用场景
+
 - 作为通用开发工具用于工程协作与效率提升。
 - 适用于个人与团队的日常研发流程。
 
 ## 核心功能
+
 - 提供稳定的通用工程能力。
 - 支持跨平台或多环境使用。
 - 依赖开源社区持续迭代。
 
 ## 特色与差异点
+
 - 仓库长期活跃，最近更新时间为 2026-02-22T12:00:17Z。
 - 项目创建于 2024-01-14T13:09:40Z，具备持续迭代与社区沉淀。
 - 以 `Shell` 为主语言，聚焦该技术栈的工程实践。
 
 ## 使用方式概览
+
 1. 阅读仓库 README 与官方文档，确认适配场景与依赖条件。
 2. 按项目推荐方式完成安装与初始化，再从示例或最小流程开始验证。
 3. 在生产使用前补齐权限控制、日志监控和版本固定策略。
 
 ## 限制与注意事项
+
 - 使用前应先核对许可证、项目维护状态与安全边界。
 
 ## 链接
+
 - 仓库：https://github.com/dockur/windows
 - README：https://raw.githubusercontent.com/dockur/windows/master/README.md
 - Releases：https://github.com/dockur/windows/releases
 
 ## 关联主题
+
 - [[00-元语/windows]]
 - [[00-元语/self-hosting]]
 - [[00-元语/cli]]

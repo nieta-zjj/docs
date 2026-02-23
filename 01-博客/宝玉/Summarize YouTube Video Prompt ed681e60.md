@@ -1,9 +1,10 @@
-# Summarize YouTube Video Prompt
+---
+title: "Summarize YouTube Video Prompt"
 
-## 文档信息
-- 来源：https://baoyu.io/blog/summarize-youtube-video-prompt
-- 发布日期：2025-09-16
-- 作者：宝玉
+来源: "https://baoyu.io/blog/summarize-youtube-video-prompt"
+发布日期: "2025-09-16"
+作者: "宝玉"
+---
 
 ## 摘要
 
@@ -26,6 +27,7 @@
 * **内容模糊性处理**：如果原视频内容存在歧义，提示词要求在生成的文本中保留这种模糊性，并标注出不确定性。
 
 ## 正文
+
 Only work for Gemini, build a Gemini Gem with the prompt, or send the Prompt + your YouTube URL to gemini.
 
 ![Image 1](https://baoyu.io/uploads/2025-09-16/1758052929735.png)

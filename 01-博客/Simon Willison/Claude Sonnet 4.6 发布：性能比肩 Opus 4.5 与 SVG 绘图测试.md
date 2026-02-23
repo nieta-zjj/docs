@@ -1,10 +1,12 @@
-# Claude Sonnet 4.6 发布：性能比肩 Opus 4.5 与 SVG 绘图测试
+---
+title: "Claude Sonnet 4.6 发布：性能比肩 Opus 4.5 与 SVG 绘图测试"
 
-## 文档信息
-- 来源：https://simonwillison.net/2026/Feb/17/claude-sonnet-46/#atom-everything
-- 发布日期：2026-02-17
+来源: "https://simonwillison.net/2026/Feb/17/claude-sonnet-46/#atom-everything"
+发布日期: "2026-02-17"
+---
 
 ## 摘要
+
 **1) 一句话总结**
 Anthropic 正式发布了 Claude Sonnet 4.6 模型，其提供了比肩 Opus 4.5 的性能且维持原有定价，同时相关调用插件已完成适配更新，并在 SVG 绘图测试中展现了独特的创意特征。
 
@@ -18,6 +20,7 @@ Anthropic 正式发布了 Claude Sonnet 4.6 模型，其提供了比肩 Opus 4.5
 *   **SVG 绘图测试**：在绘制鹈鹕的测试中，Sonnet 4.6 两次均画出了戴大礼帽的鹈鹕，展现出创意点缀；而 Opus 4.6 在生成鸟喙和喉囊等细节方面表现最佳。
 
 ## 正文
+
 Anthropic 于今日正式发布了 Claude Sonnet 4.6。官方声称，该模型提供了与去年 11 月发布的 Opus 4.5 相近的性能，同时维持了原有的 Sonnet 定价标准。
 
 ### 模型参数与定价
@@ -45,6 +48,7 @@ Anthropic 于今日正式发布了 Claude Sonnet 4.6。官方声称，该模型�
 总的来说，虽然 Opus 4.6 在绘制鸟喙和喉囊等细节上表现最佳，但我确实认为 Sonnet 4.6 画的那顶大礼帽是一个非常巧妙的点缀。
 
 ## 关联主题
+
 - [[00-元语/AI]]
 - [[00-元语/Claude]]
 - [[00-元语/llm]]
