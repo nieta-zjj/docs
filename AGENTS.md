@@ -326,6 +326,9 @@
   - 每篇候选必须写入 `.tmp/github-repo-*.review.md`，并包含：`评分`、`等级`、`处理建议`、`来源路径/链接`
   - 等级沿用五档：`高价值`（85-100）/`有价值`（70-84）/`普通价值`（50-69）/`低价值`（30-49）/`垃圾`（0-29）
   - 单仓单次归档建议上限 3 篇，避免“低价值批量入库”
+  - 若输入是批量 `owner/repo,score` 并行记录任务，除 `.tmp/github-repo-*.review.md` 外，必须同步落盘总表到 `02-资源/学习资源与知识库/GitHub 并行仓库清单：归档候选知识库.md`
+  - 总表必须覆盖“当前批次 + 尚未入总表的历史并行批次”，避免只留在 `.tmp/`
+  - 当用户显式要求“全部归档”时，相关批次的 `处理建议` 只允许 `归档`，禁止输出 `观察`、`丢弃`
 - 归档流程（强制）：
   - 先把源文档复制到 `.tmp/`，再调用 Gemini（禁止直接读取最终目录作为输入）
   - `translate`（若无官方中文）→ `review` → `summarize`，Gemini 输出只写 `.tmp/`
@@ -337,8 +340,12 @@
     - `rg -n "^- 评分：([0-9]|[1-9][0-9]|100)$" .tmp/github-repo-*.review.md`
     - `rg -n "^- 等级：(高价值|有价值|普通价值|低价值|垃圾)$" .tmp/github-repo-*.review.md`
     - `rg -n "^- 处理建议：(归档|观察|丢弃)$" .tmp/github-repo-*.review.md`
+  - 并行总表落盘检查：
+    - `test -f '02-资源/学习资源与知识库/GitHub 并行仓库清单：归档候选知识库.md'`
+    - `rg -n "^[0-9]+\\. .+\\| 原始热度：[0-9]+ \\| 评分：[0-9]+ \\| 等级：(高价值|有价值|普通价值|低价值|垃圾) \\| 处理建议：归档 \\| 链接：https://github\\.com/.+$" '02-资源/学习资源与知识库/GitHub 并行仓库清单：归档候选知识库.md'`
+    - `rg -n "处理建议：观察|处理建议：丢弃" '02-资源/学习资源与知识库/GitHub 并行仓库清单：归档候选知识库.md'`
   - 规则落地一致性：
-    - `rg -n "GitHub 仓库文档入博客（价值筛选与归档）|单仓单次归档建议上限 3 篇|skills/github-repo-blog-archive\\.md|默认排除（除非有明显跨项目复用价值）" AGENTS.md skills/github-repo-blog-archive.md`
+    - `rg -n "GitHub 仓库文档入博客（价值筛选与归档）|单仓单次归档建议上限 3 篇|owner/repo,score|全部归档|GitHub 并行仓库清单：归档候选知识库|skills/github-repo-blog-archive\\.md|skills/site-project-profile\\.md|默认排除（除非有明显跨项目复用价值）" AGENTS.md skills/github-repo-blog-archive.md skills/site-project-profile.md`
   - 脚本/Notebook 链接检查：
     - `rg -nP "\\[[^\\]]+\\]\\((?:https?://[^)\\s]+/[^)\\s]+\\.(?:ipynb|py|sh|js|ts|ps1)(?:[?#/][^)]*)?|(?:(?!https?://)[^)]*/[^)/?#]+\\.(?:ipynb|py|sh|js|ts|ps1)(?:[?#/][^)]*)?)|[^)]*/scripts/[^)]*)\\)" 00-元语 01-博客 02-资源 03-图书 skills`
 
